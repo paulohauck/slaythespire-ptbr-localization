@@ -1,0 +1,776 @@
+{
+  "Absorb": {
+    "NAME": "吸収",
+    "DESCRIPTIONS": [
+      "攻撃されると、チャージ #b",
+      " 獲得。"
+    ]
+  },
+  "Accuracy": {
+    "NAME": "精度",
+    "DESCRIPTIONS": [
+      "#y暗器が #b",
+      " 追加ダメージ。"
+    ]
+  },
+  "After Image": {
+    "NAME": "残像",
+    "DESCRIPTIONS": [
+      "カードを 1 枚使用するたびに、#yブロック #b",
+      " 獲得。"
+    ]
+  },
+  "Anger": {
+    "NAME": "激怒",
+    "DESCRIPTIONS": [
+      "#y「スキル」を 1 枚使用するたびに、#y増強 #b",
+      " 獲得。"
+    ]
+  },
+  "Angry": {
+    "NAME": "怒り",
+    "DESCRIPTIONS": [
+      "#yアタック ",
+      " でダメージを受けるたびに、#y増強 #b",
+      " 獲得。"
+    ]
+  },
+  "Artifact": {
+    "NAME": "アーティファクト",
+    "DESCRIPTIONS": [
+      "デバフ #b",
+      " を無効化。",
+      " を無効化。"
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "「アタック」が炎の追加ダメージ",
+    "DESCRIPTIONS": [
+      "#b",
+      " ターン有効。使用した「#yアタック」カードは、#y疲労 になる。",
+      "次の #b",
+      " ターン有効。使用した「#yアタック」カードは、#y疲労 になる。"
+    ]
+  },
+  "Barricade": {
+    "NAME": "バリケード",
+    "DESCRIPTIONS": [
+      "ターン開始時に #yブロック を失わない。",
+      "ターン開始時に #yブロック を失わない。"
+    ]
+  },
+  "Blur": {
+    "NAME": "霞",
+    "DESCRIPTIONS": [
+      "次ターン開始時に #yブロック を失わない。",
+      "ターン開始時に #yブロック を失わない。#b",
+      " ターン有効。"
+    ]
+  },
+  "Brutality": {
+    "NAME": "残虐",
+    "DESCRIPTIONS": [
+      "ターン開始時、HP #b",
+      " を失うが、カードを #b ",
+      " 枚引く。",
+      "ターン開始時、HP #b",
+      " を失うが、カードを #b",
+      " 枚を引く。"
+    ]
+  },
+  "Burst": {
+    "NAME": "爆裂",
+    "DESCRIPTIONS": [
+      "このターンでは最初に使用する #y「スキル」カードの効果が 2 回発動する。",
+      "このターンでは最初に使用する ",
+      " #y「スキル」カードの効果が 2 回発動する。"
+    ]
+  },
+  "Choked": {
+    "NAME": "窒息",
+    "DESCRIPTIONS": [
+      "HP #b",
+      " を失う（このターンでカード使用するたび）。"
+    ]
+  },
+  "Combust": {
+    "NAME": "燃焼",
+    "DESCRIPTIONS": [
+      "ターン終了時に、HP #b",
+      " を失うが、敵にダメージ #b",
+      " を与える（敵全体）。"
+    ]
+  },
+  "Confusion": {
+    "NAME": "混乱",
+    "DESCRIPTIONS": [
+      "カードを引くたびにエナジー消費量がランダムに変化する。"
+    ]
+  },
+  "Constricted": {
+    "NAME": "収束",
+    "DESCRIPTIONS": [
+      "ターン終了時に、ダメージ #b",
+      " を受ける。"
+    ]
+  },
+  "Corruption": {
+    "NAME": "堕落",
+    "DESCRIPTIONS": [
+      "「スキル」のエナジー #b0 消費。使用した「#yスキル」 カードは #y疲労 になる。",
+      "使用した「#yスキル」 カードは #y疲労 になる。"
+    ]
+  },
+  "Curiosity": {
+    "NAME": "好奇心",
+    "DESCRIPTIONS": [
+      "#y「パワー」カードを使用するたびに、#y増強 #b",
+      " 獲得。"
+    ]
+  },
+  "Curl Up": {
+    "NAME": "丸まり",
+    "DESCRIPTIONS": [
+      "#y攻撃 のダメージを食らう時に丸まる、#yブロック ",
+      " 獲得。"
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "ダンスパペット",
+    "DESCRIPTIONS": [
+      "「スキル」カード以外を使用するたびに、ダメージ #b",
+      " を受ける。（カードタイプはターンごとに変わる）",
+      "「アタック」カード以外を使用するたびに、ダンスパペット #b",
+      "+1 を受ける。"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "闇の抱擁",
+    "DESCRIPTIONS": [
+      "カードが #y疲労 するたびに、 カードを #b1 枚引く。",
+      "カードが #y疲労 するたびに、 カードを #b",
+      " 枚引く。"
+    ]
+  },
+  "Darkness": {
+    "NAME": "暗闇",
+    "DESCRIPTIONS": [
+      "ターン開始時に得るエナジーが #b1 減少。"
+    ]
+  },
+  "Demon Form": {
+    "NAME": "デーモン形態",
+    "DESCRIPTIONS": [
+      "ターン開始時、#y増強 #b",
+      " 獲得。"
+    ]
+  },
+  "Dexterity": {
+    "NAME": "機敏性",
+    "DESCRIPTIONS": [
+      "カードから得られる #yブロック が #b 増加。",
+      "カードから得られる #yブロック が #b 減少。"
+    ]
+  },
+  "Double Damage": {
+    "NAME": "倍ダメージ",
+    "DESCRIPTIONS": [
+      "#y攻撃 のダメージが倍になる。#b",
+      " ターン有効。",
+      " ターン有効。"
+    ]
+  },
+  "Double Tap": {
+    "NAME": "ダブルタップ",
+    "DESCRIPTIONS": [
+      "このターンでは使用する #y「アタック」 カードの効果が 2 回発動する。",
+      "このターンでは使用する ",
+      " #y「アタック」 カードの効果が 2 回発動する。"
+    ]
+  },
+  "Draw Card": {
+    "NAME": "カードを引く",
+    "DESCRIPTIONS": [
+      "次のターンで #b",
+      " 枚のカードを引く。",
+      " 枚のカードを引く。"
+    ]
+  },
+  "Draw": {
+    "NAME": "ドロー",
+    "DESCRIPTIONS": [
+      "ターン開始時に #b",
+      " 枚のカードを追加で引く。",
+      " 枚分、引けるカードの枚数が減る。",
+      " 枚のカードを追加で引く。",
+      " 枚分、引けるカードの枚数が減る。"
+    ]
+  },
+  "Draw Down": {
+    "NAME": "ドローダウン",
+    "DESCRIPTIONS": [
+      "次のターンに #b",
+      " 枚分、引けるカード数が減る。",
+      " 枚分、引けるカード数が減る。"
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "ドロー制限",
+    "DESCRIPTIONS": [
+      "次のターンに #b1 枚分引けるカードが減る。",
+      "ターンで #b1 枚分引けるカードが減る。#b",
+      " ターン有効。"
+    ]
+  },
+  "Electric Field": {
+    "NAME": "エレクトリックフィールド",
+    "DESCRIPTIONS": [
+      "攻撃を食らうと、#b",
+      " チャージごとに #b1 のダメージを与える。",
+      "攻撃を食らうと、チャージｘ #b1 のダメージを与える。"
+    ]
+  },
+  "Energized": {
+    "NAME": "活性化",
+    "DESCRIPTIONS": [
+      "次のターンで、追加 #b",
+      "  [G]  獲得。",
+      " additional [G] next turn.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "Entangled": {
+    "NAME": "がんじがらめ",
+    "DESCRIPTIONS": [
+      "1ターンの間 #y「アタック」 カードが使用できない。"
+    ]
+  },
+  "Envenom": {
+    "NAME": "毒手",
+    "DESCRIPTIONS": [
+      "敵に #yアタック でダメージを与えると、#b",
+      " の #y毒 を与える。"
+    ]
+  },
+  "Evolve": {
+    "NAME": "進化",
+    "DESCRIPTIONS": [
+      "#y傷 のカードを引くたびにカードを 1 枚引く。",
+      "#y傷 のカードを引くたびにカードを #b",
+      " 枚引く。"
+    ]
+  },
+  "Explosive": {
+    "NAME": "爆弾",
+    "DESCRIPTIONS": [
+      "倒すと、#b",
+      " のダメージを食らう。"
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "不痛",
+    "DESCRIPTIONS": [
+      "カードが #y疲労 するたびに、#yブロック #b",
+      " 獲得。"
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "炎の息",
+    "DESCRIPTIONS": [
+      "ターン終了時に、そのターンで使用した#y「アタック」 カードの枚数 ｘ ダメージ #b",
+      " を与える（敵全体）。"
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "炎の壁",
+    "DESCRIPTIONS": [
+      "#yアタック でダメージをくらうと、敵に #b",
+      " 反撃ダメージ。"
+    ]
+  },
+  "Flight": {
+    "NAME": "高揚",
+    "DESCRIPTIONS": [
+      "#yアタック による被ダメージが #b50% 減少。#yアタック によるダメージを 1 ターンに #b3 回くらうと解除される。"
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "攻撃無効",
+    "DESCRIPTIONS": [
+      "各ターンで #yアタック を一度だけ完全に #yブロック する。"
+    ]
+  },
+  "Frail": {
+    "NAME": "虚弱",
+    "DESCRIPTIONS": [
+      "カードから得られる #yブロック が #b25% 減少。#b",
+      " ターン有効。",
+      " ターン有効。"
+    ]
+  },
+  "Shackled": {
+    "NAME": "足枷",
+    "DESCRIPTIONS": [
+      "#y増強 #b",
+      " が回復 （ターン終了時）"
+    ]
+  },
+  "Gambit": {
+    "NAME": "ギャンビット",
+    "DESCRIPTIONS": [
+      "#b",
+      " ターン後に次を取得 ",
+      " ターン後に次を取得 ",
+      " [B]。"
+    ]
+  },
+  "Generator": {
+    "NAME": "発生",
+    "DESCRIPTIONS": [
+      "ターン開始時、#yチャージ #b",
+      " 獲得。"
+    ]
+  },
+  "Hex": {
+    "NAME": "ジンクス",
+    "DESCRIPTIONS": [
+      "「アタック」カード以外を使用するたびに、#y眩暈 #b",
+      " 枚が混入。"
+    ]
+  },
+  "Hide": {
+    "NAME": "雲隠れ",
+    "DESCRIPTIONS": [
+      "次のターン開始時までダメージでHPが減らない。",
+      "ダメージでHPが減らない。#b",
+      " ターン有効。"
+    ]
+  },
+  "Impulse": {
+    "NAME": "インパルス",
+    "DESCRIPTIONS": [
+      "ターン終了時に、チャージ #b",
+      " を失う。"
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "無限の刃",
+    "DESCRIPTIONS": [
+      "ターン開始時、#y暗器 #b",
+      " 枚を引く。",
+      " 枚を引く。"
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "乱れ撃ち",
+    "DESCRIPTIONS": [
+      "グリーンのカードのエナジー消費が #b0 になる。"
+    ]
+  },
+  "Intangible": {
+    "NAME": "無形",
+    "DESCRIPTIONS": [
+      "攻撃による全てのダメージが #b1 になる。",
+      " turn.",
+      " turns."
+    ]
+  },
+  "Inverted": {
+    "NAME": "逆転",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "ジャガーノート",
+    "DESCRIPTIONS": [
+      "#yブロック を得るたびに、敵に #b",
+      " ダメージ与える。"
+    ]
+  },
+  "Knowledge": {
+    "NAME": "知識",
+    "DESCRIPTIONS": [
+      "#y「パワー」 カードを使用するたびに、カードを #b",
+      " 枚引く。"
+    ]
+  },
+  "Flex": {
+    "NAME": "フレックス",
+    "DESCRIPTIONS": [
+      "ターン終了時に、#y増強 #b",
+      " を失う。"
+    ]
+  },
+  "Malleable": {
+    "NAME": "鍛錬",
+    "DESCRIPTIONS": [
+      "#yアタック でダメージをくらうたびに、#yブロック #b",
+      " 獲得。#yブロック は効果が発動するたびに ",
+      " 増加する。リセットされて #b",
+      " にもどる（ターン開始時）"
+    ]
+  },
+  "Metallicize": {
+    "NAME": "鋼の肉体",
+    "DESCRIPTIONS": [
+      "#yブロック #b",
+      " 獲得（プレーヤーのターン終了時）。",
+      "#yブロック #b",
+      " 獲得（プレーヤーのターン終了時）。"
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "モードシフト",
+    "DESCRIPTIONS": [
+      "ダメージを #b",
+      " 受けると、防御態勢に入る。"
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "次ターンブロック",
+    "DESCRIPTIONS": [
+      "次ターン開始時、#yブロック #b",
+      " 獲得。"
+    ]
+  },
+  "No Draw": {
+    "NAME": "ノードロー",
+    "DESCRIPTIONS": [
+      "ターン終了時までカードが引けない。"
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "毒霧",
+    "DESCRIPTIONS": [
+      "ターン開始時、敵に #b",
+      " #y毒を与える（敵全体）。"
+    ]
+  },
+  "Panache": {
+    "NAME": "貫禄",
+    "DESCRIPTIONS": [
+      "このターンにてカードを #b ",
+      " 枚以上使用すると、敵にダメージ #b",
+      " を与える（敵全体）。",
+      " 枚以上使用すると、敵に #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "ペン先",
+    "DESCRIPTIONS": [
+      "次の #yアタック によるダメージが 2 倍になる。"
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "幻影",
+    "DESCRIPTIONS": [
+      "次のターンで敵に #y2 #y倍ダメージ。",
+      "敵に #y2 #y倍ダメージ （次 ",
+      " ターン以降）。"
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "プレートアーマー",
+    "DESCRIPTIONS": [
+      "#yブロック #b",
+      " 獲得 （プレイヤーのターン終了時）。攻撃によってHPを失うと #yプレート#yアーマー が #b1 減少。",
+      "#yブロック #b",
+      " を得る （ターン終了時）攻撃によってHPを失うと #yプレート#yアーマー が #b1 減少。"
+    ]
+  },
+  "Poison": {
+    "NAME": "毒",
+    "DESCRIPTIONS": [
+      "ターン開始時、HP #b",
+      " を失い、#y毒 が #b1 減少。",
+      "ターン開始時、HP #b"
+    ]
+  },
+  "Rage": {
+    "NAME": "怒り",
+    "DESCRIPTIONS": [
+      "このターンに「アタック」を使用すると、#yブロック #b",
+      " 獲得。"
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "ダメージ減少",
+    "DESCRIPTIONS": [
+      "被ダメージ減少 #b"
+    ]
+  },
+  "Regenerate": {
+    "NAME": "再生",
+    "DESCRIPTIONS": [
+      "#yHP #b",
+      " が回復 （ターン終了時）"
+    ]
+  },
+  "Regeneration": {
+    "NAME": "再生",
+    "DESCRIPTIONS": [
+      "#yHP #b",
+      " が回復(ターン終了時。#b",
+      " ターン有効)。"
+    ]
+  },
+  "Life Link": {
+    "NAME": "ライフリンク",
+    "DESCRIPTIONS": [
+      "他の仲間が生存している場合、HPの #b50% が回復。#b2 ターン有効。"
+    ]
+  },
+  "Relentless Beating": {
+    "NAME": "冷酷な打撃",
+    "DESCRIPTIONS": [
+      " "
+    ]
+  },
+  "Repulse": {
+    "NAME": "リパルス",
+    "DESCRIPTIONS": [
+      "攻撃に ",
+      " よるダメージを受けると、#y傷 のカードが手札に入る。"
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "カード維持",
+    "DESCRIPTIONS": [
+      "ターン終了時、#b",
+      " 枚のカードを維持 。",
+      " 枚のカードを維持 。"
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "手札維持",
+    "DESCRIPTIONS": [
+      "ターン終了時に手札を捨てない。#b",
+      " ターン有効。",
+      "ターン終了時に手札を捨てない。"
+    ]
+  },
+  "Riposte": {
+    "NAME": "しっぺ返し",
+    "DESCRIPTIONS": [
+      "#y「アタック」 カードを使用すると 1 ターンに一回、#b",
+      " 反撃ダメージ。"
+    ]
+  },
+  "Ritual": {
+    "NAME": "儀式",
+    "DESCRIPTIONS": [
+      "ターン終了時に、#y増強 #b",
+      " 獲得。"
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "ターン終了時に、#y増強 #b",
+      " 獲得。"
+    ]
+  },
+  "Rupture": {
+    "NAME": "狂喜",
+    "DESCRIPTIONS": [
+      "カードによってHPを失うと、#y増強 #b",
+      " 獲得。"
+    ]
+  },
+  "Sadistic": {
+    "NAME": "サディスティック",
+    "DESCRIPTIONS": [
+      "敵にデバフを与えると、敵にダメージ #b",
+      " を与える。"
+    ]
+  },
+  "Serpentine": {
+    "NAME": "サーペンタイン",
+    "DESCRIPTIONS": [
+      "#y毒 が効かない。"
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "シャープハイド",
+    "DESCRIPTIONS": [
+      "#y「アタック」 カードを使用するたびに、ダメージ #b",
+      " を受ける。"
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "彼方からの悲鳴",
+    "DESCRIPTIONS": [
+      "「アタック」カードを使用すると、カードを 1 枚捨てる。"
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "スキルバーン",
+    "DESCRIPTIONS": [
+      "#b",
+      " ターンの間、使用した「#yスキル」 カードは #y疲労 になる。",
+      "次の #b",
+      " ターンの間、使用した「#yスキル」 カードは #y疲労 になる。"
+    ]
+  },
+  "Slow": {
+    "NAME": "スロー",
+    "DESCRIPTIONS": [
+      "このターンで使用したカードの使用回数分だけ ",
+      " #y攻撃 に #b10% のダメージが上乗せされる。",
+      " （#b",
+      "%の追加ダメージ)"
+    ]
+  },
+  "Split": {
+    "NAME": "分裂",
+    "DESCRIPTIONS": [
+      "HPが #b50% 以下になると #b2 つの小さなスライムに分裂する ",
+      "（HPは分裂時と同量）"
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "胞子の雲",
+    "DESCRIPTIONS": [
+      "倒されると、プレイヤーに #y無力化 を与える。#b",
+      " ターン有効。"
+    ]
+  },
+  "Stasis": {
+    "NAME": "停滞",
+    "DESCRIPTIONS": [
+      "倒されると、 ",
+      " が手札に戻る。"
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "エクストラカード",
+    "DESCRIPTIONS": [
+      "引くカードが #b1 枚増える（次ターン）",
+      "次のターンでカードを #b",
+      " 枚追加で引く。"
+    ]
+  },
+  "Strength": {
+    "NAME": "増強",
+    "DESCRIPTIONS": [
+      "攻撃ダメージが #b+",
+      "攻撃ダメージが #b-"
+    ]
+  },
+  "Systems": {
+    "NAME": "システム",
+    "DESCRIPTIONS": [
+      "チャージを得るたびに、同量のダメージを敵に与える。"
+    ]
+  },
+  "Thievery": {
+    "NAME": "コソ泥",
+    "DESCRIPTIONS": [
+      " 攻撃の度に #b",
+      " #yゴールド を強奪する。"
+    ]
+  },
+  "Thorns": {
+    "NAME": "棘",
+    "DESCRIPTIONS": [
+      "#yアタック でダメージをくらうと、敵に #b",
+      " 反撃ダメージ。"
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "千切り",
+    "DESCRIPTIONS": [
+      "カードを 1 枚使用するたびに、敵にダメージ #b",
+      " を与える（敵全体）。"
+    ]
+  },
+  "Berserk": {
+    "NAME": "狂暴化",
+    "DESCRIPTIONS": [
+      "HPが #b50% 以下になると、 ",
+      " を得る（ターン開始時）"
+    ]
+  },
+  "Time Warp": {
+    "NAME": "タイムワープ",
+    "DESCRIPTIONS": [
+      "#b",
+      " 枚カードを使用すると、ターンが強制終了しタイムイーターが #y増強 #b",
+      " 獲得。"
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "商売道具",
+    "DESCRIPTIONS": [
+      "ターン開始時、カード #b",
+      " 枚引いて、カード #b",
+      " 枚捨てる。",
+      " 枚引いて、カード #b",
+      " 枚捨てる。"
+    ]
+  },
+  "Unawakened": {
+    "NAME": "眠り",
+    "DESCRIPTIONS": [
+      "この敵はまだ目覚めていない..."
+    ]
+  },
+  "Unstable": {
+    "NAME": "不安定",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Venomology": {
+    "NAME": "毒薬学",
+    "DESCRIPTIONS": [
+      "#y毒 がターンごとに #b ",
+      " 増加する。"
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "無力化",
+    "DESCRIPTIONS": [
+      "#bアタックが #b",
+      "%ダメージ増。#b",
+      " ターン有効。",
+      " ターン有効。"
+    ]
+  },
+  "Weakened": {
+    "NAME": "弱体化した",
+    "DESCRIPTIONS": [
+      "#yアタックが #b",
+      "%ダメージ減。#b",
+      " ターン有効。",
+      " ターン有効。"
+    ]
+  },
+  "Wraith Form": {
+    "NAME": "死霊形態",
+    "DESCRIPTIONS": [
+      "「スキル」カードを使用すると、敵に ",
+      " ダメージ与える。"
+    ]
+  },
+  "Night Terror": {
+    "NAME": "Nightmare",
+    "DESCRIPTIONS": [
+      "At the start of your next turn, add #b",
+      " cards to your hand."
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "Painful Stabs",
+    "DESCRIPTIONS": [
+      "Whenever you take damage from this enemy, add a #yWound into your Discard Pile."
+    ]
+  },
+  "Minion": {
+    "NAME": "Minion",
+    "DESCRIPTIONS": [
+      "Minions abandon combat without their leader."
+    ]
+  }
+}

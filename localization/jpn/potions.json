@@ -1,0 +1,98 @@
+{
+  "Block Potion": {
+    "NAME": "ブロックポーション",
+    "DESCRIPTIONS": [
+      "#yブロック #b",
+      " を得る。"
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "機敏ポーション",
+    "DESCRIPTIONS": [
+      "#y機敏性 #b",
+      " を得る。"
+    ]
+  },
+  "Elixir": {
+    "NAME": "エリクサー",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "手札の #y状態変化 カードすべてを #y疲労 にする。",
+      "",
+      "効果がなかった..."
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "エナジーポーション",
+    "DESCRIPTIONS": [
+      "#yエナジー #b",
+      " を得る。"
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "爆発ポーション",
+    "DESCRIPTIONS": [
+      "ダメージ #b",
+      " を与える（敵全体）。"
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "ファイヤーポーション",
+    "DESCRIPTIONS": [
+      "ダメージ #b",
+      " を与える。"
+    ]
+  },
+  "Health Potion": {
+    "NAME": "回復ポーション",
+    "DESCRIPTIONS": [
+      "HP #b",
+      " を回復。"
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "毒ポーション",
+    "DESCRIPTIONS": [
+      "#y毒 #b",
+      " を与える。"
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "ポーションスロット",
+    "DESCRIPTIONS": [
+      "戦闘中にポーションを使用して #gボーナス 効果を得たり敵の #r邪魔 をする。",
+      "ポーションスロット"
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "定期回復ポーション",
+    "DESCRIPTIONS": [
+      "#yHP #b",
+      " 回復（ターン終了時。#b",
+      " ターン有効）。"
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "増強ポーション",
+    "DESCRIPTIONS": [
+      "#y増強 #b",
+      " を得る。"
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "スイフトポーション",
+    "DESCRIPTIONS": [
+      "",
+      "カード #b",
+      " 枚を引く。"
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "弱体ポーション",
+    "DESCRIPTIONS": [
+      "#y弱体化 #b",
+      " を与える。"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "Ironclad": {
+    "NAMES": [
+      "The Ironclad"
+    ],
+    "TEXT": [
+      "The remaining soldier of the Ironclads. NL Sold his soul to harness demonic energies."
+    ]
+  },
+  "Crowbot": {
+    "NAMES": [
+      "Crowbot"
+    ],
+    "TEXT": [
+      "BEEP BOOP"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "The Silent"
+    ],
+    "TEXT": [
+      "A deadly huntress from the foglands. NL Eradicates foes with daggers and poisons."
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Greetings...~ NL ~I..~ ~am~ ~Neow...~",
+      "~Hello...~ NL ~Again..~",
+      "~Greetings...~",
+      "~Another~ NL ~try...?~",
+      "~Reach~ ~the~ ~boss...~ NL ~to~ ~receive~ ~my..~ ~blessing...~",
+      "~At~ ~least...~ ~confront~ NL ~the~ ~first~ ~boss...~",
+      "~I~ ~brought~ ~you~ ~back...~",
+      "~Choose...~",
+      "~Granted...~",
+      "~Risk...~ NL ~..reward....~"
+    ],
+    "OPTIONS": [
+      "[계속]",
+      "[대화]",
+      "[스킵]",
+      "[떠난다]"
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #g받을 #g카드를 #g1장 #g선택 ]",
+      "[ #g무작위로 #g희귀 #g카드 #g1장 #g획득 ]",
+      "[ #g카드 #g1장을 #g덱에서 #g제거 ]",
+      "[ #g카드 #g1장을 #g강화 ]",
+      "[ #g카드 #g1장을 #g변화 ]",
+      "[ #g무작위로 #g포션 #g3개를 #g획득 ]",
+      "[ #g무작위로 #g일반 #g유물을 #g획득 ]",
+      "[ #g최대 #g체력 #g+",
+      "[ #g골드를 #g",
+      " #g획득 ]",
+      "#g카드 #g2장을 #g제거 ]",
+      "#g무작위로 #g희귀 #g유물을 #g획득 ]",
+      "#g희귀 #g카드를 #g선택 ]",
+      "#gGain #g",
+      " #g획득 ]",
+      "#g카드 #g2장을 #g변화 ]",
+      "#gMax #gHP #g+",
+      "[ #rLose #r",
+      " #rMax #rHP ",
+      "[ #r골드를 #r전부 #r잃고 ",
+      "[ #r저주를 #r하나 #r받고 ",
+      "[ #r현재 #r체력의 #r50%를 #r잃고 ",
+      "카드를 선택하십시오",
+      "제거할 카드를 선택하십시오",
+      "제거할 카드를 2장 선택하십시오",
+      "변화시킬 카드를 선택하십시오",
+      "변화할 카드를 2장 선택하십시오",
+      "강화할 카드를 선택하십시오",
+      "[ #g다음 #g3번의 #g전투 #g동안 #g적들이 #g체력 1인 #g상태로 #g시작 ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #r시작 #r유물을 #r잃고 #g무작위로 #g보스 #g유물을 #g획득 ]"
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "진행",
+      "~Welcome!~"
+    ],
+    "TEXT": [
+      "Hi! NL Buy something! NL Buy buy buy!",
+      "I like your haircut",
+      "Do you have the time?",
+      "Are you a dog person or a cat person?",
+      "You look ~dangerous,~ NL hehe...",
+      "Take your time... NL ..... NL ... or not",
+      "Do you like this rug? NL It's not for sale",
+      "Support small business!",
+      "Masks are cool, I would know!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "Stay awhile and listen!",
+      "It's dangerous to go alone! Give me all your gold!",
+      "Buy somethin'",
+      "~*YAWN*~",
+      "I like gold.",
+      "My favorite color is blue. NL How bout you?"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Welcome~ NL ~welcome!~",
+      "Hey now, NL you need NL more #rGold.",
+      "Hey buddy, you got no #rMoney!",
+      "You broke?",
+      "You don't got enough #rGold.",
+      "You can't afford that.",
+      "This isn't a charity.",
+      "~Thaaaanks~",
+      "Another sale... NL hohoho! NL Cha - @Ching!@",
+      "@SOLD!@",
+      "No Refunds.",
+      "Have a nice day.",
+      "떠나기",
+      "덱에서 제거할 카드를 선택하십시오."
+    ],
+    "TEXT": [
+      "Hi! NL Buy something! NL Buy buy buy!",
+      "I like your haircut",
+      "Do you have the time?",
+      "Are you a dog person or a cat person?",
+      "You look ~dangerous,~ NL hehe...",
+      "Take your time... NL ..... NL ... or not",
+      "Do you like this rug? NL It's not for sale",
+      "Support small business!",
+      "Masks are cool, I would know!",
+      "Have you seen my courier?",
+      "Stay awhile and listen!",
+      "It's dangerous to go alone! Give me all your gold!",
+      "Buy somethin'",
+      "~*YAWN*~",
+      "I like gold.",
+      "My favorite color is blue. NL How bout you?"
+    ]
+  }
+}

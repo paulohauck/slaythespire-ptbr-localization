@@ -1,0 +1,816 @@
+{
+  "Cancel Button": {
+    "TEXT": [
+      "删除存档"
+    ]
+  },
+  "Confirm Button": {
+    "TEXT": [
+      "确认"
+    ]
+  },
+  "End Turn Button": {
+    "TEXT": [
+      "结束回合",
+      "敌方回合"
+    ]
+  },
+  "Proceed Button": {
+    "TEXT": [
+      "继续"
+    ]
+  },
+  "GamblingChipAction": {
+    "TEXT": [
+      "替换（筹码）"
+    ]
+  },
+  "RetainCardsAction": {
+    "TEXT": [
+      "保留"
+    ]
+  },
+  "AbstractChest": {
+    "TEXT": [
+      "继续"
+    ]
+  },
+  "BossChest": {
+    "TEXT": [
+      "继续"
+    ]
+  },
+  "ShopRoom": {
+    "TEXT": [
+      "跳过商人"
+    ]
+  },
+  "TreasureRoom": {
+    "TEXT": [
+      "跳过宝箱"
+    ]
+  },
+  "TreasureRoomBoss": {
+    "TEXT": [
+      "跳过宝箱"
+    ]
+  },
+  "SetupAction": {
+    "TEXT": [
+      "放置在抽牌堆上方。"
+    ]
+  },
+  "SkillFromDeckToHandAction": {
+    "TEXT": [
+      "选择一项技能，加入你的手牌中。"
+    ]
+  },
+  "Legend": {
+    "TEXT": [
+      "未知",
+      "？？？",
+      "一个未知房间。NL NL 你也许会遇到怪兽、财宝、商店或是别的截然不同的东西。",
+      "商人",
+      "商店",
+      "一位神秘商人在此类房间里售卖物品。NL NL 你可以在这里使用你赚来的 #y金币 ！",
+      "财宝",
+      "财宝屋",
+      "#y圣器 和 #y金币 可以在此类让人垂涎的房间里找到。",
+      "休息",
+      "休息处",
+      "在此类房间停留可以 #g恢复生命值 或 #y升级一张卡牌 。",
+      "敌人",
+      "敌人",
+      "此类房间中有与你敌对的敌人。",
+      "精英",
+      "精英",
+      "此类房间中有强大的敌人。NL NL 战胜它们你就能获得一件圣器。",
+      "传说"
+    ]
+  },
+  "Unlock Confirm Button": {
+    "TEXT": [
+      "继续"
+    ]
+  },
+  "Dig Option": {
+    "TEXT": [
+      "挖掘",
+      "挖掘出一件随机圣器。"
+    ]
+  },
+  "Lift Option": {
+    "TEXT": [
+      "举重",
+      "以 +1 力量开始战斗。（上限3）"
+    ]
+  },
+  "Rest Option": {
+    "TEXT": [
+      "休息",
+      "恢复 20% 最大生命值（",
+      " 生命值来自 ",
+      "恢复 30% 最大生命值（"
+    ]
+  },
+  "Smith Option": {
+    "TEXT": [
+      "铁匠",
+      "升级卡牌组中的一张卡牌。",
+      "无可升级卡牌。"
+    ]
+  },
+  "Toke Option": {
+    "TEXT": [
+      "吸",
+      "从卡牌组中移除一张卡牌。"
+    ]
+  },
+  "DiscardPilePanel": {
+    "TEXT": [
+      "我的弃牌堆 #r已空 。"
+    ]
+  },
+  "DrawPilePanel": {
+    "TEXT": [
+      "我的抽牌堆 #r已空 。"
+    ]
+  },
+  "PotionPopUp": {
+    "TEXT": [
+      "扔出",
+      "饮用",
+      "丢弃",
+      "我不能使用药剂！",
+      "战斗进行时我不能那样做！"
+    ]
+  },
+  "RenamePanel": {
+    "TEXT": [
+      "<无名称>",
+      "输入你的名字",
+      "确认",
+      "取消"
+    ]
+  },
+  "TopPanel": {
+    "TEXT": [
+      " 层"
+    ]
+  },
+  "UnlockCharacterScreen": {
+    "TEXT": [
+      "卡牌已解锁！",
+      "新武装",
+      "圣器已解锁！",
+      "新角色",
+      "注意：已解锁的卡牌将出现在随后的游戏中。",
+      "注意：已解锁的圣器将出现在随后的游戏中。"
+    ]
+  },
+  "UnlockScreen": {
+    "TEXT": [
+      "卡牌已解锁！",
+      "圣器已解锁！",
+      "新角色",
+      "注意：已解锁的卡牌将出现在随后的游戏中。",
+      "注意：已解锁的圣器将出现在随后的游戏中。"
+    ]
+  },
+  "StorePotion": {
+    "TEXT": [
+      "无空位"
+    ]
+  },
+  "AbstractRoom": {
+    "TEXT": [
+      "被袭击了……"
+    ]
+  },
+  "SingleViewRelicPopup": {
+    "TEXT": [
+      "头目",
+      "普通",
+      "已弃用",
+      "稀有",
+      "商店",
+      "事件",
+      "初始",
+      "罕见",
+      "已锁",
+      "未知",
+      " 圣器",
+      "这件圣器尚未解锁。",
+      "这件圣器尚未被发现。"
+    ]
+  },
+  "SingleCardViewPopup": {
+    "TEXT": [
+      "攻击",
+      "技能",
+      "能力",
+      "诅咒",
+      "已锁",
+      "未知",
+      "查看升级",
+      "Status",
+      "Ammo",
+      "I can only play cards on my turn.",
+      "I'm #rEntangled! NL Can't play Attacks",
+      "Not enough #rEnergy.",
+      "Not enough #rCharge.",
+      "I can't play NL this card"
+    ]
+  },
+  "MasterDeckViewScreen": {
+    "TEXT": [
+      "每次战斗开始时，所有的卡牌会被放置在这里。",
+      "返回"
+    ]
+  },
+  "DungeonTransitionScreen": {
+    "TEXT": [
+      "教程",
+      "在游戏进行中，你是否希望显示游戏提示？",
+      "第 1 层",
+      "序幕",
+      "第 2 层",
+      "城市",
+      "第 3 层",
+      "外域",
+      "第？ 层",
+      "？？？",
+      "点击任意处以继续"
+    ]
+  },
+  "DungeonMapScreen": {
+    "TEXT": [
+      "选择起始房间",
+      "返回"
+    ]
+  },
+  "DrawPileViewScreen": {
+    "TEXT": [
+      "在每回合开始时，从这里抽取卡牌。",
+      "（卡牌以随机顺序摆放）",
+      "返回",
+      "抽牌堆"
+    ]
+  },
+  "DiscardPileViewScreen": {
+    "TEXT": [
+      "当抽牌堆的卡牌消耗，这里的卡牌将会重新洗牌，放入抽牌堆。",
+      "返回",
+      "弃牌堆"
+    ]
+  },
+  "DiscardAction": {
+    "TEXT": [
+      "丢弃"
+    ]
+  },
+  "ArmamentsAction": {
+    "TEXT": [
+      "升级"
+    ]
+  },
+  "DualWieldAction": {
+    "TEXT": [
+      "复制"
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      "复制"
+    ]
+  },
+  "DeathScreen": {
+    "TEXT": [
+      "继续",
+      "胜利？",
+      "攀爬层数",
+      "头目击败",
+      "游戏时间",
+      "游戏时间",
+      "分数",
+      "胜利",
+      "死亡……",
+      "失败",
+      "失败！",
+      "破坏",
+      "毁坏",
+      "已征服",
+      "你被杀了！",
+      "这是一种熟悉的感觉。",
+      "打个小盹似乎很不错。",
+      "一分耕耘，一分收获。",
+      "走错了路。",
+      "我还没有准备好。",
+      "我明天再试吧。",
+      "我需要一张新地图。",
+      "准备不足。",
+      "不可思议！",
+      "这是我真正的潜力吗？",
+      "还是我的运气而已……",
+      "不是像这样的……",
+      "还没有到顶呢。",
+      "尖塔又吞噬了一个人……",
+      "你的意识渐渐消失……",
+      "失败",
+      "接受",
+      "继续",
+      "重试",
+      "主菜单",
+      "继续",
+      "解锁",
+      "主菜单",
+      "重试",
+      "继续",
+      "解锁",
+      "剩余解锁： ",
+      "剩余解锁： ",
+      "杀死敌人",
+      "杀死精英",
+      "未使用的金币",
+      "生命值奖励"
+    ],
+    "EXTRA_TEXT": [
+      "Exordium Elites Killed",
+      "City Elites Killed",
+      "Beyond Elites Killed",
+      "Speedster",
+      "Light Speed",
+      "Highlander",
+      "Collection",
+      "Full Set",
+      "Pauper",
+      "Librarian",
+      "Encyclopedia",
+      "Well Fed",
+      "Stuffed",
+      "Curses!",
+      "On My Own Terms",
+      "",
+      "Perfect",
+      "Beyond Perfect",
+      "Overkill",
+      "C-c-c-combo",
+      ""
+    ]
+  },
+  "CombatRewardScreen": {
+    "TEXT": [
+      "继续",
+      "跳过卡牌",
+      "跳过金币",
+      "跳过药剂",
+      "跳过圣器",
+      "跳过奖励",
+      "关闭",
+      "财宝！",
+      "里面是什么？",
+      "奖励！",
+      "战利品！",
+      "搜刮一番！",
+      "Tip: "
+    ]
+  },
+  "ChooseOneScreen": {
+    "TEXT": [
+      "选择一张"
+    ]
+  },
+  "CardRewardScreen": {
+    "TEXT": [
+      "跳过",
+      "选择一张卡牌"
+    ]
+  },
+  "BossRelicSelectScreen": {
+    "TEXT": [
+      "确认",
+      "确认你的选择",
+      "选择一件圣器",
+      "跳过"
+    ]
+  },
+  "GridCardSelectScreen": {
+    "TEXT": [
+      "确认",
+      "取消",
+      "确认你的选择",
+      "离开"
+    ]
+  },
+  "HandCardSelectScreen": {
+    "TEXT": [
+      "确认卡牌来 ",
+      "确认卡牌来 ",
+      "选择 ",
+      " 卡牌来 ",
+      "选择任意数量卡牌来 ",
+      "选择一张卡牌来 "
+    ]
+  },
+  "AbandonRunButton": {
+    "TEXT": [
+      "放弃游戏"
+    ]
+  },
+  "ConfirmPopup": {
+    "TEXT": [
+      "返回",
+      "删除存档",
+      "是",
+      "否"
+    ]
+  },
+  "ExitGameButton": {
+    "TEXT": [
+      "退出游戏"
+    ]
+  },
+  "OptionsPanel": {
+    "TEXT": [
+      "注意：红色选项为尚未实施的选项。",
+      "游戏菜单",
+      "图像",
+      "分辨率：NL 最大帧率：",
+      "全屏 NL 无边框全屏（推荐） NL 屏幕抖动",
+      "音效",
+      "主音量 NL 音乐音量 NL 音效音量",
+      "背景音效",
+      "偏好",
+      "总伤害以金色字体显示 NL 被格挡的伤害以蓝色字体显示 NL 当选择 1 张卡牌的时候禁用确认",
+      "普通提示 NL 卡牌提示",
+      "能力提示 NL 圣器提示",
+      "杂项",
+      "#r语言：",
+      "上传游戏数据 #b（？）",
+      "退出游戏",
+      "保存 & 退出",
+      "NL NL 垂直同步",
+      "Playtester Art Mode"
+    ]
+  },
+  "SettingsScreen": {
+    "TEXT": [
+      "你确定吗？",
+      "你的进度已被自动保存。",
+      "放弃游戏进度将会导致失败。",
+      "警告：\n进度未保存。\n\n到达下一层以储存当前游戏进度。",
+      "返回",
+      "每日运行游戏进度未保存。"
+    ]
+  },
+  "CardLibraryScreen": {
+    "TEXT": [
+      "返回",
+      "红色",
+      "绿色",
+      "蓝色",
+      "无色",
+      "诅咒",
+      "状态",
+      "查看升级"
+    ]
+  },
+  "CardLibSortHeader": {
+    "TEXT": [
+      "稀有度",
+      "类型",
+      "A-Z"
+    ]
+  },
+  "EarlyAccessPopup": {
+    "TEXT": [
+      "什么是抢先体验版？",
+      "什么是开放测试？",
+      "Slay the Spire还处于积极开发中！NL 许多特色、卡牌以及敌人还在不断修改中。NL NL 如果你遇到问题或者有任何反馈，请在我们的 #bSteam #b讨论 页面让我们知道。NL NL 闲话就不多说啦，该爬尖塔了！",
+      "Slay the Spire还处于积极开发中！NL 除此之外，你正在游玩本游戏的测试版。NL NL 如果你在游玩过程中遇到任何问题，请让我们知道。不过在接下来的内容中出现占位符的话，请不要感到惊讶哦。NL NL 闲话就不多说啦，你还有尖塔要爬呢！",
+      "点击任意处以开始"
+    ]
+  },
+  "MainMenuScreen": {
+    "TEXT": [
+      "#y建造： ",
+      "开始",
+      "返回",
+      "点击进行编辑"
+    ]
+  },
+  "MenuButton": {
+    "TEXT": [
+      "卡牌库",
+      "开始游戏",
+      "每日挑战",
+      "圣器收藏",
+      "继续",
+      "排行榜",
+      "统计资料",
+      "职员表",
+      "退出游戏",
+      "补丁说明",
+      "放弃回合",
+      "放弃回合（再次点击以确认）",
+      "Settings"
+    ]
+  },
+  "PatchNotesScreen": {
+    "TEXT": [
+      "返回",
+      "#y补丁说明",
+      " NL （暂时：使用方向键以查看旧的日志）"
+    ]
+  },
+  "RelicViewScreen": {
+    "TEXT": [
+      "返回",
+      "初始圣器：",
+      "角色一开始便可以使用这些圣器。",
+      "普通：",
+      "很容易被找到的弱小圣器。",
+      "罕见：",
+      "比普通圣器更难遇见的强大圣器。",
+      "稀有：",
+      "非常罕见的独一无二且非常强大的圣器。",
+      "头目：",
+      "只能在头目宝箱里找到的圣器。",
+      "事件：",
+      "只能从事件中获得的圣器。",
+      "商店：",
+      "只能从商人处购买而得的圣器。"
+    ]
+  },
+  "CharacterOption": {
+    "TEXT": [
+      "已锁",
+      "此角色将在完成一局游戏后解锁。",
+      "此角色在抢先体验版中不可用。",
+      "此角色将在到达尖塔顶端时解锁。",
+      "生命值： ",
+      "金币： ",
+      " 个内容尚等待解锁",
+      "未知",
+      "？？？",
+      " To Next Unlock"
+    ]
+  },
+  "CharacterSelectScreen": {
+    "TEXT": [
+      "选择角色",
+      "开始",
+      "装甲士",
+      "静默者",
+      "乌鸦人",
+      "返回"
+    ]
+  },
+  "AbstractMonster": {
+    "TEXT": [
+      "准备进攻",
+      "敌人将要对你发起 NL #y进攻，并造成#b",
+      " 伤害#b",
+      " 次。",
+      "敌人将要对你发起 NL #y进攻，并造成#b",
+      " 伤害。",
+      "准备进攻",
+      "敌人将要使用#y增益，并#y进攻#b",
+      " 次。",
+      "敌人将要使用#y增益，并#y进攻#b",
+      "暗算",
+      "敌人将要对你造成#y负面效果，并发起#y进攻，造成#b",
+      "敌人将要进行#y格挡，并发起#y进攻，造成#b",
+      "戒备",
+      "胆小",
+      "奇异",
+      "沉睡",
+      "眩晕",
+      "未知",
+      "敌人将要使用#y增益。",
+      "敌人将要对你造成#y负面效果。",
+      "敌人将要对你使用强力#y负面效果。",
+      "敌人将要在本回合进行#y格挡。",
+      "敌人将要在本回合进行#y格挡，并对你造成#y负面效果。",
+      "敌人将要进行#y格挡，并使用#y增益。",
+      "敌人将要#y逃跑。",
+      "敌人将要在本回合使用神秘#y魔法。",
+      "敌人睡着了。",
+      "敌人本回合处于#眩晕状态。",
+      "敌人意图#y未知（不会攻击）。",
+      "Blocked"
+    ]
+  },
+  "AbstractDungeon": {
+    "TEXT": [
+      "继续"
+    ]
+  },
+  "Exordium": {
+    "TEXT": [
+      "序幕"
+    ]
+  },
+  "TheCity": {
+    "TEXT": [
+      "城市"
+    ]
+  },
+  "TheBeyond": {
+    "TEXT": [
+      "外域"
+    ]
+  },
+  "GameSavedEffect": {
+    "TEXT": [
+      "#y~Game~ #y~Saved~"
+    ]
+  },
+  "CampfireSleepEffect": {
+    "TEXT": [
+      "Dreaming?"
+    ]
+  },
+  "OpeningAction": {
+    "TEXT": [
+      "That enemy does not intend to attack!"
+    ]
+  },
+  "RestartForChangesEffect": {
+    "TEXT": [
+      "Restart the game for display changes to take effect."
+    ]
+  },
+  "PutOnDeckAction": {
+    "TEXT": [
+      "put on top of your draw pile"
+    ]
+  },
+  "ApplyPowerAction": {
+    "TEXT": [
+      "Negated",
+      "Immune",
+      "Nullified",
+      "\n Down"
+    ]
+  },
+  "CopyAction": {
+    "TEXT": [
+      "Copy"
+    ]
+  },
+  "PowerExpireTextEffect": {
+    "TEXT": [
+      "Wears Off"
+    ]
+  },
+  "LanguageDropdown": {
+    "TEXT": [
+      "Brazilian Portugese",
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Japanese",
+      "Korean",
+      "Polish",
+      "Russian",
+      "Spanish",
+      "Hebrew"
+    ]
+  },
+  "UnlockTextEffect": {
+    "TEXT": [
+      "New Unlock!"
+    ]
+  },
+  "ImmolateAction": {
+    "TEXT": [
+      "exhaust"
+    ]
+  },
+  "AbstractPlayer": {
+    "TEXT": [
+      "Blocked",
+      "the Ironclad",
+      "the Silent",
+      "the Gunner"
+    ]
+  },
+  "ExhaustAction": {
+    "TEXT": [
+      "exhaust"
+    ]
+  },
+  "RewardItem": {
+    "TEXT": [
+      " Gold (Stolen Back)",
+      " Gold",
+      "Add a card to your deck",
+      "",
+      "Choose a Card"
+    ]
+  },
+  "AbstractCard": {
+    "TEXT": [
+      "Locked",
+      "Unknown"
+    ]
+  },
+  "CampfireTokeEffect": {
+    "TEXT": [
+      "Select a Card to Remove."
+    ]
+  },
+  "CampfireUI": {
+    "TEXT": [
+      "What to do?",
+      "Hmm...",
+      "What shall I do?",
+      "Time for a break",
+      "So many options...",
+      "I should rest",
+      "So tired..."
+    ]
+  },
+  "AbstractPotion": {
+    "TEXT": [
+      "I can't carry NL any more Potions."
+    ]
+  },
+  "CampfireSmithEffect": {
+    "TEXT": [
+      "Select a Card to Upgrade"
+    ]
+  },
+  "BattleStartEffect": {
+    "TEXT": [
+      "Battle Start",
+      "Player Turn",
+      "Enemy Turn",
+      " turn"
+    ]
+  },
+  "TipHelper": {
+    "TEXT": [
+      "Energy"
+    ]
+  },
+  "AbstractCreature": {
+    "TEXT": [
+      "Dead",
+      "Blocked",
+      "Max HP +"
+    ]
+  },
+  "LeaderboardsScreen": {
+    "TEXT": [
+      "Return",
+      "Filters",
+      "Character",
+      "Region",
+      "Type",
+      "View My Score",
+      "Rank",
+      "Name",
+      "Score",
+      "Retrieving Data...",
+      "Leaderboards",
+      "Not Connected to Steam",
+      "No Scores Available \n Go Slay the Spire!"
+    ]
+  },
+  "ExhumeAction": {
+    "TEXT": [
+      "Select a Card to Return to your Hand"
+    ]
+  },
+  "LeaderboardFilters": {
+    "TEXT": [
+      "Ironclad",
+      "The Silent",
+      "3rd Char. DO NOT TRANSLATE",
+      "Average Floor Reached (Last 20 Attempts)",
+      "Average Score (Last 20 Attempts)",
+      "Best Win Streak",
+      "Fastest Victory",
+      "High Score",
+      "Option 6. DO NOT TRANSLATE",
+      "Friends",
+      "Global"
+    ]
+  },
+  "DiscardPileToTopOfDeckAction": {
+    "TEXT": [
+      "Choose a Card to Put on Top of Your Draw Pile."
+    ]
+  },
+  "ExhaustViewScreen": {
+    "TEXT": [
+      "These cards were exhausted this combat.",
+      "Return"
+    ]
+  }
+}

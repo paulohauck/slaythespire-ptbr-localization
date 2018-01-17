@@ -1,0 +1,816 @@
+{
+  "Cancel Button": {
+    "TEXT": [
+      "セーブ削除"
+    ]
+  },
+  "Confirm Button": {
+    "TEXT": [
+      "決定"
+    ]
+  },
+  "End Turn Button": {
+    "TEXT": [
+      "ターン終了",
+      "敵のターン"
+    ]
+  },
+  "Proceed Button": {
+    "TEXT": [
+      "続行"
+    ]
+  },
+  "GamblingChipAction": {
+    "TEXT": [
+      "交換（キャンブルチップ）"
+    ]
+  },
+  "RetainCardsAction": {
+    "TEXT": [
+      "維持"
+    ]
+  },
+  "AbstractChest": {
+    "TEXT": [
+      "続行"
+    ]
+  },
+  "BossChest": {
+    "TEXT": [
+      "続行"
+    ]
+  },
+  "ShopRoom": {
+    "TEXT": [
+      "商人をスキップ"
+    ]
+  },
+  "TreasureRoom": {
+    "TEXT": [
+      "宝箱をスキップ"
+    ]
+  },
+  "TreasureRoomBoss": {
+    "TEXT": [
+      "宝箱をスキップ"
+    ]
+  },
+  "SetupAction": {
+    "TEXT": [
+      "山札の一番上に置く。"
+    ]
+  },
+  "SkillFromDeckToHandAction": {
+    "TEXT": [
+      "手札に追加する「スキル」カードを選択"
+    ]
+  },
+  "Legend": {
+    "TEXT": [
+      "未知",
+      "???",
+      "未知の部屋。 NL NL 敵・宝箱・ショップ・または全く毛色の異なるものに出会うかもしれない。",
+      "商人",
+      "ショップ",
+      "不可思議な商人がこれらの部屋で品物を売りさばいている。 NL NL 頑張って稼いだ #yゴールド はここで消費しよう！",
+      "財宝",
+      "財宝部屋",
+      "誰もが訪れたがるこの部屋で #yレリック と #yゴールド が見つかる。",
+      "休憩",
+      "休憩場所",
+      "この部屋ではHPの #g回復 とカードの #yアップグレード が可能。",
+      "敵",
+      "敵",
+      "敵が住む部屋。",
+      "中ボス",
+      "中ボス",
+      "より強力な敵が住んでいる。 NL NL 倒すと報酬としてレリックが一つもらえる。",
+      "伝説"
+    ]
+  },
+  "Unlock Confirm Button": {
+    "TEXT": [
+      "続行"
+    ]
+  },
+  "Dig Option": {
+    "TEXT": [
+      "発掘",
+      "レリックの発掘"
+    ]
+  },
+  "Lift Option": {
+    "TEXT": [
+      "リフト",
+      "増強+1の状態で戦闘を開始する。（最大 3）"
+    ]
+  },
+  "Rest Option": {
+    "TEXT": [
+      "休憩",
+      "最大HPの 20% を回復（",
+      " HP ",
+      "最大HPの 30% を回復（"
+    ]
+  },
+  "Smith Option": {
+    "TEXT": [
+      "鍛冶",
+      "カードを 1 枚アップグレードする。",
+      "アップグレードできるカードがない。"
+    ]
+  },
+  "Toke Option": {
+    "TEXT": [
+      "チップ",
+      "カードを 1 枚削除する。"
+    ]
+  },
+  "DiscardPilePanel": {
+    "TEXT": [
+      "捨山が #r空 だ。"
+    ]
+  },
+  "DrawPilePanel": {
+    "TEXT": [
+      "山札が #r空 だ。"
+    ]
+  },
+  "PotionPopUp": {
+    "TEXT": [
+      "投げる",
+      "飲む",
+      "捨てる",
+      "ポーションは使用できない！",
+      "戦闘中には行えない！"
+    ]
+  },
+  "RenamePanel": {
+    "TEXT": [
+      "<名前なし>",
+      "名前を入力",
+      "決定",
+      "キャンセル"
+    ]
+  },
+  "TopPanel": {
+    "TEXT": [
+      " フロア"
+    ]
+  },
+  "UnlockCharacterScreen": {
+    "TEXT": [
+      "アンロックしたカード！",
+      "更新結果",
+      "アンロックしたレリック！",
+      "新しいキャラクター",
+      "注：アンロックしたカードは次回から使用可能",
+      "注：アンロックしたレリックは次回から使用可能"
+    ]
+  },
+  "UnlockScreen": {
+    "TEXT": [
+      "アンロックしたカード！",
+      "アンロックしたレリック！",
+      "新しいキャラクター",
+      "注：アンロックしたカードは次回から使用可能",
+      "注：アンロックしたレリックは次回から使用可能"
+    ]
+  },
+  "StorePotion": {
+    "TEXT": [
+      "空きスペースがない"
+    ]
+  },
+  "AbstractRoom": {
+    "TEXT": [
+      "奪取された..."
+    ]
+  },
+  "SingleViewRelicPopup": {
+    "TEXT": [
+      "ボス",
+      "ノーマル",
+      "未使用",
+      "レア",
+      "ショップ",
+      "イベント",
+      "スターターパック",
+      "アンコモン",
+      "ロック中",
+      "未知",
+      " レリック",
+      "このレリックはアンロックする必要がある。",
+      "このレリックはまだ見つかっていない。"
+    ]
+  },
+  "SingleCardViewPopup": {
+    "TEXT": [
+      "アタック",
+      "スキル",
+      "パワー",
+      "呪縛",
+      "ロック中",
+      "未知",
+      "アップグレードを見る",
+      "Status",
+      "Ammo",
+      "I can only play cards on my turn.",
+      "I'm #rEntangled! NL Can't play Attacks",
+      "Not enough #rEnergy.",
+      "Not enough #rCharge.",
+      "I can't play NL this card"
+    ]
+  },
+  "MasterDeckViewScreen": {
+    "TEXT": [
+      "戦闘開始時に手持ちのカードがここに置かれている。",
+      "戻る"
+    ]
+  },
+  "DungeonTransitionScreen": {
+    "TEXT": [
+      "チュートリアル",
+      "ゲームプレイ中にヒントが必要か？",
+      "レベル1",
+      "序章",
+      "レベル2",
+      "シティ",
+      "レベル3",
+      "彼方",
+      "レベル？",
+      "???",
+      "クリックして続行"
+    ]
+  },
+  "DungeonMapScreen": {
+    "TEXT": [
+      "開始する部屋を選択",
+      "戻る"
+    ]
+  },
+  "DrawPileViewScreen": {
+    "TEXT": [
+      "ターン開始時にここからカードを引く。",
+      "（表示されているカードは順不同）",
+      "戻る",
+      "山札"
+    ]
+  },
+  "DiscardPileViewScreen": {
+    "TEXT": [
+      "カードが全てなくなるとここにあるカードが山札に混ぜられる。",
+      "戻る",
+      "捨山"
+    ]
+  },
+  "DiscardAction": {
+    "TEXT": [
+      "捨てる"
+    ]
+  },
+  "ArmamentsAction": {
+    "TEXT": [
+      "アップグレード"
+    ]
+  },
+  "DualWieldAction": {
+    "TEXT": [
+      "複製"
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      "複製"
+    ]
+  },
+  "DeathScreen": {
+    "TEXT": [
+      "続行",
+      "勝利",
+      "到達したフロア",
+      "倒したボス",
+      "プレイ時間",
+      "プレイ時間",
+      "スコア",
+      "征伐",
+      "死...",
+      "敗北",
+      "敗北!",
+      "冒涜",
+      "惨状",
+      "討伐",
+      "倒された！",
+      "懐かしい感覚。",
+      "仮眠はよさそうだ。",
+      "種を蒔いたのだから、収獲をしろ。",
+      "うまくいかなった。",
+      "心の準備がまだだ。",
+      "明日もう一度試す。",
+      "新しい地図が必要だ。",
+      "程よく準備が整った。",
+      "驚嘆に値する！",
+      "潜在能力を出し切ったのか？",
+      "ただの幸運か...",
+      "こんなはずでは...",
+      "最高ではない。",
+      "塔はまた他の者を食い尽くすだろう...",
+      "意識が遠のいていく...",
+      "敗北",
+      "享受",
+      "続行",
+      "リトライ",
+      "メインメニュー",
+      "続行",
+      "アンロック",
+      "メインメニュー",
+      "リトライ",
+      "続行",
+      "アンロック",
+      "アンロックまであと： ",
+      "アンロックまであと： ",
+      "敵モンスター撃破数",
+      "中ボス撃破数",
+      "残りゴールド",
+      "HPボーナス"
+    ],
+    "EXTRA_TEXT": [
+      "Exordium Elites Killed",
+      "City Elites Killed",
+      "Beyond Elites Killed",
+      "Speedster",
+      "Light Speed",
+      "Highlander",
+      "Collection",
+      "Full Set",
+      "Pauper",
+      "Librarian",
+      "Encyclopedia",
+      "Well Fed",
+      "Stuffed",
+      "Curses!",
+      "On My Own Terms",
+      "",
+      "Perfect",
+      "Beyond Perfect",
+      "Overkill",
+      "C-c-c-combo",
+      ""
+    ]
+  },
+  "CombatRewardScreen": {
+    "TEXT": [
+      "続行",
+      "カードをスキップ",
+      "ゴールドをスキップ",
+      "ポーションをスキップ",
+      "レリックをスキップ",
+      "報酬をスキップ",
+      "閉じる",
+      "財宝だ！",
+      "中身は何だろう？",
+      "報酬！",
+      "大盤振る舞いだ！",
+      "戦利品！",
+      "Tip: "
+    ]
+  },
+  "ChooseOneScreen": {
+    "TEXT": [
+      "一つ選択"
+    ]
+  },
+  "CardRewardScreen": {
+    "TEXT": [
+      "スキップする",
+      "カードを選択"
+    ]
+  },
+  "BossRelicSelectScreen": {
+    "TEXT": [
+      "決定",
+      "選択の決定",
+      "レリックを選ぶ",
+      "スキップする"
+    ]
+  },
+  "GridCardSelectScreen": {
+    "TEXT": [
+      "決定",
+      "キャンセル",
+      "選択の決定",
+      "立ち去る"
+    ]
+  },
+  "HandCardSelectScreen": {
+    "TEXT": [
+      "カードの決定： ",
+      "カードの決定： ",
+      "選択 ",
+      " カード： ",
+      "カードを好きなだけ選択： ",
+      "カードを選択： "
+    ]
+  },
+  "AbandonRunButton": {
+    "TEXT": [
+      "今回のプレイを破棄する"
+    ]
+  },
+  "ConfirmPopup": {
+    "TEXT": [
+      "戻る",
+      "セーブ削除",
+      "はい",
+      "いいえ"
+    ]
+  },
+  "ExitGameButton": {
+    "TEXT": [
+      "ゲームを終了"
+    ]
+  },
+  "OptionsPanel": {
+    "TEXT": [
+      "注：オプションにある赤の文字は未実装につき使用不可。",
+      "ゲームメニュー",
+      "グラフィック",
+      "解像度： NL 最大フレームレート：",
+      "全画面 NL ボーダレス全画面（推奨） NL 画面振動",
+      "サウンド",
+      "マスターボリューム NL 音楽ボリューム NL 効果音ボリューム",
+      "BGM音量",
+      "ユーザー設定",
+      "ダメージ合計を金文字で表示 NL ブロックダメージを青文字で表示 NL カードを 1 枚だけ選択する場合に確認を無効にする",
+      "ヒント NL カードヒント",
+      "能力ヒント NL レリックヒント",
+      "その他",
+      "#r言語：",
+      "プレイデータのアップロード #b(?)",
+      "ゲームを終了",
+      "保存して終了",
+      "NL NL 垂直同期信号",
+      "Playtester Art Mode"
+    ]
+  },
+  "SettingsScreen": {
+    "TEXT": [
+      "本当にいいのか？",
+      "進捗状況が自動的に保存される。",
+      "プレイを破棄した場合は、敗北としてカウントされる。",
+      "警告：\n進捗状況が保存されていない。\n\n次の部屋に行くと現在の進捗状況が保存される。",
+      "戻る",
+      "デイリープレイでは進捗状況が保存されない。"
+    ]
+  },
+  "CardLibraryScreen": {
+    "TEXT": [
+      "戻る",
+      "レッド",
+      "グリーン",
+      "ブルー",
+      "色なし",
+      "呪縛",
+      "ステータス",
+      "アップグレードを見る"
+    ]
+  },
+  "CardLibSortHeader": {
+    "TEXT": [
+      "稀少性",
+      "タイプ",
+      "A～Z"
+    ]
+  },
+  "EarlyAccessPopup": {
+    "TEXT": [
+      "アーリーアクセスとは？",
+      "オープンベータとは？",
+      "Slay the Spireは依然鋭意開発中です！機能、カード、敵などにも修正が加えられています。 NL もし何か問題が発生したり、フィードバックをいただける場合は#bSteam #bDiscussions のページからご連絡ください。 NL 連絡事項はこのくらいにしましょう、塔があなたを待っています！",
+      "Slay the Spireは依然鋭意開発中です！端的に言えば、あなたはこのゲームのベータ版をプレイしています。 NL プレイ中に問題が発生した場合はお知らせください。また、今後のコンテンツ用のプレースホルダーアートにご期待ください。 NL 連絡事項はこのくらいにしましょう、塔があなたを待っています！",
+      "クリックして開始。"
+    ]
+  },
+  "MainMenuScreen": {
+    "TEXT": [
+      "#yビルド： ",
+      "攻略開始",
+      "戻る",
+      "クリックして編集"
+    ]
+  },
+  "MenuButton": {
+    "TEXT": [
+      "カードライブラリ",
+      "プレイ",
+      "デイリーチャレンジ",
+      "レリックコレクション",
+      "続行",
+      "リーダーボード",
+      "統計",
+      "クレジット",
+      "終了",
+      "パッチノート",
+      "今回のプレイを破棄する",
+      "今回のプレイを破棄する（再度クリックで決定）",
+      "Settings"
+    ]
+  },
+  "PatchNotesScreen": {
+    "TEXT": [
+      "戻る",
+      "#yパッチ#yノート",
+      " NL (仮：矢印キーで過去ログの閲覧）"
+    ]
+  },
+  "RelicViewScreen": {
+    "TEXT": [
+      "戻る",
+      "スターター：",
+      "キャラクターはこれらのレリックを所持してプレイをスタートすることが可能。",
+      "ノーマル：",
+      "ほどほどのレリック、ありふれている。",
+      "アンコモン：",
+      "やや強力なレリック、ノーマルより見つかりにくい。",
+      "レア：",
+      "ユニークで強力なレリック、めったに発見できない。",
+      "ボス：",
+      "ボスの宝箱から見つかるレリック。",
+      "イベント：",
+      "イベントによってのみ入手可能なレリック。",
+      "ショップ：",
+      "商人からのみ購入できるレリック。"
+    ]
+  },
+  "CharacterOption": {
+    "TEXT": [
+      "ロック中",
+      "このキャラクターは一度プレイを完了することでアンロックされる。",
+      "このキャラクターはアーリーアクセスでは使用できない。",
+      "このキャラクターは塔の頂上に到達するとアンロックされる。",
+      "HP： ",
+      "ゴールド： ",
+      " アンロックまであと：",
+      "未知",
+      "???",
+      " To Next Unlock"
+    ]
+  },
+  "CharacterSelectScreen": {
+    "TEXT": [
+      "キャラクターを選択",
+      "攻略開始",
+      "鉄仮面",
+      "音無",
+      "絡繰鴉",
+      "背景"
+    ]
+  },
+  "AbstractMonster": {
+    "TEXT": [
+      "攻撃的",
+      "この敵が予定しているのは NL #yアタック による #b",
+      " のダメージを #b",
+      " 回。",
+      "この敵が予定しているのは NL #yアタック による #b",
+      " ダメージ。",
+      "攻撃的",
+      "この敵が予定しているのは #yバフ と #yアタック を#b",
+      " 回。",
+      "この敵が予定しているのは #yバフ と #yアタック を#b",
+      "戦略的",
+      "この敵が予定しているのは #y状態異常#y効果 を与え、#yアタック を #b",
+      "この敵が予定しているのは #yブロック と #yアタック を #b",
+      "防御",
+      "臆病",
+      "魔法",
+      "睡眠",
+      "スタン",
+      "未知",
+      "この敵が予定しているのは #yバフ の使用。",
+      "この敵が予定しているのは #y状態異常#y効果 を与えること。",
+      "この敵が予定しているのは強力な #y状態異常#y効果 を与えること。",
+      "この敵が予定しているのはこのターンで #yブロック すること。",
+      "この敵が予定しているのは #yブロック して、#y状態異常#y効果 を与えること。",
+      "この敵が予定しているのは #yブロック と #yバフ の使用。",
+      "この敵が予定しているのは #y脱走。",
+      "この敵が予定しているのは 不思議な #y魔法。",
+      "この敵は眠っている。",
+      "この敵はが #yスタン 状態。",
+      "この敵が予定しているのは #y不明 （攻撃ではない）。",
+      "Blocked"
+    ]
+  },
+  "AbstractDungeon": {
+    "TEXT": [
+      "続行"
+    ]
+  },
+  "Exordium": {
+    "TEXT": [
+      "序章"
+    ]
+  },
+  "TheCity": {
+    "TEXT": [
+      "シティ"
+    ]
+  },
+  "TheBeyond": {
+    "TEXT": [
+      "彼方"
+    ]
+  },
+  "GameSavedEffect": {
+    "TEXT": [
+      "#y~Game~ #y~Saved~"
+    ]
+  },
+  "CampfireSleepEffect": {
+    "TEXT": [
+      "Dreaming?"
+    ]
+  },
+  "OpeningAction": {
+    "TEXT": [
+      "That enemy does not intend to attack!"
+    ]
+  },
+  "RestartForChangesEffect": {
+    "TEXT": [
+      "Restart the game for display changes to take effect."
+    ]
+  },
+  "PutOnDeckAction": {
+    "TEXT": [
+      "put on top of your draw pile"
+    ]
+  },
+  "ApplyPowerAction": {
+    "TEXT": [
+      "Negated",
+      "Immune",
+      "Nullified",
+      "\n Down"
+    ]
+  },
+  "CopyAction": {
+    "TEXT": [
+      "Copy"
+    ]
+  },
+  "PowerExpireTextEffect": {
+    "TEXT": [
+      "Wears Off"
+    ]
+  },
+  "LanguageDropdown": {
+    "TEXT": [
+      "Brazilian Portugese",
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Japanese",
+      "Korean",
+      "Polish",
+      "Russian",
+      "Spanish",
+      "Hebrew"
+    ]
+  },
+  "UnlockTextEffect": {
+    "TEXT": [
+      "New Unlock!"
+    ]
+  },
+  "ImmolateAction": {
+    "TEXT": [
+      "exhaust"
+    ]
+  },
+  "AbstractPlayer": {
+    "TEXT": [
+      "Blocked",
+      "the Ironclad",
+      "the Silent",
+      "the Gunner"
+    ]
+  },
+  "ExhaustAction": {
+    "TEXT": [
+      "exhaust"
+    ]
+  },
+  "RewardItem": {
+    "TEXT": [
+      " Gold (Stolen Back)",
+      " Gold",
+      "Add a card to your deck",
+      "",
+      "Choose a Card"
+    ]
+  },
+  "AbstractCard": {
+    "TEXT": [
+      "Locked",
+      "Unknown"
+    ]
+  },
+  "CampfireTokeEffect": {
+    "TEXT": [
+      "Select a Card to Remove."
+    ]
+  },
+  "CampfireUI": {
+    "TEXT": [
+      "What to do?",
+      "Hmm...",
+      "What shall I do?",
+      "Time for a break",
+      "So many options...",
+      "I should rest",
+      "So tired..."
+    ]
+  },
+  "AbstractPotion": {
+    "TEXT": [
+      "I can't carry NL any more Potions."
+    ]
+  },
+  "CampfireSmithEffect": {
+    "TEXT": [
+      "Select a Card to Upgrade"
+    ]
+  },
+  "BattleStartEffect": {
+    "TEXT": [
+      "Battle Start",
+      "Player Turn",
+      "Enemy Turn",
+      " turn"
+    ]
+  },
+  "TipHelper": {
+    "TEXT": [
+      "Energy"
+    ]
+  },
+  "AbstractCreature": {
+    "TEXT": [
+      "Dead",
+      "Blocked",
+      "Max HP +"
+    ]
+  },
+  "LeaderboardsScreen": {
+    "TEXT": [
+      "Return",
+      "Filters",
+      "Character",
+      "Region",
+      "Type",
+      "View My Score",
+      "Rank",
+      "Name",
+      "Score",
+      "Retrieving Data...",
+      "Leaderboards",
+      "Not Connected to Steam",
+      "No Scores Available \n Go Slay the Spire!"
+    ]
+  },
+  "ExhumeAction": {
+    "TEXT": [
+      "Select a Card to Return to your Hand"
+    ]
+  },
+  "LeaderboardFilters": {
+    "TEXT": [
+      "Ironclad",
+      "The Silent",
+      "3rd Char. DO NOT TRANSLATE",
+      "Average Floor Reached (Last 20 Attempts)",
+      "Average Score (Last 20 Attempts)",
+      "Best Win Streak",
+      "Fastest Victory",
+      "High Score",
+      "Option 6. DO NOT TRANSLATE",
+      "Friends",
+      "Global"
+    ]
+  },
+  "DiscardPileToTopOfDeckAction": {
+    "TEXT": [
+      "Choose a Card to Put on Top of Your Draw Pile."
+    ]
+  },
+  "ExhaustViewScreen": {
+    "TEXT": [
+      "These cards were exhausted this combat.",
+      "Return"
+    ]
+  }
+}

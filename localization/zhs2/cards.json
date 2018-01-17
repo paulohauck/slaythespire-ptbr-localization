@@ -1,0 +1,873 @@
+{
+  "Grand Finale": {
+    "NAME": "终结",
+    "DESCRIPTION": "仅在你的抽牌堆中没有卡牌时才可以打。NL 对所有敌人造成 !D! 伤害。",
+    "UPGRADE_DESCRIPTION": "My draw pile NL must be #rEmpty."
+  },
+  "Immolate": {
+    "NAME": "献祭",
+    "DESCRIPTION": "消耗 1 张卡牌。如果所选卡牌为一张状态卡牌或诅咒卡牌，将会对所有敌人造成 !D! 伤害。"
+  },
+  "Regret": {
+    "NAME": "后悔",
+    "DESCRIPTION": "无法打出。NL 在你的回合结束时，你手中的每张卡牌都会让你失去 1 生命值。"
+  },
+  "Crippling Poison": {
+    "NAME": "致残毒药",
+    "DESCRIPTION": "造成 !M!  剧毒。NL 造成 !M!  虚弱。"
+  },
+  "A Thousand Cuts": {
+    "NAME": "千刀万剐",
+    "DESCRIPTION": "不论何时，当你打出一张卡牌，都将对所有敌人造成 !M! 伤害。"
+  },
+  "Spot Weakness": {
+    "NAME": "发现弱点",
+    "DESCRIPTION": "如果敌人打算进行攻击，将获得 !M!  力量。"
+  },
+  "Wound": {
+    "NAME": "创伤",
+    "DESCRIPTION": "无法打出。"
+  },
+  "Writhe": {
+    "NAME": "扭曲",
+    "DESCRIPTION": "无法打出。NL 先手。"
+  },
+  "Dark Shackles": {
+    "NAME": "黑暗枷锁",
+    "DESCRIPTION": "在当前回合敌人失去 !M!  力量。NL 消耗。"
+  },
+  "Glass Knife": {
+    "NAME": "玻璃刀",
+    "DESCRIPTION": "造成 !D! 伤害两次。在本场战斗中，玻璃刀的伤害降低 2。"
+  },
+  "Cloak And Dagger": {
+    "NAME": "斗篷与匕首",
+    "DESCRIPTION": "获得 !B!  格挡。NL 增加 !M!  小刀到你的手牌中。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 格挡。NL 增加 !M! 小刀到你的手牌中。"
+  },
+  "Underhanded Strike": {
+    "NAME": "秘密打击",
+    "DESCRIPTION": "无法打出。NL 如果此卡牌被你丢弃，则会对随机敌人造成 !D! 伤害。",
+    "EXTENDED_DESCRIPTION": [
+      "I can't play this card."
+    ]
+  },
+  "Anger": {
+    "NAME": "愤怒",
+    "DESCRIPTION": "造成 !D! 伤害。NL 在弃牌堆放置一张此卡牌的副本。"
+  },
+  "Storm of Steel": {
+    "NAME": "钢铁风暴",
+    "DESCRIPTION": "放弃手牌。NL 每丢弃一张卡牌将获得 1 张小刀。",
+    "UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 upgraded Shiv to your hand for each card discarded."
+  },
+  "Cleave": {
+    "NAME": "劈斩",
+    "DESCRIPTION": "对全部敌人造成 !D! 伤害。"
+  },
+  "Inflame": {
+    "NAME": "激怒",
+    "DESCRIPTION": "获得 !M!  力量。"
+  },
+  "Wraith Form": {
+    "NAME": "鬼形术",
+    "DESCRIPTION": "不论何时，当你使用一项技能，都会对一名随机敌人造成 !M! 伤害。"
+  },
+  "Sadistic Nature": {
+    "NAME": "残忍天性",
+    "DESCRIPTION": "不论何时，当你对敌人施用一项减益魔法，他们都将承受 3 伤害。"
+  },
+  "J.A.X.": {
+    "NAME": "J.A.X",
+    "DESCRIPTION": "丢失 3 生命值。NL 获得 2 力量。NL 消耗。"
+  },
+  "Offering": {
+    "NAME": "祭品",
+    "DESCRIPTION": "失去 !M!  生命值。NL 获得 [R] [R]。NL 抽取 3 张卡牌。NL 消耗。"
+  },
+  "Exhume": {
+    "NAME": "发掘",
+    "DESCRIPTION": "选择一张已消耗卡牌加入手牌。NL 消耗。"
+  },
+  "Power Through": {
+    "NAME": "能力激发",
+    "DESCRIPTION": "增加 2 张创伤到你的手牌中。NL 获得 !B!  格挡。"
+  },
+  "Dual Wield": {
+    "NAME": "二刀流",
+    "DESCRIPTION": "创造一张攻击或能力卡牌的副本加入手牌。",
+    "UPGRADE_DESCRIPTION": "创造 2 张攻击或能力卡牌的副本加入手牌。"
+  },
+  "Deadly Poison": {
+    "NAME": "致命毒药",
+    "DESCRIPTION": "造成 !M! 层剧毒。"
+  },
+  "Leg Sweep": {
+    "NAME": "扫堂腿",
+    "DESCRIPTION": "造成 !M! 层虚弱。NL 获得 !B! 格挡。"
+  },
+  "Flex": {
+    "NAME": "弯曲",
+    "DESCRIPTION": "获得 !M! 力量。NL 在你的回合结束时，失去 !M!  力量。"
+  },
+  "Dagger Spray": {
+    "NAME": "匕首飞射",
+    "DESCRIPTION": "对所有敌人造成两次 !D! 伤害。"
+  },
+  "Bullet Time": {
+    "NAME": "子弹时间",
+    "DESCRIPTION": "本回合你不能抽取任何卡牌。本回合中绿色卡牌消耗为 0。"
+  },
+  "Catalyst": {
+    "NAME": "催化剂",
+    "DESCRIPTION": "将敌人的剧毒增加一倍。NL 消耗。",
+    "UPGRADE_DESCRIPTION": "将敌人的剧毒增加三倍。NL 消耗。"
+  },
+  "Reaper": {
+    "NAME": "收割者",
+    "DESCRIPTION": "对全部敌人造成 !D! 伤害。未格挡造成伤害转为治疗。NL 消耗。"
+  },
+  "Shiv": {
+    "NAME": "小刀",
+    "DESCRIPTION": "造成 !D! 伤害。NL 消耗。"
+  },
+  "Tactician": {
+    "NAME": "战术家",
+    "DESCRIPTION": "无法打出。NL 如果卡牌被丢弃，则获得 [G]。",
+    "UPGRADE_DESCRIPTION": "无法打出。NL 如果卡牌被丢弃，则获得 [G] [G]。",
+    "EXTENDED_DESCRIPTION": [
+      "I can't play this card."
+    ]
+  },
+  "Bane": {
+    "NAME": "灾祸",
+    "DESCRIPTION": "造成 !D! 伤害。NL 如果敌人中毒，则再对其造成 !D! 伤害。"
+  },
+  "Infernal Blade": {
+    "NAME": "地狱之刃",
+    "DESCRIPTION": "增加一张随机攻击卡牌到你的手牌中。NL 本回合消耗为 0。NL 消耗。"
+  },
+  "After Image": {
+    "NAME": "残像",
+    "DESCRIPTION": "无论何时，当你打出一张卡牌，获得 1 格挡。",
+    "UPGRADE_DESCRIPTION": "先手。NL 无论何时，当你打出一张卡牌，获得 1 格挡。"
+  },
+  "Unload": {
+    "NAME": "摆脱",
+    "DESCRIPTION": "造成 !D! 伤害。NL 丢去所有非攻击类卡牌。"
+  },
+  "Blade Dance": {
+    "NAME": "刀刃之舞",
+    "DESCRIPTION": "增加 !M!  小刀到你的手牌中。"
+  },
+  "Deflect": {
+    "NAME": "偏转",
+    "DESCRIPTION": "获得 !B! 格挡。"
+  },
+  "Trip": {
+    "NAME": "绊倒",
+    "DESCRIPTION": "造成 2 层脆弱。",
+    "UPGRADE_DESCRIPTION": "Apply !M! Vulnerable to ALL enemies."
+  },
+  "Dagger Throw": {
+    "NAME": "匕首投掷",
+    "DESCRIPTION": "造成 !D! 伤害。NL 抽取 1 张卡牌。NL 丢弃 1 张卡牌。"
+  },
+  "Brutality": {
+    "NAME": "残暴",
+    "DESCRIPTION": "在你的回合开始时，失去 1 生命值并抽取 1 张卡牌。",
+    "UPGRADE_DESCRIPTION": "先手。NL 在你的回合开始时，失去 1 生命值并抽取 1 张卡牌。"
+  },
+  "Iron Wave": {
+    "NAME": "钢铁波动",
+    "DESCRIPTION": "获得 !B! 格挡。NL 造成 !D! 伤害。"
+  },
+  "Reckless Charge": {
+    "NAME": "鲁莽冲锋",
+    "DESCRIPTION": "获得 1 层脆弱。NL 造成 !D! 伤害。"
+  },
+  "Decay": {
+    "NAME": "衰退",
+    "DESCRIPTION": "无法打出。NL 在你的回合结束时，承受 2 伤害。"
+  },
+  "Tools of the Trade": {
+    "NAME": "贸易工具",
+    "DESCRIPTION": "在你的回合开始时，抽取 1 张卡牌并丢弃 1 张卡牌。"
+  },
+  "Dramatic Entrance": {
+    "NAME": "震撼登场",
+    "DESCRIPTION": "先手。NL 对所有敌人造成 !D! 伤害。NL 消耗。"
+  },
+  "Hemokinesis": {
+    "NAME": "血液流动",
+    "DESCRIPTION": "失去 !M! 生命值。NL 造成 !D! 伤害。"
+  },
+  "Intimidate": {
+    "NAME": "恐吓",
+    "DESCRIPTION": "对所有敌人施放 !M! 虚弱。NL 消耗。"
+  },
+  "Necronomicurse": {
+    "NAME": "亡灵诅咒",
+    "DESCRIPTION": "无法打出。NL 此诅咒无法回避。"
+  },
+  "Choke": {
+    "NAME": "窒息",
+    "DESCRIPTION": "造成 !D! 伤害。NL 无论何时，当你在此回合打出一张卡牌时，目标敌人将失去 !M!  生命值。"
+  },
+  "Juggernaut": {
+    "NAME": "主宰",
+    "DESCRIPTION": "当你获得格挡，将对一名随机敌人造成 !M! 伤害。"
+  },
+  "Caltrops": {
+    "NAME": "蒺藜",
+    "DESCRIPTION": "无论何时，当你受到攻击，将对进攻者造成 !M! 伤害。"
+  },
+  "Poisoned Stab": {
+    "NAME": "淬毒之刺",
+    "DESCRIPTION": "造成 !D! 伤害。NL 造成 !M! 剧毒。"
+  },
+  "Blur": {
+    "NAME": "模糊",
+    "DESCRIPTION": "获得 !B! 格挡。NL 格挡在你的下一回合开始时不会被移除。"
+  },
+  "Body Slam": {
+    "NAME": "泰山压顶",
+    "DESCRIPTION": "造成与你当前格挡相同数值的伤害。",
+    "UPGRADE_DESCRIPTION": " NL （造成 !D! 伤害。）"
+  },
+  "True Grit": {
+    "NAME": "大地惊雷",
+    "DESCRIPTION": "获得 !B! 格挡。NL 消耗一张随机手牌。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 格挡。NL 消耗一张手牌。"
+  },
+  "Setup": {
+    "NAME": "设置",
+    "DESCRIPTION": "放置一张手牌在抽牌堆最上方。NL 在卡牌被打出前，消耗为 0。"
+  },
+  "Blood for Blood": {
+    "NAME": "血债血偿",
+    "DESCRIPTION": "在战斗中，每次你失去生命值时 NL [R] 消耗减少 1。  NL 造成 !D! 伤害。"
+  },
+  "Impervious": {
+    "NAME": "不动如山",
+    "DESCRIPTION": "获得 !B! 格挡。NL 消耗。"
+  },
+  "Shrug It Off": {
+    "NAME": "随你便",
+    "DESCRIPTION": "获得 !B! 格挡。NL 抽取 1 张卡牌。"
+  },
+  "Clash": {
+    "NAME": "对决",
+    "DESCRIPTION": "当你手中的所有卡牌均为攻击类卡牌时方可使用。NL 造成 !D! 伤害。",
+    "EXTENDED_DESCRIPTION": [
+      "I have non-attack cards in my hand."
+    ]
+  },
+  "Thunderclap": {
+    "NAME": "霹雳",
+    "DESCRIPTION": "对全部敌人造成 !D! 伤害并施加 1 层脆弱。"
+  },
+  "Flame Barrier": {
+    "NAME": "火焰屏障",
+    "DESCRIPTION": "获得 !B! 格挡。NL 无论何时，当你在本回合受到攻击，将对进攻者造成 4 伤害。 "
+  },
+  "Endless Agony": {
+    "NAME": "无尽痛苦",
+    "DESCRIPTION": "当你抽取此卡牌，你的手牌中都会加入一张此卡牌的副本。NL 造成 !D! 伤害。NL 消耗。"
+  },
+  "Berserk": {
+    "NAME": "狂怒",
+    "DESCRIPTION": "如果你的生命值低于 50%，每回合开始时将获得 [R]。"
+  },
+  "Pummel": {
+    "NAME": "连击",
+    "DESCRIPTION": "造成 !D! 伤害 !M! 次。NL 消耗。"
+  },
+  "Riddle With Holes": {
+    "NAME": "百孔千疮",
+    "DESCRIPTION": "造成 !D! 伤害 5 次。"
+  },
+  "Burning Pact": {
+    "NAME": "燃烧契约",
+    "DESCRIPTION": "消耗 1 张卡牌。NL 抽取 !M! 张卡牌。"
+  },
+  "Metallicize": {
+    "NAME": "金属化",
+    "DESCRIPTION": "在你的回合结束时，获得 !M!  格挡。"
+  },
+  "Pommel Strike": {
+    "NAME": "柄击",
+    "DESCRIPTION": "造成 !D! 伤害。NL 抽取 !M! 张卡牌。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 伤害。NL 抽取 !M! 张卡牌。"
+  },
+  "Pain": {
+    "NAME": "痛苦",
+    "DESCRIPTION": "无法打出。NL 当卡牌在手中时，NL 打出别的卡牌将失去 1 生命值。"
+  },
+  "Burst": {
+    "NAME": "爆炸",
+    "DESCRIPTION": "在本回合，你的下一项技能将被施用两次。",
+    "UPGRADE_DESCRIPTION": "在本回合，你的下 !M! 项技能将被施用两次。"
+  },
+  "Acrobatics": {
+    "NAME": "杂技",
+    "DESCRIPTION": "抽取 !M! 卡牌。NL 丢弃 1 张卡牌。"
+  },
+  "Blind": {
+    "NAME": "致盲",
+    "DESCRIPTION": "造成 2 层虚弱。",
+    "UPGRADE_DESCRIPTION": "Apply !M! Weak to ALL enemies."
+  },
+  "Doppelganger": {
+    "NAME": "二重身",
+    "DESCRIPTION": "在下一回合中，抽取 X 张卡牌并获得 X [G]。NL 消耗。",
+    "UPGRADE_DESCRIPTION": "在下一回合中，抽取 X+1 张卡牌并获得 X+1 [G]。NL 消耗。"
+  },
+  "Skewer": {
+    "NAME": "烤肉叉",
+    "DESCRIPTION": "使用所有 [G]。NL 造成 !D! 伤害 X 次。"
+  },
+  "Envenom": {
+    "NAME": "施毒",
+    "DESCRIPTION": "当攻击造成伤害时，施加 1 层剧毒。"
+  },
+  "Adrenaline": {
+    "NAME": "肾上腺素",
+    "DESCRIPTION": "获得 [G]。NL 抽取 2 张卡牌。NL 消耗",
+    "UPGRADE_DESCRIPTION": "获得 [G] [G]。NL 抽取 2 张卡牌。NL 消耗"
+  },
+  "Quick Slash": {
+    "NAME": "速攻",
+    "DESCRIPTION": "造成 !D! 伤害。NL 抽取 1 张卡牌。"
+  },
+  "Twin Strike": {
+    "NAME": "双重打击",
+    "DESCRIPTION": "造成 !D! 伤害两次。"
+  },
+  "Parasite": {
+    "NAME": "寄生虫",
+    "DESCRIPTION": "无法打出。NL 如果卡牌被转化或从你的卡牌组中移除，你将失去 3 最大生命值。"
+  },
+  "Bash": {
+    "NAME": "痛击",
+    "DESCRIPTION": "造成 !D! 伤害。NL 造成 !M! 脆弱。"
+  },
+  "Clothesline": {
+    "NAME": "金刚臂",
+    "DESCRIPTION": "造成 !D! 伤害。NL 造成 !M! 虚弱。"
+  },
+  "Shockwave": {
+    "NAME": "冲击波",
+    "DESCRIPTION": "对所有敌人造成 !M!  层虚弱和脆弱。NL 消耗。"
+  },
+  "Rampage": {
+    "NAME": "暴怒",
+    "DESCRIPTION": "造成 !D! 伤害。NL 在本场战斗中，每次打出此卡牌，伤害增加 !M!。"
+  },
+  "Bandage Up": {
+    "NAME": "包扎",
+    "DESCRIPTION": "治疗 4 生命值。NL 消耗。"
+  },
+  "Sever Soul": {
+    "NAME": "断魂术",
+    "DESCRIPTION": "消耗手中全部非攻击类卡牌。NL 造成 !D! 伤害。"
+  },
+  "Whirlwind": {
+    "NAME": "旋风",
+    "DESCRIPTION": "使用全部 [R]。NL 对所有敌人造成 !D! 伤害 X 次。"
+  },
+  "Warcry": {
+    "NAME": "战嚎",
+    "DESCRIPTION": "抽取 2 张卡牌。NL 将一张手牌放置到抽牌堆最上方。NL 消耗。"
+  },
+  "PiercingWail": {
+    "NAME": "穿刺哀号",
+    "DESCRIPTION": "全部敌人失去 !M!  力量 1 回合。NL 消耗。"
+  },
+  "Bite_R": {
+    "NAME": "啃咬",
+    "DESCRIPTION": "造成 !D! 伤害。NL 治疗 !M!  生命值。"
+  },
+  "Bite_G": {
+    "NAME": "啃咬",
+    "DESCRIPTION": "造成 !D! 伤害。NL 治疗 !M! 生命值。"
+  },
+  "Bite_B": {
+    "NAME": "啃咬",
+    "DESCRIPTION": "造成 !D! 伤害。NL 治疗 !M! 生命值。"
+  },
+  "Secret Technique": {
+    "NAME": "秘密技术",
+    "DESCRIPTION": "从抽牌堆中选择一项技能，并加入手牌中。NL 消耗。",
+    "UPGRADE_DESCRIPTION": "There are no Skills NL in my draw pile.",
+    "EXTENDED_DESCRIPTION": [
+      "There are no Skills NL in my draw pile."
+    ]
+  },
+  "Calculated Gamble": {
+    "NAME": "精算赌博",
+    "DESCRIPTION": "放弃手牌，NL 然后抽取该数量的卡牌。",
+    "UPGRADE_DESCRIPTION": "放弃手牌，NL 然后抽取该数量 +1 的卡牌。"
+  },
+  "Combust": {
+    "NAME": "燃烧",
+    "DESCRIPTION": "在你的回合结束时，失去 1 生命值并对全部敌人造成 !M! 伤害。"
+  },
+  "Deep Breath": {
+    "NAME": "深呼吸",
+    "DESCRIPTION": "将弃牌堆洗牌，放入抽牌堆。NL 抽取 1 张卡牌。",
+    "UPGRADE_DESCRIPTION": "Shuffle your discard pile into your draw pile. NL Draw !M! cards."
+  },
+  "Doubt": {
+    "NAME": "疑惑",
+    "DESCRIPTION": "无法打出。NL 在你的回合结束时，获得 1 层虚弱。"
+  },
+  "Escape Plan": {
+    "NAME": "逃跑计划",
+    "DESCRIPTION": "抽取 1 张卡牌。NL 如果卡牌为技能卡牌，将获得 !B!  格挡。"
+  },
+  "Finisher": {
+    "NAME": "终结者",
+    "DESCRIPTION": "本回合打出的每张攻击类卡牌造成 !D! 伤害。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （你打出了 ",
+      " 攻击。）",
+      " 攻击。）"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "黑暗拥抱",
+    "DESCRIPTION": "当一张卡牌消耗时，NL 抽取 1 张卡牌。"
+  },
+  "Die Die Die": {
+    "NAME": "死死死",
+    "DESCRIPTION": "对全部敌人造成 !D! 伤害。NL 消耗。"
+  },
+  "Well Laid Plans": {
+    "NAME": "完善计划",
+    "DESCRIPTION": "在你的回合结束时，至少保留 !M! 张卡牌。",
+    "UPGRADE_DESCRIPTION": "在你的回合结束时，至少保留 !M! 张卡牌。"
+  },
+  "Defend_R": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 格挡。"
+  },
+  "Defend_G": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 格挡。"
+  },
+  "Defend_B": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 格挡。"
+  },
+  "Seeing Red": {
+    "NAME": "红色危机",
+    "DESCRIPTION": "获得 [R] [R]。NL 消耗。"
+  },
+  "Disarm": {
+    "NAME": "解除武装",
+    "DESCRIPTION": "在当前回合敌人失去 !M! 力量。NL 消耗。"
+  },
+  "Panache": {
+    "NAME": "神气活现",
+    "DESCRIPTION": "每次在单个回合中打出 4 张卡牌时，将对所有敌人造成 10 伤害。"
+  },
+  "Fiend Fire": {
+    "NAME": "恶魔之火",
+    "DESCRIPTION": "消耗你的手牌。NL 对每张消耗的卡牌造成 !D! 伤害。NL 消耗。"
+  },
+  "Terror": {
+    "NAME": "恐惧",
+    "DESCRIPTION": "造成 99 层脆弱。NL 消耗。"
+  },
+  "Dazed": {
+    "NAME": "目眩",
+    "DESCRIPTION": "无法打出。NL 超凡。"
+  },
+  "Barricade": {
+    "NAME": "路障",
+    "DESCRIPTION": "在你的回合开始时，格挡将不会失效。"
+  },
+  "Armaments": {
+    "NAME": "军备",
+    "DESCRIPTION": "获得 !B! 格挡。NL 在战斗中剩余回合中升级一张手牌。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 格挡。NL 在战斗中剩余回合中升级全部手牌。"
+  },
+  "Havoc": {
+    "NAME": "浩劫",
+    "DESCRIPTION": "打出抽牌堆最上方的卡牌并将其消耗。"
+  },
+  "Secret Weapon": {
+    "NAME": "秘密武器",
+    "DESCRIPTION": "从抽牌堆选择一张攻击卡牌，并加入手牌中。NL 消耗。",
+    "UPGRADE_DESCRIPTION": "There are no Attacks NL in my draw pile.",
+    "EXTENDED_DESCRIPTION": [
+      "There are no Attacks NL in my draw pile."
+    ]
+  },
+  "Apotheosis": {
+    "NAME": "神化",
+    "DESCRIPTION": "在战斗中剩余回合中升级全部手牌。NL 消耗。"
+  },
+  "Feel No Pain": {
+    "NAME": "不惧疼痛",
+    "DESCRIPTION": "当一张卡牌消耗时，NL 将获得 !M!  格挡。"
+  },
+  "Hide": {
+    "NAME": "躲藏",
+    "DESCRIPTION": "直到你的下回合开始时都不会丢失生命值。NL 消耗。"
+  },
+  "Corruption": {
+    "NAME": "堕落",
+    "DESCRIPTION": "技能消耗 0。NL 当你打出一张技能卡牌，便会将其消耗。"
+  },
+  "Heel Hook": {
+    "NAME": "勾足",
+    "DESCRIPTION": "造成 !D! 伤害。NL 如果敌人处于虚弱状态，NL 你将获得 [G]并 NL 抽取 1 张卡牌。"
+  },
+  "Injury": {
+    "NAME": "创伤",
+    "DESCRIPTION": "无法打出。"
+  },
+  "Rage": {
+    "NAME": "愤怒",
+    "DESCRIPTION": "当你在本回合打出一张攻击卡牌，将获得 !M!  格挡。"
+  },
+  "Headbutt": {
+    "NAME": "铁头功",
+    "DESCRIPTION": "造成 !D! 伤害。NL 将弃牌堆中的一张卡牌放置到抽牌堆最上方。"
+  },
+  "Limit Break": {
+    "NAME": "极限突破",
+    "DESCRIPTION": "使你的力量翻倍。NL 消耗。",
+    "UPGRADE_DESCRIPTION": "使你的力量翻倍。"
+  },
+  "Entrench": {
+    "NAME": "坚不可摧",
+    "DESCRIPTION": "使你的当前格挡翻倍。",
+    "UPGRADE_DESCRIPTION": "使你的当前格挡翻倍。"
+  },
+  "Noxious Fumes": {
+    "NAME": "毒气",
+    "DESCRIPTION": "在你的回合开始时，对全部敌人造成 !M!  层剧毒。"
+  },
+  "Infinite Blades": {
+    "NAME": "无限之刃",
+    "DESCRIPTION": "在你的回合开始时，增加一张小刀到你的手牌中。",
+    "UPGRADE_DESCRIPTION": "先手。NL 在你的回合开始时，增加一张小刀到你的手牌中。"
+  },
+  "Phantasmal Killer": {
+    "NAME": "魅影杀手",
+    "DESCRIPTION": "在你的下一回合，你的攻击伤害将加倍。"
+  },
+  "Malaise": {
+    "NAME": "心神不宁",
+    "DESCRIPTION": "使用所有 [G]。NL 敌人失去 X 力量。造成 X 虚弱。NL 消耗。",
+    "UPGRADE_DESCRIPTION": "使用所有 [G]。NL 敌人失去 X+1 力量。造成 X+1 层虚弱。NL 消耗。"
+  },
+  "Reflex": {
+    "NAME": "反射",
+    "DESCRIPTION": "无法打出。NL 如果丢弃此卡牌，将抽取 !M! 张卡牌。",
+    "UPGRADE_DESCRIPTION": "无法打出。NL 如果丢弃此卡牌，将抽取 !M! 张卡牌。",
+    "EXTENDED_DESCRIPTION": [
+      "I can't play this card."
+    ]
+  },
+  "Sentinel": {
+    "NAME": "哨兵",
+    "DESCRIPTION": "获得 !B! 格挡。NL 如果此卡牌消耗，NL 将获得 [R] [R]。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 格挡。NL 如果此卡牌消耗，NL 将获得 [R] [R] [R]。"
+  },
+  "Survivor": {
+    "NAME": "生还者",
+    "DESCRIPTION": "获得 !B! 格挡。NL 丢弃一张卡牌。"
+  },
+  "Wild Strike": {
+    "NAME": "野蛮打击",
+    "DESCRIPTION": "造成 !D! 伤害。NL 将一张创伤卡牌洗为抽牌堆的卡牌。"
+  },
+  "Eviscerate": {
+    "NAME": "剔骨",
+    "DESCRIPTION": "本回合中丢弃的每张卡牌 NL 将少消耗 1 [G]。NL 造成 !D! 伤害三次。"
+  },
+  "Flash of Steel": {
+    "NAME": "刀刃闪烁",
+    "DESCRIPTION": "造成 !D! 伤害。NL 抽取 1 张卡牌。"
+  },
+  "Battle Trance": {
+    "NAME": "战斗专注",
+    "DESCRIPTION": "抽取 !M! 卡牌。NL 本回合中你将无法再抽取额外卡牌。"
+  },
+  "Heavy Blade": {
+    "NAME": "重剑",
+    "DESCRIPTION": "造成 !D! 伤害。NL 力量影响重剑 !M! 次。"
+  },
+  "Clumsy": {
+    "NAME": "笨拙",
+    "DESCRIPTION": "无法打出。NL 在你的回合结束时，将被消耗。"
+  },
+  "Searing Blow": {
+    "NAME": "猛烈打击",
+    "DESCRIPTION": "造成 !D! 伤害。NL 可升级任意次。"
+  },
+  "Corpse Explosion": {
+    "NAME": "尸爆",
+    "DESCRIPTION": "敌人失去所有剧毒卡牌。造成的伤害为全部敌人所失去的卡牌数量的两倍。",
+    "UPGRADE_DESCRIPTION": "敌人失去所有剧毒卡牌。造成的伤害为全部敌人所失去的卡牌数量的 3 倍。",
+    "EXTENDED_DESCRIPTION": [
+      "That enemy isn't Poisoned."
+    ]
+  },
+  "Second Wind": {
+    "NAME": "复苏之风",
+    "DESCRIPTION": "消耗手中所有非攻击类卡牌，每张卡牌获得 !B!  格挡。"
+  },
+  "Enlightenment": {
+    "NAME": "启迪",
+    "DESCRIPTION": "本回合中，将手牌的消耗降低为 1。",
+    "UPGRADE_DESCRIPTION": "Reduce the cost of cards in your hand to 1 this combat."
+  },
+  "Purity": {
+    "NAME": "净化",
+    "DESCRIPTION": "选择并消耗 2 张手牌。NL 消耗。"
+  },
+  "Panacea": {
+    "NAME": "万应灵丹",
+    "DESCRIPTION": "失去所有衰弱、脆弱和虚弱状态。"
+  },
+  "Dash": {
+    "NAME": "撞击",
+    "DESCRIPTION": "获得 !B! 格挡。NL 造成 !D! 伤害。"
+  },
+  "Transmutation": {
+    "NAME": "蜕变",
+    "DESCRIPTION": "转化你的手牌。NL 消耗。",
+    "UPGRADE_DESCRIPTION": "Add X random upgraded colorless cards into your hand. NL Exhaust."
+  },
+  "Backstab": {
+    "NAME": "背刺",
+    "DESCRIPTION": "造成 !D! 伤害。NL 先手。NL 消耗。"
+  },
+  "Step Through Time": {
+    "NAME": "时光倒流",
+    "DESCRIPTION": "消耗：2 充能。NL 你的生命值将回复为上回合时的数值。NL 消耗。"
+  },
+  "Feed": {
+    "NAME": "进食",
+    "DESCRIPTION": "造成 !D! 伤害。NL 如果此卡牌杀死敌人，则永久获得 !M! 最大生命值。消耗。"
+  },
+  "Rupture": {
+    "NAME": "破坏",
+    "DESCRIPTION": "当你因为卡牌失去生命值时，NL 获得 1 力量。"
+  },
+  "Bouncing Flask": {
+    "NAME": "跳跃烧瓶",
+    "DESCRIPTION": "对随机敌人造成 3 层剧毒 !M! 次。"
+  },
+  "Bludgeon": {
+    "NAME": "恫吓",
+    "DESCRIPTION": "造成 !D! 伤害。"
+  },
+  "Finesse": {
+    "NAME": "灵巧",
+    "DESCRIPTION": "获得 !B! 格挡。NL 抽取 1 张卡牌。"
+  },
+  "Slice": {
+    "NAME": "切割",
+    "DESCRIPTION": "造成 !D! 伤害。"
+  },
+  "Backflip": {
+    "NAME": "后空翻",
+    "DESCRIPTION": "获得 !B! 格挡。NL 抽取 2 张卡牌。"
+  },
+  "Outmaneuver": {
+    "NAME": "智胜",
+    "DESCRIPTION": "下回合 NL 获得 [G] [G]。",
+    "UPGRADE_DESCRIPTION": "下回合 NL 获得 [G] [G] [G]。"
+  },
+  "Bloodletting": {
+    "NAME": "杀戮",
+    "DESCRIPTION": "获得 [R]。NL 失去 !M!  生命值。",
+    "UPGRADE_DESCRIPTION": "Gain [R] [R]. NL Lose 3 HP."
+  },
+  "Concentrate": {
+    "NAME": "集中",
+    "DESCRIPTION": "丢弃 !M! 张卡牌。NL 获得 [G] [G]。"
+  },
+  "Master of Strategy": {
+    "NAME": "策略大师",
+    "DESCRIPTION": "抽取 3 张卡牌。NL 消耗。"
+  },
+  "Flechettes": {
+    "NAME": "箭弹",
+    "DESCRIPTION": "手上每张技能卡牌造成 !D! 伤害。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （你拥有 ",
+      " 技能卡牌）。",
+      " 技能卡牌）。"
+    ]
+  },
+  "Perfected Strike": {
+    "NAME": "完美打击",
+    "DESCRIPTION": "造成 !D! 伤害。NL 手牌中所有含有“打击”的卡牌将造成额外 +2 伤害。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 伤害。NL 手牌中所有含有“打击”的卡牌将造成额外 +3 伤害。"
+  },
+  "Carnage": {
+    "NAME": "屠杀",
+    "DESCRIPTION": "超凡。NL 造成 !D! 伤害。"
+  },
+  "Masterful Stab": {
+    "NAME": "精准之刺",
+    "DESCRIPTION": "当无其它手牌时方可使用。NL 造成 !D! 伤害。",
+    "UPGRADE_DESCRIPTION": "This has to be my NL only card."
+  },
+  "Good Instincts": {
+    "NAME": "良好直觉",
+    "DESCRIPTION": "获得 !B! 格挡。"
+  },
+  "Prepared": {
+    "NAME": "准备就绪",
+    "DESCRIPTION": "抽取 !M! 张卡牌。NL 丢弃 !M! 张卡牌。",
+    "UPGRADE_DESCRIPTION": "抽取 !M! 卡牌。NL 丢弃 !M! 张卡牌。"
+  },
+  "Dropkick": {
+    "NAME": "飞身踢",
+    "DESCRIPTION": "造成 !D! 伤害。NL 如果敌人处于脆弱状态， NL 将获得 [R] 以及 NL 抽取 1 张卡牌。"
+  },
+  "Swift Strike": {
+    "NAME": "迅猛打击",
+    "DESCRIPTION": "造成 !D! 伤害。"
+  },
+  "Normality": {
+    "NAME": "常态",
+    "DESCRIPTION": "无法打出。NL 每回合中你无法打出 3 张以上卡牌。",
+    "EXTENDED_DESCRIPTION": [
+      "I can only play up to NL #r3 cards per turn.",
+      "Unplayable. NL You cannot play more than ",
+      " cards per turn.",
+      " cards per turn. NL You have played ",
+      " card this turn."
+    ]
+  },
+  "Accuracy": {
+    "NAME": "精准",
+    "DESCRIPTION": "小刀造成 !M! 额外伤害。"
+  },
+  "Sword Boomerang": {
+    "NAME": "回旋利刃",
+    "DESCRIPTION": "对一名随机敌人造成 !D! 伤害 !M! 次。"
+  },
+  "Jack Of All Trades": {
+    "NAME": "万事通",
+    "DESCRIPTION": "添加一张随机无色卡牌到手牌中。NL 消耗。"
+  },
+  "Demon Form": {
+    "NAME": "恶魔形态",
+    "DESCRIPTION": "在每回合开始时，获得 !M!  力量。"
+  },
+  "Fire Breathing": {
+    "NAME": "火焰气息",
+    "DESCRIPTION": "在你的回合结束时，本回合打出的每张攻击卡牌将对全部敌人造成 1 伤害。"
+  },
+  "Ghostly Armor": {
+    "NAME": "幽灵盔甲",
+    "DESCRIPTION": "超凡。NL 获得 !B! 格挡。"
+  },
+  "Uppercut": {
+    "NAME": "上钩拳",
+    "DESCRIPTION": "造成 !D! 伤害。NL 造成 !M! 层虚弱。NL 造成 !M! 层脆弱。"
+  },
+  "Mind Blast": {
+    "NAME": "精神冲击",
+    "DESCRIPTION": "造成抽牌堆卡牌数量相等的伤害。",
+    "UPGRADE_DESCRIPTION": "Innate. NL Deal damage equal to the number of cards in your draw pile."
+  },
+  "Neutralize": {
+    "NAME": "平衡",
+    "DESCRIPTION": "造成 !D! 伤害。NL 造成 !M! 层虚弱。"
+  },
+  "Strike_R": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 伤害。"
+  },
+  "Strike_G": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 伤害。"
+  },
+  "Strike_B": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 伤害。"
+  },
+  "Evolve": {
+    "NAME": "进化",
+    "DESCRIPTION": "将 2 张创伤洗成抽牌堆的卡牌。NL 当你抽到一张创伤，你将抽取 !M! 张卡牌。",
+    "UPGRADE_DESCRIPTION": "将 2 张创伤洗成抽牌堆的卡牌。NL 当你抽到一张创伤，你将抽取 !M! 张卡牌。"
+  },
+  "Burn": {
+    "NAME": "燃烧",
+    "DESCRIPTION": "无法打出。NL 在你的回合结束时，承受 2 伤害。",
+    "UPGRADE_DESCRIPTION": "无法打出。NL 在你的回合结束时，承受 4 伤害。"
+  },
+  "Sucker Punch": {
+    "NAME": "出其不意",
+    "DESCRIPTION": "造成 !D! 伤害。NL 造成 !M! 层虚弱。"
+  },
+  "Double Tap": {
+    "NAME": "双连击",
+    "DESCRIPTION": "在本回合，你的下次攻击将会进行两次。",
+    "UPGRADE_DESCRIPTION": "在本回合，你的下 !M!  次攻击将会进行两次。"
+  },
+  "Footwork": {
+    "NAME": "步法",
+    "DESCRIPTION": "获得 !M! 敏捷。"
+  },
+  "Thinking Ahead": {
+    "NAME": "未雨绸缪",
+    "DESCRIPTION": "抽取 2 张卡牌，然后将一张手牌放置到抽牌堆最上方。",
+    "UPGRADE_DESCRIPTION": "Draw 2 cards. NL Put a card from your hand on top of your draw pile."
+  },
+  "Distraction": {
+    "NAME": "心烦意乱",
+    "DESCRIPTION": "添加一张随机技能卡牌到手牌中。NL 本回合消耗为 0。NL 消耗。"
+  },
+  "Dodge and Roll": {
+    "NAME": "连闪带滚",
+    "DESCRIPTION": "获得 !B! 格挡。NL 下回合获得 !B!  格挡。"
+  },
+  "All Out Attack": {
+    "NAME": "乾坤一掷",
+    "DESCRIPTION": "对全部敌人造成 !D! 伤害。NL 下回合少抽取 1 张卡牌。"
+  },
+  "Flying Knee": {
+    "NAME": "飞踢",
+    "DESCRIPTION": "造成 !D! 伤害。NL 下回合获得 [G]。"
+  },
+  "Predator": {
+    "NAME": "捕食者",
+    "DESCRIPTION": "造成 !D! 伤害。NL 下回合多抽取 2 张卡牌。"
+  },
+  "Madness": {
+    "NAME": "疯狂",
+    "DESCRIPTION": "在战斗剩余回合中，你手中的一张随机卡牌的消耗为 0。NL 消耗。"
+  },
+  "Expertise": {
+    "NAME": "专业知识",
+    "DESCRIPTION": "获得 !B! 格挡。NL 可升级任意次。"
+  },
+  "The Bomb": {
+    "NAME": "The Bomb",
+    "DESCRIPTION": "Deal !D! damage to everyone (including yourself). NL Exhaust."
+  },
+  "Night Terror": {
+    "NAME": "Nightmare",
+    "DESCRIPTION": "Choose a card. NL Next turn, add !M! copies of that card into your hand. Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "I can only use NL ",
+      " NL once per turn."
+    ]
+  },
+  "Venomology": {
+    "NAME": "Alchemize",
+    "DESCRIPTION": "Obtain a random potion. NL Exhaust."
+  }
+}
