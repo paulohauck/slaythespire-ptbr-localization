@@ -1,0 +1,1 @@
+# slaythespire-ptbr-localization
