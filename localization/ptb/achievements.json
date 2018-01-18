@@ -1,0 +1,105 @@
+{
+  "AchievementGrid": {
+    "NAMES": [
+		"Não foi nada",
+		"Pureza",
+		"Vem me pegar",
+		"O Pacto",
+		"Adrenalina",
+		"Poderoso",
+		"Jaxxed",
+		"Inabalável",
+		"Inalcançável",
+		"Catalizador",
+		"Praga",
+		"Ninja",
+		"Infinito",
+		"Você não é de nada",
+		"Perfect",
+		"O Guardião",
+		"O Fantasma",
+		"O Chefe",
+		"O Autômato",
+		"O Colecionados",
+		"O Campeão",
+		"A Coroa",
+		"As Formas",
+		"O Devorador do tempo",
+		"Rubi",
+		"Esmeralda",
+		"Oculto"
+	],
+	"TEXT": [
+		"Vença uma combate restando apenas 1 de HP.",
+		"Com 3 ou menos cartas na mão, compre, and discard pile combined.",
+		"Vença um combate sem realizar nenhum ataque.",
+		"Destrua 20 cartas em um único combate.",
+		"Obtenha 9 de energia em um único turno.",
+		"Acumule 10 ou mais buffs em um único combate.",
+		"Acumule 50 ou mais de Força durante um único combate.",
+		"Acumule 99 ou mais de escudo durante um único combate.",
+		"Acumule 999 de escudo durante um único combate.",
+		"Acumule 99 ou mais de envenenamento em um único inimigo.",
+		"Derrote 3 inimigos com envenenamento em um único combate.",
+		"Use 10 Shivs em um único turno.",
+		"Use 25 cartas em um único turno.",
+		"Derrote um chefe ainda no primeiro turno.",
+		"Derrote um chefe sem sofrer dano algum.",
+		"Derrote o Guardião.",
+		"Derrote o Hexaghost.",
+		"Derrote Gosmento Chefe.",
+		"Derrote a Automação de Bronze.",
+		"Derrote o Colecionador.",
+		"Derrote o Campeão.",
+		"Derrote o Despertado.",
+		"Derrote Donu & Deca.",
+		"Derrote o Devorador do tempo.",
+		"Conclua o jogo com o Ironclad.",
+		"Conclua o jogo com o Silent.",
+		"Os detalhes desta conquista será revelada quando ela for desbloqueada."
+	]
+  },
+  "CharStat": {
+    "NAMES": [
+			
+	],
+	"TEXT": [
+		"Total de Horas jogadas: ",
+		"Total de Vitórias: #y",
+		"Total de Derrotas: #y",
+		"Total de Andares Alcançados: #y",
+		"Total de Chefes Derrotados: #y",
+		"Total de Inimigos Derrotados: #y",
+		"Total de Cristais Alimentados: #y",
+		"Cartas descobertas: #y",
+		"Cartas Desbloqueadas: #y",
+		"Reliquias Descobertas: #y",
+		"Reliquias Desbloqueadas: #y",
+		"Maior Ascenção: #y",
+		"Melhor Diária: #y",
+		"Vitória Mais Rápida: ",
+		"Derrotou o ",
+		": #gSim NL ",
+		": #rNão NL ",
+		"Vitórias: #y",
+		"Derrotas: #y",
+		"Andares Finalizados: #y",
+		"Chefes Derrotados: #y",
+		"Inimigos Derrotados: #y",
+		"Maios Sequência de Vitórias: #y",
+		"Melhor Pontuação: #y"
+	]
+  },
+  "StatsScreen": {
+    "NAMES": [
+		"#Estatísticas #yGerais",
+		"#yConquistas",
+		"#O #rIronclad",
+		"#gO #gSilent",
+		"#bCorvo-robô"
+	],
+	"TEXT": [
+		"Voltar"	
+	]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "Ironclad": {
+	"NAMES": [
+		"O Ironclad"
+	], 
+    "TEXT": [
+		"O Soldado remanescente do clã Ironclads. NL Vendeu sua alma para poder fazer uso de energias demoniacas."
+	]
+  },
+  "Crowbot": {
+	"NAMES": [
+		"Corvo-robô"
+	], 
+    "TEXT": [
+		"BEEP BOOP"
+	]
+  },
+  "Silent": {
+	"NAMES": [
+		"A Sorrateira"
+	], 
+    "TEXT": [
+		"Uma caçadora mortal das terras enevoadas. NL Erradica seus adversários com adagas e venenos."
+	]
+  },
+  "Neow Event": {
+	"NAMES": [
+		"Neow"
+	], 
+    "TEXT": [
+		"~Saudações...~ NL ~Eu..~ ~sou~ ~Neow...~",
+		"~Olá...~ NL ~Mais uma vez..~",
+		"~Saudações...~",
+		"~Tentando~ NL ~denovo...?~",
+		"~Reach~ ~the~ ~boss...~ NL ~to~ ~receive~ ~my..~ ~blessing...~",
+		"~Enfrente~ ~pelo...~ ~menos~ NL ~o~ ~primeiro~ ~chefe...~",
+		"~Eu~ ~te~ ~trouxe~ ~devolta...~",
+		"~Escolha...~",
+		"~Concedido...~",
+		"~Recompensa...~ NL ~..arriscada....~"
+	],
+	"OPTIONS": [
+		"[Continue]",
+		"[Converse]",
+		"[Pular]",
+		"[Ir embora]"
+	]
+  },
+  "Neow Reward": {
+	"NAMES": [
+	
+	], 
+    "TEXT": [
+		"[ #Escolha #guma #gCarta #gpara #gobtê-la ]",
+		"[ #gObtenha #guma #gCarta #grara #galeatória ]",
+		"[ #gRemova #guma #gCarta #gdo #gseu #gbaralho ]",
+		"[ #gAprimore #guma #gCarta ]",
+		"[ #gTransforme #guma #gCarta ]",
+		"[ #gObtenha #g3 #gPoções #galeatórias ]",
+		"[ #gObtenha #guma #gReliquia #gcomum #galeatória ]",
+		"[ #gHP #gmáximo #g+",
+		"[ #gObtenha #g",
+		" #gde #gOuro ]",
+		"#gRemova #g2 #gCartas ]",
+		"#gObtenha #guma #gReliquia #grara #galeatória ]",
+		"#gEscolha #guma #gCarta #grara #gpara #gobtê-la ]",
+		"#gObtenha #g",
+		" #gde #gOuro ]",
+		"#gTransforme #g2 #gCartas ]",
+		"#gHP #gmáximo #g+",
+		"[ #rPerca #r",
+		" #rde #rHP #rmáximo ",
+		"[ #rPerca #rtodo #ro #rOuro ",
+		"[ #rObtenha #ruma #rMaldição ",
+		"[ #rPerca #r50% #rdo #rseu #rHP #ratual ",
+		"Escolha uma Carta",
+		"Escolha uma Carta para removê-la ",
+		"Escolha 2 Cartas para removê-la",
+		"Escolha uma carta para transformá-la",
+		"Escolha 2 cartas para transformá-las",
+		"Escolha uma carta para aprimorá-la",
+		"[ #gInimigos #gnos #gpróximos #gtrês #gcombates #gterão #g1 #gde #gHP ]"
+	],
+	"UNIQUE_REWARDS": [
+		"[ #rPerca #rtodas #rRequilias #rIniciais #ge #gobtenha #guma #gReliquia #gde #gchefe #galeatória ]"
+	]
+  },
+  "Merchant": {
+	"NAMES": [
+		"Prossiga",
+		"~Bem-vindo!~"
+	], 
+    "TEXT": [
+		"Olá! NL Compre algo! NL Compra, compra, compra!",
+		"Gostei do seu corte de cabelo",
+		"Você tem tempo?",
+		"Você gosta mais de cachorro ou gato?",
+		"Você me parece ~perigoso,~ NL hehe...",
+		"Leve o tempo que precisar... NL ..... NL ... ou não",
+		"Gostou do tapete? NL Ele não está a venda",
+		"Ajude os pequenos empreendedores!",
+		"Mascaras são maneiras, Eu sei!",
+		"Hmm... NL ...hmm... NL Oh!",
+		"Espera um pouco e escute!",
+		"Ei, é periogo andar por aí sozinho! Melhor deixar seu Ouro comigo!",
+		"Compre algo",
+		"~*YAWN*~",
+		"Eu gosto de Ouro.",
+		"Minha cor favorita é azul. NL Qual é a sua?"
+	]
+  },
+  "Shop Screen": {
+	"NAMES": [
+		"~Bem-vindo~ NL ~bem-vindo!~",
+		"Ei, NL você precisa NL de #rOuro.",
+		"Ei camarada, você não tem #rGrana!",
+		"Ta quebrado?",
+		"Você não tem #rOuro o suficiente.",
+		"Você não consegue pagar por isso.",
+		"Isso aqui não é caridade.",
+		"~Obrigado~",
+		"Outra venda... NL hohoho! NL Ka - @Ching!@",
+		"@VENDIDO!@",
+		"Sem remmbolso.",
+		"Tenha um bom dia.",
+		"Vai embora",
+		"Escolha uma carta para removê-la do seu barato."
+	], 
+    "TEXT": [
+		"Olá! NL Compre algo! NL Compra compra compra!",
+		"Gostei do seu corte de cabelo",
+		"Você tem tempo?",
+		"Você gosta mais de cachorro ou gato?",
+		"Você me parece ~perigoso,~ NL hehe...",
+		"Leve o tempo que precisar... NL ..... NL ... ou não",
+		"Gostou do tapete? NL Ele não está a venda",
+		"Ajude os pequenos empreendedores!",
+		"Mascaras são maneiras, Eu sei!",
+		"Por um acaso, você viu meu carregamento?",
+		"Espera um pouco e escute!",
+		"Ei, é periogo andar por aí sozinho! Melhor deixar seu Ouro comigo!",
+		"Compre algo",
+		"~*YAWN*~",
+		"Eu gosto de Ouro.",
+		"Minha cor favorita é azul. NL Qual é a sua?"
+	]
+  }
+}
