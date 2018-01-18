@@ -4,7 +4,7 @@
     "FLAVOR": "Mit diesem Miniaturgegenstand fühlst du dich schwerer und standhafter.",
     "DESCRIPTIONS": [
       "Du beginnst jeden Kampf mit #b",
-      " #yBlocken."
+      " #yBlock."
     ]
   },
   "Art of War": {
@@ -129,7 +129,7 @@
     "FLAVOR": "„Mechanische Präzision führt zu wahrer Größe.“ – Der Architekt",
     "DESCRIPTIONS": [
       "Zu Beginn deines Zuges verlierst du #b",
-      " #yBlocken und nicht dein gesamtes #yBlocken."
+      " #yBlock und nicht dein gesamtes #yBlock."
     ]
   },
   "Calling Bell": {
@@ -199,14 +199,14 @@
     "NAME": "Die Kurierin",
     "FLAVOR": "Die persönliche Gehilfin des Händlers!",
     "DESCRIPTIONS": [
-      "Dem Händler gehen nie mehr Karten, Relikte oder Tränke aus."
+      "Dem Händler gehen nie mehr Karten, Relikte oder Tränke aus und seine Preise sind um 20% gesenkt."
     ]
   },
   "Cursed Key": {
     "NAME": "Verfluchter Schlüssel",
     "FLAVOR": "Du spürst, wie vom Schlüssel eine böse Energie ausgeht. Macht hat ihren Preis.",
     "DESCRIPTIONS": [
-      " Immer wenn du eine Truhe öffnest, erhältst du einen #rFluch.",
+      " Immer wenn du eine reguläre Truhe öffnest, erhältst du einen #rFluch.",
       "Zu Beginn jedes Zuges erhältst du [R] .",
       "Zu Beginn jedes Zuges erhältst du [G] .",
       "Zu Beginn jedes Zuges erhältst du [B] ."
@@ -268,7 +268,7 @@
     "NAME": "Enchiridion",
     "FLAVOR": "Das legendäre Tagebuch eines uralten Lichs.",
     "DESCRIPTIONS": [
-      "Du beginnst jeden Kampf mit einer zufälligen #yMachtkarte auf deiner Hand. Das Ausspielen kostet #b0."
+      "Du beginnst jeden Kampf mit einer zufälligen #yMachtkarte auf deiner Hand. Sie kostet #b0 bis zum Ende des Zuges."
     ]
   },
   "Eternal Feather": {
@@ -292,7 +292,7 @@
     "NAME": "Gefrorenes Auge",
     "FLAVOR": "VERALTET",
     "DESCRIPTIONS": [
-      "Die oberste Karte deines Aufnahmestapels wird aufgedeckt."
+      "Dein Aufnahmestapel wird in richtiger Reihenfolge angezeigt, wenn du ihn ansiehst."
     ]
   },
   "Gambling Chip": {
@@ -354,7 +354,7 @@
     "NAME": "Juzu-Armband",
     "FLAVOR": "Bietet Schutz gegen das Unbekannte.",
     "DESCRIPTIONS": [
-      "Du begegnest in #y? Räumen keinen Monstern mehr."
+      "Du begegnest in #y? Räumen keinen regulären Monstern mehr."
     ]
   },
   "Kunai": {
@@ -433,7 +433,7 @@
     "NAME": "Fleisch am Knochen",
     "FLAVOR": "Das Fleisch erneuert sich immer wieder und scheint nie komplett aufgebraucht zu werden.",
     "DESCRIPTIONS": [
-      "Hast du am Ende des Kampfes weniger als #b50% TP, heilst du #b",
+      "Hast du am Ende des Kampfes genau oder weniger als #b50% TP, heilst du #b",
       " TP."
     ]
   },
@@ -557,8 +557,8 @@
     "NAME": "Oreichalkos",
     "FLAVOR": "Ein grünliches Metall unbekannten Ursprungs. Scheinbar unverwüstlich.",
     "DESCRIPTIONS": [
-      "Beendest du deinen Zug ohne #yBlocken, erhältst du #b",
-      " #yBlocken."
+      "Beendest du deinen Zug ohne #yBlock, erhältst du #b",
+      " #yBlock."
     ]
   },
   "Ornamental Fan": {
@@ -566,7 +566,7 @@
     "FLAVOR": "Wird Blut vergossen, öffnet sich der Fächer und verhärtet sich.",
     "DESCRIPTIONS": [
       "Immer wenn du in einem einzigen Zug #b3 #yAngriffe ausspielst, erhältst du #b",
-      " #yBlocken."
+      " #yBlock."
     ]
   },
   "Orrery": {
@@ -642,7 +642,7 @@
     "NAME": "Gebetsmühle",
     "FLAVOR": "Das Rad dreht sich immerfort und bleibt nie stehen.",
     "DESCRIPTIONS": [
-      "Nicht zu Bossen gehörende Truhen enthalten jetzt Karten."
+      "Reguläre Truhen enthalten jetzt Karten."
     ]
   },
   "Question Card": {
@@ -671,7 +671,7 @@
     "NAME": "Roter Schädel",
     "FLAVOR": "Ein kleiner, mit Farbe verzierter Schädel.",
     "DESCRIPTIONS": [
-      "Wenn deine TP unter #b50% betragen, erhältst du zusätzlich #b",
+      "Wenn deine TP unter oder genau #b50% sind, erhältst du zusätzlich #b",
       " #yStärke."
     ]
   },
@@ -721,7 +721,7 @@
     "FLAVOR": "„Wie merkwürdig! Er scheint sich basierend auf meinen Gedanken zu formen! Tele-Ton?\" – Ranwid",
     "DESCRIPTIONS": [
       "Immer wenn du im Kampf TP verlierst, erhältst du #b",
-      " #yBlocken im nächsten Zug."
+      " #yBlock im nächsten Zug."
     ]
   },
   "Shovel": {
@@ -872,7 +872,7 @@
     "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
     "DESCRIPTIONS": [
       "Am Ende jedes Zuges erhältst du #b",
-      " #yBlocken pro #b",
+      " #yBlock pro #b",
       " #yGold in deinem Besitz."
     ]
   },
@@ -952,7 +952,7 @@
     "FLAVOR": "Verlust sorgt für Stärke.",
     "DESCRIPTIONS": [
       "Wirfst du in deinem Zug eine Karte ab, erhältst du pro abgeworfener Karte #b",
-      " #yBlocken."
+      " #yBlock."
     ]
   },
   "Toxic Egg": {

@@ -1,6 +1,18 @@
 Updates for Translators!
 ----------------------------------
 
+1/17/2018:
+cards.json
+	Expertise is reworked
+
+score_bonus.json
+	Completely new file for score bonuses. EXTRA_TEXT is getting deprecated later.
+
+tutorials.json
+	 "Its power is all used up."
+
+----------------------------------
+
 1/15/2018:
 ui.json
 	New field "EXTRA_TEXT"

@@ -172,7 +172,7 @@
 	"NAME": "Chameleon Ring",
 	"FLAVOR": "Deprecated",
     "DESCRIPTIONS": [
-	"You can now #yBrew at campfires."
+	"You can now #yBrew at Rest Sites."
 	]
   },
   "Champion Belt": {
@@ -286,7 +286,7 @@
     "DESCRIPTIONS": [
 	"For every #b", 
 	" cards in your deck, heal #b",
-	" HP whenever you enter a campfire." 
+	" HP whenever you enter a Rest Site." 
 	]
   },
   "Frozen Egg": {
@@ -315,7 +315,7 @@
 	"NAME": "Girya",
 	"FLAVOR": "This Girya is unfathomably heavy. You could train with this to get significantly stronger.",
     "DESCRIPTIONS": [
-	"You can now gain #yStrength at campfires. (3 times max)"
+	"You can now gain #yStrength at Rest Sites. (3 times max)"
 	]
   },
   "Golden Idol": {
@@ -613,7 +613,7 @@
 	"NAME": "Peace Pipe",
 	"FLAVOR": "Clears the mind and cleanses the soul.",
     "DESCRIPTIONS": [
-	"You can now remove cards from your deck at campfires."
+	"You can now remove cards from your deck at Rest Sites."
 	]
   },
   "Pear": {
@@ -730,7 +730,7 @@
 	"NAME": "Shovel",
 	"FLAVOR": "The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up!",
     "DESCRIPTIONS": [
-	 "You can now #yDig for loot at campfires."
+	 "You can now #yDig for loot at Rest Sites."
 	]
   },
   "Shuriken": {
@@ -825,9 +825,9 @@
 	"NAME": "Ancient Tea Set",
 	"FLAVOR": "The key to a refreshing night's rest.",
     "DESCRIPTIONS": [
-	"Whenever you get to a rest site, start the next combat with [R] [R] .",
-	"Whenever you get to a rest site, start the next combat with [G] [G] .",
-	"Whenever you get to a rest site, start the next combat with [B] [B] ."
+	"Whenever you enter a Rest Site, start the next combat with [R] [R] .",
+	"Whenever you enter a Rest Site, start the next combat with [G] [G] .",
+	"Whenever you enter a Rest Site, start the next combat with [B] [B] ."
 	]
   },
   "War Paint": {

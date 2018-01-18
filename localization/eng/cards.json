@@ -868,6 +868,6 @@
   },
   "Expertise": {
     "NAME": "Expertise",
-    "DESCRIPTION": "Gain !B! block. NL Can be upgraded any number of times."
+    "DESCRIPTION": "Draw cards until you have !M! in hand."
   }
 }

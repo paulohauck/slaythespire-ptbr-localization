@@ -58,7 +58,8 @@
   "Relic Tip": {
     "TEXT": [
       "Les Reliques trouvées dans la Tour vous octroient des bonus uniques et restent effectives jusqu'à la fin de votre partie. NL Vous pouvez en trouver en terrassant des ennemis puissants ou dans des coffres.",
-      "Cette Relique doit être découverte."
+      "Cette Relique doit être découverte.",
+      "Its power is all used up."
     ],
     "LABEL": [
       "Reliques",

@@ -59,7 +59,7 @@
   "Storm of Steel": {
     "NAME": "鋼鐵風暴",
     "DESCRIPTION": "丟棄所有手牌。 NL 每丟棄一張牌，在你的手牌中增加一張 小刀 。",
-    "UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 upgraded Shiv to your hand for each card discarded."
+    "UPGRADE_DESCRIPTION": "丟棄所有手牌. NL 每丟棄一張牌，在你的手牌中增加一張 升級後的小刀."
   },
   "Cleave": {
     "NAME": "順劈斬",
@@ -167,7 +167,7 @@
   "Trip": {
     "NAME": "絆倒",
     "DESCRIPTION": "給予 2 層 易傷 。",
-    "UPGRADE_DESCRIPTION": "Apply !M! Vulnerable to ALL enemies."
+    "UPGRADE_DESCRIPTION": "施放 !M! 層 易傷 到所有敵人身上."
   },
   "Dagger Throw": {
     "NAME": "投擲匕首",
@@ -268,7 +268,7 @@
     "DESCRIPTION": "對所有敵人造成 !D! 點傷害，給予1層 易傷 。"
   },
   "Flame Barrier": {
-    "NAME": "火焰屏障",
+    "NAME": "火焰護盾",
     "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 你在這個回合每受到一次攻擊，都對攻擊者造成 !M! 點傷害。"
   },
   "Endless Agony": {
@@ -316,7 +316,7 @@
   "Blind": {
     "NAME": "致盲",
     "DESCRIPTION": "給予1層 虛弱 。",
-    "UPGRADE_DESCRIPTION": "Apply !M! Weak to ALL enemies."
+    "UPGRADE_DESCRIPTION": "給予 !M! 層 虛弱 到所有敵人身上."
   },
   "Doppelganger": {
     "NAME": "雙重存在",
@@ -405,7 +405,7 @@
     "DESCRIPTION": "從抽牌堆中選擇一張技能牌放入你的手牌。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "我的抽牌堆中 NL 沒有技能牌。",
     "EXTENDED_DESCRIPTION": [
-      "There are no Skills NL in my draw pile."
+      "我的抽牌堆中 NL 沒有技能牌."
     ]
   },
   "Calculated Gamble": {
@@ -420,7 +420,7 @@
   "Deep Breath": {
     "NAME": "深呼吸",
     "DESCRIPTION": "將你的棄牌堆洗牌後放入你的抽牌堆。 NL 抽1張牌。",
-    "UPGRADE_DESCRIPTION": "Shuffle your discard pile into your draw pile. NL Draw !M! cards."
+    "UPGRADE_DESCRIPTION": "將你的棄牌堆洗牌後放入你的抽牌堆。 NL 抽 !M! 張牌."
   },
   "Doubt": {
     "NAME": "疑慮",
@@ -506,7 +506,7 @@
     "DESCRIPTION": "從抽牌堆中選擇一張攻擊牌放入你的手牌。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "我的抽牌堆中 NL 沒有攻擊牌。",
     "EXTENDED_DESCRIPTION": [
-      "There are no Attacks NL in my draw pile."
+      "我的抽牌堆中 NL 沒有攻擊牌."
     ]
   },
   "Apotheosis": {
@@ -519,7 +519,7 @@
   },
   "Hide": {
     "NAME": "躲藏",
-    "DESCRIPTION": "You cannot lose HP until the start of your next turn. NL 消耗 。"
+    "DESCRIPTION": "再下一回合開始之前你不會受到損失HP. NL 消耗 。"
   },
   "Corruption": {
     "NAME": "腐化",
@@ -629,7 +629,7 @@
   "Enlightenment": {
     "NAME": "開悟",
     "DESCRIPTION": "在這個回合，你的所有手牌耗能降低到1。",
-    "UPGRADE_DESCRIPTION": "Reduce the cost of cards in your hand to 1 this combat."
+    "UPGRADE_DESCRIPTION": "在這個回合，你的所有手牌耗能降低到1."
   },
   "Purity": {
     "NAME": "淨化",
@@ -646,7 +646,7 @@
   "Transmutation": {
     "NAME": "轉化",
     "DESCRIPTION": " 變化 你的所有手牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "Add X random upgraded colorless cards into your hand. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "隨機 X 變化你的卡牌變更為升級後的隨機卡牌."
   },
   "Backstab": {
     "NAME": "背刺",
@@ -795,8 +795,8 @@
   },
   "Mind Blast": {
     "NAME": "心靈震懾",
-    "DESCRIPTION": "造成你抽牌堆中剩餘牌數的傷害。",
-    "UPGRADE_DESCRIPTION": "Innate. NL Deal damage equal to the number of cards in your draw pile."
+    "DESCRIPTION": "",
+    "UPGRADE_DESCRIPTION": "固有. NL 造成你抽牌堆中剩餘牌數的傷害."
   },
   "Neutralize": {
     "NAME": "中和",
@@ -840,7 +840,7 @@
   "Thinking Ahead": {
     "NAME": "深謀遠慮",
     "DESCRIPTION": "抽2張牌，然後將手牌中的一張牌放到你抽牌堆的頂端。",
-    "UPGRADE_DESCRIPTION": "Draw 2 cards. NL Put a card from your hand on top of your draw pile."
+    "UPGRADE_DESCRIPTION": "抽2張牌，然後將手牌中的一張牌放到你抽牌堆的頂端."
   },
   "Distraction": {
     "NAME": "聲東擊西",

@@ -43,7 +43,7 @@
     "SHIV": {
       "NAMES": [
         "Klinge",
-        "Klinge",
+        "Klingen",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
@@ -178,7 +178,7 @@
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "Bis zum Ende des Kampfes entfernt."
+      "DESCRIPTION": "Erschöpfte Karten werden bis zum Ende des Kampfes aus deinem Deck entfernt."
     },
     "RETAIN": {
       "NAMES": [
@@ -245,13 +245,13 @@
     },
     "ARTIFACT": {
       "NAMES": [
-        "artifact",
+        "Artifakt",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "Negates the next debuff."
+      "DESCRIPTION": "Negiert den nächsten Debuff."
     }
   }
 }

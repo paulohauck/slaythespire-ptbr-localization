@@ -378,26 +378,26 @@
       "生命值奖励"
     ],
     "EXTRA_TEXT": [
-      "Exordium Elites Killed",
-      "City Elites Killed",
-      "Beyond Elites Killed",
-      "Speedster",
-      "Light Speed",
-      "Highlander",
-      "Collection",
-      "Full Set",
-      "Pauper",
-      "Librarian",
-      "Encyclopedia",
-      "Well Fed",
-      "Stuffed",
-      "Curses!",
-      "On My Own Terms",
+      "塔底 所杀精英 ",
+      "城市 所杀精英 ",
+      "深处 所杀精英 ",
+      "极速",
+      "光速",
+      "独一无二",
+      "遗物收藏家",
+      "一副炸弹",
+      "平民",
+      "卡牌收藏者",
+      "百科全书",
+      "饱餐",
+      "饕餮",
+      "诅咒！",
+      "不死于敌手",
       "",
-      "Perfect",
-      "Beyond Perfect",
-      "Overkill",
-      "C-c-c-combo",
+      "完胜",
+      "全面完胜",
+      "虐杀",
+      "连续技",
       ""
     ]
   },
@@ -556,7 +556,7 @@
       "补丁内容清单",
       "放弃当前游戏",
       "放弃当前游戏（请再次点击来确认放弃）",
-      "Settings"
+      "设定"
     ]
   },
   "PatchNotesScreen": {
@@ -809,8 +809,8 @@
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "These cards were exhausted this combat.",
-      "Return"
+      "在这场战斗中被 消耗 的牌。",
+      "返回"
     ]
   }
 }

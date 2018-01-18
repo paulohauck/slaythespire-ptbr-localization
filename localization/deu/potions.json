@@ -3,7 +3,7 @@
     "NAME": "Blocktrank",
     "DESCRIPTIONS": [
       "Du erhältst #b",
-      " #yBlocken."
+      " #yBlock."
     ]
   },
   "Dexterity Potion": {
@@ -18,7 +18,7 @@
     "DESCRIPTIONS": [
       "",
       "",
-      "Du #yErschöpfst alle #yStatuskarten auf deiner Hand.",
+      "Du #yErschöpfst alle #yStatuskarten und #Flüche auf deiner Hand.",
       "",
       "Es hatte keinen Effekt …"
     ]

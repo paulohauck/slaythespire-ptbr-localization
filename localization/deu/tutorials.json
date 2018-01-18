@@ -58,7 +58,8 @@
   "Relic Tip": {
     "TEXT": [
       "Relikte, die im Spire gefunden werden, gewähren einzigartige Boni und werden während des gesamten Durchlaufs behalten. NL Sie können durch das Besiegen von mächtigen Gegnern oder in Truhen gefunden werden.",
-      "Dieses Relikt muss noch entdeckt werden."
+      "Dieses Relikt muss noch entdeckt werden.",
+      "Its power is all used up."
     ],
     "LABEL": [
       "Relikte",
@@ -79,7 +80,7 @@
     "TEXT": [
       "Zu Beginn jedes Zuges werden hier NL #b",
       " Karten gezogen. NL NL Klicke, um die Karten in deinem Aufnahmestapel anzusehen (gemischt).",
-      " cards are drawn from here. NL NL Click to view the cards in your draw pile."
+      " Karten gezogen. NL NL Klicke, um die Karten in deinem Aufnahmestapel anzusehen."
     ],
     "LABEL": [
       "Aufnahmestapel"
@@ -209,10 +210,10 @@
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Click to view cards Exhausted this combat."
+      "Klicke, um die in diesem Kampf erschöpften Karten anzusehen."
     ],
     "LABEL": [
-      "Exhausted Cards"
+      "Erschöpfte Karte"
     ]
   }
 }

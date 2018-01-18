@@ -335,26 +335,26 @@
       "TP-Bonus"
     ],
     "EXTRA_TEXT": [
-      "Exordium Elites Killed",
-      "City Elites Killed",
-      "Beyond Elites Killed",
-      "Speedster",
-      "Light Speed",
-      "Highlander",
-      "Collection",
-      "Full Set",
-      "Pauper",
-      "Librarian",
-      "Encyclopedia",
-      "Well Fed",
-      "Stuffed",
-      "Curses!",
-      "On My Own Terms",
+      "Exordium-Eliten getötet",
+      "Stadt-Eliten getötet",
+      "Jenseits-Eliten getötet",
+      "Sprinter",
+      "Lichtgeschwindigkeit",
+      "Hochländer",
+      "Sammlung",
+      "Volles Set",
+      "Knabe",
+      "Bibliothekar",
+      "Enzyklopädie",
+      "Gut genährt",
+      "Vollgestopft",
+      "Verflucht!",
+      "Selbst schuld",
       "",
-      "Perfect",
-      "Beyond Perfect",
+      "Perfekt",
+      "Mehr als Perfekt",
       "Overkill",
-      "C-c-c-combo",
+      "K-k-k-kombo",
       ""
     ]
   },
@@ -450,7 +450,7 @@
       "Spiel verlassen",
       "Speichern & Verlassen",
       "NL NL VSync",
-      "Playtester Art Mode"
+      "Spieltester Kartendesign"
     ]
   },
   "SettingsScreen": {
@@ -513,7 +513,7 @@
       "Patchnotizen",
       "Durchlauf abbrechen",
       "Durchlauf abbrechen (erneut klicken zum Bestätigen)",
-      "Settings"
+      "Einstellungen"
     ]
   },
   "PatchNotesScreen": {
@@ -553,7 +553,7 @@
       " Verbleibende Freischaltungen",
       "Unbekannt",
       "???",
-      " To Next Unlock"
+      " Zur nächsten Freischaltung"
     ]
   },
   "CharacterSelectScreen": {
@@ -598,7 +598,7 @@
       "Dieser Gegner schläft.",
       "Dieser Gegner ist in seinem Zug #ybetäubt.",
       "Die Absichten dieses Gegners sind #yUnbekannt (wird nicht angreifen).",
-      "Blocked"
+      "Geblockt"
     ]
   },
   "AbstractDungeon": {
@@ -779,7 +779,7 @@
       "Lade Daten...",
       "Rangliste",
       "Nicht mit Steam verbunden",
-      "No Scores Available \n Go Slay the Spire!"
+      "Keine Scores verfügbar \n Geh und Slay the Spire!"
     ]
   },
   "ExhumeAction": {
@@ -789,28 +789,28 @@
   },
   "LeaderboardFilters": {
     "TEXT": [
-      "Ironclad",
-      "The Silent",
+      "Der Eiserne",
+      "Die Stille",
       "3rd Char. DO NOT TRANSLATE",
-      "Average Floor Reached (Last 20 Attempts)",
-      "Average Score (Last 20 Attempts)",
-      "Best Win Streak",
-      "Fastest Victory",
-      "High Score",
+      "Durschnittlich erreichte Ebene (Letzte 20 Versuche)",
+      "Durchschnittlicher Score (Letzte 20 Versuche)",
+      "Beste Siegesserie",
+      "Schnellster Sieg",
+      "Höchster Score",
       "Option 6. DO NOT TRANSLATE",
-      "Friends",
+      "Freunde",
       "Global"
     ]
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile."
+      "Wähle eine Karte, um sie oben auf deinen Aufnahmestapel zu legen."
     ]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "These cards were exhausted this combat.",
-      "Return"
+      "Diese Karten wurde diesen Kampf erschöpft.",
+      "Zurück"
     ]
   }
 }

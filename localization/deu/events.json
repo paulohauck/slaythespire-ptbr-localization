@@ -276,7 +276,7 @@
       " #gTP.",
       "[Donut] #gMax. #gTP #g+",
       ".",
-      "[Kiste] #Erhalte #gein #gRelikt. #rWerde #rverflucht #r– #rReue.",
+      "[Kiste] #gErhalte #gein #gRelikt. #rWerde #rverflucht #r– #rReue.",
       "[Verlassen]"
     ]
   },
@@ -332,7 +332,7 @@
       "Wenn es jemals eine offensichtliche Falle gab, dann ist es diese. NL Du entscheidest dich, Objekte auf Podesten ungestört zu lassen."
     ],
     "OPTIONS": [
-      "[Nehmen] #gErhalte #gGoldenen #gGötzen. #rLöse #reine #rFalle #raus.",
+      "[Nehmen] #gErhalte #gDen #gGoldenen #gGötzen. #rLöse #reine #rFalle #raus.",
       "[Verlassen]",
       "[Wegrennen] #rWerde #rverflucht #r– #rVerletzung.",
       "[Zerschmettern] #rErleide #r",
