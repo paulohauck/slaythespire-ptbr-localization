@@ -82,7 +82,7 @@
 		"[ #gInimigos #gnos #gpróximos #gtrês #gcombates #gterão #g1 #gde #gHP ]"
 	],
 	"UNIQUE_REWARDS": [
-		"[ #rPerca #rtodas #rRequilias #rIniciais #ge #gobtenha #guma #gReliquia #gde #gchefe #galeatória ]"
+		"[ #rPerca #rtodas #rRequilias #rIniciais #ge #gobtenha #guma #gReliquia #gde #gchefe #galeatória]"
 	]
   },
   "Merchant": {
@@ -102,7 +102,7 @@
 		"Mascaras são maneiras, Eu sei!",
 		"Hmm... NL ...hmm... NL Oh!",
 		"Espera um pouco e escute!",
-		"Ei, é periogo andar por aí sozinho! Passa a grana!",
+		"Ei, é periogo andar por aí sozinho! Deixe seu Ouro aqui comigo!",
 		"Compre algo",
 		"~*YAWN*~",
 		"Eu gosto de Ouro.",
@@ -138,7 +138,7 @@
 		"Mascaras são maneiras, Eu sei!",
 		"Por um acaso, você viu meu carregamento?",
 		"Espera um pouco e escute!",
-		"Ei, é periogo ficar andando por aí sozinho! Passa a grana!",
+		"Ei, é periogo ficar andando por aí sozinho! Deixe seu Ouro aqui comigo!",
 		"Compre algo",
 		"~*YAWN*~",
 		"Eu gosto de Ouro.",
