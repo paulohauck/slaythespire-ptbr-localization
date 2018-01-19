@@ -646,7 +646,7 @@
   "Transmutation": {
     "NAME": "转化",
     "DESCRIPTION": "在你的手牌中加入 X 张随机无色牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "在你的手牌中加入 X 张随机升级过的无色牌。 NL 消耗 。"
+    "UPGRADE_DESCRIPTION": "在你的手牌中加入 X 张升级过的随机无色牌。 NL 消耗 。"
   },
   "Backstab": {
     "NAME": "背刺",
@@ -868,6 +868,6 @@
   },
   "Expertise": {
     "NAME": "独门技术",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 能被多次 升级 。"
+    "DESCRIPTION": "抽牌直到你的手牌有 !M! 张牌。"
   }
 }

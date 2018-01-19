@@ -1,6 +1,15 @@
 Updates for Translators!
 ----------------------------------
 
+1/17/2018 #2:
+ui.json
+	"MainMenuButtons"
+		"Leaderboards (BETA)" -> "Leaderboards"
+	"LeaderboardsScreen"
+		"Leaderboards" -> "Leaderboards (NOTE: Will be reset weekly)"
+
+----------------------------------
+
 1/17/2018:
 cards.json
 	Expertise is reworked
