@@ -193,7 +193,9 @@
   },
   "TopPanel": {
     "TEXT": [
-      "層"
+      "層",
+      " - Ascension ",
+      " (Max Level)"
     ]
   },
   "UnlockCharacterScreen": {
@@ -606,7 +608,10 @@
       "鐵衛士",
       "寂靜獵手",
       "烏鴉機器人",
-      "返回"
+      "返回",
+      "Ascension Mode (Level ",
+      ")",
+      "Ascension Mode"
     ]
   },
   "AbstractMonster": {
@@ -811,6 +816,20 @@
     "TEXT": [
       "These cards were exhausted this combat.",
       "Return"
+    ]
+  },
+  "AscensionModeDescriptions": {
+    "TEXT": [
+      "1. Elites spawn more often.",
+      "2. Normal enemies deal more damage.",
+      "3. Elites deal more damage.",
+      "4. Bosses deal more damage.",
+      "5. Heal less after Boss battles.",
+      "6. Start each run damaged.",
+      "7. Normal enemies have more HP.",
+      "8. Elites have more HP.",
+      "9. Bosses have more HP.",
+      "10. Start with 1 Curse."
     ]
   }
 }

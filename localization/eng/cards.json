@@ -796,7 +796,10 @@
   "Mind Blast": {
     "NAME": "Mind Blast",
     "DESCRIPTION": "Deal damage equal to the number of cards in your draw pile.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Deal damage equal to the number of cards in your draw pile."
+    "UPGRADE_DESCRIPTION": "Innate. NL Deal damage equal to the number of cards in your draw pile.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Deals !D! damage.)"
+    ]
   },
   "Neutralize": {
     "NAME": "Neutralize",

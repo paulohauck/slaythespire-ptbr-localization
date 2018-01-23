@@ -155,7 +155,9 @@
   },
   "TopPanel": {
     "TEXT": [
-      " Ebene"
+      " Ebene",
+      " - Ascension ",
+      " (Max Level)"
     ]
   },
   "UnlockCharacterScreen": {
@@ -486,7 +488,7 @@
     "TEXT": [
       "Was ist Early Access?",
       "Was ist eine Open Beta?",
-      "Slay the Spire befindet sich immer noch in der aktiven Entwicklung! NL Viele Funktionen, Karten und Gegner werden immer noch überarbeitet. NL NL Wenn du irgendwelche Probleme oder Feedback für uns hast, lass es uns über unsere #bSteam-#bDiskussionsseite wissen. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
+      "Slay the Spire befindet sich immer noch in der aktiven Entwicklung! NL Viele Funktionen, Karten und Gegner werden immer noch überarbeitet. NL NL Wenn du irgendwelche Probleme oder Feedback für uns hast, lass es uns über unsere #bSteam-Diskussionsseite wissen. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
       "Slay the Spire befindet sich immer noch in der aktiven Entwicklung! NL Noch dazu spielst du die Beta-Version des Spiels. NL NL Lass uns bitte von jeglichen Problemen wissen, die während des Spielens auftreten, aber sei nicht von Platzhaltern für kommende Inhalte überrascht. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
       "Klicke irgendwohin, um zu starten"
     ]
@@ -563,7 +565,10 @@
       "Der Eiserne",
       "Die Stille",
       "Krähbot",
-      "Zurück"
+      "Zurück",
+      "Ascension Mode (Level ",
+      ")",
+      "Ascension Mode"
     ]
   },
   "AbstractMonster": {
@@ -811,6 +816,20 @@
     "TEXT": [
       "Diese Karten wurde diesen Kampf erschöpft.",
       "Zurück"
+    ]
+  },
+  "AscensionModeDescriptions": {
+    "TEXT": [
+      "1. Elites spawn more often.",
+      "2. Normal enemies are deadlier.",
+      "3. Elites are deadlier.",
+      "4. Bosses are deadlier.",
+      "5. Heal less after Boss battles.",
+      "6. Start each run damaged.",
+      "7. Normal enemies are tougher.",
+      "8. Elites are tougher.",
+      "9. Bosses are tougher.",
+      "10. Parasite!"
     ]
   }
 }

@@ -230,7 +230,9 @@
   },
   "TopPanel": {
     "TEXT": [
-		" Floor"	
+		" Floor",
+		" - Ascension ",
+		" (Max Level)"
 	]
   },
   "UnlockCharacterScreen": {
@@ -313,13 +315,13 @@
     "TEXT": [
 		"Tutorials",
 		"Do you wish to see gameplay hints as you play the game?",
-		"Level 1",
+		"Act 1",
 		"Exordium",
-		"Level 2",
+		"Act 2",
 		"The City",
-		"Level 3",
+		"Act 3",
 		"The Beyond",
-		"Level ?",
+		"Act ?",
 		"???",
 		"Click Anywhere to Continue"
 	]
@@ -649,7 +651,24 @@
 		"The Ironclad",
 		"The Silent",
 		"Crowbot",
-		"Back"
+		"Back",
+		"Ascension Mode (Level ",
+		")",
+		"Ascension Mode"
+	]
+  },
+  "AscensionModeDescriptions": {
+  	"TEXT": [
+		"1. Elites spawn more often.",
+		"2. Normal enemies are deadlier.",
+		"3. Elites are deadlier.",
+		"4. Bosses are deadlier.",
+		"5. Heal less after Boss battles.",
+		"6. Start each run damaged.",
+		"7. Normal enemies are tougher.",
+		"8. Elites are tougher.",
+		"9. Bosses are tougher.",
+		"10. Parasite!"
 	]
   },
   "AbstractMonster": {

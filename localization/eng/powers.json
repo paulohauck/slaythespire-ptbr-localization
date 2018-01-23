@@ -132,7 +132,7 @@
     "NAME": "Curl Up",
     "DESCRIPTIONS": [
 	"On taking #yAttack damage, rolls up and gains ", 
-	" #yBlock."
+	" #yBlock. (Once per combat)"
     ]
   },
   "Dance Puppet": {

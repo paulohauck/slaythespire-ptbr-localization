@@ -1,43 +1,43 @@
 {
   "Ironclad": {
     "NAMES": [
-      "The Ironclad"
+      "아이언클래드"
     ],
     "TEXT": [
-      "The remaining soldier of the Ironclads. NL Sold his soul to harness demonic energies."
+      "아이언클래드의 살아남은 병사입니다. NL 악마의 힘을 사용하기 위해 영혼을 팔았습니다."
     ]
   },
   "Crowbot": {
     "NAMES": [
-      "Crowbot"
+      "크로우봇"
     ],
     "TEXT": [
-      "BEEP BOOP"
+      "삑 삑"
     ]
   },
   "Silent": {
     "NAMES": [
-      "The Silent"
+      "사일런트"
     ],
     "TEXT": [
-      "A deadly huntress from the foglands. NL Eradicates foes with daggers and poisons."
+      "안개 지대에서 온 치명적인 사냥꾼입니다. NL 단검과 독으로 적들을 박멸합니다."
     ]
   },
   "Neow Event": {
     "NAMES": [
-      "Neow"
+      "니오우"
     ],
     "TEXT": [
-      "~Greetings...~ NL ~I..~ ~am~ ~Neow...~",
-      "~Hello...~ NL ~Again..~",
-      "~Greetings...~",
-      "~Another~ NL ~try...?~",
-      "~Reach~ ~the~ ~boss...~ NL ~to~ ~receive~ ~my..~ ~blessing...~",
-      "~At~ ~least...~ ~confront~ NL ~the~ ~first~ ~boss...~",
-      "~I~ ~brought~ ~you~ ~back...~",
-      "~Choose...~",
-      "~Granted...~",
-      "~Risk...~ NL ~..reward....~"
+      "~반갑군...~ NL ~난..~ ~니오우~ ~라네...~",
+      "~또...~ NL ~만났군..~",
+      "~반갑군...~",
+      "~한번~ ~더~ NL ~도전할텐가...?~",
+      "~내~ ~축복을~ ~받고~ ~싶다면...~ NL ~첫번째~ ~보스까지~ ~도달하도록...~",
+      "~적어도~ ~말이야...~ ~첫번째~ ~보스를~ NL ~만나고~ ~오렴...~",
+      "~내가~ ~널~ ~다시~ ~데려왔지...~",
+      "~선택하여라...~",
+      "~승인하마...~",
+      "~위험...~ NL ~..보상....~"
     ],
     "OPTIONS": [
       "[계속]",
@@ -62,12 +62,12 @@
       "#g카드 #g2장을 #g제거 ]",
       "#g무작위로 #g희귀 #g유물을 #g획득 ]",
       "#g희귀 #g카드를 #g선택 ]",
-      "#gGain #g",
+      "#g획득 #g: #g",
       " #g획득 ]",
       "#g카드 #g2장을 #g변화 ]",
-      "#gMax #gHP #g+",
-      "[ #rLose #r",
-      " #rMax #rHP ",
+      "#g최대 #g체력 #g+",
+      "[ #r손실 #r: #r",
+      " #r최대 #r체력 ",
       "[ #r골드를 #r전부 #r잃고 ",
       "[ #r저주를 #r하나 #r받고 ",
       "[ #r현재 #r체력의 #r50%를 #r잃고 ",
@@ -77,7 +77,7 @@
       "변화시킬 카드를 선택하십시오",
       "변화할 카드를 2장 선택하십시오",
       "강화할 카드를 선택하십시오",
-      "[ #g다음 #g3번의 #g전투 #g동안 #g적들이 #g체력 1인 #g상태로 #g시작 ]"
+      "[ #g다음 #g3번의 #g전투 #g동안 #g적들이 #g체력 #g1인 #g상태로 #g시작 ]"
     ],
     "UNIQUE_REWARDS": [
       "[ #r시작 #r유물을 #r잃고 #g무작위로 #g보스 #g유물을 #g획득 ]"
@@ -86,61 +86,61 @@
   "Merchant": {
     "NAMES": [
       "진행",
-      "~Welcome!~"
+      "~어서오세요!~"
     ],
     "TEXT": [
-      "Hi! NL Buy something! NL Buy buy buy!",
-      "I like your haircut",
-      "Do you have the time?",
-      "Are you a dog person or a cat person?",
-      "You look ~dangerous,~ NL hehe...",
-      "Take your time... NL ..... NL ... or not",
-      "Do you like this rug? NL It's not for sale",
-      "Support small business!",
-      "Masks are cool, I would know!",
-      "Hmm... NL ...hmm... NL Oh!",
-      "Stay awhile and listen!",
-      "It's dangerous to go alone! Give me all your gold!",
-      "Buy somethin'",
-      "~*YAWN*~",
-      "I like gold.",
-      "My favorite color is blue. NL How bout you?"
+      "안녕하세요! NL 뭐 좀 사가세요! NL 사고 사고 또 사세요!",
+      "헤어스타일 멋진데요",
+      "지금 몇 시죠?",
+      "당신은 견인인가요 아니면 묘인인가요?",
+      "당신은 ~위험해~ 보여요. NL 헤헤...",
+      "천천히 구경하세요... NL ..... NL ...  싫음 말고",
+      "이 깔개가 맘에 들어요? NL 이건 파는 게 아닙니다",
+      "소상인을 도와줘요!",
+      "가면은 멋지죠. 나도 알고 있어요!",
+      "흠... NL ...흠... NL 오!",
+      "잠깐만 들어보라구요!",
+      "혼자 가기엔 위험해요! 골드를 전부 주고 가세요!",
+      "뭔가 사지 그래요",
+      "~*하품*~",
+      "난 골드가 좋아요.",
+      "난 파랑색을 가장 좋아하는데, NL 당신은 어때요?"
     ]
   },
   "Shop Screen": {
     "NAMES": [
-      "~Welcome~ NL ~welcome!~",
-      "Hey now, NL you need NL more #rGold.",
-      "Hey buddy, you got no #rMoney!",
-      "You broke?",
-      "You don't got enough #rGold.",
-      "You can't afford that.",
-      "This isn't a charity.",
-      "~Thaaaanks~",
-      "Another sale... NL hohoho! NL Cha - @Ching!@",
-      "@SOLD!@",
-      "No Refunds.",
-      "Have a nice day.",
+      "~어서와요~ NL ~어서와!~",
+      "어이 이봐요, NL 당신 #r골드 가 NL 더 필요해요.",
+      "이봐 친구, #r돈 이 없잖아요!",
+      "당신 빈털털이?",
+      "#r골드 가 충분하지 않아요.",
+      "그럴 여유가 없는거 같은데요?",
+      "이건 자선사업이 아니예요.",
+      "~고오오마워요~",
+      "하나 더 판매... NL 호호호! NL 짤 - @랑!@",
+      "@판매@ @완료!@",
+      "환불은 안 돼요.",
+      "좋은 하루 되세요.",
       "떠나기",
       "덱에서 제거할 카드를 선택하십시오."
     ],
     "TEXT": [
-      "Hi! NL Buy something! NL Buy buy buy!",
-      "I like your haircut",
-      "Do you have the time?",
-      "Are you a dog person or a cat person?",
-      "You look ~dangerous,~ NL hehe...",
-      "Take your time... NL ..... NL ... or not",
-      "Do you like this rug? NL It's not for sale",
-      "Support small business!",
-      "Masks are cool, I would know!",
-      "Have you seen my courier?",
-      "Stay awhile and listen!",
-      "It's dangerous to go alone! Give me all your gold!",
-      "Buy somethin'",
-      "~*YAWN*~",
-      "I like gold.",
-      "My favorite color is blue. NL How bout you?"
+      "안녕하세요! NL 뭐 좀 사가세요! NL 사고 사고 또 사세요!",
+      "헤어스타일 멋진데요",
+      "지금 몇 시죠?",
+      "당신은 견인인가요 아니면 묘인인가요?",
+      "당신은 ~위험해~ 보여요. NL 헤헤...",
+      "천천히 구경하세요... NL ..... NL ...  싫음 말고",
+      "이 깔개가 맘에 들어요? NL 이건 파는 게 아닙니다",
+      "소상인을 도와줘요!",
+      "가면은 멋지죠. 나도 알고 있어요!",
+      "내 배달부 못 봤어요?",
+      "잠깐만 들어보라구요!",
+      "혼자 가기엔 위험해요! 골드를 전부 주고 가세요!",
+      "뭔가 사지 그래요",
+      "~*하품*~",
+      "난 골드가 좋아요.",
+      "난 파랑색을 가장 좋아하는데, NL 당신은 어때요?"
     ]
   }
 }

@@ -115,7 +115,7 @@
       " Karten und dann bist du wieder am Zug."
     ],
     "LABEL": [
-      "Zug beenden (E)"
+      "Zug beenden "
     ]
   },
   "Discard Tip": {
@@ -157,9 +157,9 @@
       "Du erhältst dies, wenn du einen #yBoss besiegst. NL Verfüttere diese an #yNeow, um Gegenstände freizuschalten und Boni für neue Durchläufe zu verdienen."
     ],
     "LABEL": [
-      "Einstellungen (ESC)",
-      "Deck (D)",
-      "Karte (M)",
+      "Einstellungen ",
+      "Deck ",
+      "Karte ",
       "Trefferpunkte (TP)",
       "Geldkatze"
     ]

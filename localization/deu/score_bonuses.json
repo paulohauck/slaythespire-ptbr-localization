@@ -1,168 +1,168 @@
 {
   "Beyond Elites Killed": {
-    "NAME": "Beyond Elites Killed",
+    "NAME": "Jenseits Eliten getötet",
     "DESCRIPTIONS": []
   },
   "Bosses Slain": {
-    "NAME": "Bosses Slain",
+    "NAME": "Bosse getötet",
     "DESCRIPTIONS": []
   },
   "City Elites Killed": {
-    "NAME": "City Elites Killed",
+    "NAME": "Stadt Eliten getötet",
     "DESCRIPTIONS": []
   },
   "Exordium Elites Killed": {
-    "NAME": "Exordium Elites Killed",
+    "NAME": "Exordium Eliten getötet",
     "DESCRIPTIONS": []
   },
   "Champion": {
     "NAME": "Champion",
     "DESCRIPTIONS": [
-      "Defeat an Elite without taking damage."
+      "Töte einen Elite, ohne Schaden zu nehmen."
     ]
   },
   "Perfect": {
-    "NAME": "Perfect",
+    "NAME": "Perfekt",
     "DESCRIPTIONS": [
-      "Defeat a Boss without taking damage."
+      "Töte einen Boss, ohne Schaden zu nehmen."
     ]
   },
   "Beyond Perfect": {
-    "NAME": "Beyond Perfect",
+    "NAME": "Mehr als perfekt",
     "DESCRIPTIONS": [
-      "Defeat 3 bosses without taking damage."
+      "Töte 3 Bosse, ohne Schaden zu nehmen."
     ]
   },
   "Overkill": {
     "NAME": "Overkill",
     "DESCRIPTIONS": [
-      "Deal 99 damage with a single attack."
+      "Füge 99 Schaden mit einer Attacke zu."
     ]
   },
   "Combo": {
-    "NAME": "C-c-c-combo",
+    "NAME": "K-k-k-kombo",
     "DESCRIPTIONS": [
-      "Play 20 cards in a single turn."
+      "Spiele 20 Karten innerhalb eines Zuges."
     ]
   },
   "Poopy": {
-    "NAME": "Poopy",
+    "NAME": "Dreckig",
     "DESCRIPTIONS": [
-      "Received the Spirit Poop."
+      "Geisterdreck erhalten."
     ]
   },
   "Cheater": {
     "NAME": "Cheater",
     "DESCRIPTIONS": [
-      "Caught cheating. If caught twice, your score will never upload to the Leaderboards."
+      "Beim Cheaten erwischt. Nach zwei mal erwischt werden, werden deine Scores nicht mehr auf den Ranglisten zu sehen sein."
     ]
   },
   "Speedster": {
-    "NAME": "Speedster",
+    "NAME": "Sprinter",
     "DESCRIPTIONS": [
-      "Victory in under 60 minutes."
+      "Sieg in unter 60 Minuten."
     ]
   },
   "Light Speed": {
-    "NAME": "Light Speed",
+    "NAME": "Lichtgeschwindigkeit",
     "DESCRIPTIONS": [
-      "Victory in under 45 minutes."
+      "Sieg in unter 45 Minuten."
     ]
   },
   "Money Money": {
-    "NAME": "Money Money",
+    "NAME": "Geld, Geld!",
     "DESCRIPTIONS": [
-      "Accrued 1,000 gold."
+      "1000 Gold angehäuft."
     ]
   },
   "Raining Money": {
-    "NAME": "Raining Money",
+    "NAME": "Geldregen",
     "DESCRIPTIONS": [
-      "Accrued 2,000 gold."
+      "2000 Gold angehäuft."
     ]
   },
   "I Like Gold": {
-    "NAME": "I Like Gold",
+    "NAME": "Ich mag Geld",
     "DESCRIPTIONS": [
-      "Accrued 3,000 gold."
+      "3000 Gold angehäuft."
     ]
   },
   "Minimalist": {
     "NAME": "Minimalist",
     "DESCRIPTIONS": [
-      "Removed 5+ cards from your deck."
+      "5+ Karten aus deinem Deck entfernt."
     ]
   },
   "Highlander": {
-    "NAME": "Highlander",
+    "NAME": "Hochländer",
     "DESCRIPTIONS": [
-      "Your deck contains no duplicates (excluding starter cards)."
+      "Dein Deck enthält keine Duplikate (außerhalb der Startkarten)."
     ]
   },
   "Shiny": {
-    "NAME": "I Like Shiny",
+    "NAME": "Ich mags glänzend",
     "DESCRIPTIONS": [
-      "Have 25+ relics."
+      "Habe 25+ Relikte."
     ]
   },
   "Collector": {
-    "NAME": "Collector",
+    "NAME": "Sammler",
     "DESCRIPTIONS": [
-      "Have 4 copies of any non-starter card."
+      "Habe 4 Kopien einer Nicht-Starterkarte."
     ]
   },
   "Pauper": {
-    "NAME": "Pauper",
+    "NAME": "Bettler",
     "DESCRIPTIONS": [
-      "Have 0 rare cards."
+      "Habe 0 seltene Karten."
     ]
   },
   "Librarian": {
-    "NAME": "Librarian",
+    "NAME": "Bibliothekar",
     "DESCRIPTIONS": [
-      "Deck size greater than 35 cards."
+      "Deckgröße beträgt mehr als 35 Karten."
     ]
   },
   "Encyclopedian": {
-    "NAME": "Encyclopedian",
+    "NAME": "Enzyklopädie",
     "DESCRIPTIONS": [
-      "Deck size greater than 50 cards."
+      "Deckgröße beträgt mehr als 50 Karten."
     ]
   },
   "Well Fed": {
-    "NAME": "Well Fed",
+    "NAME": "Gut genährt",
     "DESCRIPTIONS": [
-      "Increased your Max HP by 15+."
+      "Maximale TP um 15+ erhöht."
     ]
   },
   "Stuffed": {
-    "NAME": "Stuffed",
+    "NAME": "Vollgestopft",
     "DESCRIPTIONS": [
-      "Increased your Max HP by 30+."
+      "Maximale TP um 30+ erhöht."
     ]
   },
   "Curses": {
-    "NAME": "Curses!",
+    "NAME": "Verflucht!",
     "DESCRIPTIONS": [
-      "Your deck contains 5 curses."
+      "Dein deck enthält 5+ Flüche."
     ]
   },
   "Alchemist": {
-    "NAME": "Alchemist",
+    "NAME": "Alchimist",
     "DESCRIPTIONS": [
-      "Bought 5 potions."
+      "5 Tränke gekauft."
     ]
   },
   "Mystery Machine": {
-    "NAME": "Mystery Machine",
+    "NAME": "Wundermaschine",
     "DESCRIPTIONS": [
-      "Traveled to 15+ ? rooms."
+      "15+ ?-Räume besucht."
     ]
   },
   "On My Own Terms": {
-    "NAME": "On My Own Terms",
+    "NAME": "Selbst Schuld",
     "DESCRIPTIONS": [
-      "Killed yourself."
+      "Dich selbst getötet."
     ]
   }
 }

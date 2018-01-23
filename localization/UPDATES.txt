@@ -1,6 +1,28 @@
 Updates for Translators!
 ----------------------------------
 
+1/22/2018:
+powers.json
+	"Curl Up"
+		" #yBlock. (Once per combat)"
+ui.json
+	"TopPanel"
+		" - Ascension ",
+    	" (Max Level)"
+    "AscensionModeDescriptions"
+     		(This whole field is new)
+    "CharacterSelectScreen"
+    	"Ascension Mode (Level ",
+    	")",
+    	"Ascension Mode"
+cards.json
+	"Mind Blast"
+		"EXTENDED_DESCRIPTION": [
+    		" NL (Deals !D! damage.)"
+   		]
+
+----------------------------------
+
 1/17/2018 #2:
 ui.json
 	"MainMenuButtons"

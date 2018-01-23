@@ -1,168 +1,168 @@
 {
   "Beyond Elites Killed": {
-    "NAME": "Beyond Elites Killed",
+    "NAME": "Убито элит. врагов в Запределье",
     "DESCRIPTIONS": []
   },
   "Bosses Slain": {
-    "NAME": "Bosses Slain",
+    "NAME": "Убито боссов",
     "DESCRIPTIONS": []
   },
   "City Elites Killed": {
-    "NAME": "City Elites Killed",
+    "NAME": "Убито элит. врагов в Городе",
     "DESCRIPTIONS": []
   },
   "Exordium Elites Killed": {
-    "NAME": "Exordium Elites Killed",
+    "NAME": "Убито элит. врагов в Преддверье",
     "DESCRIPTIONS": []
   },
   "Champion": {
-    "NAME": "Champion",
+    "NAME": "Чемпион",
     "DESCRIPTIONS": [
-      "Defeat an Elite without taking damage."
+      "Победить элитного врага, не получив урона."
     ]
   },
   "Perfect": {
-    "NAME": "Perfect",
+    "NAME": "Идеально",
     "DESCRIPTIONS": [
-      "Defeat a Boss without taking damage."
+      "Победить босса, не получив урона."
     ]
   },
   "Beyond Perfect": {
-    "NAME": "Beyond Perfect",
+    "NAME": "Сверх идеала",
     "DESCRIPTIONS": [
-      "Defeat 3 bosses without taking damage."
+      "Победить 3 боссов, не получив урона."
     ]
   },
   "Overkill": {
-    "NAME": "Overkill",
+    "NAME": "Перебор",
     "DESCRIPTIONS": [
-      "Deal 99 damage with a single attack."
+      "Нанести 99 урона одной атакой."
     ]
   },
   "Combo": {
-    "NAME": "C-c-c-combo",
+    "NAME": "К-к-к-комбо",
     "DESCRIPTIONS": [
-      "Play 20 cards in a single turn."
+      "Разыграть 20 карт в одном ходу."
     ]
   },
   "Poopy": {
-    "NAME": "Poopy",
+    "NAME": "Испачкаться",
     "DESCRIPTIONS": [
-      "Received the Spirit Poop."
+      "Получить Испражнения духов."
     ]
   },
   "Cheater": {
-    "NAME": "Cheater",
+    "NAME": "Читер",
     "DESCRIPTIONS": [
-      "Caught cheating. If caught twice, your score will never upload to the Leaderboards."
+      "Пойман за читерством. Если такое случится дважды, ваша статистика больше никогда не попадёт в Таблицу лидеров."
     ]
   },
   "Speedster": {
-    "NAME": "Speedster",
+    "NAME": "Гонщик",
     "DESCRIPTIONS": [
-      "Victory in under 60 minutes."
+      "Победить за 60 минут или ранее."
     ]
   },
   "Light Speed": {
-    "NAME": "Light Speed",
+    "NAME": "Спешка",
     "DESCRIPTIONS": [
-      "Victory in under 45 minutes."
+      "Победить за 45 минут или ранее."
     ]
   },
   "Money Money": {
-    "NAME": "Money Money",
+    "NAME": "Денежки",
     "DESCRIPTIONS": [
-      "Accrued 1,000 gold."
+      "Накопить 1,000 золота."
     ]
   },
   "Raining Money": {
-    "NAME": "Raining Money",
+    "NAME": "Дождь из денег",
     "DESCRIPTIONS": [
-      "Accrued 2,000 gold."
+      "Накопить 2,000 золота."
     ]
   },
   "I Like Gold": {
-    "NAME": "I Like Gold",
+    "NAME": "Люблю золото",
     "DESCRIPTIONS": [
-      "Accrued 3,000 gold."
+      "Накопить 3,000 золота."
     ]
   },
   "Minimalist": {
-    "NAME": "Minimalist",
+    "NAME": "Минималист",
     "DESCRIPTIONS": [
-      "Removed 5+ cards from your deck."
+      "Убрать 5+ карт из колоды."
     ]
   },
   "Highlander": {
-    "NAME": "Highlander",
+    "NAME": "Турнир",
     "DESCRIPTIONS": [
-      "Your deck contains no duplicates (excluding starter cards)."
+      "В колоде нет одинаковых карт (не считая карт с начала игры)."
     ]
   },
   "Shiny": {
-    "NAME": "I Like Shiny",
+    "NAME": "Блестяшка",
     "DESCRIPTIONS": [
-      "Have 25+ relics."
+      "Иметь 25+ реликвий."
     ]
   },
   "Collector": {
-    "NAME": "Collector",
+    "NAME": "Коллекционер",
     "DESCRIPTIONS": [
-      "Have 4 copies of any non-starter card."
+      "Иметь 4 копии любой карты, не считая карт с начала игры."
     ]
   },
   "Pauper": {
-    "NAME": "Pauper",
+    "NAME": "Нищий",
     "DESCRIPTIONS": [
-      "Have 0 rare cards."
+      "Иметь 0 редких карт."
     ]
   },
   "Librarian": {
-    "NAME": "Librarian",
+    "NAME": "Библиотекарь",
     "DESCRIPTIONS": [
-      "Deck size greater than 35 cards."
+      "Размер колоды превышает 35 карт."
     ]
   },
   "Encyclopedian": {
-    "NAME": "Encyclopedian",
+    "NAME": "Энциклопедия",
     "DESCRIPTIONS": [
-      "Deck size greater than 50 cards."
+      "Размер колоды превышает 50 карт."
     ]
   },
   "Well Fed": {
-    "NAME": "Well Fed",
+    "NAME": "Накормленность",
     "DESCRIPTIONS": [
-      "Increased your Max HP by 15+."
+      "Увеличить Макс. ОЗ на 15+."
     ]
   },
   "Stuffed": {
-    "NAME": "Stuffed",
+    "NAME": "Сытость",
     "DESCRIPTIONS": [
-      "Increased your Max HP by 30+."
+      "Увеличить Макс. ОЗ на 30+."
     ]
   },
   "Curses": {
-    "NAME": "Curses!",
+    "NAME": "Проклятье!",
     "DESCRIPTIONS": [
-      "Your deck contains 5 curses."
+      "Колода содержит 5 проклятий."
     ]
   },
   "Alchemist": {
-    "NAME": "Alchemist",
+    "NAME": "Алхимик",
     "DESCRIPTIONS": [
-      "Bought 5 potions."
+      "Купить 5 зелий."
     ]
   },
   "Mystery Machine": {
-    "NAME": "Mystery Machine",
+    "NAME": "Загадочная машина",
     "DESCRIPTIONS": [
-      "Traveled to 15+ ? rooms."
+      "Посетить 15+ ?-комнат."
     ]
   },
   "On My Own Terms": {
-    "NAME": "On My Own Terms",
+    "NAME": "На своих условиях",
     "DESCRIPTIONS": [
-      "Killed yourself."
+      "Убить себя."
     ]
   }
 }

@@ -1,5 +1,15 @@
 {
   "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "인공물",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "다음에 걸리는 해로운 효과를 무효화 합니다."
+    },
     "BLOCK": {
       "NAMES": [
         "방어도",
@@ -32,7 +42,7 @@
     },
     "ETHEREAL": {
       "NAMES": [
-        "천상",
+        "증발",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
@@ -58,7 +68,7 @@
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "전투 시작 시 가져오는 카드에 포함됩니다."
+      "DESCRIPTION": "전투 시작 시 뽑는 카드에 포함됩니다."
     },
     "LOCKED": {
       "NAMES": [
@@ -98,7 +108,7 @@
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "사용 시 소멸되는 비용 #b0 의 카드입니다."
+      "DESCRIPTION": "사용 시 소멸되는 비용이 #b0 인 카드입니다."
     },
     "STATUS": {
       "NAMES": [
@@ -158,7 +168,7 @@
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "강화를 통해 카드를 더욱 강력하게 만들 수 있습니다. 이는 한 번만 가능합니다."
+      "DESCRIPTION": "강화를 통해 카드를 더욱 강력하게 만들 수 있습니다. 이는 카드당 한 번만 가능합니다."
     },
     "VULNERABLE": {
       "NAMES": [
@@ -242,16 +252,6 @@
     },
     "TEXT": [
       "에너지는 카드를 사용하기 위한 자원입니다."
-    ],
-    "ARTIFACT": {
-      "NAMES": [
-        "artifact",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
-      ],
-      "DESCRIPTION": "Negates the next debuff."
-    }
+    ]
   }
 }

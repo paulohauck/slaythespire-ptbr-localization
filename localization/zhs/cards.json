@@ -796,7 +796,10 @@
   "Mind Blast": {
     "NAME": "心灵震慑",
     "DESCRIPTION": "造成你抽牌堆中剩余牌数的伤害。",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 造成你抽牌堆中剩余牌数的伤害。"
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 造成你抽牌堆中剩余牌数的伤害。",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Deals !D! damage.)"
+    ]
   },
   "Neutralize": {
     "NAME": "中和",

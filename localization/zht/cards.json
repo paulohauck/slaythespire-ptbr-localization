@@ -796,7 +796,10 @@
   "Mind Blast": {
     "NAME": "心靈震懾",
     "DESCRIPTION": "",
-    "UPGRADE_DESCRIPTION": "固有. NL 造成你抽牌堆中剩餘牌數的傷害."
+    "UPGRADE_DESCRIPTION": "固有. NL 造成你抽牌堆中剩餘牌數的傷害.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Deals !D! damage.)"
+    ]
   },
   "Neutralize": {
     "NAME": "中和",

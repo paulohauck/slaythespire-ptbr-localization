@@ -629,7 +629,7 @@
   },
   "Purity": {
     "NAME": "Reinheit",
-    "DESCRIPTION": "Du erschöpfst bis zu zwei Karten deiner Wahl aus deiner Hand. NL Erschöpft."
+    "DESCRIPTION": "Du erschöpfst bis zu !M! Karten deiner Wahl aus deiner Hand. NL Erschöpft."
   },
   "Panacea": {
     "NAME": "Allheilmittel",
@@ -780,7 +780,10 @@
   "Mind Blast": {
     "NAME": "Gedankenschlag",
     "DESCRIPTION": "Du verursachst Schaden entsprechend der Anzahl der Karten in deinem Aufnahmestapel.",
-    "UPGRADE_DESCRIPTION": "Angeboren. NL Du verursachst Schaden entsprechend der Anzahl der Karten in deinem Aufnahmestapel."
+    "UPGRADE_DESCRIPTION": "Angeboren. NL Du verursachst Schaden entsprechend der Anzahl der Karten in deinem Aufnahmestapel.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Deals !D! damage.)"
+    ]
   },
   "Neutralize": {
     "NAME": "Neutralisieren",

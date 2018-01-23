@@ -19,7 +19,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "숙적",
+    "NAME": "조정자",
     "DIALOG": [
       ""
     ]
@@ -30,7 +30,7 @@
     ],
     "NAME": "선택받은 자",
     "DIALOG": [
-      "~Suffer...~"
+      " ~고통~ ~받으리라...~ "
     ]
   },
   "Byrd": {
@@ -40,7 +40,7 @@
     "NAME": "새",
     "DIALOG": [
       "@까악!@ NL @까아악@",
-      "마비됨..."
+      "기절함..."
     ]
   },
   "Snecko": {
@@ -57,22 +57,22 @@
   "GremlinWizard": {
     "MOVES": [
       "충전 중",
-      "Ultimate Blast"
+      "궁극의 폭발"
     ],
     "NAME": "그렘린 마법사",
     "DIALOG": [
       "",
       "충전 중이다!",
       "~이제~ ~간다!!~",
-      "@도움...@ @불러야...@ NL @해...!@",
-      "~너무...~ NL ~위험...~ NL ~안녕...~"
+      "@도움을...@ @불러야...@ NL @해...!@",
+      "~너무...~ NL ~위험해...~ NL ~안녕...~"
     ]
   },
   "BanditChild": {
     "MOVES": [
       ""
     ],
-    "NAME": "뾰족이",
+    "NAME": "Spicker",
     "DIALOG": [
       "Beeeaaar!!!!"
     ]
@@ -81,7 +81,7 @@
     "MOVES": [
       "힘 증가"
     ],
-    "NAME": "Orb Walker",
+    "NAME": "구체 순찰기",
     "DIALOG": [
       "방어막 NL 발동."
     ]
@@ -139,7 +139,7 @@
     ],
     "NAME": "광신자",
     "DIALOG": [
-      "@나의@ @힘은@ NL @상대가@ @없어!@",
+      "@나의@ @힘은@ NL @상대가@ @없지!@",
       "@너는@ @여기에@ NL @있으면@ @안@ @돼!@",
       "~나의~ ~힘의~ NL ~상대를~ ~찾았군...~"
     ]
@@ -170,7 +170,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "켄투리오",
+    "NAME": "백부장",
     "DIALOG": [
       ""
     ]
@@ -179,10 +179,10 @@
     "MOVES": [
       ""
     ],
-    "NAME": "대두",
+    "NAME": "거인의 머리",
     "DIALOG": [
-      "~시간이~ ~다~ ~됐다~",
-      "~잘~ ~가렴~",
+      "~시간이~ ~다~ ~됐느니라~",
+      "~잘~ ~가거라~",
       "~째깍~ ~째깍~",
       "~어째서~ ~아직도~ NL ~여기~ ~있느냐?~"
     ]
@@ -204,7 +204,7 @@
     "DIALOG": [
       "잡아라,  곰!!",
       "반드시 대가를 치를 것이다!!",
-      "안 돼, 내 곰!"
+      "안 돼, 곰!"
     ]
   },
   "SpikeSlime_M": {
@@ -238,10 +238,10 @@
     "MOVES": [
       ""
     ],
-    "NAME": "시간 이터",
+    "NAME": "시간포식자",
     "DIALOG": [
-      "~아...~ NL ~..손님이...~",
-      "~어리석은..~ NL @이@ 어리석은@ @놈!@"
+      "~아...~ NL ~..손님이로군...~",
+      "~어리석은..~ NL @이@ @어리석은@ @놈!@"
     ]
   },
   "TheCollector": {
@@ -250,7 +250,7 @@
     ],
     "NAME": "수집가",
     "DIALOG": [
-      "@넌@ @내@ @것이다!@"
+      "@넌@ @나의@ @것이다!@"
     ]
   },
   "TorchHead": {
@@ -290,27 +290,27 @@
   },
   "Champ": {
     "MOVES": [
-      "Defensive Stance",
+      "방어태세",
       "사형 집행",
       "따귀 때리기"
     ],
-    "NAME": "챔피언",
+    "NAME": "투사",
     "DIALOG": [
-      "그걸 무기라고 하는 것이냐?",
-      "Come at me!",
-      "Do your worst! NL @HAHAHA!@",
-      "Have a free shot! NL Futile weakling!",
-      "~You've~ ~done~ ~it~ ~now...~",
-      "@DEFEAT??@ NL @IMPOSSIBLE!!@",
+      "그것도 무기라고 하는 것이냐?",
+      "덤벼라!",
+      "멋대로 해보아라! NL @하하하!@",
+      "멋대로 해보아라! NL 하찮은 약골놈!",
+      "~넌~ ~지금~ ~실수를~ ~저질렀다...~",
+      "@패배??@ NL @말도@ @안@ @돼!!@",
       "~죽어라~ ~.~ ~.~ ~.~",
-      "Face my wrath!"
+      "내 분노를 맛 봐라!"
     ]
   },
   "Exploder": {
     "MOVES": [
       ""
     ],
-    "NAME": "Exploder",
+    "NAME": "폭탄기",
     "DIALOG": [
       ""
     ]
@@ -319,7 +319,7 @@
     "MOVES": [
       "성장"
     ],
-    "NAME": "Fungi Beast",
+    "NAME": "동물하초",
     "DIALOG": [
       ""
     ]
@@ -328,7 +328,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Spiker",
+    "NAME": "반사기",
     "DIALOG": [
       ""
     ]
@@ -337,7 +337,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "교관",
+    "NAME": "노예관리자",
     "DIALOG": [
       ""
     ]
@@ -346,7 +346,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Repulsor",
+    "NAME": "현혹기",
     "DIALOG": [
       ""
     ]
@@ -358,26 +358,26 @@
     ],
     "NAME": "도적",
     "DIALOG": [
-      "Give me your gold!",
-      "@NOOOoooo!@",
-      "Where's my smoke bomb... Let's see here...",
-      "Thanks for the money, hehe"
+      "골드를 내놔라!",
+      "@아아아안돼애애애!@",
+      "연막탄이 어디있지... 어디 보자...",
+      "돈 고마워, 헤헤"
     ]
   },
   "Sentry": {
     "MOVES": [
-      "Disintegrate"
+      "붕괴"
     ],
-    "NAME": "Sentry",
+    "NAME": "보초기",
     "DIALOG": [
       ""
     ]
   },
   "FuzzyLouseDefensive": {
     "MOVES": [
-      "Spit Web"
+      "거미줄 분사"
     ],
-    "NAME": "Louse",
+    "NAME": "공벌레",
     "DIALOG": [
       ""
     ]
@@ -386,7 +386,7 @@
     "MOVES": [
       "성장"
     ],
-    "NAME": "Louse",
+    "NAME": "공벌레",
     "DIALOG": [
       ""
     ]
@@ -404,25 +404,25 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Shelled Parasite",
+    "NAME": "갑각기생충",
     "DIALOG": []
   },
   "BronzeOrb": {
     "MOVES": [
       ""
     ],
-    "NAME": "Orb",
+    "NAME": "청동구체",
     "DIALOG": [
       ""
     ]
   },
   "Hexaghost": {
     "MOVES": [
-      "Inflame",
-      "Sear",
-      "Inferno"
+      "발화",
+      "그을리기",
+      "지옥염"
     ],
-    "NAME": "Hexaghost",
+    "NAME": "육각령",
     "DIALOG": []
   },
   "HexaghostBody": {
@@ -437,8 +437,8 @@
   },
   "SlaverRed": {
     "MOVES": [
-      "Scrape",
-      "Entangle"
+      "긁기",
+      "속박"
     ],
     "NAME": "노예 상인",
     "DIALOG": [
@@ -447,7 +447,7 @@
   },
   "SlaverBlue": {
     "MOVES": [
-      "Rake"
+      "갈퀴질"
     ],
     "NAME": "노예 상인",
     "DIALOG": [
@@ -456,47 +456,47 @@
   },
   "SlimeBoss": {
     "MOVES": [
-      "Slam",
-      "Preparing",
-      "Split",
-      "Goop Spray"
+      "강타",
+      "준비 중",
+      "분열",
+      "끈적이 분사"
     ],
-    "NAME": "Slime Boss",
+    "NAME": "대왕 슬라임",
     "DIALOG": [
-      "~Slime...~ NL #r~CRUSH!!!~",
-      "Interrupted!"
+      "~슬라임...~ NL #r~으깬다!!!~",
+      "방해받음!"
     ]
   },
   "AcidSlime_L": {
     "MOVES": [
       "부식의 침",
-      "Split",
+      "분열",
       "핥기"
     ],
     "NAME": "산성 슬라임 (대)",
     "DIALOG": [
-      "Interrupted!"
+      "방해받음!"
     ]
   },
   "GremlinTsundere": {
     "MOVES": [
-      "Protect",
-      "Shield Bash"
+      "보호",
+      "방패 강타"
     ],
     "NAME": "방패 그렘린",
     "DIALOG": [
       "",
-      "~Good~ ~bye...~",
-      "This is no good..."
+      "~안~ ~녕...~",
+      "좋지 않아..."
     ]
   },
   "Lagavulin": {
     "MOVES": [
-      "Siphon Soul"
+      "영혼 흡수"
     ],
-    "NAME": "Lagavulin",
+    "NAME": "라가불린",
     "DIALOG": [
-      "Stunned!",
+      "기절!",
       "... NL .....",
       "...? NL .....!?",
       "@!!!@ NL @!???@"
@@ -504,17 +504,17 @@
   },
   "JawWorm": {
     "MOVES": [
-      "Bellow",
-      "Thrash"
+      "외침",
+      "난동부리기"
     ],
-    "NAME": "Jaw Worm",
+    "NAME": "턱벌레",
     "DIALOG": [
       ""
     ]
   },
   "Donu": {
     "MOVES": [
-      "Circle of Power"
+      "힘의 원형"
     ],
     "NAME": "도누",
     "DIALOG": [
@@ -525,38 +525,38 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Serpent",
+    "NAME": "거대 뱀",
     "DIALOG": [
       ""
     ]
   },
   "BronzeAutomaton": {
     "MOVES": [
-      "HYPER BEAM"
+      "파괴광선"
     ],
-    "NAME": "청동 자동 기계",
+    "NAME": "청동 자동인형",
     "DIALOG": [
-      "Stunned!"
+      "기절!"
     ]
   },
   "Healer": {
     "MOVES": [
       ""
     ],
-    "NAME": "Mystic",
+    "NAME": "신비주의자",
     "DIALOG": [
       ""
     ]
   },
   "GremlinFat": {
     "MOVES": [
-      "Smash"
+      "강타"
     ],
     "NAME": "뚱뚱한 그렘린",
     "DIALOG": [
       "",
       "",
-      "@Oh@ @no,@ NL @oh@ @no,@ NL @oH@ @NO!@"
+      "@안@ @돼,@ NL @안@ @돼,@ NL @아안@ @돼애!@"
     ]
   },
   "Deca": {
@@ -572,39 +572,39 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Book of Stabbing",
+    "NAME": "칼부림의 책",
     "DIALOG": [
       ""
     ]
   },
   "AwakenedOne": {
     "MOVES": [
-      "Soul Strike",
-      "Dark Echo",
-      "Cleanse",
-      "Sludge"
+      "영혼 타격",
+      "어둠의 메아리",
+      "정화",
+      "폐기물"
     ],
     "NAME": "깨어난 자",
     "DIALOG": [
-      "~Grr~ ~.~ ~.~ ~.~",
-      "~No~ ~.~ ~.~ ~.~ ~no~ ~.~ ~.~ NL ~.~ ~.~ ~no~ ~.~ ~.~ ~.~"
+      "~그르르~ ~.~ ~.~ ~.~",
+      "~아~ ~.~ ~.~ ~.~ ~아~ ~.~ ~.~ NL ~.~ ~.~ ~안~ ~돼~ ~.~ ~.~ ~.~"
     ]
   },
   "SpikeSlime_L": {
     "MOVES": [
-      "Lick",
-      "Split"
+      "핥기",
+      "분열"
     ],
     "NAME": "가시 슬라임 (대)",
     "DIALOG": [
-      "Interrupted!"
+      "방해받음!"
     ]
   },
   "FireOrb": {
     "MOVES": [
       ""
     ],
-    "NAME": "Fire Orb",
+    "NAME": "화염구",
     "DIALOG": [
       ""
     ]
@@ -613,37 +613,37 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Spheric Guardian",
+    "NAME": "구체형 수호기",
     "DIALOG": [
-      "~Outsider~ NL ~Detected~"
+      "~침입자~ NL ~탐지~ ~완료~"
     ]
   },
   "Darkling": {
     "MOVES": [
-      "Chomp! Chomp!"
+      "쩝! 쩝!"
     ],
-    "NAME": "Darkling",
+    "NAME": "어두미",
     "DIALOG": [
-      "Regrowing..."
+      "재생 중..."
     ]
   },
   "Maw": {
     "MOVES": [
       ""
     ],
-    "NAME": "The Maw",
+    "NAME": "아귀",
     "DIALOG": [
-      "@RRrrohrrRGHhh!!@"
+      "@그르르르르르르르!!@"
     ]
   },
   "GremlinNob": {
     "MOVES": [
-      "Skull Bash",
-      "Bull Rush"
+      "두개골 강타",
+      "황소 돌진"
     ],
-    "NAME": "Gremlin Nob",
+    "NAME": "귀족 그렘린",
     "DIALOG": [
-      "@RRrroohrrRGHHhhh!!@"
+      "@우어어어어어어어어!!@"
     ]
   }
 }

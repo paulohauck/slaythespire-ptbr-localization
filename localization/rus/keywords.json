@@ -13,12 +13,12 @@
     "CURSE": {
       "NAMES": [
         "проклятие",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
+        "проклятия",
+        "проклятий",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "Проклятия — это вредоносные карты в Вашей Коллекции."
+      "DESCRIPTION": "Проклятия — это вредоносные карты в вашей колоде."
     },
     "DEXTERITY": {
       "NAMES": [
@@ -28,7 +28,7 @@
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "Ловкость улучшает Защиту, получаемую от карт."
+      "DESCRIPTION": "Ловкость увеличивает количество Защиты, получаемой от карт."
     },
     "ETHEREAL": {
       "NAMES": [
@@ -38,27 +38,27 @@
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "Если в конце Вашего хода эта карта находится в руке, она сжигается. Сожжённые карты убираются из колоды до конца боя."
+      "DESCRIPTION": "Если в конце вашего хода эта карта находится в руке, она Сжигается - убирается до конца боя."
     },
     "EXHAUST": {
       "NAMES": [
-        "сжечь",
+        "сжигает",
         "сожжённую",
         "сжигается",
         "сжигании",
-        "сжигать"
+        "сжигаете"
       ],
-      "DESCRIPTION": "Убрать до конца боя."
+      "DESCRIPTION": "Убирается до конца боя."
     },
     "INNATE": {
       "NAMES": [
-        "коренная",
+        "начальная",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "Вы начнёте каждый бой с этой картой в руке."
+      "DESCRIPTION": "Вы будете начинать каждый бой с этой картой в руке."
     },
     "LOCKED": {
       "NAMES": [
@@ -82,7 +82,7 @@
     },
     "RETAIN": {
       "NAMES": [
-        "оставить",
+        "оставляет",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
@@ -98,7 +98,7 @@
         "заточку",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "Заточки — это карты Атаки ценой в #b0, которые сжигаются."
+      "DESCRIPTION": "Заточки — это карты Атаки ценой в #b0, которые Сжигаются."
     },
     "STATUS": {
       "NAMES": [
@@ -118,13 +118,13 @@
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "Сила добавляет дополнительный урон к атакам."
+      "DESCRIPTION": "Сила добавляет дополнительный урон к Атакам."
     },
     "TRANSFORM": {
       "NAMES": [
         "изменение",
         "изменить",
-        "UNUSED_RESERVE",
+        "изменяет",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
@@ -175,7 +175,7 @@
         "слабость",
         "слабости",
         "слаб",
-        "UNUSED_RESERVE",
+        "ослаблен",
         "UNUSED_RESERVE"
       ],
       "DESCRIPTION": "Ослабленные существа наносят на #b25% меньше урона Атаками."
@@ -188,7 +188,7 @@
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "Раны — это неиграбельные статусные карты."
+      "DESCRIPTION": "Раны — это неиграбельные Статусные карты."
     },
     "FRAIL": {
       "NAMES": [
@@ -241,17 +241,17 @@
       "DESCRIPTION": "Эта карта ЕЩЁ НЕ ГОТОВА. Не помешало бы исправить это..."
     },
     "TEXT": [
-      "Энергия используется для игры картами в руке."
+      "Энергия используется для разыгрывания карт в руке."
     ],
     "ARTIFACT": {
       "NAMES": [
-        "artifact",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
+        "артефакт",
+        "артефакта",
+        "артефактов",
+        "артефактом",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "Negates the next debuff."
+      "DESCRIPTION": "Отменяет следующий отриц. эффект."
     }
   }
 }
