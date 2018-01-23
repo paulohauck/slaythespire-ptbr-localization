@@ -349,8 +349,8 @@
       "DESCRIPTION": "Não-Jogável. NL Se transformado ou removido do seu baralho, perca 3 de HP máximo"
     },
     "Bash": {
-      "NAME": "Bash",
-      "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable."
+      "NAME": "Golpe Esmagador",
+      "DESCRIPTION": "Cause !D! de dano. NL Cause !M! de Vulnerabilidade."
     },
     "Clothesline": {
       "NAME": "Clothesline",
@@ -440,7 +440,7 @@
       ]
     },
     "Dark Embrace": {
-      "NAME": "Abraço Sombrio",
+      "NAME": "Abraçar as Trevas",
       "DESCRIPTION": "Sempre que uma carta for Destruída, NL saque 1 carta."
     },
     "Die Die Die": {
@@ -478,7 +478,7 @@
     },
     "Fiend Fire": {
       "NAME": "Chamas Demoníacas",
-      "DESCRIPTION": "Exhaust your hand. NL Deal !D! damage for each exhausted card. NL Exhaust."
+      "DESCRIPTION": "Destrua as cartas da sua mão your hand. NL Cause !D! de dano para cada carta destruída. NL Destrua."
     },
     "Terror": {
       "NAME": "Terror",
@@ -669,7 +669,7 @@
       "DESCRIPTION": "Obtenha uma poção aleatória. NL Destrua."
     },
     "Bouncing Flask": {
-      "NAME": "Fracos Saltitantes",
+      "NAME": "Frascos Saltitantes",
       "DESCRIPTION": "Cause 3  de Envenamento a um inimigo aleatório !M! vezes."
     },
     "Bludgeon": {
@@ -755,7 +755,7 @@
       "DESCRIPTION": "Causa !D! de dano."
     },
     "Normality": {
-      "NAME": "Normalidade",
+      "NAME": "Mediocridade",
       "DESCRIPTION": "Não-Jogável. NL Você não pode jogar mais de 3 cartas neste turno.",
       "EXTENDED_DESCRIPTION": [
           "Eu só posso jogar até NL #r3 cartas neste turno.",
@@ -796,7 +796,10 @@
     "Mind Blast": {
       "NAME": "Explosão Mental",
       "DESCRIPTION": "Causa dano total igual ao numero de cartas na sua pilha de saques.",
-      "UPGRADE_DESCRIPTION": "Inata. NL Causa dano total igual ao numero de cartas na sua pilha de saques."
+      "UPGRADE_DESCRIPTION": "Inata. NL Causa dano total igual ao numero de cartas na sua pilha de saques.",
+	  "EXTENDED_DESCRIPTION": [
+      " NL (Cause !D! de dano.)"
+    ]
     },
     "Neutralize": {
       "NAME": "Neutralizar",
