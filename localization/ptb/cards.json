@@ -231,7 +231,7 @@
       "DESCRIPTION": "Ganhe !B! de Proteção. NL Proteção não será removida ao iniciar seu próximo turno."
     },
     "Body Slam": {
-      "NAME": "Golpe Corporal",
+      "NAME": "Encontrão",
       "DESCRIPTION": "Cause dano igual ao valor atual de sua Proteção .",
       "UPGRADE_DESCRIPTION": " NL (Causa !D! de dano.)"
     },
@@ -296,7 +296,7 @@
       "DESCRIPTION": "Ao concluir seu turno, ganhe !M! de Proteção."
     },
     "Pommel Strike": {
-      "NAME": "Golpear",
+      "NAME": "Golpear com Espada",
       "DESCRIPTION": "Cause !D! de dano. NL Saque !M! cartas.",
       "UPGRADE_DESCRIPTION": "Cause !D! de dano. NL Saque !M! cartas."
     },
@@ -482,393 +482,393 @@
     },
     "Terror": {
       "NAME": "Terror",
-      "DESCRIPTION": "Apply 99 Vulnerable. NL Exhaust."
+      "DESCRIPTION": "Cause 99 de Vulnerabilidade. NL Destrua."
     },
     "Dazed": {
-      "NAME": "Dazed",
-      "DESCRIPTION": "Unplayable. NL Ethereal."
+      "NAME": "Atortoado",
+      "DESCRIPTION": "Não-Jogável. NL Etérea."
     },
     "Barricade": {
-      "NAME": "Barricade",
-      "DESCRIPTION": "Block no longer expires at the start of your turn."
+      "NAME": "Barricada",
+      "DESCRIPTION": "Proteção não expira mais no início dos seus turnos."
     },
     "Armaments": {
-      "NAME": "Armaments",
-      "DESCRIPTION": "Gain !B! Block. NL Upgrade a card in your hand for the rest of combat.",
-      "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Upgrade ALL cards in your hand for the rest of combat."
+      "NAME": "Armamentos",
+      "DESCRIPTION": "Ganhe !B! de Proteção. NL Aprimore uma carta da sua mão pelo resto deste combate.",
+      "UPGRADE_DESCRIPTION": "Ganhe !B! de Proteção. NL Aprimore TODAS as cartas da sua mão pelo resto deste combate."
     },
     "Havoc": {
-      "NAME": "Havoc",
-      "DESCRIPTION": "Play the top card of your draw pile and exhaust it."
+      "NAME": "Devastar",
+      "DESCRIPTION": "Jogue uma carta diretamente do topo da sua pilha de saque e a destrua."
     },
     "Secret Weapon": {
-      "NAME": "Secret Weapon",
-      "DESCRIPTION": "Choose an Attack from your draw pile and place it into your hand. NL Exhaust.",
-      "UPGRADE_DESCRIPTION": "Choose an Attack from your draw pile and place it into your hand.",
+      "NAME": "Arma Secreta",
+      "DESCRIPTION": "Escolha uma carta de Ataque da sua pilha de saques e coloque-a em sua mão. NL Destrua.",
+      "UPGRADE_DESCRIPTION": "Escolha uma carta de Ataque da sua pilha de saques e coloque-a em sua mão.",
       "EXTENDED_DESCRIPTION": [
-          "There are no Attacks NL in my draw pile."
+          "Não possuo cartas de Ataque  NL in na minha pilha de saque."
       ]
     },
     "Apotheosis": {
-      "NAME": "Apotheosis",
-      "DESCRIPTION": "Upgrade ALL of your cards for the rest of combat. NL Exhaust."
+      "NAME": "Apoteóse",
+      "DESCRIPTION": "Aprimore TODAS as cartas pelo resto deste combate. NL Destrua."
     },
     "Feel No Pain": {
-      "NAME": "Feel No Pain",
-      "DESCRIPTION": "Whenever a card is exhausted, NL gain !M! Block."
+      "NAME": "Ignore a dor",
+      "DESCRIPTION": "Sempre que exaurir uma carta, NL Obtenha !M! de Proteção."
     },
     "Hide": {
-      "NAME": "Hide",
-      "DESCRIPTION": "You cannot lose HP until the start of your next turn. NL Exhaust."
+      "NAME": "Esconder-se",
+      "DESCRIPTION": "Você não poderá HP até o início de seu próximo turno. NL Destrua."
     },
     "Corruption": {
-      "NAME": "Corruption",
-      "DESCRIPTION": "Skills cost 0. NL Whenever you play a Skill, Exhaust it."
+      "NAME": "Corrupção",
+      "DESCRIPTION": "Habilidades custam 0. NL Sempre que jogar uma habilidade, a destrua."
     },
     "Heel Hook": {
-      "NAME": "Heel Hook",
-      "DESCRIPTION": "Deal !D! damage. NL If the enemy is Weak, NL Gain [G] and NL draw 1 card."
+      "NAME": "Agarrar o Calcanhar",
+      "DESCRIPTION": "Cause !D! de dano. NL Se o inimigo estiver Enfraquecido, NL Ganhe [G] e NL saque 1 carta."
     },
     "Injury": {
-      "NAME": "Injury",
-      "DESCRIPTION": "Unplayable."
+      "NAME": "Ferimento",
+      "DESCRIPTION": "Não-Jogável."
     },
     "Rage": {
-      "NAME": "Rage",
-      "DESCRIPTION": "Whenever you play an Attack this turn, gain !M! Block."
+      "NAME": "Fúria",
+      "DESCRIPTION": "Sempre que você jogar uma carta de Ataque, ganhe !M! de proteção."
     },
     "Headbutt": {
-      "NAME": "Headbutt",
-      "DESCRIPTION": "Deal !D! damage. NL Place a card from your discard pile on top of your draw pile."
+      "NAME": "Cabeçada",
+      "DESCRIPTION": "Cause !D! de dano. NL Coloque uma carta da sua pilha de descartes na sua pilha de saque."
     },
     "Limit Break": {
-      "NAME": "Limit Break",
-      "DESCRIPTION": "Double your Strength. NL Exhaust.",
-      "UPGRADE_DESCRIPTION": "Double your Strength."
+      "NAME": "Exceder os Limites",
+      "DESCRIPTION": "Doble sua Força. NL Destrua.",
+      "UPGRADE_DESCRIPTION": "Dobre sua Força."
     },
     "Entrench": {
-      "NAME": "Entrench",
-      "DESCRIPTION": "Double your current Block.",
-      "UPGRADE_DESCRIPTION": "Double your current Block."
+      "NAME": "Entricheirar",
+      "DESCRIPTION": "Dobre sua Proteção.",
+      "UPGRADE_DESCRIPTION": "Dobre sua Proteção."
     },
     "Noxious Fumes": {
-      "NAME": "Noxious Fumes",
-      "DESCRIPTION": "At the start of your turn, apply !M! Poison to ALL enemies."
+      "NAME": "Gás Nocivo",
+      "DESCRIPTION": "No início do seu turno, cause !M! de Envenamento a TODOS os inimigos."
     },
     "Infinite Blades": {
-      "NAME": "Infinite Blades",
-      "DESCRIPTION": "At the start of your turn, add a Shiv to your hand.",
-      "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a Shiv to your hand."
+      "NAME": "Laminas Infinitas",
+      "DESCRIPTION": "No início do seu turno, Adicione um Shiv a sua mão.",
+      "UPGRADE_DESCRIPTION": "Inata. NL No início do seu turno, Adicione um Shiv a sua mão."
     },
     "Phantasmal Killer": {
-      "NAME": "Phantasmal Killer",
-      "DESCRIPTION": "On your next turn, your Attack damage is doubled."
+      "NAME": "Assassino Fantasmagórico",
+      "DESCRIPTION": "Durante seu próximo turno, seu dano de Ataque será dobrado."
     },
     "Malaise": {
-      "NAME": "Malaise",
-      "DESCRIPTION": "Spend all [G]. NL Enemy loses X Strength. Apply X Weak. NL Exhaust.",
-      "UPGRADE_DESCRIPTION": "Spend all [G]. NL Enemy loses X+1 Strength. Apply X+1 Weak. NL Exhaust."
+      "NAME": "Mal-estar",
+      "DESCRIPTION": "Gaste toda [G]. NL O Inimigo perderá X de Força. Causa X de Fraqueza. NL Destrua.",
+      "UPGRADE_DESCRIPTION": "Gaste toda [G]. NL O Inimigo perderá X+1 de Força. Causa X+1 de Fraqueza. NL Destrua."
     },
     "Reflex": {
-      "NAME": "Reflex",
-      "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! card.",
-      "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! cards.",
+      "NAME": "Reflexo",
+      "DESCRIPTION": "Não-Jogável. NL Se esta carta for descartada da sua mão, saque !M! carta.",
+      "UPGRADE_DESCRIPTION": "Não-Jogável. NL Se esta carta for descartada da sua mão, saque !M! cartas.",
       "EXTENDED_DESCRIPTION": [
-          "I can't play this card."	
+          "Não posso jogar esta carta."	
       ]
     },
     "Sentinel": {
-      "NAME": "Sentinel",
-      "DESCRIPTION": "Gain !B! Block. NL If this card is exhausted, NL gain [R] [R].",
-      "UPGRADE_DESCRIPTION": "Gain !B! Block. NL If this card is exhausted, NL gain [R] [R] [R]."
+      "NAME": "Sentinela",
+      "DESCRIPTION": "Ganhe !B! de Proteção. NL Se esta carta for destruída, NL ganhe [R] [R].",
+      "UPGRADE_DESCRIPTION": "Ganhe !B! de Proteção. NL Se esta carta for destruída, NL ganhe [R] [R] [R]."
     },
     "Survivor": {
-      "NAME": "Survivor",
-      "DESCRIPTION": "Gain !B! Block. NL Discard a card."
+      "NAME": "Sobrevivente",
+      "DESCRIPTION": "Ganhe !B! de Proteção. NL Descarte uma carta."
     },
     "Wild Strike": {
-      "NAME": "Wild Strike",
-      "DESCRIPTION": "Deal !D! damage. NL Shuffle a Wound into your draw pile."
+      "NAME": "Ataque Feroz",
+      "DESCRIPTION": "Cause !D! de dano. NL Embaralhe uma ferida a sua pilha de saque."
     },
     "Eviscerate": {
-      "NAME": "Eviscerate",
-      "DESCRIPTION": "Costs 1 less [G] NL for each card discarded this turn. NL Deal !D! damage three times."
+      "NAME": "Eviscerar",
+      "DESCRIPTION": "Custa 1 a menos de [G] NL para cada carta descartada neste turno. NL Cause !D! de dano três vezes."
     },
     "Flash of Steel": {
-      "NAME": "Flash of Steel",
-      "DESCRIPTION": "Deal !D! damage. NL Draw 1 card."
+      "NAME": "Lampejo de Aço",
+      "DESCRIPTION": "Causa !D! de dano. NL Saque 1 carta."
     },
     "Battle Trance": {
-      "NAME": "Battle Trance",
-      "DESCRIPTION": "Draw !M! cards. NL You cannot draw any additional cards this turn."
+      "NAME": "Transe de Batalha",
+      "DESCRIPTION": "Saque !M! cartas. NL Você não pode sacar mais nenhuma carta durante este turno."
     },
     "Heavy Blade": {
-      "NAME": "Heavy Blade",
-      "DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
+      "NAME": "Lamina Pesada",
+      "DESCRIPTION": "Cause !D! de dano. NL Força afeta a Lamina Pesada em !M! vezes."
     },
     "Clumsy": {
-      "NAME": "Clumsy",
-      "DESCRIPTION": "Unplayable. NL Ethereal."
+      "NAME": "Trapalhão",
+      "DESCRIPTION": "Não-Jogável. NL Etérea."
     },
     "Searing Blow": {
-      "NAME": "Searing Blow",
-      "DESCRIPTION": "Deal !D! damage. NL Can be upgraded any number of times."
+      "NAME": "Ataque Flamejante",
+      "DESCRIPTION": "Cause !D! de dano. NL Pode ser Aprimorada indefinidamente."
     },
     "Corpse Explosion": {
-      "NAME": "Corpse Explosion",
-      "DESCRIPTION": "Enemy loses all Poison. Deal damage equal to twice the amount lost to ALL enemies.",
-      "UPGRADE_DESCRIPTION": "Enemy loses all Poison. Deal damage equal to 3 times the amount lost to ALL enemies.",
+      "NAME": "Explosão de Corpos",
+      "DESCRIPTION": "Remove o Envenenamento de um inimigo. Causa 2 vezes a quantidade de Envenenamento removido como dano em TODOS os inimigos.",
+      "UPGRADE_DESCRIPTION": "Remove o Envenenamento de um inimigo. Causa 3 vezes a quantidade de Envenenamento removido como dano em TODOS os inimigos.",
       "EXTENDED_DESCRIPTION": [
-        "That enemy isn't Poisoned."
+        "Esse inimigo não está Envenenado."
       ]
     },
     "Second Wind": {
-      "NAME": "Second Wind",
-      "DESCRIPTION": "Exhaust all non-Attack cards in your hand and gain !B! Block for each."
+      "NAME": "Folego Extra",
+      "DESCRIPTION": "Destrua todas as cartas (exceto Ataques), ganhe !B! de proteção para cada carta destruída."
     },
     "Enlightenment": {
-      "NAME": "Enlightenment",
-      "DESCRIPTION": "Reduce the cost of cards in your hand to 1 this turn.",
-      "UPGRADE_DESCRIPTION": "Reduce the cost of cards in your hand to 1 this combat."
+      "NAME": "Iluminação",
+      "DESCRIPTION": "Reduz o custo das cartas de sua mão em 1 durante este turno.",
+      "UPGRADE_DESCRIPTION": "Reduz o custo das cartas de sua mão em 1 durante este combate."
     },
     "Purity": {
-      "NAME": "Purity",
-      "DESCRIPTION": "Choose and Exhaust up to !M! cards in your hand. NL Exhaust."
+      "NAME": "Pureza",
+      "DESCRIPTION": "Escolhe e destrua até !M! cartas da sua mão. NL Destrua."
     },
     "Panacea": {
       "NAME": "Panacea",
-      "DESCRIPTION": "Gain !M! Artifact. NL Exhaust."
+      "DESCRIPTION": "Ganhe !M! Artefato. NL Destrua."
     },
     "Dash": {
-      "NAME": "Dash",
-      "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage."
+      "NAME": "Arrancada",
+      "DESCRIPTION": "Ganhe !B! de Proteção. NL Cause !D! de dano."
     },
     "Transmutation": {
-      "NAME": "Transmutation",
-      "DESCRIPTION": "Add X random colorless cards into your hand. NL Exhaust.",
-      "UPGRADE_DESCRIPTION": "Add X random upgraded colorless cards into your hand. NL Exhaust."
+      "NAME": "Transmutação",
+      "DESCRIPTION": "Adicione X cartas neutras aleatórias em sua mão. NL Destrua.",
+      "UPGRADE_DESCRIPTION": "Adicione X cartas neutras aprimoradas aleatórias em sua mão. NL Destrua."
     },
     "Backstab": {
-      "NAME": "Backstab",
-      "DESCRIPTION": "Deal !D! damage. NL Innate. NL Exhaust."
+      "NAME": "Apunhalar Pelas Costas",
+      "DESCRIPTION": "Cause !D! de dano. NL Inata. NL Destrua."
     },
     "Step Through Time": {
-      "NAME": "Step Through Time",
-      "DESCRIPTION": "COST: 2 Charge. NL Your HP returns to the value it was last turn. NL Exhaust."
+      "NAME": "Caminhar no Tempo",
+      "DESCRIPTION": "CUSTO: 2 Cartas. NL Seu HP retorna ao valor do turno anterior. NL Destrua."
     },
     "Feed": {
-      "NAME": "Feed",
-      "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! permanent Max HP. Exhaust."
+      "NAME": "Alimentar-se",
+      "DESCRIPTION": "Cause !D! de dano. NL Se um inimigo morrer (exceto Lacaios) , ganhe !M! de HP máximo permanentemente. Destrua."
     },
     "Rupture": {
-      "NAME": "Rupture",
-      "DESCRIPTION": "Whenever you lose HP from a card, NL gain 1 Strength."
+      "NAME": "Irromper",
+      "DESCRIPTION": "Sempre que você perder HP, NL ganhe 1 de Força."
     },
     "Venomology": {
-      "NAME": "Alchemize",
-      "DESCRIPTION": "Obtain a random potion. NL Exhaust."
+      "NAME": "Alquimizar",
+      "DESCRIPTION": "Obtenha uma poção aleatória. NL Destrua."
     },
     "Bouncing Flask": {
-      "NAME": "Bouncing Flask",
-      "DESCRIPTION": "Apply 3 Poison to a random enemy !M! times."
+      "NAME": "Fracos Saltitantes",
+      "DESCRIPTION": "Cause 3  de Envenamento a um inimigo aleatório !M! vezes."
     },
     "Bludgeon": {
-      "NAME": "Bludgeon",
-      "DESCRIPTION": "Deal !D! damage."
+      "NAME": "Cacetada",
+      "DESCRIPTION": "Causa !D! de dano."
     },
     "Finesse": {
-      "NAME": "Finesse",
-      "DESCRIPTION": "Gain !B! Block. NL Draw 1 card."
+      "NAME": "Sutileza",
+      "DESCRIPTION": "Ganhe !B! de Proteção. NL Saque 1 carta."
     },
     "Slice": {
-      "NAME": "Slice",
-      "DESCRIPTION": "Deal !D! damage."
+      "NAME": "Cortar",
+      "DESCRIPTION": "Cause !D! de dano."
     },
     "Backflip": {
-      "NAME": "Backflip",
-      "DESCRIPTION": "Gain !B! Block. NL Draw 2 cards."
+      "NAME": "Cambalhota",
+      "DESCRIPTION": "Ganhe !B! de Proteção. NL Saque 2 cartas."
     },
     "Outmaneuver": {
-      "NAME": "Outmaneuver",
-      "DESCRIPTION": "Next turn NL gain [G] [G].",
-      "UPGRADE_DESCRIPTION": "Next turn NL gain [G] [G] [G]."
+      "NAME": "Enganar",
+      "DESCRIPTION": "Ganhe [G] [G] no próximo turno.",
+      "UPGRADE_DESCRIPTION": "Ganhe [G] [G] [G] no próximo turno."
     },
     "Night Terror": {
-      "NAME": "Nightmare",
-      "DESCRIPTION": "Choose a card. NL Next turn, add !M! copies of that card into your hand. Exhaust.",
+      "NAME": "Terror Noturno",
+      "DESCRIPTION": "Escolha uma carta. NL Durante o próximo turno, adicione !M! copias desta carta a sua mão. Destrua.",
       "EXTENDED_DESCRIPTION": [
-          "I can only use NL ",
-          " NL once per turn."	
+          "Eu só posso usar NL ",
+          " NL uma única vez por turno."	
       ]
     },
     "Bloodletting": {
-      "NAME": "Bloodletting",
-      "DESCRIPTION": "Gain [R]. NL Lose 3 HP.",
-      "UPGRADE_DESCRIPTION": "Gain [R] [R]. NL Lose 3 HP."
+      "NAME": "Sangria",
+      "DESCRIPTION": "Ganhe [R]. NL Perca 3 de HP.",
+      "UPGRADE_DESCRIPTION": "Ganhe [R] [R]. NL Perca 3 de HP."
     },
     "Concentrate": {
-      "NAME": "Concentrate",
-      "DESCRIPTION": "Discard !M! cards. NL Gain [G] [G]."
+      "NAME": "Concentração",
+      "DESCRIPTION": "Descarte !M! cartas. NL Ganhe [G] [G]."
     },
     "Master of Strategy": {
-      "NAME": "Master of Strategy",
-      "DESCRIPTION": "Draw !M! cards. NL Exhaust."
+      "NAME": "Mestre da Estratégia",
+      "DESCRIPTION": "Saque !M! cartas. NL Destrua."
     },
     "Flechettes": {
-      "NAME": "Flechettes",
-      "DESCRIPTION": "Deal !D! damage for each Skill in your hand.",
+      "NAME": "Flechetes",
+      "DESCRIPTION": "Causa !D! de dano para cada carta de Habilidade em sua mão.",
       "EXTENDED_DESCRIPTION": [
-          " NL (You have ",
-          " Skill).",
-          " Skills)."
+          " NL (Voce têm ",
+          " carta de Habilidade).",
+          " cartas de Habilidade)."
       ]
     },
     "Perfected Strike": {
-      "NAME": "Perfected Strike",
-      "DESCRIPTION": "Deal !D! damage. NL Deals an additional +2 damage for ALL of your cards containing \"Strike\".",
-      "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Deals an additional +3 damage for ALL of your cards containing \"Strike\"."
+      "NAME": "Golpe Perfeito",
+      "DESCRIPTION": "Cause !D! de dano. NL Causa +2 de dano adicional para TODAS as suas cartas que contenham o termo \"Golpe\".",
+      "UPGRADE_DESCRIPTION": "Cause !D! de dano. NL Causa +3 de dano adicional para TODAS as suas cartas que contenham o termo \"Golpe\"."
     },
     "Carnage": {
-      "NAME": "Carnage",
-      "DESCRIPTION": "Ethereal. NL Deal !D! damage."
+      "NAME": "Carnificina",
+      "DESCRIPTION": "Etérea. NL Cause !D! de dano."
     },
     "Masterful Stab": {
-      "NAME": "Masterful Stab",
-      "DESCRIPTION": "Can only be played if there are no other cards in your hand. NL Deal !D! damage.",
-      "UPGRADE_DESCRIPTION": "This has to be my NL only card."
+      "NAME": "Punhalada Magistral",
+      "DESCRIPTION": "Pode ser jogada somente se for a única carta em sua mão. NL Causa !D! de dano.",
+      "UPGRADE_DESCRIPTION": "Esta tem que ser minha NL única carta."
     },
     "Good Instincts": {
-      "NAME": "Good Instincts",
-      "DESCRIPTION": "Gain !B! Block."
+      "NAME": "Bons Instintos",
+      "DESCRIPTION": "Ganhe !B! de Proteção."
     },
     "Prepared": {
-      "NAME": "Prepared",
-      "DESCRIPTION": "Draw !M! card. NL Discard !M! card.",
-      "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Discard !M! cards."
+      "NAME": "Preparado",
+      "DESCRIPTION": "Saque !M! cartas. NL Descarte !M! cartas.",
+      "UPGRADE_DESCRIPTION": "Saque !M! cartas. NL Descarte !M! cartas."
     },
     "Dropkick": {
-      "NAME": "Dropkick",
-      "DESCRIPTION": "Deal !D! damage. NL If the enemy is Vulnerable, NL Gain [R] and NL draw 1 card."
+      "NAME": "Voadora",
+      "DESCRIPTION": "Cause !D! de dano. NL Se o inimigo estiver Vulnerável, NL Ganhe [R] e NL saque 1 carta."
     },
     "Swift Strike": {
-      "NAME": "Swift Strike",
-      "DESCRIPTION": "Deal !D! damage."
+      "NAME": "Ataque Veloz",
+      "DESCRIPTION": "Causa !D! de dano."
     },
     "Normality": {
-      "NAME": "Normality",
-      "DESCRIPTION": "Unplayable. NL You cannot play more than 3 cards this turn.",
+      "NAME": "Normalidade",
+      "DESCRIPTION": "Não-Jogável. NL Você não pode jogar mais de 3 cartas neste turno.",
       "EXTENDED_DESCRIPTION": [
-          "I can only play up to NL #r3 cards this turn.",
-          "Unplayable. NL You cannot play more than ",
-          " cards per turn.",
-          " cards per turn. NL You have played ",
-          " card this turn."	
+          "Eu só posso jogar até NL #r3 cartas neste turno.",
+          "Não-Jogável. NL Você não pode jogar mais que ",
+          " cartas por turno.",
+          " cartas por turno. NL Você jogou ",
+          " carta neste turno."	
       ]
     },
     "Accuracy": {
-      "NAME": "Accuracy",
-      "DESCRIPTION": "Shivs deal !M! additional damage."
+      "NAME": "Acurácia",
+      "DESCRIPTION": "Shivs causam !M! de dano adicional."
     },
     "Sword Boomerang": {
-      "NAME": "Sword Boomerang",
-      "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
+      "NAME": "Espada Boomerang",
+      "DESCRIPTION": "Causa !D! de dano a um inimigo aleatórioa !M! vezes."
     },
     "Jack Of All Trades": {
-      "NAME": "Jack Of All Trades",
-      "DESCRIPTION": "Add !M! random colorless card to your hand. NL Exhaust."
+      "NAME": "Pau Para Toda Obra",
+      "DESCRIPTION": "Adicione !M! cartas neutras aleatórias a sua mão. NL Destrua."
     },
     "Demon Form": {
-      "NAME": "Demon Form",
-      "DESCRIPTION": "At the start of each turn, gain !M! Strength."
+      "NAME": "Forma Demoniaca",
+      "DESCRIPTION": "Ao início de cada turno, ganhe !M! de Força."
     },
     "Fire Breathing": {
-      "NAME": "Fire Breathing",
-      "DESCRIPTION": "At the end of your turn, for each Attack played this turn deal 1 damage to ALL enemies."
+      "NAME": "Respiração Flamejante",
+      "DESCRIPTION": "Ao finalizar seu turno, cause 1 dano a TODOS inimigos para cada carta de Ataque jogada neste turno ."
     },
     "Ghostly Armor": {
-      "NAME": "Ghostly Armor",
-      "DESCRIPTION": "Ethereal. NL Gain !B! Block."
+      "NAME": "Armadura Fantasmagórica",
+      "DESCRIPTION": "Etérea. NL Ganhe !B! de Proteção."
     },
     "Uppercut": {
-      "NAME": "Uppercut",
-      "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL Apply !M! Vulnerable."
+      "NAME": "Gancho",
+      "DESCRIPTION": "Cause !D! de dano. NL Cause !M! de Fraqueza. NL Cause !M! de Vulnerabilidade."
     },
     "Mind Blast": {
-      "NAME": "Mind Blast",
-      "DESCRIPTION": "Deal damage equal to the number of cards in your draw pile.",
-      "UPGRADE_DESCRIPTION": "Innate. NL Deal damage equal to the number of cards in your draw pile."
+      "NAME": "Explosão Mental",
+      "DESCRIPTION": "Causa dano total igual ao numero de cartas na sua pilha de saques.",
+      "UPGRADE_DESCRIPTION": "Inata. NL Causa dano total igual ao numero de cartas na sua pilha de saques."
     },
     "Neutralize": {
-      "NAME": "Neutralize",
-      "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+      "NAME": "Neutralizar",
+      "DESCRIPTION": "Cause !D! de dano. NL Cause !M! de Fraqueza."
     },
     "Strike_R": {
-      "NAME": "Strike",
-      "DESCRIPTION": "Deal !D! damage."
+      "NAME": "Golpe",
+      "DESCRIPTION": "Cause !D! de dano."
     },
     "Strike_G": {
-      "NAME": "Strike",
-      "DESCRIPTION": "Deal !D! damage."
+      "NAME": "Golpe",
+      "DESCRIPTION": "Cause !D! de dano."
     },
       "Strike_B": {
-      "NAME": "Strike",
-      "DESCRIPTION": "Deal !D! damage."
+      "NAME": "Golpe",
+      "DESCRIPTION": "Cause !D! de dano."
     },
     "Evolve": {
-      "NAME": "Evolve",
-      "DESCRIPTION": "Shuffle 2 Wounds into your draw pile. NL Whenever you draw a Wound, draw !M! card.",
-      "UPGRADE_DESCRIPTION": "Shuffle 2 Wounds into your draw pile. NL Whenever you draw a Wound, draw !M! cards."
+      "NAME": "Evoluir",
+      "DESCRIPTION": "Embaralhe 2 Feridas na sua pilha de saques. NL Sempre que sacar uma Ferida , saque !M! carta.",
+      "UPGRADE_DESCRIPTION": "Embaralhe 2 Feridas na sua pilha de saques. NL Sempre que sacar uma Ferida , saque !M! cartas"
     },
     "Burn": {
-      "NAME": "Burn",
-      "DESCRIPTION": "Unplayable. NL At the end of your turn, take 2 damage.",
-      "UPGRADE_DESCRIPTION": "Unplayable. NL At the end of your turn, take 4 damage."
+      "NAME": "Queimadura",
+      "DESCRIPTION": "Não-Jogável. NL AO finalizar seu turno, sofra 2 de dano.",
+      "UPGRADE_DESCRIPTION": "Não-Jogável. NL AO finalizar seu turno, sofra 4 de dano."
     },
     "Sucker Punch": {
-      "NAME": "Sucker Punch",
-      "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+      "NAME": "Soco Certeiro",
+      "DESCRIPTION": "Cause !D! de dano. NL Cause !M! de Fraqueza."
     },
     "Double Tap": {
-      "NAME": "Double Tap",
-      "DESCRIPTION": "This turn, your next Attack is played twice.",
-      "UPGRADE_DESCRIPTION": "This turn, your next !M! Attacks are played twice."
+      "NAME": "Tiro Duplo",
+      "DESCRIPTION": "Neste turno, o seu próximo Ataque será jogado duas vezes.",
+      "UPGRADE_DESCRIPTION": "Neste turno, os seus próximos !M! Ataques serão jogados duas vezes."
     },
     "Footwork": {
-      "NAME": "Footwork",
-      "DESCRIPTION": "Gain !M! Dexterity."
+      "NAME": "Jogo de pés",
+      "DESCRIPTION": "Ganhe !M! Destreza."
     },
     "Thinking Ahead": {
-      "NAME": "Thinking Ahead",
-      "DESCRIPTION": "Draw 2 cards. NL Put a card from your hand on top of your draw pile. NL Exhaust.",
-      "UPGRADE_DESCRIPTION": "Draw 2 cards. NL Put a card from your hand on top of your draw pile."
+      "NAME": "Pensando a Frente",
+      "DESCRIPTION": "Saque 2 cartas. NL Coloque uma carta da sua mão no topo da sua pilha de saques. NL Destrua.",
+      "UPGRADE_DESCRIPTION": "Saque 2 cartas. NL Coloque uma carta da sua mão no topo da sua pilha de saques."
     },
     "Distraction": {
-      "NAME": "Distraction",
-      "DESCRIPTION": "Add a random Skill to your hand. NL It costs 0 this turn. NL Exhaust."
+      "NAME": "Distração",
+      "DESCRIPTION": "Adicione uma Habilidade aleatória a sua mão. NL Ela custará 0 somente este turno. NL Destrua."
     },
     "Dodge and Roll": {
-      "NAME": "Dodge and Roll",
-      "DESCRIPTION": "Gain !B! Block. NL Next turn gain !B! Block."
+      "NAME": "Esquivar e Rolar",
+      "DESCRIPTION": "Ganhe !B! de Proteção. NL No proximo turno, ganhe !B! de Proteção."
     },
     "All Out Attack": {
-      "NAME": "All-Out Attack",
-      "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Draw 1 less card next turn."
+      "NAME": "Ataque Total",
+      "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos. NL Saque 1 carta a menos no próximo turno."
     },
     "Flying Knee": {
-      "NAME": "Flying Knee",
-      "DESCRIPTION": "Deal !D! damage. NL Next turn gain [G]."
+      "NAME": "Joelhada",
+      "DESCRIPTION": "Cause !D! de dano. NL Ganhe [G] no próximo turno."
     },
     "Predator": {
-      "NAME": "Predator",
-      "DESCRIPTION": "Deal !D! damage. NL Draw 2 more cards next turn."
+      "NAME": "Predador",
+      "DESCRIPTION": "Cause !D! de dano. NL Saque 2 cartas a mais no próximo turno."
     },
     "Madness": {
-      "NAME": "Madness",
-      "DESCRIPTION": "A random card in your hand costs 0 for the rest of combat. NL Exhaust."
+      "NAME": "Loucura",
+      "DESCRIPTION": "Uma carta aleatória na sua mão custará 0 pelo resto deste combate. NL Destrua."
     },
     "Expertise": {
-      "NAME": "Expertise",
-      "DESCRIPTION": "Draw cards until you have !M! in hand."
+      "NAME": "Perícia",
+      "DESCRIPTION": "Saque cartas até que você tenha !M! cartas na sua mão."
     }
   }
   
