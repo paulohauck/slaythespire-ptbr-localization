@@ -1,7 +1,7 @@
 {
   "Proceed Screen": {
     "DESCRIPTIONS": [
-			"[Abandonar]"
+			"[Ir embora]"
 	]
   },
   "Accursed Blacksmith": {
@@ -17,7 +17,7 @@
     "OPTIONS": [
 			"[Forjar] #gAprimore #guma #gcarta. #r25%: #rDe #rser #rAmaldiçoado #r- #rFerimento.",
 			"[Investigar] #gObtenha #guma #gRelíquia. #r75%: #rDe #rser #rAmaldiçoado #r- #rMediocridade.",
-			"[Abandonar]",
+			"[Ir embora]",
 			"Escolha uma carta para Aprimorar",
 			"[Bloqueado] Requer: Cartas Aprimoráveis"
 			
@@ -37,7 +37,7 @@
 	],
     "OPTIONS": [
 			"[Prosseguir]",
-			"[Abandonar]",
+			"[Ir embora]",
 			"[Oferecer] Receba uma recompensa com base na sua oferenda.",
 			"Escolha uma Carta para Oferecer."
     ]
@@ -51,7 +51,7 @@
 	],
     "OPTIONS": [
 			"[Prosseguir]",
-			"[Abandonar]",
+			"[Ir embora]",
 			"[Jogar]",
 			"Tentativas Restantes: #y"
     ]
@@ -65,7 +65,7 @@
 	],
     "OPTIONS": [
 			"[Orar] #gDupica #guma #gcarta #gdo #gseu #gbaralho.",
-			"[Abandonar]",
+			"[Ir embora]",
 			"Selecione uma Carta para Duplicar."
     ]
   },
@@ -78,7 +78,7 @@
 	],
     "OPTIONS": [
 			"[Beber] #gRemove #gtodas #gMaldições #gdo #gseu #gbaralho.",
-			"[Abandonar]"
+			"[Ir embora]"
     ]
   },
   "Golden Shrine": {
@@ -92,7 +92,7 @@
     "OPTIONS": [
 			"[Orar] #gObtenha #g100 #gde #gOuro.",
 			"[Profanar] #gObtenha #g250 #gde #gOuro. #rSeja #rAmaldiçoado #r- #rArrependimento.",
-			"[Abandonar]"
+			"[Ir embora]"
     ]
   },
   "Lab": {
@@ -113,7 +113,7 @@
 	],
     "OPTIONS": [
 			"[Orar] #gRemova #guma #gcarta #gdo #gseu #gbaralho.",
-			"[Abandonar]",
+			"[Ir embora]",
 			"Escolha uma Carta para Remover."
     ]
   },
@@ -126,7 +126,7 @@
 	],
     "OPTIONS": [
 			"[Pray] #gTransforme #guma #gcarta.",
-			"[Abandonar]",
+			"[Ir embora]",
 			"Escolha uma Carta para Transformá-la."
     ]
   },
@@ -139,7 +139,7 @@
 	],
     "OPTIONS": [
 			"[Orar] #gAprimore #guma #gcarta.",
-			"[Abandonar]",
+			"[Ir embora]",
 			"Escolha uma Carta para Aprimorar.",
 			"[Bloqueado] Requer: Cartas Aprimoráveis"
     ]
@@ -165,7 +165,7 @@
 			"[Premio!] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
 			"[Premio?] #rPerca #r",
 			" #rde #rHP.",
-			"[Abandonar]",
+			"[Ir embora]",
 			"Escolha uma carta para Remover."
     ]
   },
@@ -186,35 +186,35 @@
 			"[Bloqueado] Requer: Carta de Poder",
 			"[Golpear] #rPerca ",
 			"[Bloqueado] Requer: Carta de Ataque",
-			"[Abadonar]"
+			"[Ir embora]"
     ]
   },
   "The Moai Head": {
 	"NAME": "A Cabeça Moai",
     "DESCRIPTIONS": [
 			"Você tropeça em algo que parece *muito* fora do lugar. A sua frente, uma enorme cabeça de pedra emerge de uma parte da parede que não se deslocam ou mudam como o resto deste local. NL A boca desta cabeça está bem aberta, e releva grandes e intimidadores dentes machandos de sangue. A superfície da estatua está repleta de pictogramas que parecem indicar pessoas se jogando na boca da estatua e sendo devoradas. Poque alguem faria isso?",
-			"At first when you step up into the mouth of the statue, nothing happens. As you start to feel more than a little foolish, the huge molars slam down from above, crushing you whole. NL @Darkness.@ NL Sometime later from within the dark, you see a sliver of light, and hear what you now realize is the sound of stony teeth slowly rising upwards. NL NL NL You leave confused.",
-			"You jump back a little as the gigantic molars smash down on the idol, smashing it into dust. As the teeth start to rise up again, #ygold pours forth in a torrent from the opening, flooding you with riches.",
-			"You leave, wondering what could have been."
+			"A princípio, enquanto você avança vagarosamente colocando sua cabeça na boca da estátua, nada acontece... Enquanto você começa a se sentir um pouco bobo, os enormes molares descem repentinamente sobre você, esmagando-o por completo. NL @Escuridão.@ NL Após algum tempo de escuridão, você enxerga um pequeno traço de luz, e escuta o que você percebe ser os dentes da estatua subindo vagarosamente. NL NL NL Você sai, ainda confuso.",
+			"Você dá um salto para trás assim que os enormes molares da estátua esmagam o ídolo, esmagam até virar pó. Conforme os dentes começam a se abrir, #youro é derramado da abertura, te inundando de riquesas.",
+			"Você vai embora, imaginando o que poderia ser aquilo."
 	],
     "OPTIONS": [
-			"[Jump Inside] #gHeal #gto #gfull #gHP. #rLose #r10 #rMax #rHP.",
-			"[Offer: Golden Idol] #gReceive #g333 #gGold. #rLose #rGolden #rIdol.",
-			"[Locked] Requires: Golden Idol.",
-			"[Leave]"
+			"[Se lançar] #gCure #gtodo #go #gseu #gHP. #rPerca #r10 #r de #rHP #rMáximo.",
+			"[Oferecer: Ídolo Dourado] #gReceba #g333 #gde #gOuro. #rPerca #rÍdolo #ro #rDourado.",
+			"[Bloqueado] Requer: Ídolo Dourado.",
+			"[Ir embora]"
     ]
   },
   "Mysterious Sphere": {
-	"NAME": "Mysterious Sphere",
+	"NAME": "Esfera Misteriosa",
     "DESCRIPTIONS": [
-			"Jutting from the chaotic terrain around you, a bony sphere surrounds a mysterious glowing object within. NL While you are curious what lies inside, you notice some sentries keeping an eye on it.",
-			"As soon as you strike the sphere, the sentries spring to life around you!",
-			"No need to be greedy."
+			"Sobressaindo do terreno caótico onde você está, uma esfera de ossos envolvei um brilhante e misterioso objeto. NL Enquanto você está curioso sobre o que pode estar lá dentro, você percebe que existem algumas sentinelas.",
+			"Assim que você atinge a esfera, as sentinelas despertam!",
+			"Não há motivos para ser ganancioso."
 	],
     "OPTIONS": [
-			"[Open Sphere] #rFight. #gReward: #gRelic.",
-			"[Leave]",
-			"[Fight]"
+			"[Abrir a Esfera] #rLutar. #gRecompensa: #gReliquia.",
+			"[Ir embora]",
+			"[Lutar]"
     ]
   },
   "Thinking with Puddles": {

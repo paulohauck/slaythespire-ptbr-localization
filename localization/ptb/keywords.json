@@ -1,0 +1,257 @@
+{
+  "Game Dictionary": {
+  	"ARTIFACT": {
+		"NAMES":[
+			"Artefato",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Nega o próximo Debuff."
+	},
+	"BLOCK": {
+		"NAMES":[
+			"proteção",
+			"proteções",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Previne dano, expira no próximo turno."
+	},
+	"CURSE": {
+		"NAMES":[
+			"maldição",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Cartas de maldição são cartas negativas que permanecem no seu baralho."
+	},
+	"DEXTERITY": {
+		"NAMES":[
+			"destreza",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Destreza melhora a Proteção que você ganha a partir de Cartas."
+	},
+	"ETHEREAL": {
+		"NAMES":[
+			"etérea",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Se esta carta está em sua mão ao finalizar seu turno, ela será destruída. Cartas destruídas são removidas do seu baralho apenas durante este combate."
+	},
+	"EXHAUST": {
+		"NAMES":[
+			"destrua",
+			"destruída",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Removida até o final do combate."
+	},
+	"INNATE": {
+		"NAMES":[
+			"inata",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Começe o combate com esta carta na sua mão."
+	},
+	"LOCKED": {
+		"NAMES":[
+			"bloqueada",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Está carta ainda não foi desbloqueada."
+	},
+	"POISON": {
+		"NAMES":[
+			"envenena",
+			"envenenado",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Criaturas envenenadas perdem HP no iniciar seu turno. A cada turno o Envenenamento é reduzido em #b1."
+	},
+	"RETAIN": {
+		"NAMES":[
+			"manter",
+			"mantenha",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Cartas mantidas não são descartadas no final do turno."
+	},
+	"SHIV": {
+		"NAMES":[
+			"shiv",
+			"shivs",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Shivs são cartas de Ataque com custo #b0 mas que são Destruídas."
+	},
+	"STATUS": {
+		"NAMES":[
+			"condição",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Cartas de condição são removidas no final do combate."
+	},
+	"STRENGTH": {
+		"NAMES":[
+			"força",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Força causa dano adicional em Ataques."
+	},
+	"TRANSFORM": {
+		"NAMES":[
+			"transformar",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Cartas transformadas se tornam cartas aleatórias de qualquer raridade."
+	},
+	"UNKNOWN": {
+		"NAMES":[
+			"desconhecida",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Essa carta ainda não foi encontrada."
+	},
+	"UNPLAYABLE": {
+		"NAMES":[
+			"não-jogável",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Casrtas não-jogáveis não podem ser jogadas diretamente da sua mão."
+	},
+	"UPGRADE": {
+		"NAMES":[
+			"aprimorar",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Aprimorar cartas fazem delas mais poderosas. Cartas podem ser aprimoradas uma única vez."
+	},
+	"VULNERABLE": {
+		"NAMES":[
+			"vulneravél",
+			"vulnerabilidade",			
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Criaturas vulneráveis recebem b50% a mais de dano proveniente de Ataques."
+	},
+	"WEAK": {
+		"NAMES":[
+			"fraqueza",
+			"enfraquecer",
+			"enfraquecido",
+			"enfraquece",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Criaturas enfraquecidas causam #b25% menos dano em Ataques."
+	},
+	"WOUND": {
+		"NAMES":[
+			"ferida",
+			"feridas",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Ferias são cartas de condição não-jogáveis."
+	},
+	"FRAIL": {
+		"NAMES":[
+			"fragilizado",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Enquanto Fragilizado, obtenha #b25% menos #yProteção de suas cartas."
+	},
+	"STRIKE": {
+		"NAMES":[
+			"golpe",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Qualquer carta que contenha \"Golpe\" em seu nome."
+	},
+	"CONFUSED": {
+		"NAMES":[
+			"confuso",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE",
+			"UNUSED_RESERVE"
+		],
+		"DESCRIPTION": "Sempre que sacar uma carta, o seu custo será aleatório."
+	},
+	"FIRE": {
+		"NAMES":[
+			"fire",
+			"fired",
+			"DONT TRANSLATE FIRED STUFF",
+			"DONT TRANSLATE FIRED STUFF",
+			"DONT TRANSLATE FIRED STUFF"
+		],
+		"DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
+	},
+	"TODO": {
+		"NAMES":[
+			"todo",
+			"JUST FOR DEVS, DONT TRANSLATE",
+			"JUST FOR DEVS, DONT TRANSLATE",
+			"JUST FOR DEVS, DONT TRANSLATE",
+			"JUST FOR DEVS, DONT TRANSLATE"
+		],
+		"DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+	},
+    "TEXT": [
+		"Energia é utilizada para jogar cartas diretamente da sua mão."
+	]
+  }
+}
