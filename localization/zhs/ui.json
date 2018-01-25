@@ -194,8 +194,8 @@
   "TopPanel": {
     "TEXT": [
       "层",
-      " - Ascension ",
-      " (Max Level)"
+      " - 攫升模式 ",
+      " （最大等级）"
     ]
   },
   "UnlockCharacterScreen": {
@@ -558,7 +558,8 @@
       "补丁内容清单",
       "放弃当前游戏",
       "放弃当前游戏（请再次点击来确认放弃）",
-      "设定"
+      "设定",
+      "Run History"
     ]
   },
   "PatchNotesScreen": {
@@ -609,9 +610,10 @@
       "静默猎人",
       "乌鸦机器人",
       "返回",
-      "Ascension Mode (Level ",
-      ")",
-      "Ascension Mode"
+      "攫升模式 （等级 ",
+      "）",
+      "攫升模式",
+      "EXPERIMENTAL: Runs get harder as you win... (doesn't affect winstreak)"
     ]
   },
   "AbstractMonster": {
@@ -820,16 +822,46 @@
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "1. Elites spawn more often.",
-      "2. Normal enemies deal more damage.",
-      "3. Elites deal more damage.",
-      "4. Bosses deal more damage.",
-      "5. Heal less after Boss battles.",
-      "6. Start each run damaged.",
-      "7. Normal enemies have more HP.",
-      "8. Elites have more HP.",
-      "9. Bosses have more HP.",
-      "10. Start with 1 Curse."
+      "1. 精英敌人出现更加频繁。",
+      "2. 普通敌人造成更多伤害。",
+      "3. 精英敌人造成更多伤害。",
+      "4. Boss敌人造成更多伤害。",
+      "5. Boss战后生命恢复减少。",
+      "6. 开始游戏时受到伤害。",
+      "7. 普通敌人拥有更多生命。",
+      "8. 精英敌人拥有更多生命。",
+      "9. Boss敌人拥有更多生命。",
+      "10. 开始游戏时获得一张诅咒牌。"
+    ]
+  },
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "卡牌移除服务",
+      "特价",
+      "非卖品",
+      "卖光了",
+      "哦不！"
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "攫升模式等级 ",
+      " 解锁！"
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "Ascension Mode Level ",
+      " Unlocked!"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "The Ironclad",
+      "The Silent",
+      "",
+      "Return",
+      "No run histories found. NL Go Slay the Spire!"
     ]
   }
 }

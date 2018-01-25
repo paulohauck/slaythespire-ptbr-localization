@@ -76,7 +76,7 @@
       "Schatz",
       "Schatzräume",
       "In diesen begehrten Räumen kannst du #yRelikte und #yGold finden.",
-      "Ausruhen",
+      "Ruheort",
       "Ruheorte",
       "Halte in diesen Räumen inne, um deine TP zu #gHeilen oder eine Karte zu #yVerbessern.",
       "Gegner",
@@ -156,8 +156,8 @@
   "TopPanel": {
     "TEXT": [
       " Ebene",
-      " - Ascension ",
-      " (Max Level)"
+      " - Aufstieg ",
+      " (Max. Level)"
     ]
   },
   "UnlockCharacterScreen": {
@@ -515,7 +515,8 @@
       "Patchnotizen",
       "Durchlauf abbrechen",
       "Durchlauf abbrechen (erneut klicken zum Bestätigen)",
-      "Einstellungen"
+      "Einstellungen",
+      "Run History"
     ]
   },
   "PatchNotesScreen": {
@@ -566,9 +567,10 @@
       "Die Stille",
       "Krähbot",
       "Zurück",
-      "Ascension Mode (Level ",
+      "Aufstiegsmodus (Level ",
       ")",
-      "Ascension Mode"
+      "Aufstiegsmodus",
+      "EXPERIMENTAL: Runs get harder as you win... (doesn't affect winstreak)"
     ]
   },
   "AbstractMonster": {
@@ -820,16 +822,46 @@
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "1. Elites spawn more often.",
-      "2. Normal enemies are deadlier.",
-      "3. Elites are deadlier.",
-      "4. Bosses are deadlier.",
-      "5. Heal less after Boss battles.",
-      "6. Start each run damaged.",
-      "7. Normal enemies are tougher.",
-      "8. Elites are tougher.",
-      "9. Bosses are tougher.",
-      "10. Parasite!"
+      "1. Eliten spawnen öfter.",
+      "2. Normale Gegner sind tödlicher.",
+      "3. Eliten sind tödlicher.",
+      "4. Bosses sind tödlicher.",
+      "5. Heilung nach Bosskämpfen ist verringert.",
+      "6. Sei direkt am Beginn des Durchlaufes angeschlagen.",
+      "7. Normale Gegner halten mehr aus.",
+      "8. Eliten halten mehr aus.",
+      "9. Bosse halten mehr aus.",
+      "10. Parasit!"
+    ]
+  },
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Card Removal Service",
+      "SALE",
+      "Not for Sale",
+      "Sold Out",
+      "Oh no!"
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "Ascension Mode Level ",
+      " Unlocked!"
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "Ascension Mode Level ",
+      " Unlocked!"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "The Ironclad",
+      "The Silent",
+      "",
+      "Return",
+      "No run histories found. NL Go Slay the Spire!"
     ]
   }
 }

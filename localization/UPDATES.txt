@@ -1,6 +1,36 @@
 Updates for Translators!
 ----------------------------------
 
+1/24/2018:
+ui.json
+	"AscensionTextEffect"
+		(This whole field is new)
+	"RunHistoryScreen"
+		(This whole field is new)
+	"MenuButton"
+		"Run History"
+	"CharacterSelectScreen"
+		"EXPERIMENTAL: Runs get harder as you win... (doesn't affect winstreak)"
+
+----------------------------------
+
+1/23/2018:
+powers.json
+	"Curl Up"
+		" #yBlock. (Once per combat)"
+ui.json
+	"MerchantImageTextNotInGame"
+		(This whole field is new)
+	"DeathScreenUi"
+		(This whole field is new)
+score_bonuses.json
+	"Ascension"
+powers.json
+	"Curl Up"
+		Updated to say "(Once per combat)"
+		
+----------------------------------
+
 1/22/2018:
 powers.json
 	"Curl Up"

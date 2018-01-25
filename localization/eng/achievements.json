@@ -90,16 +90,16 @@
 		"Highest Score: #y"
 	]
   },
-  "StatsScreen": {
-    "NAMES": [
-		"#yOverall #yStatistics",
-		"#yAchievements",
-		"#rThe #rIronclad",
-		"#gThe #gSilent",
-		"#bCrowbot"
-	],
-	"TEXT": [
-		"Return"	
-	]
-  }
+	"StatsScreen": {
+		"NAMES": [
+			"#yOverall #yStatistics",
+			"#yAchievements",
+			"#rThe #rIronclad",
+			"#gThe #gSilent",
+			"#bCrowbot"
+		],
+		"TEXT": [
+			"Return"
+		]
+	}
 }

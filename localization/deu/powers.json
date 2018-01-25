@@ -132,7 +132,7 @@
     "NAME": "Zusammenrollen",
     "DESCRIPTIONS": [
       "Rollt sich bei #yAngriffsschaden ein und erhält ",
-      " #yBlock."
+      " #yBlock. (Einmalig pro Kampf)"
     ]
   },
   "Dance Puppet": {

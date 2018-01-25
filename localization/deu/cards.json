@@ -59,7 +59,7 @@
   "Storm of Steel": {
     "NAME": "Stahlsturm",
     "DESCRIPTION": "Du wirfst deine Hand ab. NL Du fügst deiner Hand für jede abgeworfene Karte 1 Klinge hinzu.",
-    "UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 upgraded Shiv to your hand for each card discarded."
+    "UPGRADE_DESCRIPTION": "u wirfst deine Hand ab. NL Du fügst deiner Hand für jede abgeworfene Karte 1 verbesserte Klinge hinzu."
   },
   "Cleave": {
     "NAME": "Zerspalten",
@@ -166,7 +166,7 @@
   },
   "Trip": {
     "NAME": "Straucheln",
-    "DESCRIPTION": "Du wendest 2 Verletzlich an.",
+    "DESCRIPTION": "Du wendest !M! Verletzlich an.",
     "UPGRADE_DESCRIPTION": "Wende !M! Verletzlich auf ALLE Gegner an."
   },
   "Dagger Throw": {
@@ -315,7 +315,7 @@
   },
   "Blind": {
     "NAME": "Blenden",
-    "DESCRIPTION": "Du wendest 2 Schwach an.",
+    "DESCRIPTION": "Du wendest !M! Schwach an.",
     "UPGRADE_DESCRIPTION": "Wende !M! Schwach auf ALLE Gegner an."
   },
   "Doppelganger": {
@@ -415,7 +415,7 @@
   },
   "Deep Breath": {
     "NAME": "Tiefer Atemzug",
-    "DESCRIPTION": "Du mischst deinen Abwurfstapel in deinen Aufnahmestapel. NL Du ziehst eine Karte.",
+    "DESCRIPTION": "Du mischst deinen Abwurfstapel in deinen Aufnahmestapel. NL Du ziehst !M! Karte.",
     "UPGRADE_DESCRIPTION": "Du mischst deinen Abwurfstapel in deinen Aufnahmestapel. Du ziehst !M! Karten."
   },
   "Doubt": {
@@ -782,7 +782,7 @@
     "DESCRIPTION": "Du verursachst Schaden entsprechend der Anzahl der Karten in deinem Aufnahmestapel.",
     "UPGRADE_DESCRIPTION": "Angeboren. NL Du verursachst Schaden entsprechend der Anzahl der Karten in deinem Aufnahmestapel.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Deals !D! damage.)"
+      " NL (Verursacht !D! Schaden.)"
     ]
   },
   "Neutralize": {
@@ -855,7 +855,7 @@
   },
   "Expertise": {
     "NAME": "Expertise",
-    "DESCRIPTION": "Du erhältst !B! Block. NL Kann beliebig oft verbessert werden."
+    "DESCRIPTION": "Du ziehst Karten bis sich !M! Karten in deiner Hand befinden."
   },
   "The Bomb": {
     "NAME": "Sprengstoff",

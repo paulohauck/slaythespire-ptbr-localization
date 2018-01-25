@@ -164,5 +164,11 @@
     "DESCRIPTIONS": [
       "Убить себя."
     ]
+  },
+  "Ascension": {
+    "NAME": "Ascension",
+    "DESCRIPTIONS": [
+      "+5% score per Ascension Level."
+    ]
   }
 }

@@ -164,5 +164,11 @@
     "DESCRIPTIONS": [
       "自己杀死自己。"
     ]
+  },
+  "Ascension": {
+    "NAME": "攫升",
+    "DESCRIPTIONS": [
+      "每层攫升等级会增加5%的分数。"
+    ]
   }
 }

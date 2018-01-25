@@ -1,6 +1,6 @@
 {
   "Beyond Elites Killed": {
-    "NAME": "Jenseits Eliten getötet",
+    "NAME": "Jenseits-Eliten getötet",
     "DESCRIPTIONS": []
   },
   "Bosses Slain": {
@@ -8,11 +8,11 @@
     "DESCRIPTIONS": []
   },
   "City Elites Killed": {
-    "NAME": "Stadt Eliten getötet",
+    "NAME": "Stadt-Eliten getötet",
     "DESCRIPTIONS": []
   },
   "Exordium Elites Killed": {
-    "NAME": "Exordium Eliten getötet",
+    "NAME": "Exordium-Eliten getötet",
     "DESCRIPTIONS": []
   },
   "Champion": {
@@ -163,6 +163,12 @@
     "NAME": "Selbst Schuld",
     "DESCRIPTIONS": [
       "Dich selbst getötet."
+    ]
+  },
+  "Ascension": {
+    "NAME": "Ascension",
+    "DESCRIPTIONS": [
+      "+5% score per Ascension Level."
     ]
   }
 }

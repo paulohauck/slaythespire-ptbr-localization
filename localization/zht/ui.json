@@ -558,7 +558,8 @@
       "更新內容清單",
       "放棄當前遊戲",
       "放棄當前遊戲（請再次點擊來確認放棄）",
-      "Settings"
+      "Settings",
+      "Run History"
     ]
   },
   "PatchNotesScreen": {
@@ -611,7 +612,8 @@
       "返回",
       "Ascension Mode (Level ",
       ")",
-      "Ascension Mode"
+      "Ascension Mode",
+      "EXPERIMENTAL: Runs get harder as you win... (doesn't affect winstreak)"
     ]
   },
   "AbstractMonster": {
@@ -830,6 +832,36 @@
       "8. Elites have more HP.",
       "9. Bosses have more HP.",
       "10. Start with 1 Curse."
+    ]
+  },
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Card Removal Service",
+      "SALE",
+      "Not for Sale",
+      "Sold Out",
+      "Oh no!"
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "Ascension Mode Level ",
+      " Unlocked!"
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "Ascension Mode Level ",
+      " Unlocked!"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "The Ironclad",
+      "The Silent",
+      "",
+      "Return",
+      "No run histories found. NL Go Slay the Spire!"
     ]
   }
 }

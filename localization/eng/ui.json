@@ -1,4 +1,13 @@
 {
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+		"Card Removal Service",
+		"SALE",
+		"Not for Sale",
+		"Sold Out",
+		"Oh no!"
+	]
+  },
   "Cancel Button": {
     "TEXT": [
 		"Delete Save"	
@@ -14,6 +23,15 @@
 		"End Turn",
 		"Enemy Turn"
 	]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+		"The Ironclad",
+		"The Silent",
+		"",
+		"Return",
+		"No run histories found. NL Go Slay the Spire!"
+    ]
   },
   "LeaderboardsScreen": {
     "TEXT": [
@@ -372,6 +390,12 @@
 			"Duplicate"
 		]
 	},
+  "DeathScreenUi": {
+    "TEXT": [
+    	"Ascension Mode Level ",
+    	" Unlocked!"
+    ]
+  },
   "DeathScreen": {
     "TEXT": [
 		"Continue",
@@ -601,7 +625,8 @@
 		"Patch Notes",
 		"Abandon Run",
 		"Abandon Run (click again to confirm)",
-		"Settings"
+		"Settings",
+		"Run History"
 	]
   },
   "PatchNotesScreen": {
@@ -654,7 +679,8 @@
 		"Back",
 		"Ascension Mode (Level ",
 		")",
-		"Ascension Mode"
+		"Ascension Mode",
+		"EXPERIMENTAL: Runs get harder as you win... (doesn't affect winstreak)"
 	]
   },
   "AscensionModeDescriptions": {
@@ -772,6 +798,12 @@
   "UnlockTextEffect": {
     "TEXT": [
 		"New Unlock!"
+	]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+		"Ascension Mode Level ",
+		" Unlocked!"
 	]
   },
   "AbstractPotion": {

@@ -72,7 +72,7 @@
       "Une salle inconnue. NL NL Vous pourriez y trouver des monstres, des trésors, des boutiques et bien plus encore.",
       "Marchand",
       "Boutiques",
-      "Un étrange marchand fait commerce dans ces salles. NL NL Dépensez-y votre #yor bien mérité !",
+      "Un étrange marchand fait commerce dans ces salles. NL NL Dépensez-y votre #yor bien mérité !",
       "Trésor",
       "Salles au trésor",
       "Vous pourrez trouver des #yReliques et de l'#yOr en ces salles très convoités.",
@@ -108,9 +108,9 @@
   "Rest Option": {
     "TEXT": [
       "Repos",
-      "Vous récupérez 20 % de vos PV max (",
+      "Vous récupérez 20 % de vos PV max (",
       " PV de ",
-      "Vous récupérez 30 % de vos PV max ("
+      "Vous récupérez 30 % de vos PV max ("
     ]
   },
   "Smith Option": {
@@ -141,8 +141,8 @@
       "Lancer",
       "Boire",
       "Défausser",
-      "Je ne peux pas utiliser de potions !",
-      "Je ne peux pas le faire pendant le combat !"
+      "Je ne peux pas utiliser de potions !",
+      "Je ne peux pas le faire pendant le combat !"
     ]
   },
   "RenamePanel": {
@@ -162,21 +162,21 @@
   },
   "UnlockCharacterScreen": {
     "TEXT": [
-      "Cartes déverrouillées !",
+      "Cartes déverrouillées !",
       "Nouvelles recharges",
-      "Reliques déverrouillées !",
+      "Reliques déverrouillées !",
       "Nouveau personnage",
-      "Remarque : les cartes déverrouillées apparaissent lors des parties suivantes.",
-      "Remarque : les Reliques déverrouillées apparaissent lors des parties suivantes."
+      "Remarque : les cartes déverrouillées apparaissent lors des parties suivantes.",
+      "Remarque : les Reliques déverrouillées apparaissent lors des parties suivantes."
     ]
   },
   "UnlockScreen": {
     "TEXT": [
-      "Cartes déverrouillées !",
-      "Reliques déverrouillées !",
+      "Cartes déverrouillées !",
+      "Reliques déverrouillées !",
       "Nouveau personnage",
-      "Remarque : les cartes déverrouillées apparaissent lors des parties suivantes.",
-      "Remarque : les Reliques déverrouillées apparaissent lors des parties suivantes."
+      "Remarque : les cartes déverrouillées apparaissent lors des parties suivantes.",
+      "Remarque : les Reliques déverrouillées apparaissent lors des parties suivantes."
     ]
   },
   "StorePotion": {
@@ -233,14 +233,14 @@
   "DungeonTransitionScreen": {
     "TEXT": [
       "Tutoriels",
-      "Souhaitez-vous voir des indices lorsque vous jouez ?",
-      "Niveau 1",
+      "Souhaitez-vous voir des indices lorsque vous jouez ?",
+      "Niveau 1",
       "Exorde",
-      "Niveau 2",
+      "Niveau 2",
       "La ville",
-      "Niveau 3",
+      "Niveau 3",
       "L'au-delà",
-      "Niveau ?",
+      "Niveau ?",
       "???",
       "Cliquez n'importe où pour continuer"
     ]
@@ -289,7 +289,7 @@
   "DeathScreen": {
     "TEXT": [
       "Continuer",
-      "Victoire ?",
+      "Victoire ?",
       "Étages terminés",
       "Boss terrassés",
       "Temps de jeu",
@@ -298,11 +298,11 @@
       "Anéantissement",
       "Mort...",
       "Défaite",
-      "C'est perdu !",
+      "C'est perdu !",
       "Annihilation",
       "Dévastation",
       "Échec",
-      "Vous avez succombé !",
+      "Vous avez succombé !",
       "Une impression de déjà-vu.",
       "Une sieste serait la bienvenue.",
       "Vous semez et vous récolterez.",
@@ -311,8 +311,8 @@
       "Je retenterai ma chance demain.",
       "Je vais avoir besoin d'un nouveau plan.",
       "Quelle mauvaise préparation.",
-      "Inconcevable !",
-      "Est-ce là ce que je vaux ?",
+      "Inconcevable !",
+      "Est-ce là ce que je vaux ?",
       "Manque de chance...",
       "Pas de cette façon...",
       "Loin du sommet.",
@@ -329,8 +329,8 @@
       "Réessayer",
       "Continuer",
       "Déverrouiller",
-      "À déverrouiller : ",
-      "À déverrouiller : ",
+      "À déverrouiller : ",
+      "À déverrouiller : ",
       "Ennemis tués",
       "Ennemis d'élite tués",
       "Or non dépensé",
@@ -369,11 +369,11 @@
       "Passer la Relique",
       "Passer les récompenses",
       "Fermer",
-      "Un trésor !",
-      "Que contient-il ?",
-      "Des récompenses !",
-      "Des trophées !",
-      "Du butin !",
+      "Un trésor !",
+      "Que contient-il ?",
+      "Des récompenses !",
+      "Des trophées !",
+      "Du butin !",
       "Tip: "
     ]
   },
@@ -434,20 +434,20 @@
   },
   "OptionsPanel": {
     "TEXT": [
-      "REMARQUE : les options en ROUGE ne sont pas encore implémentées.",
+      "REMARQUE : les options en ROUGE ne sont pas encore implémentées.",
       "Menu du jeu",
       "Graphismes",
-      "Résolution : NL Fréquence d'images max :",
+      "Résolution : NL Fréquence d'images max :",
       "Plein écran NL Plein écran fenêtré (recommandé) NL Screenshake",
       "Son",
       "Volume principal NL Volume musique NL Volume effets",
       "Sons en arrière-plan",
       "Préférences",
-      "Afficher le résumé des dégâts en doré NL Afficher les dégâts bloqués en bleu NL Désactiver la confirmation lors du choix d'1 carte",
+      "Afficher le résumé des dégâts en doré NL Afficher les dégâts bloqués en bleu NL Désactiver la confirmation lors du choix d'1 carte",
       "Astuces générales NL Astuces de carte",
       "Astuces de pouvoir NL Astuces de Relique",
       "Divers",
-      "#rLangue :",
+      "#rLangue :",
       "Charger les données de jeu #b(?)",
       "Quitter le jeu",
       "Sauvegarder et quitter",
@@ -457,10 +457,10 @@
   },
   "SettingsScreen": {
     "TEXT": [
-      "Voulez-vous vraiment poursuivre ?",
+      "Voulez-vous vraiment poursuivre ?",
       "Votre progression est sauvegardée automatiquement.",
       "L'abandon de la partie entraînera une défaite.",
-      "ATTENTION :\nprogression non sauvegardée.\n\nAtteignez le prochain étage pour sauvegarder la partie actuelle.",
+      "ATTENTION :\nprogression non sauvegardée.\n\nAtteignez le prochain étage pour sauvegarder la partie actuelle.",
       "Retour",
       "La progression n'est PAS sauvegardée pour les parties quotidiennes."
     ]
@@ -486,16 +486,16 @@
   },
   "EarlyAccessPopup": {
     "TEXT": [
-      "Qu'est-ce que l'accès anticipé ?",
-      "Qu'est-ce qu'une bêta ouverte ?",
-      "Slay the Spire est toujours en cours de développement ! NL Un grand nombre de fonctionnalités, cartes et ennemis sont amenés à changer. NL NL Si vous rencontrez des problèmes ou souhaitez nous faire part de votre avis, n'hésitez pas à nous laisser un message sur la #bpage de discussion #bSteam. NL NL Assez de lecture, une tour vous attend !",
-      "Slay the Spire est toujours en cours de développement ! NL De plus, vous êtes sur la version bêta du jeu. NL NL Veuillez nous faire part des problèmes que vous rencontrez en jouant, mais ne soyez pas trop surpris par l'intrusion de quelques variables dans le contenu à venir. NL NL Assez de lecture, une tour vous attend !",
+      "Qu'est-ce que l'accès anticipé ?",
+      "Qu'est-ce qu'une bêta ouverte ?",
+      "Slay the Spire est toujours en cours de développement ! NL Un grand nombre de fonctionnalités, cartes et ennemis sont amenés à changer. NL NL Si vous rencontrez des problèmes ou souhaitez nous faire part de votre avis, n'hésitez pas à nous laisser un message sur la #bpage de discussion #bSteam. NL NL Assez de lecture, une tour vous attend !",
+      "Slay the Spire est toujours en cours de développement ! NL De plus, vous êtes sur la version bêta du jeu. NL NL Veuillez nous faire part des problèmes que vous rencontrez en jouant, mais ne soyez pas trop surpris par l'intrusion de quelques variables dans le contenu à venir. NL NL Assez de lecture, une tour vous attend !",
       "Cliquez n'importe où pour commencer"
     ]
   },
   "MainMenuScreen": {
     "TEXT": [
-      "#yVersion : ",
+      "#yVersion : ",
       "Commencer",
       "Retour",
       "cliquer pour modifier"
@@ -515,32 +515,33 @@
       "Remarques de mise à jour",
       "Abandonner la partie",
       "Abandonner la partie (cliquez à nouveau pour confirmer)",
-      "Settings"
+      "Settings",
+      "Run History"
     ]
   },
   "PatchNotesScreen": {
     "TEXT": [
       "Retour",
       "#yRemarques de #ymise à jour",
-      " NL (TEMPORAIRE : utilisez les flèches pour accéder aux historiques précédents)"
+      " NL (TEMPORAIRE : utilisez les flèches pour accéder aux historiques précédents)"
     ]
   },
   "RelicViewScreen": {
     "TEXT": [
       "Retour",
-      "Classiques :",
+      "Classiques :",
       "les personnages peuvent commencer la partie avec ces Reliques.",
-      "Ordinaires :",
+      "Ordinaires :",
       "des Reliques faibles qu'on trouve facilement.",
-      "Inhabituelles :",
+      "Inhabituelles :",
       "des Reliques plus puissantes et moins fréquentes que les reliques ordinaires.",
-      "Rares :",
+      "Rares :",
       "des Reliques puissantes et uniques qu'on trouve rarement.",
-      "Boss :",
+      "Boss :",
       "des Reliques uniquement trouvées dans des coffres de boss.",
-      "Événement :",
+      "Événement :",
       "des Reliques uniquement disponibles lors d'événements.",
-      "Boutique :",
+      "Boutique :",
       "des Reliques qui s'achètent uniquement chez le Marchand."
     ]
   },
@@ -550,8 +551,8 @@
       "Ce personnage peut être déverrouillé en terminant une partie.",
       "Ce personnage n'est pas disponible en accès anticipé.",
       "Ce personnage peut être déverrouillé en atteignant le haut de la Tour.",
-      "PV : ",
-      "Or : ",
+      "PV : ",
+      "Or : ",
       " À déverrouiller",
       "Inconnu",
       "???",
@@ -568,7 +569,8 @@
       "Retour",
       "Ascension Mode (Level ",
       ")",
-      "Ascension Mode"
+      "Ascension Mode",
+      "EXPERIMENTAL: Runs get harder as you win... (doesn't affect winstreak)"
     ]
   },
   "AbstractMonster": {
@@ -818,18 +820,48 @@
       "Return"
     ]
   },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "Ascension Mode Level ",
+      " Unlocked!"
+    ]
+  },
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Card Removal Service",
+      "SALE",
+      "Not for Sale",
+      "Sold Out",
+      "Oh no!"
+    ]
+  },
   "AscensionModeDescriptions": {
     "TEXT": [
       "1. Elites spawn more often.",
-      "2. Normal enemies deal more damage.",
-      "3. Elites deal more damage.",
-      "4. Bosses deal more damage.",
+      "2. Normal enemies are deadlier.",
+      "3. Elites are deadlier.",
+      "4. Bosses are deadlier.",
       "5. Heal less after Boss battles.",
       "6. Start each run damaged.",
-      "7. Normal enemies have more HP.",
-      "8. Elites have more HP.",
-      "9. Bosses have more HP.",
-      "10. Start with 1 Curse."
+      "7. Normal enemies are tougher.",
+      "8. Elites are tougher.",
+      "9. Bosses are tougher.",
+      "10. Parasite!"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "The Ironclad",
+      "The Silent",
+      "",
+      "Return",
+      "No run histories found. NL Go Slay the Spire!"
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "Ascension Mode Level ",
+      " Unlocked!"
     ]
   }
 }

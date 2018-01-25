@@ -84,8 +84,8 @@
     "NAME": "Autel doré",
     "DESCRIPTIONS": [
       "Devant vous se trouve un autel élaboré consacré à un esprit antique. ",
-      "Lorsque vous touchez l'autel, il se met à pleuvoir de l'#yor, ~vous~ ~couvrant~ ~de~ ~richesses.~ ",
-      "Chaque fois que vous frappez l'autel, de l'#yor s'en écoule, encore et toujours! NL NL Tandis que vous empochez ces richesses, vous ressentez un #rénorme #rpoids #rs'abattre #rsur #rvous.",
+      "Lorsque vous touchez l'autel, il se met à pleuvoir de #yl'or, ~vous~ ~couvrant~ ~de~ ~richesses.~ ",
+      "Chaque fois que vous frappez l'autel, de #yl'or s'en écoule, encore et toujours! NL NL Tandis que vous empochez ces richesses, vous ressentez un #rénorme #rpoids #rs'abattre #rsur #rvous.",
       "Vous ignorez l'autel."
     ],
     "OPTIONS": [
@@ -147,7 +147,7 @@
     "NAME": "Roue du changement",
     "DESCRIPTIONS": [
       "Vous rencontrez un diablotin joyeux et élégamment vêtu. NL \"L'heure est venue de lancer la roue! Ça vous ~T~ ~E~ ~N~ ~T~ ~E~~?~ Sans nul doute!\"",
-      "\"Vous gagnez de l'#yOR! NL YOUPI!!!\"",
+      "\"Vous gagnez de #yl'OR! NL YOUPI!!!\"",
       "\"Ah, un #gcadeau! NL J'espère qu'il vous plaira!\"",
       "\"Oooh, un #gsoin gratuit pour vous!\"",
       "\"On dirait que vous avez gagné une #pMalédiction! NL C'est bien dommage. NL Enfin bon... Vous aurez peut-être plus de chance la prochaine fois!\"",
@@ -233,8 +233,8 @@
   "Tomb of Lord Red Mask": {
     "NAME": "Tombe du seigneur au masque rouge",
     "DESCRIPTIONS": [
-      "De l'autre côté d'un chemin flottant, vous pouvez apercevoir une tombe richement décorée. Lorsque vous atteignez la tombe, vous remarquez un emplacement à pièces d'#yor recouvert d'une inscription effacée.",
-      "Vous mettez le masque et la tombe commence à ~s'écarter~, révélant~...~ un passage secret! NL NL Le passage est encadré d'innombrables marchandises volées et de montagnes d'#yor!",
+      "De l'autre côté d'un chemin flottant, vous pouvez apercevoir une tombe richement décorée. Lorsque vous atteignez la tombe, vous remarquez un emplacement à pièces #yd'or recouvert d'une inscription effacée.",
+      "Vous mettez le masque et la tombe commence à ~s'écarter~, révélant~...~ un passage secret! NL NL Le passage est encadré d'innombrables marchandises volées et de montagnes #yd'or!",
       "Une ouverture apparaît dans la tombe et un petit masque rouge en sort, accompagné d'une note. \"Prenez aux autres comme je vous ai pris!\""
     ],
     "OPTIONS": [
@@ -308,7 +308,7 @@
       "il semble avoir été #r@entaillé@ et #r@piétiné@ par une bête à cornes. ",
       "il semble avoir été #r@éviscéré@ #r@et@ #r@découpé@ par des griffes géantes. ",
       "NL Même si #yses #yaffaires #ysont #yintactes, vous n'êtes pas d'humeur à enquêter sur ce qu'il s'est passé...",
-      "Vous avez trouvé de l'#yor! NL Continuer à fouiller?",
+      "Vous avez trouvé de #yl'or! NL Continuer à fouiller?",
       "Hum, impossible de dénicher quoi que ce soit... NL Continuer à fouiller?",
       "Vous avez trouvé une #yRelique! Continuer à fouiller?",
       "On dirait que vous avez fouillé ses affaires sans rencontrer de problème!"
@@ -344,7 +344,7 @@
   "Golden Wing": {
     "NAME": "Statue en forme d'aile",
     "DESCRIPTIONS": [
-      "Au milieu des pierres et rochers, vous repérez une complexe statue bleue. De grande taille, elle a l'apparence d'une aile. NL Vous remarquez que de l'#yor s'écoule de ses fissures. Peut-être y en a-t-il davantage à l'intérieur...?",
+      "Au milieu des pierres et rochers, vous repérez une complexe statue bleue. De grande taille, elle a l'apparence d'une aile. NL Vous remarquez que de #yl'or s'écoule de ses fissures. Peut-être y en a-t-il davantage à l'intérieur...?",
       "Par le passé, vous avez entendu parler d'un culte voué à un oiseau géant. Vous vous agenouillez pour prier et commencez à éprouver une ~sensation~... ~d'étourdissement~. NL NL Vous vous réveillez quelque temps plus tard, le pied léger.",
       "Vous vous acharnez de toutes vos forces sur la statue. NL En un clin d'œil, elle @s'effondre@, révélant un #ytas #yd'or. Vous vous remplissez les poches et reprenez votre chemin.",
       "La statue vous met ~mal~ ~à~ ~l'aise~. Vous passez devant sans vous arrêter."
@@ -365,8 +365,8 @@
   "World of Goop": {
     "NAME": "Monde visqueux",
     "DESCRIPTIONS": [
-      "Vous tombez dans une flaque. NL @ELLE@ @EST@ @COMPOSÉE@ @D'UNE@ @SUBSTANCE@ @VISQUEUSE!@ NL Vous vous débattez frénétiquement pendant de longues minutes, car vous sentez que la substance commence à vous brûler. NL Vous en avez dans les oreilles, dans le nez, partout. NL NL Vous vous hissez hors de la flaque et vous rendez compte qu'il vous manque une partie de votre #yor. Vous scrutez la flaque et repérez les pièces manquantes, agglomérées à l'#yor d'autres malheureux aventuriers.",
-      "Vous éprouvez un picotement dû à l'exposition prolongée à cette substance visqueuse. Bien que celle-ci ne commence à vous ronger la peau, vous parvenez à repêcher l'#yor.",
+      "Vous tombez dans une flaque. NL @ELLE@ @EST@ @COMPOSÉE@ @D'UNE@ @SUBSTANCE@ @VISQUEUSE!@ NL Vous vous débattez frénétiquement pendant de longues minutes, car vous sentez que la substance commence à vous brûler. NL Vous en avez dans les oreilles, dans le nez, partout. NL NL Vous vous hissez hors de la flaque et vous rendez compte qu'il vous manque une partie de votre #yor. Vous scrutez la flaque et repérez les pièces manquantes, agglomérées à #yl'or d'autres malheureux aventuriers.",
+      "Vous éprouvez un picotement dû à l'exposition prolongée à cette substance visqueuse. Bien que celle-ci ne commence à vous ronger la peau, vous parvenez à repêcher #yl'or.",
       "Vous décidez que le jeu n'en vaut pas la chandelle."
     ],
     "OPTIONS": [
@@ -384,7 +384,7 @@
       "Vous pénétrez dans une salle et remarquez un grand trou dans le sol. Tandis que vous vous approchez du trou, une énorme créature serpentine en émerge. NL NL ~\"Oh~ ~oooh!~ ~Bonjour,~ ~bonjour!~ ~Qu'avons-nous~ ~là?~ Bonjour, je vais vous poser une simple question. NL Il n'est pas de vie plus satisfaisante que celle où l'on peut #y~tout~ #y~s'offrir!~ NL Êtes-vous d'accord?\"",
       "~\"Sssssssssssupeeer!~ NL ~Cccccela~ ~sssss'annonccccce~ ~très~ ~prometteur.~ NL ~...ssSSs...~ ~ss...~ ~sssss...!\"~",
       "Le serpent vous fixe du regard et semble extrêmement déçu.",
-      "Le serpent rejette sa tête en arrière et crache un jet d'#yor dans les airs! NL C'est à la fois impressionnant et terrifiant. NL Vous récupérez tout l'#yor, remerciez le serpent et vous remettez en route."
+      "Le serpent rejette sa tête en arrière et crache un jet #yd'or dans les airs! NL C'est à la fois impressionnant et terrifiant. NL Vous récupérez tout #yl'or, remerciez le serpent et vous remettez en route."
     ],
     "OPTIONS": [
       "[D'accord] #gVous #grecevez #g",

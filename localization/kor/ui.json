@@ -575,7 +575,8 @@
       "패치 노트",
       "전투를 포기",
       "전투를 포기 (재확인)",
-      "Settings"
+      "Settings",
+      "Run History"
     ]
   },
   "PatchNotesScreen": {
@@ -628,7 +629,8 @@
       "뒤로",
       "Ascension Mode (Level ",
       ")",
-      "Ascension Mode"
+      "Ascension Mode",
+      "EXPERIMENTAL: Runs get harder as you win... (doesn't affect winstreak)"
     ]
   },
   "AbstractMonster": {
@@ -830,6 +832,36 @@
       "8. Elites have more HP.",
       "9. Bosses have more HP.",
       "10. Start with 1 Curse."
+    ]
+  },
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Card Removal Service",
+      "SALE",
+      "Not for Sale",
+      "Sold Out",
+      "Oh no!"
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "Ascension Mode Level ",
+      " Unlocked!"
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "Ascension Mode Level ",
+      " Unlocked!"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "The Ironclad",
+      "The Silent",
+      "",
+      "Return",
+      "No run histories found. NL Go Slay the Spire!"
     ]
   }
 }
