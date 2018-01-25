@@ -7,7 +7,7 @@
 	]
   },
   "Dexterity Potion": {
-	"NAME": "Poção de destreza",
+	"NAME": "Poção de Destreza",
     "DESCRIPTIONS": [
 			"Ganha #b",
 			" de #ydestreza."
@@ -18,7 +18,7 @@
     "DESCRIPTIONS": [
 			"",
 			"",
-			"#yRemova todos os #yStatus e #yCurse de sua mão.",
+			"#yRemova todos as #yCondições e #yMaldições de sua mão.",
 			"",
 			"Não teve efeito..."
 	]
@@ -52,10 +52,10 @@
 	]
   },
   "Poison Potion": {
-	"NAME": "Poção Envenenada",
+	"NAME": "Poção de Envenenamento",
     "DESCRIPTIONS": [
-			"Aplica #b",
-			" de #yenvenenamento."
+			"Causa #b",
+			" de #yEnvenenamento."
 	]
   },
   "Potion Slot": {
@@ -77,7 +77,7 @@
 	"NAME": "Poção de Força",
     "DESCRIPTIONS": [
 			"Ganha #b",
-			" de #yforça."
+			" de #yForça."
 	]
   },
   "Swift Potion": {
@@ -91,8 +91,8 @@
     "Weak Potion": {
 	"NAME": "Poção da fraqueza",
     "DESCRIPTIONS": [
-			"Aplica #b",
-			" de #yfraqueza."
+			"Causa #b",
+			" de #yFraqueza."
 	]
   }
 }
