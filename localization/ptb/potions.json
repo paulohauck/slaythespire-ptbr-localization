@@ -1,0 +1,98 @@
+{
+  "Block Potion": {
+	"NAME": "Poção de Protecão",
+    "DESCRIPTIONS": [
+			"Ganha #b",
+			" de #yproteção."
+	]
+  },
+  "Dexterity Potion": {
+	"NAME": "Poção de destreza",
+    "DESCRIPTIONS": [
+			"Ganha #b",
+			" de #ydestreza."
+	]
+  },
+  "Elixir": {
+	"NAME": "Elixir",
+    "DESCRIPTIONS": [
+			"",
+			"",
+			"#yRemova todos os #yStatus e #yCurse de sua mão.",
+			"",
+			"Não teve efeito..."
+	]
+  },
+  "Energy Potion": {
+	"NAME": "Poção de Energia",
+    "DESCRIPTIONS": [
+			"Ganha #b",
+			" De energia."
+	]
+  },
+  "Explosive Potion": {
+	"NAME": "Poção Explosiva",
+    "DESCRIPTIONS": [
+			"Dá #b",
+			" de dano em todos os inimigos."
+	]
+  },
+  "Fire Potion": {
+	"NAME": "Poção de Fogo",
+    "DESCRIPTIONS": [
+			"Dá #b",
+			" de dano."
+	]
+  },
+  "Health Potion": {
+	"NAME": "Poção de Cura",
+    "DESCRIPTIONS": [
+			"Cura #b",
+			" de HP."
+	]
+  },
+  "Poison Potion": {
+	"NAME": "Poção Envenenada",
+    "DESCRIPTIONS": [
+			"Aplica #b",
+			" de #yenvenenamento."
+	]
+  },
+  "Potion Slot": {
+	"NAME": "Espaço para Poções",
+    "DESCRIPTIONS": [
+			"Use poções durante os combates para ganhar #gBonus ou #rDificultar seus inimigos.",
+			"Espaço para poções"
+	]
+  },
+    "Regen Potion": {
+	"NAME": "Poção de Regeneração",
+    "DESCRIPTIONS": [
+			"Cura #b",
+			" de #yHP no final de cada turno para #b",
+			" turnos."
+	]
+  },
+  "Strength Potion": {
+	"NAME": "Poção de Força",
+    "DESCRIPTIONS": [
+			"Ganha #b",
+			" de #yforça."
+	]
+  },
+  "Swift Potion": {
+	"NAME": "Poção da velocidade",
+    "DESCRIPTIONS": [
+			"",
+			"Obtem #b",
+			" cartas."
+	]
+  },
+    "Weak Potion": {
+	"NAME": "Poção da fraqueza",
+    "DESCRIPTIONS": [
+			"Aplica #b",
+			" de #yfraqueza."
+	]
+  }
+}
