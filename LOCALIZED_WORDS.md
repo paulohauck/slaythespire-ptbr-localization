@@ -13,6 +13,8 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 |Exhaust| Destrua | Exaurir não é um termo muito utilizado, apesar de ser o mais próximo na tradução.|
 |Slime| Gosma ou Gosmento | - |
 | The Silent | A Sorrateira | 1. O Personagem é uma mulher (segundo sua biografia) 2. Uma assinssina  caçadora/assissina. |
+| Draw Pile | Pilha de Saques | Pilha de compras de cartas |
+
 
 - **Achievements | Conquistas**
 
