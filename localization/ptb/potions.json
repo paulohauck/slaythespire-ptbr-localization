@@ -2,14 +2,14 @@
   "Block Potion": {
 	"NAME": "Poção de Protecão",
     "DESCRIPTIONS": [
-			"Ganha #b",
+			"Ganhe #b",
 			" de #yproteção."
 	]
   },
   "Dexterity Potion": {
 	"NAME": "Poção de Destreza",
     "DESCRIPTIONS": [
-			"Ganha #b",
+			"Ganhe #b",
 			" de #ydestreza."
 	]
   },
@@ -26,72 +26,72 @@
   "Energy Potion": {
 	"NAME": "Poção de Energia",
     "DESCRIPTIONS": [
-			"Ganha #b",
-			" De energia."
+			"Ganhe #b",
+			" De Energia."
 	]
   },
   "Explosive Potion": {
 	"NAME": "Poção Explosiva",
     "DESCRIPTIONS": [
-			"Dá #b",
-			" de dano em todos os inimigos."
+			"Dê #b",
+			" de dano a TODOS os inimigos."
 	]
   },
   "Fire Potion": {
 	"NAME": "Poção de Fogo",
     "DESCRIPTIONS": [
-			"Dá #b",
+			"Dê #b",
 			" de dano."
 	]
   },
   "Health Potion": {
 	"NAME": "Poção de Cura",
     "DESCRIPTIONS": [
-			"Cura #b",
+			"Cure #b",
 			" de HP."
 	]
   },
   "Poison Potion": {
 	"NAME": "Poção de Envenenamento",
     "DESCRIPTIONS": [
-			"Causa #b",
+			"Aplique #b",
 			" de #yEnvenenamento."
 	]
   },
   "Potion Slot": {
 	"NAME": "Espaço para Poções",
     "DESCRIPTIONS": [
-			"Use poções durante os combates para ganhar #gBonus ou #rDificultar seus inimigos.",
-			"Espaço para poções"
+			"Use poções durante os combates para receber #gBônus ou #afetar seus inimigos.",
+			"Espaço para Poções"
 	]
   },
     "Regen Potion": {
 	"NAME": "Poção de Regeneração",
     "DESCRIPTIONS": [
-			"Cura #b",
-			" de #yHP no final de cada turno para #b",
+			"Cure #b",
+			" de #yHP no final de cada turno por #b",
 			" turnos."
 	]
   },
   "Strength Potion": {
 	"NAME": "Poção de Força",
     "DESCRIPTIONS": [
-			"Ganha #b",
+			"Ganhe #b",
 			" de #yForça."
 	]
   },
   "Swift Potion": {
-	"NAME": "Poção da velocidade",
+	"NAME": "Poção da Velocidade",
     "DESCRIPTIONS": [
 			"",
-			"Obtem #b",
+			"Saque #b",
 			" cartas."
 	]
   },
     "Weak Potion": {
-	"NAME": "Poção da fraqueza",
+	"NAME": "Poção da Fraqueza",
     "DESCRIPTIONS": [
-			"Causa #b",
+			"Cause #b",
 			" de #yFraqueza."
 	]
   }
