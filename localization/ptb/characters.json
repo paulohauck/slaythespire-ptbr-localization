@@ -4,7 +4,7 @@
 		"O Ironclad"
 	], 
     "TEXT": [
-		"O Soldado remanescente do clã Ironclads. NL Vendeu sua alma para poder fazer uso de energias demoniacas."
+		"O Soldado remanescente do clã Ironclads. NL Vendeu sua alma para poder fazer uso de energias demoníacas."
 	]
   },
   "Crowbot": {
@@ -12,7 +12,7 @@
 		"Corvo-robô"
 	], 
     "TEXT": [
-		"BEEP BOOP"
+		"BIP BUP"
 	]
   },
   "Silent": {
@@ -31,17 +31,17 @@
 		"~Saudações...~ NL ~Eu..~ ~sou~ ~Neow...~",
 		"~Olá...~ NL ~Mais uma vez..~",
 		"~Saudações...~",
-		"~Tentando~ NL ~de novo...?~",
+		"~Tentar~ NL ~de novo...?~",
 		"~Avance~ ~até~ ~o~ ~Chefe...~ NL ~para~ ~receber~ ~minha..~ ~benção...~",
 		"~Enfrente~ ~pelo...~ ~menos~ NL ~o~ ~primeiro~ ~chefe...~",
-		"~Eu~ ~te~ ~trouxe~ ~devolta...~",
+		"~Eu~ ~te~ ~trouxe~ ~de volta...~",
 		"~Escolha...~",
 		"~Concedido...~",
-		"~Recompensa...~ NL ~..arriscada....~"
+		"~Risco...~ NL ~..recompensa....~"
 	],
 	"OPTIONS": [
-		"[Continue]",
-		"[Converse]",
+		"[Continuar]",
+		"[Conversar]",
 		"[Pular]",
 		"[Ir embora]"
 	]
@@ -57,17 +57,17 @@
 		"[ #gAprimore #guma #gCarta ]",
 		"[ #gTransforme #guma #gCarta ]",
 		"[ #gObtenha #g3 #gPoções #galeatórias ]",
-		"[ #gObtenha #guma #gReliquia #gcomum #galeatória ]",
-		"[ #gHP #gmáximo #g+",
+		"[ #gObtenha #guma #gRelíquia #gcomum #galeatória ]",
+		"[#g+ #gHP #gmáximo",
 		"[ #gObtenha #g",
 		" #gde #gOuro ]",
 		"#gRemova #g2 #gCartas ]",
-		"#gObtenha #guma #gReliquia #grara #galeatória ]",
-		"#gEscolha #guma #gCarta #grara #gpara #gobtê-la ]",
+		"#gObtenha #guma #gRelíquia #grara #galeatória ]",
+		"#gEscolha #guma #gCarta #grara #gpara #gobtê-la]",
 		"#gObtenha #g",
 		" #gde #gOuro ]",
 		"#gTransforme #g2 #gCartas ]",
-		"#gHP #gmáximo #g+",
+		"#g+ #gHP #gmáximo",
 		"[ #rPerca #r",
 		" #rde #rHP #rmáximo ",
 		"[ #rPerca #rtodo #ro #rOuro ",
@@ -75,14 +75,14 @@
 		"[ #rPerca #r50% #rdo #rseu #rHP #ratual ",
 		"Escolha uma Carta",
 		"Escolha uma Carta para removê-la ",
-		"Escolha 2 Cartas para removê-la",
+		"Escolha 2 Cartas para removê-las",
 		"Escolha uma carta para transformá-la",
 		"Escolha 2 cartas para transformá-las",
-		"Escolha uma carta para aprimorá-la",
+		"Escolha uma carta para Aprimorá-la",
 		"[ #gInimigos #gnos #gpróximos #gtrês #gcombates #gterão #g1 #gde #gHP ]"
 	],
 	"UNIQUE_REWARDS": [
-		"[ #rPerca #rtodas #rRequilias #rIniciais #ge #gobtenha #guma #gReliquia #gde #gchefe #galeatória]"
+		"[ #rPerca #rsua #rRelíquia #rinicial #ge #gobtenha #guma #gRelíquia #gde #gChefe #galeatória]"
 	]
   },
   "Merchant": {
@@ -97,14 +97,14 @@
 		"Você gosta mais de cachorro ou gato?",
 		"Você me parece ~perigoso,~ NL hehe...",
 		"Leve o tempo que precisar... NL ..... NL ... ou não",
-		"Gostou do tapete? NL Ele não está a venda",
+		"Gostou do tapete? NL Ele não está à venda",
 		"Ajude os pequenos empreendedores!",
-		"Mascaras são maneiras, Eu sei!",
+		"Máscaras são maneiras, Eu sei!",
 		"Hmm... NL ...hmm... NL Oh!",
 		"Espera um pouco e escute!",
-		"Ei, é periogo andar por aí sozinho! Deixe seu Ouro aqui comigo!",
+		"Ei, é perigoso andar por aí só! Deixe seu Ouro aqui comigo!",
 		"Compre algo",
-		"~*YAWN*~",
+		"~*B o c e j o*~",
 		"Eu gosto de Ouro.",
 		"Minha cor favorita é azul. NL Qual é a sua?"
 	]
@@ -133,14 +133,14 @@
 		"Você gosta mais de cachorro ou gato?",
 		"Você me parece ~perigoso,~ NL hehe...",
 		"Leve o tempo que precisar... NL ..... NL ... ou não",
-		"Gostou do tapete? NL Ele não está a venda",
+		"Gostou do tapete? NL Ele não está à venda",
 		"Ajude os pequenos empreendedores!",
-		"Mascaras são maneiras, Eu sei!",
-		"Por um acaso, você viu meu carregamento?",
+		"Máscaras são maneiras, Eu sei!",
+		"Por um acaso, você viu meu transportador de carga?",
 		"Espera um pouco e escute!",
-		"Ei, é periogo ficar andando por aí sozinho! Deixe seu Ouro aqui comigo!",
+		"Ei, é perigoso ficar andando por aí só! Deixe seu Ouro aqui comigo!",
 		"Compre algo",
-		"~*YAWN*~",
+		"~*B o c e j o*~",
 		"Eu gosto de Ouro.",
 		"Minha cor favorita é azul. NL Qual é a sua?"
 	]
