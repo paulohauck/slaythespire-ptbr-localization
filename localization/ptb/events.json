@@ -7,12 +7,12 @@
   "Accursed Blacksmith": {
 	"NAME": "Forja Sinistra",
     "DESCRIPTIONS": [
-			"Você se esgueira para dentro de uma pequena cabana. Lá dentro, você encontra algo que se parece com uma forja. As feramentas de ferreiro estão cobertas de poeira, mas o fogo crepita dentro da fornalha. You feel on edge...",
-			"Você decide usar a forja e... NL #y@CLANG@ #y@CLAAANG@ #y@CLANG!@ NL ...aprimorar seu arsenal!",
-			"Você decide ver se consegue achar alguma coisa útil. Após arrastar lonas, vasculhar caixas, e verificar cantos e frestas, você encontra uma #y~reliquia!~ coberta por poeira ",
+			"Você se esgueira para dentro de uma pequena cabana. Lá dentro, você encontra algo que se parece com uma forja. As ferramentas de ferreiro estão cobertas de poeira, mas o fogo crepita dentro da fornalha. Você sente uma ansiedade...",
+			"Você decide usar a forja e... NL #y@CLANG@ #y@CLAAANG@ #y@CLANG!@ NL ...aprimora seu arsenal!",
+			"Você decide ver se consegue achar alguma coisa útil. Após arrastar lonas, vasculhar caixas, e verificar cantos e frestas, você encontra uma #y~reliquia!~ coberta por poeira. ",
 			"A medida que você avança pelos toques finais, as chamas da forja pulam em você, #r@queimando@ #r@e@ #r@marcando@ seus braços..",
 			"Você não consegue se livrar deste #r~sentimento~ #r~desagradável~ mesmo após deixar a cabana. Será que você pertubou algum tipo de espírito?",
-			"Aparentemente, não há nada de útilpara você na cabana. Você sái dela da mesma forma que entrou, enquanto as chamas da fornalha lançam #p~sombras~ #p~misteriosas~ nas paredes dentro da cabana..."
+			"Aparentemente, não há nada de útil para você na cabana. Você sai dela da mesma forma que entrou, enquanto as chamas da fornalha lançam #p~sombras~ #p~inquietantes~ nas paredes dentro da cabana..."
 	],
     "OPTIONS": [
 			"[Forjar] #gAprimore #guma #gcarta. #r25%: #rDe #rser #rAmaldiçoado #r- #rFerimento.",
@@ -26,14 +26,14 @@
   "Bonfire Elementals": {
 	"NAME": "Espíritos da Fogueira",
     "DESCRIPTIONS": [
-			"Você se depara com um grupo do que parece ser #pespiritos #pde #pfogo #parroxeados ~dançando~ em volta de uma grande fogueira. NL ",
-			"Os espíritos arremeçam pesquenos ossos e fragmentos nas chamas, que criam uma ~erupção~ ~brilhante~ cada vez que são consumidos pelas chamas. NL Conforme se aproximoa, os espirítos se voltam para você, esperançosamente...",
-			"Você arremeça uma oferenda nas chamas. NL NL ",
+			"Você se depara com um grupo do que parece ser #pespíritos #pde #pfogo #parroxeados ~dançando~ em volta de uma grande fogueira. NL ",
+			"Os espíritos lançam pequenos ossos e fragmentos nas chamas, que criam uma ~erupção~ ~brilhante~ cada vez que são consumidos pelas chamas. NL Conforme você se aproxima, os espirítos se voltam para você, esperançosamente...",
+			"Você arremessa uma oferenda nas chamas. NL NL ",
 			"Entretanto, os espíritos não ficaram felizes que você os ofereceu uma #pMaldição... A carta emite um chiado e solta uma suave fumaça negra. Você recebe... #p~alguma~ #p~coisa~ em troca.",
 			"Nada acontece... NL Os espíritos parecem estar te ignorando. Que decepção...",
 			"As chamas emitem um brilho suave. NL Os espíritos continuam a sua dança. Você se sente ligeiramente mais confortável na presença deles.. NL Você #gcura #b5 de HP.",
-			"AS chamas crecem repentinamente, se tornando mais intensas! NL Os espíritos começam a dançar animadamente a sua volta, preenchendo-o com uma ~sensação~ ~agradável~ NL Você #gcura seu HP completamente.",
-			"As chamas @irrompem,@ quase o derrubando para trás, enquanto @dobram@ sua intensidade. NL Os espíritos dançam a sua volta com excitação antes de ~fundir-sem~ ~a~ ~sua~ ~forma,~ preenchendo você com vivacidade e força. NL Seu HP Máximo é aumentado em 10 e também #gcure seu HP complementamente."
+			"As chamas crescem repentinamente, se tornando mais intensas! NL Os espíritos começam a dançar animadamente a sua volta, preenchendo-o com uma ~sensação~ ~agradável~ NL Você #gcura seu HP completamente.",
+			"As chamas @irrompem,@ quase o derrubando para trás, enquanto @dobram@ sua intensidade. NL Os espíritos dançam a sua volta com excitação antes de se ~fundirem~ ~a~ ~sua~ ~forma,~ preenchendo você com vivacidade e força. NL Seu HP Máximo é aumentado em 10 e também é #gcurado complementamente seu HP ."
 	],
     "OPTIONS": [
 			"[Prosseguir]",
@@ -45,9 +45,9 @@
   "Match and Keep!": {
 	"NAME": "Combine e Ganhe!",
     "DESCRIPTIONS": [
-			"\" #bDoze cartas! Combine-as para Ganher! #bCinco tentativas, sem segunda-chance. NL Você está pronto? Vamos lá!\"",
+			"\" #bDoze cartas! Combine-as para Ganhar! #bCinco tentativas, sem segunda-chance. NL Você está pronto? Vamos lá!\"",
 			"Você concluiu o jogo do diabrete e levantou os olhos. NL Ele desapareceu?",
-			"Um diabrete está embaralhando furiosamente Cartas em uma mesa. Este monstro aparente ser inofensivo. Você se aproxima dele por curiosidade."
+			"Um diabrete está embaralhando cartas loucamente em uma mesa. Este monstro aparenta ser inofensivo. Você se aproxima dele por curiosidade."
 	],
     "OPTIONS": [
 			"[Prosseguir]",
@@ -59,12 +59,12 @@
   "Duplicator": {
 	"NAME": "Duplicador",
     "DESCRIPTIONS": [
-			"À sua frente está posto um altar decorado para alguma entidade.",
-			"Você se ajoelha respeitosamente. Uma Sombra espelhada fantasmagórica aparece do templo e se choca com você.",
+			"À sua frente está posto um altar decorado para alguma entidade anciã.",
+			"Você se ajoelha respeitosamente. Uma assombrosa imagem no espelho aparece do templo e se choca com você.",
 			"Você ignora o templo, e segue confiante de sua escolha."
 	],
     "OPTIONS": [
-			"[Orar] #gDupica #guma #gcarta #gdo #gseu #gbaralho.",
+			"[Orar] #gDuplica #guma #gcarta #gdo #gseu #gbaralho.",
 			"[Ir embora]",
 			"Selecione uma Carta para Duplicar."
     ]
@@ -72,9 +72,9 @@
   "Fountain of Cleansing": {
 	"NAME": "A Fonte Divina",
     "DESCRIPTIONS": [
-			"Você se depara com uma fonte próxima a um muro, de onde fluem #b~aguas~ #b~cintilantes~ continuamente.",
-			"Conforme você bebe da #b~water,~ você sente a #popressão #psombria de esvair.",
-			"Incerto da natureza daquelas águas, você continua sua jornada, sedento."
+			"Você se depara com uma fonte próxima a um muro, de onde fluem continuamente #b~águas~ #b~cintilantes~.",
+			"Conforme você bebe da #b~água,~ você sente uma #popressão #psombria se esvair.",
+			"Sem certeza da natureza daquelas águas, você continua sua jornada, sedento."
 	],
     "OPTIONS": [
 			"[Beber] #gRemove #gtodas #gMaldições #gdo #gseu #gbaralho.",
@@ -84,9 +84,9 @@
   "Golden Shrine": {
 	"NAME": "Templo Dourado",
     "DESCRIPTIONS": [
-			"A sua frente se encontra um sacrário elaborado a um espírito antigo. ",
-			"Quando suas mãos tocam o sacrário, #youro começa a cair do teto ~banhando~ ~você~ ~em~ ~riquesas.~ ",
-			"A cada golpe que você dá no sacrário, #youro se derrama repetidamente! NL NL Enquanto você enche seus bolsos, algo #rpesa #rsobre #rvocê.",
+			"À sua frente se encontra um sacrário elaborado a um espírito ancião. ",
+			"Quando suas mãos tocam o sacrário, #youro começa a chover do teto, ~banhando~ ~você~ ~em~ ~riquezas.~ ",
+			"A cada golpe que você dá no sacrário, #youro se derrama de novo e de novo! NL NL Enquanto você enche os bolsos, algo #rpesa #rem #rsua #rconsciência.",
 			"Você ignora o sacrário."
 	],
     "OPTIONS": [
@@ -98,7 +98,7 @@
   "Lab": {
 	"NAME": "Laboratório",
     "DESCRIPTIONS": [
-			"Você se encontra em uma sala cheia de armários com tubos de ensaio, bequeres, fracos, tenazes, braçadeiras, varetas, pinças, óculos, funis, pipetas, cilindros, condensadores, e até mesmo um raro espiral de vidro. NL NL Como você sabe o nome de todas estas ferramentas!? Isso não importa, você dá uma olhada a sua volta."
+			"Você se encontra em uma sala cheia de armários com tubos de ensaio, béqueres, frascos, fórceps, braçadeiras, varetas, pinças, óculos, funis, pipetas, cilindros, condensadores, e até mesmo um raro espiral de vidro. NL NL Como você sabe o nome de todas estas ferramentas!? Isso não importa, você dá uma olhada a sua volta."
 	],
     "OPTIONS": [
 			"[Procurar] #gEncontre #galgumas #gPoções!"
@@ -107,8 +107,8 @@
   "Purifier": {
 	"NAME": "Purificador",
     "DESCRIPTIONS": [
-			"A sua frente se encontra um santurário elaborado a um espirito esquecido",
-			"Você se ajoelha em reverencia, você sente um peso sendo retirado de seus ombros.",
+			"À sua frente se encontra um santuário elaborado a um espirito esquecido",
+			"Ao se ajoelhar em reverência, você sente um peso sendo retirado de seus ombros.",
 			"Você ignora o santuário."
 	],
     "OPTIONS": [
@@ -120,8 +120,8 @@
   "Transmorgrifier": {
 	"NAME": "Transmogrificador",
     "DESCRIPTIONS": [
-			"A sua frente se encontra um santurário elaborado a um espirito esquecido",
-			"Comforme o poder do santuário flui através de você, você sente sua mente ser mudada.",
+			"À sua frente se encontra um santurário elaborado a um espirito esquecido",
+			"Conforme o poder do santuário flui através de você, você sente sua mente ser mudada.",
 			"Você ignora o santuário."
 	],
     "OPTIONS": [
@@ -133,7 +133,7 @@
   "Upgrade Shrine": {
 	"NAME": "Santuário do Aprimoramento",
     "DESCRIPTIONS": [
-			"A sua frente se encontra um santurário elaborado a um espirito esquecido",
+			"À sua frente se encontra um santuário elaborado a um espirito esquecido",
 			"O poder do santuário flui para dentro de você, fazendo-o mais forte.",
 			"Você ignora o santuário."
 	],
@@ -145,35 +145,35 @@
     ]
   },
   "Wheel of Change": {
-	"NAME": "Roda da Sorte",
+	"NAME": "Roda da Mudança",
     "DESCRIPTIONS": [
-			"Você se depara com um elegante e alegre diabrete. NL \"Chegou a hora de girar a roda da sorte! Você está ~P~ ~R~ ~O~ ~N~ ~T~ ~?~ Of course you are!\"",
-			"\"Você ganhou #yOURO! NL YAY!!!!\"",
-			"\"Ah, um #gpresente! NL Divirta-se!\"",
-			"\"Oooh, uma #gcura de graça pra você!\"",
-			"\"Parece que você ganhou uma #pMaldição! NL Isso não é bom. NL Fazer o que, boa sorte na p´roxima!\"",
-			"\"Ohh, O poder das #r~trevas...~ NL Escolha uma carta para remover do seu baralho!\"",
-			"\"Uh oh! NL Você perdeu!\" NL Você o fita de prontidão portando sua lâmina...",
-			"Você tenta golpear o diabrete louco, mas ele é rápido demais para você! NL Ele te golpeia algumas vezes com uma lamina tosca. NL \"O preço foi pago!!\" NL e com isso, ambos o diabrete e a Roda desaparecem, deixando para trás apenas um rastro fumaça."
+			"Você se depara com um elegante e alegre diabrete. NL \"Chegou a hora de girar a roda! Você está ~P~ ~R~ ~O~ ~N~ ~T~ ~O~ ~?~ É claro que está!\"",
+			"\"Você ganhou #yOURO! NL EEEEEEE!!!!\"",
+			"\"Ah, um #gpresente! NL Aproveite!\"",
+			"\"Óooh, uma #gCura de graça pra você!\"",
+			"\"Parece que você ganhou uma #pMaldição! NL Isso não é bom. NL Fazer o que, boa sorte na próxima!\"",
+			"\"Óhh, O poder das #r~trevas...~ NL Escolha uma carta para remover do seu baralho!\"",
+			"\"Opa! NL Você perdeu!\" NL Você o fita sacando uma lâmina...",
+			"Você tenta golpear o diabrete louco, mas ele é rápido demais para você! NL Ele te golpeia algumas vezes com uma lâmina tosca. NL \"O preço foi pago!!\" NL e com isso, ambos o diabrete e sua Roda desaparecem em um rastro de fumaça."
 	],
     "OPTIONS": [
 			"[Jogar]",
-			"[Premio!] YAY!!!!",
-			"[Premio!] #gGanhe #guma #gReliquia.",
+			"[Premio!] EEEEEEE!!!!",
+			"[Premio!] #gGanhe #guma #gRelíquia.",
 			"[Premio!] #gCure #gseu #gHP #gcompletamente.",
 			"[Premio?] #rMaldição #r- #rDecadência.",
-			"[Premio!] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
+			"[Premio!] #Remova #guma #gcarta #gdo #gseu #gbaralho.",
 			"[Premio?] #rPerca #r",
 			" #rde #rHP.",
 			"[Ir embora]",
-			"Escolha uma carta para Remover."
+			"Escolha uma Carta para Remover."
     ]
   },
   "Falling": {
 	"NAME": "Queda",
     "DESCRIPTIONS": [
 			"Conforme você prossegue, pulando de uma plataforma para outra, você escorrega. NL NL Você começa a cair.",
-			"Durante a queda-livre você considera algumas opções: NL Aterrissar em segurança fazendo uso de suas grandes Habilidades. NL Concentrador um Poder para sobreviver a queda. NL Golper a parede a fim de se agarrar a ela.",
+			"Durante a queda-livre você considera algumas opções: NL Aterrissar em segurança fazendo uso de suas melhores técnicas. NL Canalizar um Poder para sobreviver a queda. NL Golpear a parede a fim de se agarrar a ela.",
 			"Você aterrissa graciosamente antes de prosseguir seu caminho.",
 			"Concentrando e gastando parte de seu poder bruto, você consegue aterrissar sem nenhum dano.",
 			"Você consegue se agarrar a parede, e com um impulso consegue subir em uma outra plataforma mais estável."
@@ -192,14 +192,14 @@
   "The Moai Head": {
 	"NAME": "A Cabeça Moai",
     "DESCRIPTIONS": [
-			"Você tropeça em algo que parece *muito* fora do lugar. A sua frente, uma enorme cabeça de pedra emerge de uma parte da parede que não se deslocam ou mudam como o resto deste local. NL A boca desta cabeça está bem aberta, e releva grandes e intimidadores dentes machandos de sangue. A superfície da estatua está repleta de pictogramas que parecem indicar pessoas se jogando na boca da estatua e sendo devoradas. Poque alguem faria isso?",
-			"A princípio, enquanto você avança vagarosamente colocando sua cabeça na boca da estátua, nada acontece... Enquanto você começa a se sentir um pouco bobo, os enormes molares descem repentinamente sobre você, esmagando-o por completo. NL @Escuridão.@ NL Após algum tempo de escuridão, você enxerga um pequeno traço de luz, e escuta o que você percebe ser os dentes da estatua subindo vagarosamente. NL NL NL Você sai, ainda confuso.",
-			"Você dá um salto para trás assim que os enormes molares da estátua esmagam o ídolo, esmagam até virar pó. Conforme os dentes começam a se abrir, #youro é derramado da abertura, te inundando de riquesas.",
+			"Você tropeça em algo que parece *muito* exdrúxulo. À sua frente, uma enorme cabeça de pedra emerge de um segmento da parede que não se desloca ou muda como o resto deste local. NL A boca desta cabeça está bem aberta, e releva grandes e intimidadores dentes manchados do vermelho de sangue. A superfície da estatua está repleta de pictogramas que parecem indicar pessoas se jogando na boca da estatua e sendo devoradas. Por que alguem faria isso?",
+			"A princípio, enquanto você adentra vagarosamente na boca da estátua, nada acontece... Enquanto você começa a se sentir um pouco bobo, os enormes molares descem repentinamente sobre você, esmagando-o por completo. NL @Escuridão.@ NL Após algum tempo no interior da escuridão, você enxerga um pequeno traço de luz, e escuta o que você percebe ser os dentes rochosos da estátua subindo vagarosamente. NL NL NL Você sai, ainda confuso.",
+			"Você dá um salto para trás assim que os enormes molares da estátua esmagam o ídolo, esmagado até virar pó. Conforme os dentes começam a subir, #youro vaza como uma torrente pela abertura, te inundando de riquezas.",
 			"Você vai embora, imaginando o que poderia ser aquilo."
 	],
     "OPTIONS": [
-			"[Se lançar] #gCure #gtodo #go #gseu #gHP. #rPerca #r10 #r de #rHP #rMáximo.",
-			"[Oferecer: Ídolo Dourado] #gReceba #g333 #gde #gOuro. #rPerca #rÍdolo #ro #rDourado.",
+			"[Pular Dentro] #gCure #gtodo #go #gseu #gHP. #rPerca #r10 #r de #rHP #rMáximo.",
+			"[Oferecer: Ídolo Dourado] #gReceba #g333 #gde #gOuro. #rPerca #ro #rÍdolo #rDourado.",
 			"[Bloqueado] Requer: Ídolo Dourado.",
 			"[Ir embora]"
     ]
@@ -207,27 +207,27 @@
   "Mysterious Sphere": {
 	"NAME": "Esfera Misteriosa",
     "DESCRIPTIONS": [
-			"Sobressaindo do terreno caótico onde você está, uma esfera de ossos envolvei um brilhante e misterioso objeto. NL Enquanto você está curioso sobre o que pode estar lá dentro, você percebe que existem algumas sentinelas.",
+			"Sobressaindo do terreno caótico em sua volta, uma esfera de ossos envolve um brilhante e misterioso objeto. NL Enquanto você está curioso sobre o que pode estar lá dentro, você nota que há algumas sentinelas de olho nela.",
 			"Assim que você atinge a esfera, as sentinelas despertam!",
 			"Não há motivos para ser ganancioso."
 	],
     "OPTIONS": [
-			"[Abrir a Esfera] #rLutar. #gRecompensa: #gReliquia.",
+			"[Abrir a Esfera] #rLutar. #gRecompensa: #gRelíquia.",
 			"[Ir embora]",
 			"[Lutar]"
     ]
   },
   "Thinking with Puddles": {
-	"NAME": "Surpresa Aquosa",
+	"NAME": "Pensando com Poças",
     "DESCRIPTIONS": [
-			"You walk into a shimmering puddle... and you drop out of the ceiling right above it! NL While in freefall, you consider your options.",
-			"You flail your arms in panic and unleash all of your hidden tricks to prevent yourself from injury. Instead, you fall into the puddle again... and again... and again. Days pass before you realize how to get out. Truly miserable.",
-			"You brace yourself for the landing but there is simply no good way to land when ejected from such a bizarre contraption. @THUD@ NL NL ...you lay there for a while, cursing the existence of puddles, both liquid and magical."
+			"Você avança sobre uma poça cintilante... e cai do teto logo acima! NL Enquanto está em queda livre, você considera as opções.",
+			"Você chacoalha seus braços em pânico e libera todos seus truques ocultos para prevenir injúrias. Porém, você cai na poça de novo... e de novo... e de novo. Dias passam até que você descobre como sair dessa situação. Uma verdadeira desgraça.",
+			"Você se prepara para a aterrissagem, mas simplesmente não há nenhuma maneira segura de pousar quando se é ejetado de uma tão bizarra bugiganga. @BAM@ NL NL ...você permanece no chão, amaldiçoando a existência de poças, ambas líquidas e mágicas."
 	],
     "OPTIONS": [
-			"[Gooped] #rLose #ra #rrandom #rRare #rcard.",
-			"[Land Face First] #rTake #r",
-			" #rdamage. #rBecome #rCursed #r- #rInjury.",
+			"[Gooped] #rPerca #ruma #rCarta #rRara #raleatória.",
+			"[Cair de Cara] #rTome #r",
+			" #rde #rdano. #rReceba #ra #rMaldição #r- #rFerimento.",
 			"[Ir Embora]"
     ]
   },
@@ -389,7 +389,7 @@
 	],
     "OPTIONS": [
 			"[Concordar] #gReceba #g",
-			" #gde #gOuro. #rTone-se #rAmaldiçoado #r- #rDúvida.",
+			" #gde #gOuro. #rTorne-se #rAmaldiçoado #r- #rDúvida.",
 			"[Discordar]",
 			"[Prosseguir]",
 			"[Ir Embora]"
