@@ -1061,5 +1061,26 @@
     "DESCRIPTIONS": [
       "Wenn du einen #yFluch erhältst, erhöhe deine Max-TP um #b"
     ]
+  },
+  "Molten Egg 2": {
+    "NAME": "Molten Egg (BETA)",
+    "FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
+    "DESCRIPTIONS": [
+      "Whenever you obtain an #yAttack card, it is #yUpgraded."
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "Frozen Egg (BETA)",
+    "FLAVOR": "The egg lies inert and frozen, never to hatch.",
+    "DESCRIPTIONS": [
+      "Whenever you obtain a #yPower card, it is #yUpgraded."
+    ]
+  },
+  "Toxic Egg 2": {
+    "NAME": "Toxic Egg (BETA)",
+    "FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Whenever you obtain a #ySkill card, it is #yUpgraded."
+    ]
   }
 }

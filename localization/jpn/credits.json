@@ -1,34 +1,106 @@
 {
-  "Credits": {
-    "UI": [
-      "クリックして退出"
-    ],
-    "THANKS_MSG": "...プレイしてくれてありがとう！",
+  "DEV": {
+    "HEADER": "Development & Design",
     "NAMES": [
-      "開発＆デザイン",
       "Anthony Giovannetti",
-      "Casey Yano",
-      "音楽＆サウンド",
-      "Clark Aboud",
-      "音声",
-      "Michael Schwalbe",
-      "Tamara Ryan",
-      "カードポートレート&イベントアート",
-      "Anailis Dorta",
-      "キャラクター・アニメーション",
-      "Jon Sandler",
-      "プロモーション＆背景",
-      "Bruce Brenneise",
-      "オペレーション＆マトリックス",
+      "Casey Yano"
+    ]
+  },
+  "OPS": {
+    "HEADER": "Operations & Metrics",
+    "NAMES": [
       "Danielle Jenkins",
-      "テストプレイ",
+      "Jake Rabinowitz"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "Music & Sounds",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "VOICE": {
+    "HEADER": "Development & Design",
+    "NAMES": [
+      "Tamara Ryan",
+      "Michael Schwalbe"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "Card Portraits & Event Art",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "ANIMATION": {
+    "HEADER": "Character Animation",
+    "NAMES": [
+      "Julio Duque Montero",
+      "Jon Sandler"
+    ]
+  },
+  "ILLUSTRATION": {
+    "HEADER": "Promo & Background Illustration",
+    "NAMES": [
+      "Bruce Brenneise"
+    ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "Chinese (Simplified) Localization",
+    "NAMES": []
+  },
+  "LOC_ZHT": {
+    "HEADER": "Chinese (Traditional) Localization",
+    "NAMES": []
+  },
+  "LOC_FRA": {
+    "HEADER": "French Localization",
+    "NAMES": []
+  },
+  "LOC_DEU": {
+    "HEADER": "German Localization",
+    "NAMES": []
+  },
+  "LOC_ITA": {
+    "HEADER": "Italian Localization",
+    "NAMES": []
+  },
+  "LOC_JPN": {
+    "HEADER": "Japanese Localization",
+    "NAMES": []
+  },
+  "LOC_KOR": {
+    "HEADER": "Korean Localization",
+    "NAMES": []
+  },
+  "LOC_POL": {
+    "HEADER": "Polish Localization",
+    "NAMES": []
+  },
+  "LOC_RUS": {
+    "HEADER": "Russian Localization",
+    "NAMES": []
+  },
+  "LOC_TUR": {
+    "HEADER": "Turkish Localization",
+    "NAMES": []
+  },
+  "LOC_ADDITIONAL": {
+    "HEADER": "Additional Translations",
+    "NAMES": [
+      "MoGi Group"
+    ]
+  },
+  "TEST": {
+    "HEADER": "Playtesters",
+    "NAMES": [
       "Agari",
       "Daria Anderson",
       "Zac Bauermeister",
       "Nick Becker",
       "Esther Beckman",
       "Leo Chen",
-      "Brian Chow",
+      "Brian Chau",
       "Dan D'Argenio",
       "David Delorenzo",
       "Tim Erskine",
@@ -48,9 +120,12 @@
       "Alexander Toy",
       "Merijn van der Vliet",
       "David Von Derau",
-      "Conor Watson",
-      "スペシャルサンクス",
-      "Jake Rabinowitz",
+      "Conor Watson"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "Operations & Metrics",
+    "NAMES": [
       "Harry Rabinowitz",
       "Kevin \"Billy\" Matheson",
       "Anthony Roybal",
@@ -60,5 +135,9 @@
       "Evan Howell",
       "Justin Myhres"
     ]
+  },
+  "THANKS_MSG": {
+    "HEADER": "...and thank YOU for playing!",
+    "NAMES": []
   }
 }

@@ -405,7 +405,9 @@
       ""
     ],
     "NAME": "Gepanzerter Parasit",
-    "DIALOG": []
+    "DIALOG": [
+      ""
+    ]
   },
   "BronzeOrb": {
     "MOVES": [

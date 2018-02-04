@@ -1,4 +1,13 @@
 {
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Card Removal Service",
+      "SALE",
+      "Not for Sale",
+      "Sold Out",
+      "Oh no!"
+    ]
+  },
   "Cancel Button": {
     "TEXT": [
       "セーブ削除"
@@ -17,7 +26,7 @@
   },
   "Proceed Button": {
     "TEXT": [
-      "続行"
+      "進む"
     ]
   },
   "GamblingChipAction": {
@@ -27,17 +36,17 @@
   },
   "RetainCardsAction": {
     "TEXT": [
-      "維持"
+      "保持"
     ]
   },
   "AbstractChest": {
     "TEXT": [
-      "続行"
+      "進む"
     ]
   },
   "BossChest": {
     "TEXT": [
-      "続行"
+      "進む"
     ]
   },
   "ShopRoom": {
@@ -72,20 +81,20 @@
       "未知の部屋。 NL NL 敵・宝箱・ショップ・または全く毛色の異なるものに出会うかもしれない。",
       "商人",
       "ショップ",
-      "不可思議な商人がこれらの部屋で品物を売りさばいている。 NL NL 頑張って稼いだ #yゴールド はここで消費しよう！",
+      "不思議な商人がこれらの部屋で品物を販売している。 NL NL 頑張って稼いだ #yゴールド はここで使おう！",
       "財宝",
       "財宝部屋",
-      "誰もが訪れたがるこの部屋で #yレリック と #yゴールド が見つかる。",
+      "誰もが訪れたがるこの部屋で、 #yレリック と #yゴールド が見つかる。",
       "休憩",
       "休憩場所",
       "この部屋ではHPの #g回復 とカードの #yアップグレード が可能。",
       "敵",
       "敵",
-      "敵が住む部屋。",
-      "中ボス",
-      "中ボス",
-      "より強力な敵が住んでいる。 NL NL 倒すと報酬としてレリックが一つもらえる。",
-      "伝説"
+      "敵が潜む部屋。",
+      "エリート",
+      "エリート",
+      "より強力な敵が潜んでいる。 NL NL 倒すと報酬としてレリックが1つもらえる。",
+      "凡例"
     ]
   },
   "Unlock Confirm Button": {
@@ -102,7 +111,7 @@
   "Lift Option": {
     "TEXT": [
       "リフト",
-      "増強+1の状態で戦闘を開始する。（最大 3）"
+      "筋力+1の状態で戦闘を開始する。（最大 3）"
     ]
   },
   "Rest Option": {
@@ -128,7 +137,7 @@
   },
   "DiscardPilePanel": {
     "TEXT": [
-      "捨山が #r空 だ。"
+      "捨て札が #r空 だ。"
     ]
   },
   "DrawPilePanel": {
@@ -155,8 +164,8 @@
   },
   "TopPanel": {
     "TEXT": [
-      " フロア",
-      " - Ascension ",
+      " 階層",
+      " - アセンション ",
       " (Max Level)"
     ]
   },
@@ -197,11 +206,11 @@
       "レア",
       "ショップ",
       "イベント",
-      "スターターパック",
+      "スターター",
       "アンコモン",
       "ロック中",
       "未知",
-      " レリック",
+      "レリック",
       "このレリックはアンロックする必要がある。",
       "このレリックはまだ見つかっていない。"
     ]
@@ -211,22 +220,22 @@
       "アタック",
       "スキル",
       "パワー",
-      "呪縛",
+      "呪い",
       "ロック中",
       "未知",
       "アップグレードを見る",
-      "Status",
+      "状態異常",
       "Ammo",
-      "I can only play cards on my turn.",
-      "I'm #rEntangled! NL Can't play Attacks",
-      "Not enough #rEnergy.",
+      "カードは自分のターンにしかプレイできない。",
+      "#r拘束 を受けている！ NL 「アタック」を使用できない。",
+      "#rエナジー　が足りない。",
       "Not enough #rCharge.",
-      "I can't play NL this card"
+      "このカードは NL 使用できない。"
     ]
   },
   "MasterDeckViewScreen": {
     "TEXT": [
-      "戦闘開始時に手持ちのカードがここに置かれている。",
+      "戦闘で使用するカード一覧",
       "戻る"
     ]
   },
@@ -263,7 +272,7 @@
     "TEXT": [
       "カードが全てなくなるとここにあるカードが山札に混ぜられる。",
       "戻る",
-      "捨山"
+      "捨て札"
     ]
   },
   "DiscardAction": {
@@ -289,16 +298,16 @@
   "DeathScreen": {
     "TEXT": [
       "続行",
-      "勝利",
-      "到達したフロア",
+      "勝利？",
+      "到達した階層",
       "倒したボス",
       "プレイ時間",
       "プレイ時間",
       "スコア",
-      "征伐",
+      "征伐された",
       "死...",
       "敗北",
-      "敗北!",
+      "敗北した!",
       "冒涜",
       "惨状",
       "討伐",
@@ -323,29 +332,29 @@
       "続行",
       "リトライ",
       "メインメニュー",
-      "続行",
+      "進む",
       "アンロック",
       "メインメニュー",
       "リトライ",
-      "続行",
+      "進む",
       "アンロック",
       "アンロックまであと： ",
       "アンロックまであと： ",
       "敵モンスター撃破数",
-      "中ボス撃破数",
+      "エリート撃破数",
       "残りゴールド",
       "HPボーナス"
     ],
     "EXTRA_TEXT": [
-      "Exordium Elites Killed",
-      "City Elites Killed",
-      "Beyond Elites Killed",
-      "Speedster",
+      "エリート撃破：序章",
+      "エリート撃破：シティ",
+      "エリート撃破：彼方",
+      "スピードスター",
       "Light Speed",
-      "Highlander",
-      "Collection",
+      "ハイランダー",
+      "コレクション",
       "Full Set",
-      "Pauper",
+      "パウパー",
       "Librarian",
       "Encyclopedia",
       "Well Fed",
@@ -355,14 +364,14 @@
       "",
       "Perfect",
       "Beyond Perfect",
-      "Overkill",
-      "C-c-c-combo",
+      "オーバーキル",
+      "コ・コ・コ・コンボォー！",
       ""
     ]
   },
   "CombatRewardScreen": {
     "TEXT": [
-      "続行",
+      "進む",
       "カードをスキップ",
       "ゴールドをスキップ",
       "ポーションをスキップ",
@@ -379,13 +388,14 @@
   },
   "ChooseOneScreen": {
     "TEXT": [
-      "一つ選択"
+      "1つ選択"
     ]
   },
   "CardRewardScreen": {
     "TEXT": [
       "スキップする",
-      "カードを選択"
+      "カードを選択",
+      "+2 Max HP"
     ]
   },
   "BossRelicSelectScreen": {
@@ -451,7 +461,7 @@
       "プレイデータのアップロード #b(?)",
       "ゲームを終了",
       "保存して終了",
-      "NL NL 垂直同期信号",
+      "NL NL 垂直同期",
       "Playtester Art Mode"
     ]
   },
@@ -471,15 +481,15 @@
       "レッド",
       "グリーン",
       "ブルー",
-      "色なし",
-      "呪縛",
-      "ステータス",
+      "無色",
+      "呪い",
+      "状態異常",
       "アップグレードを見る"
     ]
   },
   "CardLibSortHeader": {
     "TEXT": [
-      "稀少性",
+      "レアリティ",
       "タイプ",
       "A～Z"
     ]
@@ -515,14 +525,14 @@
       "パッチノート",
       "今回のプレイを破棄する",
       "今回のプレイを破棄する（再度クリックで決定）",
-      "Settings",
-      "Run History"
+      "設定",
+      "プレイ履歴"
     ]
   },
   "PatchNotesScreen": {
     "TEXT": [
       "戻る",
-      "#yパッチ#yノート",
+      "#yパッチノート",
       " NL (仮：矢印キーで過去ログの閲覧）"
     ]
   },
@@ -553,24 +563,24 @@
       "このキャラクターは塔の頂上に到達するとアンロックされる。",
       "HP： ",
       "ゴールド： ",
-      " アンロックまであと：",
+      " 次のアンロックまで：",
       "未知",
       "???",
-      " To Next Unlock"
+      " 次のアンロックまで"
     ]
   },
   "CharacterSelectScreen": {
     "TEXT": [
       "キャラクターを選択",
       "攻略開始",
-      "鉄仮面",
-      "音無",
-      "絡繰鴉",
-      "背景",
-      "Ascension Mode (Level ",
+      "アイアンクラッド",
+      "サイレント",
+      "クロウボット",
+      "戻る",
+      "アセンションモード (レベル ",
       ")",
-      "Ascension Mode",
-      "EXPERIMENTAL: Runs get harder as you win... (doesn't affect winstreak)"
+      "アセンションモード",
+      "実験的: 攻略はより困難になる（連続クリア回数には影響しない）"
     ]
   },
   "AbstractMonster": {
@@ -582,11 +592,11 @@
       "この敵が予定しているのは NL #yアタック による #b",
       " ダメージ。",
       "攻撃的",
-      "この敵が予定しているのは #yバフ と #yアタック を#b",
+      "この敵が予定しているのは #yバフ と #yアタック を #b",
       " 回。",
-      "この敵が予定しているのは #yバフ と #yアタック を#b",
+      "この敵が予定しているのは #yバフ と #yアタック を #b",
       "戦略的",
-      "この敵が予定しているのは #y状態異常#y効果 を与え、#yアタック を #b",
+      "この敵が予定しているのは #y状態異常 を与え、 #yアタック を #b",
       "この敵が予定しているのは #yブロック と #yアタック を #b",
       "防御",
       "臆病",
@@ -595,12 +605,12 @@
       "スタン",
       "未知",
       "この敵が予定しているのは #yバフ の使用。",
-      "この敵が予定しているのは #y状態異常#y効果 を与えること。",
-      "この敵が予定しているのは強力な #y状態異常#y効果 を与えること。",
+      "この敵が予定しているのは #yデバフ を与えること。",
+      "この敵が予定しているのは 強力な #yデバフ を与えること。",
       "この敵が予定しているのはこのターンで #yブロック すること。",
       "この敵が予定しているのは #yブロック して、#y状態異常#y効果 を与えること。",
       "この敵が予定しているのは #yブロック と #yバフ の使用。",
-      "この敵が予定しているのは #y脱走。",
+      "この敵が予定しているのは #y逃走。",
       "この敵が予定しているのは 不思議な #y魔法。",
       "この敵は眠っている。",
       "この敵はが #yスタン 状態。",
@@ -610,7 +620,7 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "続行"
+      "進む"
     ]
   },
   "Exordium": {
@@ -640,25 +650,25 @@
   },
   "OpeningAction": {
     "TEXT": [
-      "That enemy does not intend to attack!"
+      "この敵は攻撃しようとしていない！"
     ]
   },
   "RestartForChangesEffect": {
     "TEXT": [
-      "Restart the game for display changes to take effect."
+      "変更を反映するためにゲームを再起動してください。"
     ]
   },
   "PutOnDeckAction": {
     "TEXT": [
-      "put on top of your draw pile"
+      "山札の1番上に置く。"
     ]
   },
   "ApplyPowerAction": {
     "TEXT": [
-      "Negated",
-      "Immune",
+      "打ち消し",
+      "無効化",
       "Nullified",
-      "\n Down"
+      "\n 低下"
     ]
   },
   "CopyAction": {
@@ -668,7 +678,7 @@
   },
   "PowerExpireTextEffect": {
     "TEXT": [
-      "Wears Off"
+      "解除"
     ]
   },
   "LanguageDropdown": {
@@ -680,12 +690,14 @@
       "French",
       "German",
       "Italian",
-      "Japanese",
+      "日本語",
       "Korean",
       "Polish",
       "Russian",
       "Spanish",
-      "Hebrew"
+      "Hebrew",
+      "Turkish",
+      "Swedish"
     ]
   },
   "UnlockTextEffect": {
@@ -695,61 +707,61 @@
   },
   "ImmolateAction": {
     "TEXT": [
-      "exhaust"
+      "廃棄"
     ]
   },
   "AbstractPlayer": {
     "TEXT": [
       "Blocked",
-      "the Ironclad",
-      "the Silent",
+      "アイアンクラッド",
+      "サイレント",
       "the Gunner"
     ]
   },
   "ExhaustAction": {
     "TEXT": [
-      "exhaust"
+      "発掘"
     ]
   },
   "RewardItem": {
     "TEXT": [
-      " Gold (Stolen Back)",
+      " Gold (取り返した)",
       " Gold",
-      "Add a card to your deck",
+      "カードを入手",
       "",
-      "Choose a Card"
+      "1枚選んでくれ"
     ]
   },
   "AbstractCard": {
     "TEXT": [
-      "Locked",
-      "Unknown"
+      "ロック中",
+      "不明"
     ]
   },
   "CampfireTokeEffect": {
     "TEXT": [
-      "Select a Card to Remove."
+      "削除するカードを1枚選んでくれ。"
     ]
   },
   "CampfireUI": {
     "TEXT": [
-      "What to do?",
-      "Hmm...",
-      "What shall I do?",
-      "Time for a break",
-      "So many options...",
-      "I should rest",
-      "So tired..."
+      "何をしようか？",
+      "うーん…",
+      "何をすべきだろう？",
+      "一休みしよう",
+      "何をしようか迷う",
+      "休まないと",
+      "疲れた…"
     ]
   },
   "AbstractPotion": {
     "TEXT": [
-      "I can't carry NL any more Potions."
+      "これ以上ポーションを持つことができない。"
     ]
   },
   "CampfireSmithEffect": {
     "TEXT": [
-      "Select a Card to Upgrade"
+      "アップグレードするカードを1枚選んでくれ。"
     ]
   },
   "BattleStartEffect": {
@@ -762,106 +774,110 @@
   },
   "TipHelper": {
     "TEXT": [
-      "Energy"
+      "エナジー"
     ]
   },
   "AbstractCreature": {
     "TEXT": [
       "Dead",
       "Blocked",
-      "Max HP +"
+      "Max HP +",
+      "スタン！",
+      "中断！"
     ]
   },
   "LeaderboardsScreen": {
     "TEXT": [
-      "Return",
-      "Filters",
-      "Character",
-      "Region",
-      "Type",
-      "View My Score",
-      "Rank",
-      "Name",
-      "Score",
+      "戻る",
+      "フィルター",
+      "キャラクター",
+      "地域",
+      "タイプ",
+      "自分のスコアを見る",
+      "順位",
+      "名前",
+      "スコア",
       "Retrieving Data...",
-      "Leaderboards",
-      "Not Connected to Steam",
-      "No Scores Available \n Go Slay the Spire!"
+      "リーダーボード",
+      "Steamに接続していない",
+      "スコアの記録なし \n Go Slay the Spire!"
     ]
   },
   "ExhumeAction": {
     "TEXT": [
-      "Select a Card to Return to your Hand"
+      "手札に戻すカードを1枚選んでくれ。"
     ]
   },
   "LeaderboardFilters": {
     "TEXT": [
-      "Ironclad",
-      "The Silent",
+      "アイアンクラッド",
+      "サイレント",
       "3rd Char. DO NOT TRANSLATE",
       "Average Floor Reached (Last 20 Attempts)",
       "Average Score (Last 20 Attempts)",
-      "Best Win Streak",
-      "Fastest Victory",
-      "High Score",
+      "最高連続クリア回数",
+      "最速クリア時間",
+      "ハイスコア",
       "Option 6. DO NOT TRANSLATE",
-      "Friends",
-      "Global"
+      "フレンド",
+      "グローバル"
     ]
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile."
+      "山札の1番上に置くカードを1枚選んでくれ。"
     ]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "These cards were exhausted this combat.",
-      "Return"
+      "戦闘中に廃棄されたカード。",
+      "戻る"
     ]
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "1. Elites spawn more often.",
-      "2. Normal enemies deal more damage.",
-      "3. Elites deal more damage.",
-      "4. Bosses deal more damage.",
-      "5. Heal less after Boss battles.",
-      "6. Start each run damaged.",
-      "7. Normal enemies have more HP.",
-      "8. Elites have more HP.",
-      "9. Bosses have more HP.",
-      "10. Start with 1 Curse."
-    ]
-  },
-  "MerchantImageTextNotInGame": {
-    "TEXT": [
-      "Card Removal Service",
-      "SALE",
-      "Not for Sale",
-      "Sold Out",
-      "Oh no!"
+      "1. エリートがより多く出現する。",
+      "2. 通常の敵の攻撃力が上昇。",
+      "3. エリートの攻撃力が上昇。",
+      "4. ボスの攻撃力が上昇。",
+      "5. ボス討伐後のHP回復量が減少。",
+      "6. ダメージを受けた状態で攻略を開始する。",
+      "7. 通常の敵のHPが増加。",
+      "8. エリートのHPが増加。",
+      "9. ボスのHPが増加",
+      "10. 攻略開始時、呪いを獲得する。"
     ]
   },
   "DeathScreenUi": {
     "TEXT": [
-      "Ascension Mode Level ",
-      " Unlocked!"
+      "アセンションモード レベル ",
+      " 解放！"
     ]
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "Ascension Mode Level ",
-      " Unlocked!"
+      "アセンションモード レベル ",
+      " 解放！"
     ]
   },
   "RunHistoryScreen": {
     "TEXT": [
-      "The Ironclad",
-      "The Silent",
+      "アイアンクラッド",
+      "サイレント",
       "",
-      "Return",
-      "No run histories found. NL Go Slay the Spire!"
+      "戻る",
+      "プレイした記録がない。 NL Go Slay the Spire!",
+      "アセンション レベル: ",
+      "失敗： ",
+      " 階層 NL 死因：",
+      "クリア！",
+      "カード",
+      "レリック"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "click again to exit"
     ]
   }
 }

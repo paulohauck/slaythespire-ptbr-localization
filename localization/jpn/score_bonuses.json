@@ -1,174 +1,174 @@
 {
   "Beyond Elites Killed": {
-    "NAME": "Beyond Elites Killed",
+    "NAME": "エリート撃破：彼方",
     "DESCRIPTIONS": []
   },
   "Bosses Slain": {
-    "NAME": "Bosses Slain",
+    "NAME": "ボス撃破",
     "DESCRIPTIONS": []
   },
   "City Elites Killed": {
-    "NAME": "City Elites Killed",
+    "NAME": "エリート撃破：シティ",
     "DESCRIPTIONS": []
   },
   "Exordium Elites Killed": {
-    "NAME": "Exordium Elites Killed",
+    "NAME": "エリート撃破：序章",
     "DESCRIPTIONS": []
   },
   "Champion": {
-    "NAME": "Champion",
+    "NAME": "チャンピオン",
     "DESCRIPTIONS": [
-      "Defeat an Elite without taking damage."
+      "ダメージを受けずにエリートを倒した。"
     ]
   },
   "Perfect": {
-    "NAME": "Perfect",
+    "NAME": "パーフェクト",
     "DESCRIPTIONS": [
-      "Defeat a Boss without taking damage."
+      "ダメージを受けずにボスを倒した。"
     ]
   },
   "Beyond Perfect": {
-    "NAME": "Beyond Perfect",
+    "NAME": "超越",
     "DESCRIPTIONS": [
-      "Defeat 3 bosses without taking damage."
+      "ダメージを受けずに3体のボスを倒した。"
     ]
   },
   "Overkill": {
-    "NAME": "Overkill",
+    "NAME": "オーバーキル",
     "DESCRIPTIONS": [
-      "Deal 99 damage with a single attack."
+      "1度の攻撃で99以上のダメージを与えた。"
     ]
   },
   "Combo": {
-    "NAME": "C-c-c-combo",
+    "NAME": "コ・コ・コ・コンボォー！",
     "DESCRIPTIONS": [
-      "Play 20 cards in a single turn."
+      "1ターンに20枚のカードをプレイした。"
     ]
   },
   "Poopy": {
-    "NAME": "Poopy",
+    "NAME": "クソ！",
     "DESCRIPTIONS": [
-      "Received the Spirit Poop."
+      "精霊の糞を獲得した。"
     ]
   },
   "Cheater": {
-    "NAME": "Cheater",
+    "NAME": "チーター",
     "DESCRIPTIONS": [
-      "Caught cheating. If caught twice, your score will never upload to the Leaderboards."
+      "改造行為を検出しました。 二度目からは永久にリーダーボードに載らなくなります。"
     ]
   },
   "Speedster": {
-    "NAME": "Speedster",
+    "NAME": "スピードスター",
     "DESCRIPTIONS": [
-      "Victory in under 60 minutes."
+      "60分以内にクリア。"
     ]
   },
   "Light Speed": {
-    "NAME": "Light Speed",
+    "NAME": "光の如き速さ",
     "DESCRIPTIONS": [
-      "Victory in under 45 minutes."
+      "45分以内にクリア。"
     ]
   },
   "Money Money": {
-    "NAME": "Money Money",
+    "NAME": "マネー、マネー",
     "DESCRIPTIONS": [
-      "Accrued 1,000 gold."
+      "1000ゴールド獲得。"
     ]
   },
   "Raining Money": {
-    "NAME": "Raining Money",
+    "NAME": "お金の雨",
     "DESCRIPTIONS": [
-      "Accrued 2,000 gold."
+      "2000ゴールド獲得。"
     ]
   },
   "I Like Gold": {
-    "NAME": "I Like Gold",
+    "NAME": "ゴールド大好き",
     "DESCRIPTIONS": [
-      "Accrued 3,000 gold."
+      "3000ゴールド獲得。"
     ]
   },
   "Minimalist": {
-    "NAME": "Minimalist",
+    "NAME": "ミニマリスト",
     "DESCRIPTIONS": [
-      "Removed 5+ cards from your deck."
+      "5枚以上のカードをデッキから削除した。"
     ]
   },
   "Highlander": {
-    "NAME": "Highlander",
+    "NAME": "ハイランダー",
     "DESCRIPTIONS": [
-      "Your deck contains no duplicates (excluding starter cards)."
+      "デッキに同名カードが1枚までしか入っていない (初期カードを除く)。"
     ]
   },
   "Shiny": {
-    "NAME": "I Like Shiny",
+    "NAME": "ピカピカ大好き",
     "DESCRIPTIONS": [
-      "Have 25+ relics."
+      "25個以上のレリックを所有。"
     ]
   },
   "Collector": {
-    "NAME": "Collector",
+    "NAME": "収集家",
     "DESCRIPTIONS": [
-      "Have 4 copies of any non-starter card."
+      "同名カードを4枚所持する（初期カードを除く）。"
     ]
   },
   "Pauper": {
-    "NAME": "Pauper",
+    "NAME": "パウパー",
     "DESCRIPTIONS": [
-      "Have 0 rare cards."
+      "レアカードを1枚も持っていない。"
     ]
   },
   "Librarian": {
-    "NAME": "Librarian",
+    "NAME": "司書",
     "DESCRIPTIONS": [
-      "Deck size greater than 35 cards."
+      "デッキの枚数が35枚以上。"
     ]
   },
   "Encyclopedian": {
-    "NAME": "Encyclopedian",
+    "NAME": "歩く百科事典",
     "DESCRIPTIONS": [
-      "Deck size greater than 50 cards."
+      "デッキの枚数が50枚以上。"
     ]
   },
   "Well Fed": {
-    "NAME": "Well Fed",
+    "NAME": "お腹一杯",
     "DESCRIPTIONS": [
-      "Increased your Max HP by 15+."
+      "最大HPを+15以上にした。"
     ]
   },
   "Stuffed": {
-    "NAME": "Stuffed",
+    "NAME": "ぎゅうぎゅう詰め",
     "DESCRIPTIONS": [
-      "Increased your Max HP by 30+."
+      "最大HPを+30以上にした。"
     ]
   },
   "Curses": {
-    "NAME": "Curses!",
+    "NAME": "呪われた！",
     "DESCRIPTIONS": [
-      "Your deck contains 5 curses."
+      "デッキに呪いが5枚入っている。"
     ]
   },
   "Alchemist": {
-    "NAME": "Alchemist",
+    "NAME": "錬金術師",
     "DESCRIPTIONS": [
-      "Bought 5 potions."
+      "5つのポーションを購入した。"
     ]
   },
   "Mystery Machine": {
-    "NAME": "Mystery Machine",
+    "NAME": "ミステリーマシン",
     "DESCRIPTIONS": [
-      "Traveled to 15+ ? rooms."
+      "15以上の ?　の部屋を訪れた。"
     ]
   },
   "On My Own Terms": {
-    "NAME": "On My Own Terms",
+    "NAME": "思うがままに",
     "DESCRIPTIONS": [
-      "Killed yourself."
+      "自滅した。"
     ]
   },
   "Ascension": {
-    "NAME": "Ascension",
+    "NAME": "アセンション",
     "DESCRIPTIONS": [
-      "+5% score per Ascension Level."
+      "アセンションレベル1につき +5%のスコアボーナス。"
     ]
   }
 }

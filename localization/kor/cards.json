@@ -10,7 +10,7 @@
   },
   "Regret": {
     "NAME": "후회",
-    "DESCRIPTION": "사용불가 NL 턴 종료 시 손에 있는 카드의 수만큼 피해를 입습니다. "
+    "DESCRIPTION": "사용불가 NL 턴 종료 시 손에 있는 카드의 수만큼 체력을 잃습니다. "
   },
   "Crippling Poison": {
     "NAME": "신경독",
@@ -30,7 +30,7 @@
   },
   "Writhe": {
     "NAME": "몸부림",
-    "DESCRIPTION": "사용불가 NL 선천"
+    "DESCRIPTION": "사용불가 NL 선천성"
   },
   "Dark Shackles": {
     "NAME": "어둠의 족쇄",
@@ -87,7 +87,7 @@
   },
   "Exhume": {
     "NAME": "발굴",
-    "DESCRIPTION": "소멸된 카드를 1장 선택해 가져옵니다. NL 소멸."
+    "DESCRIPTION": "소멸된 카드를 1장 선택해 가져옵니다. NL 소멸"
   },
   "Power Through": {
     "NAME": "난관 극복",
@@ -121,7 +121,7 @@
   "Catalyst": {
     "NAME": "촉매",
     "DESCRIPTION": "적의 중독 을 2배로 늘립니다. NL 소멸",
-    "UPGRADE_DESCRIPTION": "적의 중독 을 3 배로 늘립니다. NL 소멸"
+    "UPGRADE_DESCRIPTION": "적의 중독 을 3배로 늘립니다. NL 소멸"
   },
   "Reaper": {
     "NAME": "사신",
@@ -150,7 +150,7 @@
   "After Image": {
     "NAME": "잔상",
     "DESCRIPTION": "카드를 사용할 때마다 방어도 를 1 얻습니다.",
-    "UPGRADE_DESCRIPTION": "선천 NL 카드를 사용할 때마다 방어도 를 1 얻습니다."
+    "UPGRADE_DESCRIPTION": "선천성 NL 카드를 사용할 때마다 방어도 를 1 얻습니다."
   },
   "Unload": {
     "NAME": "처분",
@@ -176,7 +176,7 @@
   "Brutality": {
     "NAME": "잔혹성",
     "DESCRIPTION": "턴 시작 시 체력을 1 잃고 카드를 1장 뽑습니다.",
-    "UPGRADE_DESCRIPTION": "선천 NL 매 턴 시작 시 체력을 1 잃고 카드를 1장 뽑습니다."
+    "UPGRADE_DESCRIPTION": "선천성 NL 매 턴 시작 시 체력을 1 잃고 카드를 1장 뽑습니다."
   },
   "Iron Wave": {
     "NAME": "철의 파동",
@@ -192,11 +192,11 @@
   },
   "Tools of the Trade": {
     "NAME": "작업 도구",
-    "DESCRIPTION": "매 턴 시작 시 카드를 1장 뽑고 1장 버립니다."
+    "DESCRIPTION": "턴 시작 시 카드를 1장 뽑고 1장 버립니다."
   },
   "Dramatic Entrance": {
     "NAME": "극적인 입장",
-    "DESCRIPTION": "선천 NL 적 전체에게 !D! 의 피해를 줍니다. NL 소멸"
+    "DESCRIPTION": "선천성 NL 적 전체에게 !D! 의 피해를 줍니다. NL 소멸"
   },
   "Hemokinesis": {
     "NAME": "혈류",
@@ -207,7 +207,7 @@
     "DESCRIPTION": "적 전체에게 약화 를 !M! 부여합니다. NL 소멸"
   },
   "Necronomicurse": {
-    "NAME": "네크로노미커스",
+    "NAME": "네크로노미콘의 저주",
     "DESCRIPTION": "사용불가 NL 이 저주는 제거할 수 없습니다."
   },
   "Choke": {
@@ -228,7 +228,7 @@
   },
   "Blur": {
     "NAME": "흐릿함",
-    "DESCRIPTION": "!B! 방어도 를 얻습니다. NL 이 방어도 는 다음 턴 시작 시 사라지지 않습니다."
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 한 턴간 방어도 가 사라지지 않습니다."
   },
   "Body Slam": {
     "NAME": "몸통 박치기",
@@ -276,7 +276,7 @@
     "DESCRIPTION": "이 카드를 뽑으면 동일한 카드를 추가로 1장 얻습니다. NL !D! 의 피해를 줍니다. NL 소멸"
   },
   "Berserk": {
-    "NAME": "광화",
+    "NAME": "광폭화",
     "DESCRIPTION": "체력이 50% 이하일 때 매 턴 [R] 을 얻습니다."
   },
   "Pummel": {
@@ -382,21 +382,14 @@
   },
   "Warcry": {
     "NAME": "전투의 함성",
-    "DESCRIPTION": "카드를 2장 뽑습니다. NL 카드 1장을 뽑을 카드 더미 맨 위에 놓습니다. NL 소멸"
+    "DESCRIPTION": "카드를 1장 뽑습니다. NL 카드 1장을 뽑을 카드 더미 맨 위에 놓습니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "카드를 2장 뽑습니다. NL 카드 1장을 뽑을 카드 더미 맨 위에 놓습니다. NL 소멸"
   },
   "PiercingWail": {
     "NAME": "귀를 찢는 비명",
     "DESCRIPTION": "적 전체의 힘을 1턴 동안 !M! 낮춥니다. NL 소멸"
   },
-  "Bite_R": {
-    "NAME": "흡혈",
-    "DESCRIPTION": " !D! 의 피해를 줍니다. NL 체력을 !M! 회복합니다."
-  },
-  "Bite_G": {
-    "NAME": "흡혈",
-    "DESCRIPTION": " !D! 의 피해를 줍니다. NL 체력을 !M! 회복합니다."
-  },
-  "Bite_B": {
+  "Bite": {
     "NAME": "흡혈",
     "DESCRIPTION": " !D! 의 피해를 줍니다. NL 체력을 !M! 회복합니다."
   },
@@ -441,7 +434,7 @@
   },
   "Dark Embrace": {
     "NAME": "어둠의 포옹",
-    "DESCRIPTION": "카드가 소멸 될 때마다 NL 1 장의 카드를 뽑습니다."
+    "DESCRIPTION": "카드가 소멸 될 때마다 NL 1장의 카드를 뽑습니다."
   },
   "Die Die Die": {
     "NAME": "죽어 죽어 죽어",
@@ -449,8 +442,8 @@
   },
   "Well Laid Plans": {
     "NAME": "괜찮은 전략",
-    "DESCRIPTION": "턴 종료 시 !M! 장까지 카드를 보존합니다.",
-    "UPGRADE_DESCRIPTION": "턴 종료 시 !M! 장까지 카드를 보존합니다."
+    "DESCRIPTION": "턴 종료 시 !M! 장까지 카드를 보존 합니다.",
+    "UPGRADE_DESCRIPTION": "턴 종료 시 !M! 장까지 카드를 보존 합니다."
   },
   "Defend_R": {
     "NAME": "수비",
@@ -485,8 +478,8 @@
     "DESCRIPTION": "취약 을 99 부여합니다. NL 소멸"
   },
   "Dazed": {
-    "NAME": "멍함",
-    "DESCRIPTION": "사용불가 NL 천상"
+    "NAME": "어지러움",
+    "DESCRIPTION": "사용불가 NL 휘발성"
   },
   "Barricade": {
     "NAME": "바리케이드",
@@ -494,7 +487,7 @@
   },
   "Armaments": {
     "NAME": "전투장비",
-    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 전투가 끝날 때까지 카드 1장을 강화합니다.",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 카드 1장을 전투가 끝날 때까지 강화합니다.",
     "UPGRADE_DESCRIPTION": "방어도 를  !B! 얻습니다. NL 손에 있는 모든 카드를 전투가 끝날 때까지 강화합니다."
   },
   "Havoc": {
@@ -506,12 +499,12 @@
     "DESCRIPTION": "뽑을 카드 더미에서 공격 카드를 1장 선택해 가져옵니다. NL 소멸",
     "UPGRADE_DESCRIPTION": "뽑을 카드 더미에서 공격 카드를 1장 선택해 가져옵니다.",
     "EXTENDED_DESCRIPTION": [
-      "뽑을 카드 더미에  NL 공격 카드가 없습니다."
+      "뽑을 카드 더미에  NL 공격 카드가 없다."
     ]
   },
   "Apotheosis": {
     "NAME": "신성",
-    "DESCRIPTION": "전투가 끝날 때까지 모든 카드를 강화 합니다. NL 소멸"
+    "DESCRIPTION": "전투가 끝날 때까지 가진 모든 카드를 강화 합니다. NL 소멸"
   },
   "Feel No Pain": {
     "NAME": "무감각",
@@ -558,7 +551,7 @@
   "Infinite Blades": {
     "NAME": "무한의 검날",
     "DESCRIPTION": "매 턴 시작 시 단도 카드를 1장 얻습니다.",
-    "UPGRADE_DESCRIPTION": "선천 NL 매 턴 시작 시 단도 카드를 1장 얻습니다."
+    "UPGRADE_DESCRIPTION": "선천성 NL 매 턴 시작 시 단도 카드를 1장 얻습니다."
   },
   "Phantasmal Killer": {
     "NAME": "환영 살인마",
@@ -608,7 +601,7 @@
   },
   "Clumsy": {
     "NAME": "서투름",
-    "DESCRIPTION": "사용불가 NL 천상"
+    "DESCRIPTION": "사용불가 NL 휘발성"
   },
   "Searing Blow": {
     "NAME": "불태우는 일격",
@@ -645,12 +638,12 @@
   },
   "Transmutation": {
     "NAME": "변성",
-    "DESCRIPTION": "X개의 무작위 무색 카드를 얻습니다. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "X개의 강화된 무작위 무색 카드를 얻습니다. NL Exhaust."
+    "DESCRIPTION": "X개의 무작위 무색 카드를 얻습니다. NL 소멸",
+    "UPGRADE_DESCRIPTION": "X개의 강화된 무작위 무색 카드를 얻습니다. NL 소멸"
   },
   "Backstab": {
     "NAME": "배신",
-    "DESCRIPTION": " !D! 의 피해를 줍니다. NL 선천 NL 소멸"
+    "DESCRIPTION": " !D! 의 피해를 줍니다. NL 선천성 NL 소멸"
   },
   "Step Through Time": {
     "NAME": "Step Through Time",
@@ -730,7 +723,7 @@
   },
   "Carnage": {
     "NAME": "대학살",
-    "DESCRIPTION": "천상 NL  !D! 의 피해를 줍니다."
+    "DESCRIPTION": "휘발성 NL  !D! 의 피해를 줍니다."
   },
   "Masterful Stab": {
     "NAME": "능숙한 찌르기",
@@ -747,7 +740,7 @@
     "UPGRADE_DESCRIPTION": "카드를 !M! 장 뽑습니다. NL 카드를 !M! 장 버립니다."
   },
   "Dropkick": {
-    "NAME": "내려차기",
+    "NAME": "드롭킥",
     "DESCRIPTION": " !D! 의 피해를 줍니다. NL 적이 취약 상태라면 NL [R] 를 얻고 NL 카드를 1장 뽑습니다."
   },
   "Swift Strike": {
@@ -787,7 +780,7 @@
   },
   "Ghostly Armor": {
     "NAME": "유령 갑옷",
-    "DESCRIPTION": "천상 NL 방어도 를 !B! 얻습니다."
+    "DESCRIPTION": "휘발성 NL 방어도 를 !B! 얻습니다."
   },
   "Uppercut": {
     "NAME": "어퍼컷",
@@ -798,7 +791,7 @@
     "DESCRIPTION": "뽑을 카드 더미에 있는 카드의 수만큼 피해를 줍니다.",
     "UPGRADE_DESCRIPTION": "선천성 NL 뽑을 카드 더미에 있는 카드의 수만큼 피해를 줍니다.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Deals !D! damage.)"
+      " NL ( !D! 의 피해를 줍니다.)"
     ]
   },
   "Neutralize": {
@@ -867,7 +860,7 @@
   },
   "Madness": {
     "NAME": "광기",
-    "DESCRIPTION": "손에 있는 무작위 카드 1장의 비용이 이번 전투 동안 0 이 됩니다. NL 소멸"
+    "DESCRIPTION": "손에 있는 무작위 카드 1장의 비용이 이번 전투 동안 0이 됩니다. NL 소멸"
   },
   "Expertise": {
     "NAME": "전문성",

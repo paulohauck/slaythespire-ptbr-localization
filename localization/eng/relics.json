@@ -240,8 +240,9 @@
 	"NAME": "Runic Dodecahedron",
 	"FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
-	"If your HP is full, gain ", "[R] at the start of each turn.",
-	"[G] at the start of each turn.", 
+	"If your HP is full, gain ",
+	"[R] at the start of each turn.",
+	"[G] at the start of each turn.",
 	"[B] at the start of each turn."
 	]
   },
@@ -271,6 +272,27 @@
 	"Gain [R] at the start of each turn.", 
 	"Gain [G] at the start of each turn.",
 	"Gain [B] at the start of each turn."
+	]
+  },
+  "Frozen Egg 2": {
+	"NAME": "Frozen Egg",
+	"FLAVOR": "The egg lies inert and frozen, never to hatch.",
+    "DESCRIPTIONS": [
+	"Whenever you add a #yPower card to your deck, it is #yUpgraded."
+	]
+  },
+  "Molten Egg 2": {
+	"NAME": "Molten Egg",
+	"FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
+    "DESCRIPTIONS": [
+	"Whenever you add an #yAttack card to your deck, it is #yUpgraded."
+	]
+  },
+  "Toxic Egg 2": {
+	"NAME": "Toxic Egg",
+	"FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
+    "DESCRIPTIONS": [
+	"Whenever you add a #ySkill card to your deck, it is #yUpgraded."
 	]
   },
   "Enchiridion": {
@@ -746,7 +768,7 @@
 	"NAME": "Singing Bowl",
 	"FLAVOR": "This well-used artifact rings out with a beautiful melody when struck.",
     "DESCRIPTIONS": [
-	"Whenever you skip a card reward, increase your Max HP by #b"
+	"When adding cards to your deck, you may gain #b+2 Max HP instead."
 	]
   },
   "Smiling Mask": {
@@ -1004,7 +1026,7 @@
   },
   "Vajra": {
 	"NAME": "Vajra",
-	"FLAVOR": "A ornamental relic given to warriors displaying glory in battle.",
+	"FLAVOR": "An ornamental relic given to warriors displaying glory in battle.",
     "DESCRIPTIONS": [
 	"At the start of each combat, gain #b", 
 	" #yStrength."

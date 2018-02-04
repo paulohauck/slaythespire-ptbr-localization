@@ -1,64 +1,143 @@
 {
-  "Credits": {
-    "UI": [
-      "чтобы выйти, нажмите ещё раз"
-    ],
-    "THANKS_MSG": "...и спасибо ВАМ за игру!",
+  "DEV": {
+    "HEADER": "Development & Design",
     "NAMES": [
-      "Разработка и дизайн",
-      "Энтони Джованнетти (Anthony Giovannetti)",
-      "Кейси Яно (Casey Yano)",
-      "Музыка и звуки",
-      "Кларк Эбауд (Clark Aboud)",
-      "Озвучивание",
-      "Майкл Швальбе (Michael Schwalbe)",
-      "Тамара Райан (Tamara Ryan)",
-      "Иллюстрации карт и событий",
-      "Анаилис Дорта (Anailis Dorta)",
-      "Анимация персонажей",
-      "Джон Сэндлер (Jon Sandler)",
-      "Иллюстрации фонов и промо",
-      "Брюс Бреннейс (Bruce Brenneise)",
-      "Операции и метрики",
-      "Даниэлла Дженкинс (Danielle Jenkins)",
-      "Тестеры",
-      "Agari",
-      "Дарья Андерсон (Daria Anderson)",
-      "Зак Бауэрмейстер (Zac Bauermeister)",
-      "Ник Беккер (Nick Becker)",
-      "Эстер Бекман (Esther Beckman)",
-      "Лео Чен (Leo Chen)",
-      "Брайан Чоу (Brian Chow)",
-      "Дэн Даргенио (Dan D'Argenio)",
-      "Дэвид Делоренцо (David Delorenzo)",
-      "Тим Эрскин (Tim Erskine)",
-      "Бенджамин Финкель (Benjamin Finkel)",
-      "Раджив Гиридхарагопал (Rajiv Giridharagopal)",
-      "Уайат Гродзинс (Wyatt Grodzins)",
-      "Рен Хауэлл (Ren Howell)",
-      "Кайл Джеймс (Kyle James)",
-      "Райан Матисен (Ryan Mathisen)",
-      "Энтони Макмиллиан (Anthony McMillian)",
-      "Брэд Майне (Brad Meine)",
-      "Джейкоб Моррис (Jacob Morris)",
-      "Алекс Рокуэлл (Alex Rockwell)",
-      "Грег Шеопнер (Greg Scheopner)",
-      "Джон «Slide20xl» Смит (John «Slide20x1» Smith)",
-      "Аарон Таггерт (Aaron Taggart)",
-      "Александр Той (Alexander Toy)",
-      "Мерийн ван дер Влиет (Merijn van der Vliet)",
-      "Дэвид Фон Дерау (David Von Derau)",
-      "Конор Уотсон (Conor Watson)",
-      "Особая благодарность",
-      "Джейк Рабиновиц (Jake Rabinowitz)",
-      "Гарри Рабиновиц (Harry Rabinowitz)",
-      "Кевин «Billy» Мэтисон (Kevin «Billy» Matheson)",
-      "Энтони Ройбал (Anthony Roybal)",
-      "Ли Бекман (Lee Beckman)",
-      "Сэм Уэлч (Sam Welch)",
-      "Робот для отзывов",
-      "Эван Хауэлл (Evan Howell)",
-      "Джастин Мюрес (Justin Myhres)"
+      "Anthony Giovannetti",
+      "Casey Yano"
     ]
+  },
+  "OPS": {
+    "HEADER": "Operations & Metrics",
+    "NAMES": [
+      "Danielle Jenkins",
+      "Jake Rabinowitz"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "Music & Sounds",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "VOICE": {
+    "HEADER": "Development & Design",
+    "NAMES": [
+      "Tamara Ryan",
+      "Michael Schwalbe"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "Card Portraits & Event Art",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "ANIMATION": {
+    "HEADER": "Character Animation",
+    "NAMES": [
+      "Julio Duque Montero",
+      "Jon Sandler"
+    ]
+  },
+  "ILLUSTRATION": {
+    "HEADER": "Promo & Background Illustration",
+    "NAMES": [
+      "Bruce Brenneise"
+    ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "Chinese (Simplified) Localization",
+    "NAMES": []
+  },
+  "LOC_ZHT": {
+    "HEADER": "Chinese (Traditional) Localization",
+    "NAMES": []
+  },
+  "LOC_FRA": {
+    "HEADER": "French Localization",
+    "NAMES": []
+  },
+  "LOC_DEU": {
+    "HEADER": "German Localization",
+    "NAMES": []
+  },
+  "LOC_ITA": {
+    "HEADER": "Italian Localization",
+    "NAMES": []
+  },
+  "LOC_JPN": {
+    "HEADER": "Japanese Localization",
+    "NAMES": []
+  },
+  "LOC_KOR": {
+    "HEADER": "Korean Localization",
+    "NAMES": []
+  },
+  "LOC_POL": {
+    "HEADER": "Polish Localization",
+    "NAMES": []
+  },
+  "LOC_RUS": {
+    "HEADER": "Russian Localization",
+    "NAMES": []
+  },
+  "LOC_TUR": {
+    "HEADER": "Turkish Localization",
+    "NAMES": []
+  },
+  "LOC_ADDITIONAL": {
+    "HEADER": "Additional Translations",
+    "NAMES": [
+      "MoGi Group"
+    ]
+  },
+  "TEST": {
+    "HEADER": "Playtesters",
+    "NAMES": [
+      "Agari",
+      "Daria Anderson",
+      "Zac Bauermeister",
+      "Nick Becker",
+      "Esther Beckman",
+      "Leo Chen",
+      "Brian Chau",
+      "Dan D'Argenio",
+      "David Delorenzo",
+      "Tim Erskine",
+      "Benjamin Finkel",
+      "Rajiv Giridharagopal",
+      "Wyatt Grodzins",
+      "Ren Howell",
+      "Kyle James",
+      "Ryan Mathisen",
+      "Anthony McMillian",
+      "Brad Meine",
+      "Jacob Morris",
+      "Alex Rockwell",
+      "Greg Scheopner",
+      "John \"Slide20xl\" Smith",
+      "Aaron Taggart",
+      "Alexander Toy",
+      "Merijn van der Vliet",
+      "David Von Derau",
+      "Conor Watson"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "Operations & Metrics",
+    "NAMES": [
+      "Harry Rabinowitz",
+      "Kevin \"Billy\" Matheson",
+      "Anthony Roybal",
+      "Lee Beckman",
+      "Sam Welch",
+      "feedbackbot",
+      "Evan Howell",
+      "Justin Myhres"
+    ]
+  },
+  "THANKS_MSG": {
+    "HEADER": "...and thank YOU for playing!",
+    "NAMES": []
   }
 }

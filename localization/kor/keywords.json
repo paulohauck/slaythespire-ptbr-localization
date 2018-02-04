@@ -42,7 +42,7 @@
     },
     "ETHEREAL": {
       "NAMES": [
-        "증발",
+        "휘발성",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
@@ -62,7 +62,7 @@
     },
     "INNATE": {
       "NAMES": [
-        "선천",
+        "선천성",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
@@ -202,13 +202,13 @@
     },
     "FRAIL": {
       "NAMES": [
-        "허약",
+        "손상",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "카드 사용 시 얻는 #y방어도 가 #b25% 감소합니다."
+      "DESCRIPTION": "카드로부터 얻는 #y방어도 가 #b25% 감소합니다."
     },
     "STRIKE": {
       "NAMES": [

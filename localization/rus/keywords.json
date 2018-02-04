@@ -104,7 +104,7 @@
       "NAMES": [
         "статус",
         "статусом",
-        "UNUSED_RESERVE",
+        "статуса",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
@@ -247,8 +247,8 @@
       "NAMES": [
         "артефакт",
         "артефакта",
-        "артефактов",
-        "артефактом",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
       "DESCRIPTION": "Отменяет следующий отриц. эффект."

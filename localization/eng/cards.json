@@ -325,7 +325,7 @@
   },
   "Skewer": {
     "NAME": "Skewer",
-    "DESCRIPTION": "Spend all [G]. NL Deal !D! damage X times."
+    "DESCRIPTION": "Deal !D! damage X times."
   },
   "Envenom": {
     "NAME": "Envenom",
@@ -378,25 +378,18 @@
   },
   "Whirlwind": {
     "NAME": "Whirlwind",
-    "DESCRIPTION": "Spend all [R]. NL Deal !D! damage to ALL enemies X times."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies X times."
   },
   "Warcry": {
     "NAME": "Warcry",
-    "DESCRIPTION": "Draw 2 cards. NL Place a card from your hand on top of your draw pile. NL Exhaust."
+    "DESCRIPTION": "Draw !M! card. NL Place a card from your hand on top of your draw pile. NL Exhaust.",
+	"UPGRADE_DESCRIPTION": "Draw !M! cards. NL Place a card from your hand on top of your draw pile. NL Exhaust."
   },
   "PiercingWail": {
     "NAME": "Piercing Wail",
     "DESCRIPTION": "ALL enemies lose !M! Strength for 1 turn. NL Exhaust."
   },
-  "Bite_R": {
-    "NAME": "Bite",
-    "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
-  },
-  "Bite_G": {
-    "NAME": "Bite",
-    "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
-  },
-  "Bite_B": {
+  "Bite": {
     "NAME": "Bite",
     "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
   },
@@ -566,8 +559,8 @@
   },
   "Malaise": {
     "NAME": "Malaise",
-    "DESCRIPTION": "Spend all [G]. NL Enemy loses X Strength. Apply X Weak. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Spend all [G]. NL Enemy loses X+1 Strength. Apply X+1 Weak. NL Exhaust."
+    "DESCRIPTION": "Enemy loses X Strength. Apply X Weak. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Enemy loses X+1 Strength. Apply X+1 Weak. NL Exhaust."
   },
   "Reflex": {
     "NAME": "Reflex",

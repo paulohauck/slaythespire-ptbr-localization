@@ -1,4 +1,11 @@
 {
+  "Ancient Potion": {
+    "NAME": "古代のポーション",
+    "DESCRIPTIONS": [
+      "#yアーティファクト #b",
+      " を得る。"
+    ]
+  },
   "Block Potion": {
     "NAME": "ブロックポーション",
     "DESCRIPTIONS": [
@@ -9,7 +16,7 @@
   "Dexterity Potion": {
     "NAME": "機敏ポーション",
     "DESCRIPTIONS": [
-      "#y機敏性 #b",
+      "#y敏捷性 #b",
       " を得る。"
     ]
   },
@@ -18,7 +25,7 @@
     "DESCRIPTIONS": [
       "",
       "",
-      "手札の #y状態変化 カードすべてを #y疲労 にする。",
+      "手札の #y呪い と #y状態異常 を 全て #y廃棄 する。",
       "",
       "効果がなかった..."
     ]
@@ -38,7 +45,7 @@
     ]
   },
   "Fire Potion": {
-    "NAME": "ファイヤーポーション",
+    "NAME": "火炎ポーション",
     "DESCRIPTIONS": [
       "ダメージ #b",
       " を与える。"
@@ -61,37 +68,37 @@
   "Potion Slot": {
     "NAME": "ポーションスロット",
     "DESCRIPTIONS": [
-      "戦闘中にポーションを使用して #gボーナス 効果を得たり敵の #r邪魔 をする。",
+      "戦闘中にポーションを使用して #gボーナス 効果を得たり敵の #r妨害 をする。",
       "ポーションスロット"
     ]
   },
   "Regen Potion": {
-    "NAME": "定期回復ポーション",
+    "NAME": "再生ポーション",
     "DESCRIPTIONS": [
-      "#yHP #b",
-      " 回復（ターン終了時。#b",
+      "ターン終了時、 #yHP #b",
+      " 回復。 #b",
       " ターン有効）。"
     ]
   },
   "Strength Potion": {
-    "NAME": "増強ポーション",
+    "NAME": "筋力ポーション",
     "DESCRIPTIONS": [
-      "#y増強 #b",
+      "#y筋力 #b",
       " を得る。"
     ]
   },
   "Swift Potion": {
-    "NAME": "スイフトポーション",
+    "NAME": "加速ポーション",
     "DESCRIPTIONS": [
       "",
-      "カード #b",
+      "カードを #b",
       " 枚を引く。"
     ]
   },
   "Weak Potion": {
-    "NAME": "弱体ポーション",
+    "NAME": "脱力ポーション",
     "DESCRIPTIONS": [
-      "#y弱体化 #b",
+      "#y脱力 #b",
       " を与える。"
     ]
   }

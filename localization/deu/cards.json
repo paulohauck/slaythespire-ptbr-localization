@@ -378,23 +378,12 @@
   },
   "Warcry": {
     "NAME": "Schlachtruf",
-    "DESCRIPTION": "Du ziehst 2 Karten. NL Lege eine Karte deiner Hand auf deinen Aufnahmestapel. NL Erschöpft."
+    "DESCRIPTION": "Du ziehst 2 Karten. NL Lege eine Karte deiner Hand auf deinen Aufnahmestapel. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Place a card from your hand on top of your draw pile. NL Exhaust."
   },
   "PiercingWail": {
     "NAME": "Durchdringendes Heulen",
     "DESCRIPTION": "ALLE Gegner verlieren 1 Zug lang !M! Stärke. NL Erschöpft."
-  },
-  "Bite_R": {
-    "NAME": "Biss",
-    "DESCRIPTION": "Du verursachst !D! Schaden. NL Du heilst !M! TP."
-  },
-  "Bite_G": {
-    "NAME": "Biss",
-    "DESCRIPTION": "Du verursachst !D! Schaden. NL Du heilst !M! TP."
-  },
-  "Bite_B": {
-    "NAME": "Biss",
-    "DESCRIPTION": "Du verursachst !D! Schaden. NL Du heilst !M! TP."
   },
   "Secret Technique": {
     "NAME": "Geheime Technik",
@@ -872,5 +861,9 @@
   "Venomology": {
     "NAME": "Alchemisieren",
     "DESCRIPTION": "Erhalte einen zufälligen Trank. NL Erschöpft."
+  },
+  "Bite": {
+    "NAME": "Bite",
+    "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
   }
 }

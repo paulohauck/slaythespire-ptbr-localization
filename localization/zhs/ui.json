@@ -29,7 +29,9 @@
       "波兰语",
       "俄语",
       "西班牙语",
-      "希伯来语"
+      "希伯来语",
+      "土耳其语",
+      "瑞典语"
     ]
   },
   "Proceed Button": {
@@ -188,7 +190,9 @@
     "TEXT": [
       "死亡",
       "格挡",
-      "最大生命+"
+      "最大生命+",
+      "击晕！",
+      "打断！"
     ]
   },
   "TopPanel": {
@@ -428,7 +432,8 @@
   "CardRewardScreen": {
     "TEXT": [
       "跳过",
-      "选一张牌"
+      "选一张牌",
+      "+2 最大生命"
     ]
   },
   "BossRelicSelectScreen": {
@@ -559,7 +564,7 @@
       "放弃当前游戏",
       "放弃当前游戏（请再次点击来确认放弃）",
       "设定",
-      "Run History"
+      "历史记录"
     ]
   },
   "PatchNotesScreen": {
@@ -613,7 +618,7 @@
       "攫升模式 （等级 ",
       "）",
       "攫升模式",
-      "EXPERIMENTAL: Runs get harder as you win... (doesn't affect winstreak)"
+      "试验性模式：随着胜利次数增多，难度也会进一步提升……（不会影响连胜）"
     ]
   },
   "AbstractMonster": {
@@ -831,7 +836,7 @@
       "7. 普通敌人拥有更多生命。",
       "8. 精英敌人拥有更多生命。",
       "9. Boss敌人拥有更多生命。",
-      "10. 开始游戏时获得一张诅咒牌。"
+      "10. 寄生！"
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -851,17 +856,28 @@
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "Ascension Mode Level ",
-      " Unlocked!"
+      "攫升模式等级 ",
+      " 解锁！"
     ]
   },
   "RunHistoryScreen": {
     "TEXT": [
-      "The Ironclad",
-      "The Silent",
+      "铁甲战士",
+      "静默猎人",
       "",
-      "Return",
-      "No run histories found. NL Go Slay the Spire!"
+      "返回",
+      "没有找到历史记录。 NL 还不去爬个塔先！",
+      "攫升等级： ",
+      "在 ",
+      " 层，死于 ",
+      "胜利！",
+      "牌组",
+      "遗物"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "click again to exit"
     ]
   }
 }

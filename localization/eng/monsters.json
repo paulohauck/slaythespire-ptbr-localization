@@ -41,7 +41,7 @@
     "NAME": "Byrd",
     "DIALOG": [
       "@CAW!@ NL @CAAAW@",
-      "Stunned..."
+      ""
     ]
   },
   "Snecko": {
@@ -409,6 +409,7 @@
     ],
     "NAME": "Shelled Parasite",
     "DIALOG": [
+      ""
     ]
   },
   "BronzeOrb": {
@@ -468,7 +469,7 @@
     "NAME": "Slime Boss",
     "DIALOG": [
       "~Slime...~ NL #r~CRUSH!!!~",
-      "Interrupted!"
+      ""
     ]
   },
   "AcidSlime_L": {
@@ -479,7 +480,7 @@
     ],
     "NAME": "Acid Slime (L)",
     "DIALOG": [
-      "Interrupted!"
+      ""
     ]
   },
   "GremlinTsundere": {
@@ -500,7 +501,7 @@
     ],
     "NAME": "Lagavulin",
     "DIALOG": [
-      "Stunned!",
+      "",
       "... NL .....",
       "...? NL .....!?",
       "@!!!@ NL @!???@"
@@ -540,7 +541,7 @@
     ],
     "NAME": "Bronze Automaton",
     "DIALOG": [
-      "Stunned!"
+      ""
     ]
   },
   "Healer": {
@@ -601,7 +602,7 @@
     ],
     "NAME": "Spike Slime (L)",
     "DIALOG": [
-      "Interrupted!"
+      ""
     ]
   },
   "FireOrb": {

@@ -59,7 +59,7 @@
   "Storm of Steel": {
     "NAME": "鋼鐵風暴",
     "DESCRIPTION": "丟棄所有手牌。 NL 每丟棄一張牌，在你的手牌中增加一張 小刀 。",
-    "UPGRADE_DESCRIPTION": "丟棄所有手牌. NL 每丟棄一張牌，在你的手牌中增加一張 升級後的小刀."
+    "UPGRADE_DESCRIPTION": "丟棄所有手牌。 NL 每丟棄一張牌，在你的手牌中增加一張升級後的 小刀 。"
   },
   "Cleave": {
     "NAME": "順劈斬",
@@ -75,11 +75,11 @@
   },
   "Sadistic Nature": {
     "NAME": "殘虐天性",
-    "DESCRIPTION": "每當你對一名敵人造成負面 狀態 ，使對方受到 3 點傷害。"
+    "DESCRIPTION": "每當你對一名敵人造成負面 狀態 ，使對方受到 !M! 點傷害。"
   },
   "J.A.X.": {
     "NAME": "J.A.X.",
-    "DESCRIPTION": "失去 3 點生命。 NL 獲得 2 點 力量 。 NL 消耗 。"
+    "DESCRIPTION": "失去 3 點生命。 NL 獲得 !M! 點 力量 。 NL 消耗 。"
   },
   "Offering": {
     "NAME": "祭品",
@@ -166,7 +166,7 @@
   },
   "Trip": {
     "NAME": "絆倒",
-    "DESCRIPTION": "給予 2 層 易傷 。",
+    "DESCRIPTION": "給予 !M! 層 易傷 。",
     "UPGRADE_DESCRIPTION": "施放 !M! 層 易傷 到所有敵人身上."
   },
   "Dagger Throw": {
@@ -315,7 +315,7 @@
   },
   "Blind": {
     "NAME": "致盲",
-    "DESCRIPTION": "給予1層 虛弱 。",
+    "DESCRIPTION": "給予 !M! 層 虛弱 。",
     "UPGRADE_DESCRIPTION": "給予 !M! 層 虛弱 到所有敵人身上."
   },
   "Doppelganger": {
@@ -366,7 +366,7 @@
   },
   "Bandage Up": {
     "NAME": "包紮",
-    "DESCRIPTION": "回覆4生命。 NL 消耗 。"
+    "DESCRIPTION": "回覆 !M! 生命。 NL 消耗 。"
   },
   "The Bomb": {
     "NAME": "炸彈",
@@ -382,28 +382,17 @@
   },
   "Warcry": {
     "NAME": "戰吼",
-    "DESCRIPTION": "抽2張牌。 NL 將手牌中的一張牌放到你的抽牌堆頂部。 NL 消耗 。"
+    "DESCRIPTION": "抽 !M! 張牌。 NL 將手牌中的一張牌放到你的抽牌堆頂部。 NL 消耗 。 ",
+    "UPGRADE_DESCRIPTION": "抽 !M! 張牌。 NL 將手牌中的一張牌放到你的抽牌堆頂部。 NL 消耗 。"
   },
   "PiercingWail": {
     "NAME": "尖嘯",
     "DESCRIPTION": "所有敵人失去 !M! 力量 1回合。 NL 消耗 。"
   },
-  "Bite_R": {
-    "NAME": "噬咬",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 回覆 !M! 點生命。"
-  },
-  "Bite_G": {
-    "NAME": "噬咬",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 回覆 !M! 點生命。"
-  },
-  "Bite_B": {
-    "NAME": "噬咬",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 回覆 !M! 點生命。"
-  },
   "Secret Technique": {
     "NAME": "秘密技法",
     "DESCRIPTION": "從抽牌堆中選擇一張技能牌放入你的手牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "我的抽牌堆中 NL 沒有技能牌。",
+    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇一張技能牌放入你的手牌。",
     "EXTENDED_DESCRIPTION": [
       "我的抽牌堆中 NL 沒有技能牌."
     ]
@@ -419,7 +408,7 @@
   },
   "Deep Breath": {
     "NAME": "深呼吸",
-    "DESCRIPTION": "將你的棄牌堆洗牌後放入你的抽牌堆。 NL 抽1張牌。",
+    "DESCRIPTION": "將你的棄牌堆洗牌後放入你的抽牌堆。 NL 抽 !M! 張牌。",
     "UPGRADE_DESCRIPTION": "將你的棄牌堆洗牌後放入你的抽牌堆。 NL 抽 !M! 張牌."
   },
   "Doubt": {
@@ -474,7 +463,7 @@
   },
   "Panache": {
     "NAME": "神氣制勝",
-    "DESCRIPTION": "你每在同個回合內打出5張牌，就對所有敵人造成10點傷害。"
+    "DESCRIPTION": "你每在同個回合內打出5張牌，就對所有敵人造成 !M! 點傷害。"
   },
   "Fiend Fire": {
     "NAME": "惡魔之焰",
@@ -504,7 +493,7 @@
   "Secret Weapon": {
     "NAME": "秘密武器",
     "DESCRIPTION": "從抽牌堆中選擇一張攻擊牌放入你的手牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "我的抽牌堆中 NL 沒有攻擊牌。",
+    "UPGRADE_DESCRIPTION": "從抽牌堆中選擇一張攻擊牌放入你的手牌。",
     "EXTENDED_DESCRIPTION": [
       "我的抽牌堆中 NL 沒有攻擊牌."
     ]
@@ -628,16 +617,16 @@
   },
   "Enlightenment": {
     "NAME": "開悟",
-    "DESCRIPTION": "在這個回合，你的所有手牌耗能降低到1。",
-    "UPGRADE_DESCRIPTION": "在這個回合，你的所有手牌耗能降低到1."
+    "DESCRIPTION": "在這個回合，你當前所有手牌的耗能降低到1。",
+    "UPGRADE_DESCRIPTION": "在本場戰鬥，你當前所有手牌的耗能降低到1。"
   },
   "Purity": {
     "NAME": "淨化",
-    "DESCRIPTION": "從手牌中選擇2張牌並將它們 消耗 。 NL 消耗 。"
+    "DESCRIPTION": "從手牌中選擇最多 !M! 張牌並將它們 消耗 。 NL 消耗 。"
   },
   "Panacea": {
     "NAME": "萬能藥",
-    "DESCRIPTION": "失去所有 脆弱 、 易傷 和 虛弱 層數。"
+    "DESCRIPTION": "獲得 !M! 層 人工製品 。 NL 消耗 。"
   },
   "Dash": {
     "NAME": "衝刺",
@@ -645,8 +634,8 @@
   },
   "Transmutation": {
     "NAME": "轉化",
-    "DESCRIPTION": " 變化 你的所有手牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "隨機 X 變化你的卡牌變更為升級後的隨機卡牌."
+    "DESCRIPTION": "增加 X 張隨機無色牌到你的手牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "增加 X 張升級後的隨機無色牌到你的手牌。 NL 消耗 。"
   },
   "Backstab": {
     "NAME": "背刺",
@@ -712,7 +701,7 @@
   },
   "Master of Strategy": {
     "NAME": "戰略大師",
-    "DESCRIPTION": "抽3張牌。 NL 消耗 。"
+    "DESCRIPTION": "抽 !M! 張牌。 NL 消耗 。"
   },
   "Flechettes": {
     "NAME": "飛鏢",
@@ -775,7 +764,7 @@
   },
   "Jack Of All Trades": {
     "NAME": "花樣百出",
-    "DESCRIPTION": "增加一張隨機無色牌到你的手牌。 NL 消耗 。"
+    "DESCRIPTION": "增加 !M! 張隨機無色牌到你的手牌。 NL 消耗 。"
   },
   "Demon Form": {
     "NAME": "惡魔形態",
@@ -795,10 +784,10 @@
   },
   "Mind Blast": {
     "NAME": "心靈震懾",
-    "DESCRIPTION": "",
-    "UPGRADE_DESCRIPTION": "固有. NL 造成你抽牌堆中剩餘牌數的傷害.",
+    "DESCRIPTION": "造成你抽牌堆中剩餘牌數的傷害。",
+    "UPGRADE_DESCRIPTION": "固有。 NL 造成你抽牌堆中剩餘牌數的傷害。",
     "EXTENDED_DESCRIPTION": [
-      " NL (Deals !D! damage.)"
+      " NL （造成 !D! 點傷害。）"
     ]
   },
   "Neutralize": {
@@ -842,8 +831,8 @@
   },
   "Thinking Ahead": {
     "NAME": "深謀遠慮",
-    "DESCRIPTION": "抽2張牌，然後將手牌中的一張牌放到你抽牌堆的頂端。",
-    "UPGRADE_DESCRIPTION": "抽2張牌，然後將手牌中的一張牌放到你抽牌堆的頂端."
+    "DESCRIPTION": "抽2張牌，然後將手牌中的一張牌放到你抽牌堆的頂端。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "抽2張牌，然後將手牌中的一張牌放到你抽牌堆的頂端。"
   },
   "Distraction": {
     "NAME": "聲東擊西",
@@ -871,6 +860,10 @@
   },
   "Expertise": {
     "NAME": "獨門技術",
-    "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 能被多次 升級 。"
+    "DESCRIPTION": "抽牌直到你的手牌有 !M! 張牌。"
+  },
+  "Bite": {
+    "NAME": "噬咬",
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 回复 !M! 點生命。"
   }
 }

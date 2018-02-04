@@ -1,4 +1,57 @@
 Updates for Translators!
+
+2/2/2018:
+credits.json
+	Overhauled! If you would like to credit yourself, please add yourself into the
+	appropritate language section and I will update that field for all the other languages. Thank you!
+ui.json
+	"CreditsScreen"
+	
+----------------------------------
+
+1/31/2018:
+cards.json
+	Removed "Spend all [R]" from all Cost X cards.
+	Malaise, Skewer, Whirlwind.
+
+----------------------------------
+
+1/30/2018v2:
+cards.json
+	"Warcry"
+
+----------------------------------
+
+1/30/2018:
+relics.json
+	Removed (BETA) from Toxic/Molten/Frozen Egg 2
+	"Singing Bowl"
+ui.json
+	"CardRewardScreen"
+	"RunHistoryScreen"
+cards.json
+	"Bite"
+
+----------------------------------
+
+1/29/2018:
+relics.json
+	"Toxic Egg 2"
+	"Frozen Egg 2"
+	"Molten Egg 2"
+ui.json
+	"AbstractCreature"
+monsters.json
+	Removed all instances of Stunned..., Stunned!, and Interrupted!
+
+----------------------------------
+
+1/26/2018:
+potions.json
+	"Ancient Potion"
+ui.json
+	"RunHistoryScreen"
+
 ----------------------------------
 
 1/24/2018:

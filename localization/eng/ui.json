@@ -30,7 +30,13 @@
 		"The Silent",
 		"",
 		"Return",
-		"No run histories found. NL Go Slay the Spire!"
+		"No run histories found. NL Go Slay the Spire!",
+		"Ascension Level: ",
+		"Slain on Floor ",
+		" by ",
+		"Victory!",
+		"Cards",
+		"Relics"
     ]
   },
   "LeaderboardsScreen": {
@@ -79,7 +85,9 @@
 		"Polish",
 		"Russian",
 		"Spanish",
-		"Hebrew"
+		"Hebrew",
+		"Turkish",
+		"Swedish"
 	]
   },
   "Proceed Button": {
@@ -243,7 +251,9 @@
     "TEXT": [
 		"Dead",
 		"Blocked",
-		"Max HP +"
+		"Max HP +",
+		"Stunned!",
+		"Interrupted!"
 	]
   },
   "TopPanel": {
@@ -495,7 +505,8 @@
   "CardRewardScreen": {
     "TEXT": [
 		"Skip",
-		"Choose a Card"
+		"Choose a Card",
+		"+2 Max HP"
 	]
   },
   "BossRelicSelectScreen": {
@@ -628,6 +639,11 @@
 		"Settings",
 		"Run History"
 	]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+		"click again to exit"
+    ]
   },
   "PatchNotesScreen": {
     "TEXT": [

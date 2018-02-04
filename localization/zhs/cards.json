@@ -382,23 +382,12 @@
   },
   "Warcry": {
     "NAME": "战吼",
-    "DESCRIPTION": "抽2张牌。 NL 将手牌中的一张牌放到你的抽牌堆顶部。 NL 消耗 。"
+    "DESCRIPTION": "抽 !M! 张牌。 NL 将手牌中的一张牌放到你的抽牌堆顶部。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "抽 !M! 张牌。 NL 将手牌中的一张牌放到你的抽牌堆顶部。 NL 消耗 。"
   },
   "PiercingWail": {
     "NAME": "尖啸",
     "DESCRIPTION": "所有敌人失去 !M! 力量 1回合。 NL 消耗 。"
-  },
-  "Bite_R": {
-    "NAME": "噬咬",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 回复 !M! 点生命。"
-  },
-  "Bite_G": {
-    "NAME": "噬咬",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 回复 !M! 点生命。"
-  },
-  "Bite_B": {
-    "NAME": "噬咬",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 回复 !M! 点生命。"
   },
   "Secret Technique": {
     "NAME": "秘密技法",
@@ -872,5 +861,9 @@
   "Expertise": {
     "NAME": "独门技术",
     "DESCRIPTION": "抽牌直到你的手牌有 !M! 张牌。"
+  },
+  "Bite": {
+    "NAME": "噬咬",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 回复 !M! 点生命。"
   }
 }

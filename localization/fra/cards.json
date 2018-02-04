@@ -378,23 +378,12 @@
   },
   "Warcry": {
     "NAME": "Cri de guerre",
-    "DESCRIPTION": "Piochez 2 cartes. NL Place une carte de votre main sur le haut de la pioche. NL Épuisement."
+    "DESCRIPTION": "Piochez 2 cartes. NL Place une carte de votre main sur le haut de la pioche. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Place a card from your hand on top of your draw pile. NL Exhaust."
   },
   "PiercingWail": {
     "NAME": "Hurlement perçant",
     "DESCRIPTION": "TOUS les ennemis perdent !M!de Force pendant 1 tour. NL Épuisement."
-  },
-  "Bite_R": {
-    "NAME": "Morsure",
-    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Récupérez !M!PV."
-  },
-  "Bite_G": {
-    "NAME": "Morsure",
-    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Récupérez !M!PV."
-  },
-  "Bite_B": {
-    "NAME": "Morsure",
-    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Récupérez !M!PV."
   },
   "Secret Technique": {
     "NAME": "Technique secrète",
@@ -872,5 +861,9 @@
   "Venomology": {
     "NAME": "Alchemize",
     "DESCRIPTION": "Gagnez un potion. NL Épuisement."
+  },
+  "Bite": {
+    "NAME": "Bite",
+    "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
   }
 }

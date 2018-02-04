@@ -385,7 +385,8 @@
   "CardRewardScreen": {
     "TEXT": [
       "Überspringen",
-      "Wähle eine Karte"
+      "Wähle eine Karte",
+      "+2 Max HP"
     ]
   },
   "BossRelicSelectScreen": {
@@ -685,7 +686,9 @@
       "Polish",
       "Russian",
       "Spanish",
-      "Hebrew"
+      "Hebrew",
+      "Turkish",
+      "Swedish"
     ]
   },
   "UnlockTextEffect": {
@@ -769,7 +772,9 @@
     "TEXT": [
       "Tot",
       "Blockiert",
-      "Max TP +"
+      "Max TP +",
+      "Stunned!",
+      "Interrupted!"
     ]
   },
   "LeaderboardsScreen": {
@@ -861,7 +866,18 @@
       "The Silent",
       "",
       "Return",
-      "No run histories found. NL Go Slay the Spire!"
+      "No run histories found. NL Go Slay the Spire!",
+      "Ascension Level: ",
+      "Slain on Floor ",
+      " by ",
+      "Victory!",
+      "Cards",
+      "Relics"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "click again to exit"
     ]
   }
 }

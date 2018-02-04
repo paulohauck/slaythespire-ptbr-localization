@@ -94,5 +94,12 @@
       "Applique #b",
       " de #yFaiblesse."
     ]
+  },
+  "Ancient Potion": {
+    "NAME": "Ancient Potion",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yArtifact."
+    ]
   }
 }

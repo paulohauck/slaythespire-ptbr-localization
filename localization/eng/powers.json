@@ -637,7 +637,8 @@
     "DESCRIPTIONS": [
 	"For each card played this turn, ",
 	" takes #b10% more damage from #yAttacks.", 
-	" (Take #b", "% more damage)"
+	" (Take #b",
+  "% more damage)"
     ]
   },
   "Split": {
