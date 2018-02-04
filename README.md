@@ -8,11 +8,15 @@ Please, be patient.
 
 > PS.: The Brazilian Portuguese files are in the `localization/ptb` folder.
 
+
+
 ---
 
-## Official Translation Guide
+# Official Translation Guide
 
 Hello Slay the Spire translators! This is a helpful guide to try and aid your translation efforts.
+
+## Section 1 : Translation Tips
 
 1. As the files to translate are all JSON documents, fields do not need to be translated. In fact, the game won't run if the fields are renamed.
 EXAMPLE: Only the fields under "NAMES" and "TEXT" needs to be translated. (Marked with <- This!)
@@ -60,6 +64,26 @@ EXAMPLE: Only the fields under "NAMES" and "TEXT" needs to be translated. (Marke
 
 4. If you have any questions, please reach out to us in the #localization channel on Discord. Don't forget to collaborate with others that are working on your language.
 
+
+## Section 2: How to test
+
+How to test localization for Slay the Spire:
+
+1. Create a backup of desktop-1.0.jar (copy/paste -> desktop-1.0.backup)
+2. Locate and extract the desktop-1.0.jar file (just like a ZIP file! We recommend using 7z)
+3. Choose and modify the language you wish to translate (Example: localization/eng/ui.json)
+4. Rename desktop-1.0.jar to desktop-1.0.zip
+5. Add your edited content into the zip, replacing the original contents.
+6. Rename desktop-1.0.zip to desktop-1.0.jar
+7. Run the game through SlayTheSpire.exe
+8. View your changes in-game! Wow!
+
 Thanks,
 Anthony and Casey
 
+
+--- 
+## **Current Contributors**
+
+- Paulo "SilverTape" Hauck
+- Gustavo "KomKlave" Duarte

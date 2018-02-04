@@ -1,0 +1,835 @@
+{
+  "Cancel Button": {
+    "TEXT": [
+		"Deletar Save"	
+	]
+  },
+  "Confirm Button": {
+    "TEXT": [
+		"Confirmar"
+	]
+  },
+  "End Turn Button": {
+    "TEXT": [
+		"Terminar Turno",
+		"Turno do Inimigo"
+	]
+  },
+  "LeaderboardsScreen": {
+    "TEXT": [
+        "Retornar",
+        "Filtros",
+        "Personagem",
+        "Região",
+        "Tipo",
+        "Ver minha pontuação",
+        "Classificação",
+        "Nome",
+        "Pontuação",
+        "Recuperando dados ...",
+        "Tabelas de classificação (OBSERVAÇÃO: Será resetada semanalmente)",
+        "Não conectado ao Steam",
+        "Nenhuma pontuação disponível \n Jogue Slay the Spire!"
+	]
+  },
+  "LeaderboardFilters": {
+    "TEXT": [
+        "Ironclad",
+        "A Sorrateira",
+        "3rd Char. DO NOT TRANSLATE",
+        "Media de Andares alcançados (Last 20 Attempts)",
+        "Pontuação média(Last 20 Attempts)",
+        "Melhor série de vitórias",
+        "Vitória mais rápida",
+        "Pontuação máxima",
+        "Option 6. DO NOT TRANSLATE",
+        "Amigos",
+        "Global"
+	]
+  },
+  "LanguageDropdown": {
+    "TEXT": [
+		"Brazilian Portugese",
+		"Chinese (Simplified)",
+		"Chinese (Traditional)",
+		"English",
+		"French",
+		"German",
+		"Italian",
+		"Japanese",
+		"Korean",
+		"Polish",
+		"Russian",
+		"Spanish",
+		"Hebrew"
+	]
+  },
+  "Proceed Button": {
+    "TEXT": [
+		"Prosseguir"	
+	]
+  },
+  "GamblingChipAction": {
+    "TEXT": [
+		"Substituir (Ficha de Apostas)"
+	]
+  },
+  "RetainCardsAction": {
+    "TEXT": [
+		"Manter"
+	]
+  },
+  "AbstractChest": {
+    "TEXT": [
+		"Prosseguir"
+	]
+  },
+  "BossChest": {
+    "TEXT": [
+		"Prosseguir"
+	]
+  },
+  "ShopRoom": {
+    "TEXT": [
+		"Pular Comerciante"
+	]
+  },
+  "TreasureRoom": {
+    "TEXT": [
+		"Pular Baú"
+	]
+  },
+  "TreasureRoomBoss": {
+    "TEXT": [
+		"Pular Baú"
+	]
+  },
+  "SetupAction": {
+    "TEXT": [
+		"Coloque no topo da pilha de saque."
+	]
+  },
+  "SkillFromDeckToHandAction": {
+    "TEXT": [
+		"Escolha uma habilidade para ser adicionada à sua mão"
+	]
+  },
+  "DiscardPileToTopOfDeckAction": {
+    "TEXT": [
+		"Escolha uma carta para ser colocada no topo da pilha de saque."
+	]
+  },
+  "Legend": {
+    "TEXT": [
+		"Desconhecido",
+		"???",
+		"Uma sala desconhecida. NL NL Você pode encontrar monstros, tesouros, lojas ou algo completamente diferente.",
+		"Comerciante",
+		"Lojas",
+		"Um comerciante misterioso, vende seus produtos nessas salas. NL NL Gaste o seu bem merecido #yOuro aqui!",
+		"Tesouro",
+		"Sala do Tesouro",
+		"#yReliquias e #yOuro podem ser encontradas nessas cobiçadas salas.",
+		"Descansar",
+		"Locais de Descanso",
+		"Pare nessas salas para #gCurar seu HP ou #yMelhore uma carta",
+		"Inimigo",
+		"Inimigos",
+		"Inimigos hostis vivem nessas salas",
+		"Elite",
+		"Elites",
+		"Inimigos poderosos estão nessas salas. NL NL Derrotá-los irá recompensá-lo com uma Relíquia.",
+		"Legenda"
+	]
+  },
+  "Unlock Confirm Button": {
+    "TEXT": [
+		"Continuar"	
+	]
+  },
+  "Dig Option": {
+    "TEXT": [
+		"Escavação",
+		"Cave um reliquia aleatória."
+	]
+  },
+  "Lift Option": {
+    "TEXT": [
+		"Treinamento",
+		"Comece batalhas com +1 Força. (Ganhe até 3)"
+	]
+  },
+  "Rest Option": {
+    "TEXT": [
+		"Descanso",
+		"Cure 20% do seu HP maximo (",
+		" De HP  ",
+		"Cure 30% do seu HP Maximo ("	
+	]
+  },
+  "Smith Option": {
+    "TEXT": [
+		"Ferreiro",
+		"Melhore uma carta do seu baralho.",
+		"Não há Cartas que possam ser melhoradas."
+	]
+  },
+  "Toke Option": {
+    "TEXT": [
+		"Toke",
+		"Remova uma carta do seu baralho."
+	]
+  },
+  "DiscardPilePanel": {
+    "TEXT": [
+		"A Pilha de descarte está #rvazia."	
+	]
+  },
+  "DrawPilePanel": {
+    "TEXT": [
+		"A Pilha de saques está #rvazia."
+	]
+  },
+  "PotionPopUp": {
+    "TEXT": [
+		"Jogar",
+		"Beber",
+		"Descartar",
+		"Não posso usar poções!",
+		"Eu não posso fazer isso em combate!"
+	]
+  },
+  "RenamePanel": {
+    "TEXT": [
+		"<sem nome>",
+		"Escreva seu nome",
+		"Confirmar",
+		"Cancelar"
+	]
+  },
+  "AbstractCard": {
+    "TEXT": [
+		"Bloqueado",
+		"Desconhecido"
+	]
+  },
+  "AbstractPlayer": {
+    "TEXT": [
+		"Bloqueado",
+		"the Ironclad",
+		"A Sorrateira",
+		"the Gunner"
+	]
+  },
+  "AbstractCreature": {
+    "TEXT": [
+		"Morto",
+		"Bloqueado",
+		"Max HP +"
+	]
+  },
+  "TopPanel": {
+    "TEXT": [
+		" Sala",
+		" - Ascension ",
+		" (Nivel Maximo)"
+	]
+  },
+  "UnlockCharacterScreen": {
+    "TEXT": [
+		"Cartas Desbloqueadas!",
+		"",
+		"Reliquias Desbloqueadas!",
+		"Novo Personagem",
+		"Observação: As cartas desbloqueadas aparecem em futuras jornadas.",
+		"Observação: As reliquias desbloqueadas aparecem em futuras jornadas."
+	]
+  },
+  "UnlockScreen": {
+    "TEXT": [
+		"Cartas Desbloqueadas!",
+		"Reliquias Desbloqueadas!",
+		"Novo Personagem",
+		"Note: As cartas desbloqueadas aparecem em futuras jornadas",
+		"Note: As reliquia desbloqueadas aparecem em futuras jornadas"
+	]
+  },
+  "StorePotion": {
+    "TEXT": [
+		"Voce não tem espaço para isso"
+	]
+  },
+  "AbstractRoom": {
+    "TEXT": [
+		"Roubado..."
+	]
+  },
+  "SingleViewRelicPopup": {
+    "TEXT": [
+		"Chefe",
+		"Comum",
+		"Descontinuada",
+		"Rara",
+		"Loja",
+		"Evento",
+		"Inicial",
+		"Incomum",
+		"Bloqueada",
+		"Desconhecida",
+		" Reliquia",
+		"Essa reliquia ainda precisa ser desbloqueada.",
+		"Essa reliquia continua a ser vista."
+	]
+  },
+  "SingleCardViewPopup": {
+    "TEXT": [
+		"Ataque",
+		"Habilidade",
+		"Poder",
+		"Maldição",
+		"Bloqueado",
+		"Desconhecido",
+		"Ver melhoria",
+		"Condição",
+		"Ammo",
+		"Eu só posso jogar cartas durante o meu turno.",
+		"Eu estou #rEnredado! NL Não posso usar Ataques",
+		"Não tenho #rEnergia o suficiente.",
+		"Não tenho #rCargas o suficiente.",
+		"Eu não posso jogar NL essa carta"
+	]
+  },
+  "MasterDeckViewScreen": {
+    "TEXT": [
+		"Você começa cada combate com todas as cartas daqui.",
+		"Retornar"
+	]
+  },
+  "ExhaustViewScreen": {
+    "TEXT": [
+		"Estas cartas foram Exauridas durante neste combate.",
+		"Retornar"
+	]
+  },
+  "DungeonTransitionScreen": {
+    "TEXT": [
+		"Tutoriais",
+		"Você deseja ver dicas enquanto joga?",
+		"Ato 1",
+		"Prefácio",
+		"Ato 2",
+		"A Cidade",
+		"Ato 3",
+		"O Além",
+		"Act ?",
+		"???",
+		"Click Anywhere to Continue"
+	]
+  },
+  "DungeonMapScreen": {
+    "TEXT": [
+		"Escolha uma sala inicial",
+		"Retornar"		
+	]
+  },
+  "DrawPileViewScreen": {
+    "TEXT": [
+		"No início de cada turno,as cartas são retiradas daqui .",
+		"(As Cartas são classificadas por sua raridade)",
+		"Retornar",
+		"Pilha de saques"
+	]
+  },
+  "DiscardPileViewScreen": {
+    "TEXT": [
+		"As cartas daqui são enviadas para o seu baralho quando fica sem cartas.",
+		"Retornar",
+		"Pilha de Descarte"
+	]
+  },
+  "CopyAction": {
+    "TEXT": [
+		"Copiar"
+	]
+  },
+  "DiscardAction": {
+    "TEXT": [
+		"Descartar"
+	]
+  },
+  "ArmamentsAction": {
+    "TEXT": [
+		"Melhorar"
+	]
+  },
+	"DualWieldAction": {
+		"TEXT": [
+			"Duplicar"
+		]
+	},
+	"HiddenChamberAction": {
+		"TEXT": [
+			"Duplicar"
+		]
+	},
+  "DeathScreen": {
+    "TEXT": [
+		"Prosseguir",
+		"Vitória?",
+		"Andares Alcançados",
+		"Chefes Derrotados",
+		"Tempo de jogo",
+		"Tempo de jogo",
+		"Pontuação",
+		"Conquistado",
+		"Morte...",
+		"Derrota",
+		"Derrotado!",
+		"Profanado",
+		"Devartação",
+		"Subjulgado",
+		"Você foi Morto!",
+		"Um sentimento familiar.",
+		"Uma soneca parece uma boa.",
+		"Você deve colher aquilo que planta.",
+		"Foi pela contra-mão.",
+		"EU não estava pronto para isso.",
+		"Tentarei novamente, amanhã.",
+		"Vou precisar de um novo mapa.",
+		"Inadequadamente preparado.",
+		"Inconcebível!",
+		"Este é realmente meu verdade potêncial?",
+		"Apenas sorte...",
+		"Não desse jeito...",
+		"Não muito perto do topo.",
+		"O Spire consumiu mais um...",
+		"Sua consciencia se apaga...",
+		"Derrota",
+		"Aceitação",
+		"Prosseguir",
+		"Tente Novamente",
+		"Menu Principal",
+		"Prosseguir",
+		"Desbloquear",
+		"Menu Principal",
+		"Tente Novamente",
+		"Prosseguir",
+		"Desbloquear",
+		"Desbloqueios restantes: ",
+		"Desbloqueios restantes: ",
+		"Inimigos derrotados",
+		"Elites derrotados",
+		"Ouro não-gasto",
+		"HP Bonus"
+	],
+	"EXTRA_TEXT": [
+		"Exórdio - Elites derrodatos",
+		"Cidade - Elites derrodatos",
+		"Além - Elites derrodatos",
+		"Velocista",
+		"Velocidade da luz",
+		"Highlander",
+		"Coleção",
+		"Conjunto Completo",
+		"Pobre",
+		"Bibliotecário",
+		"Enciclopédia",
+		"Bem Alimentado",
+		"Estufado",
+		"Maldições!",
+		"Nos meus próprios termos",
+		"Campeão",
+		"Perfeito",
+		"Além de Perfeição",
+		"Overkill",
+		"C-c-c-combo",
+		""
+	]
+  },
+  "CombatRewardScreen": {
+    "TEXT": [
+		"Prosseguir",
+		"Pular Cartas",
+		"Pular Ouro",
+		"Pular Potion",
+		"Pular Reliquia",
+		"Pular Recompensas",
+		"Fechar",
+		"Tesouro!",
+		"O que tem dentro?",
+		"Premios!",
+		"Espólios!",
+		"Saquear!",
+		"Dica: "
+	]
+  },
+  "ChooseOneScreen": {
+    "TEXT": [
+		"Escolha um"	
+	]
+  },
+  "CardRewardScreen": {
+    "TEXT": [
+		"Pular",
+		"Escolha uma Carta"
+	]
+  },
+  "BossRelicSelectScreen": {
+    "TEXT": [
+		"Confirmar",
+		"Confirmar Your Selection",
+		"Escolha uma reliquia",
+		"Pular"
+	]
+  },
+  "GridCardSelectScreen": {
+    "TEXT": [
+		"Confirmar",
+		"Cancelar",
+		"Confirme Sua Seleção",
+		"Sair"
+	]
+  },
+  "HandCardSelectScreen": {
+    "TEXT": [
+		"Confirme Carta para ",
+		"Confirme Cartas para ",
+		"Escolha ",
+		" Cartas para ",
+		"Escolha qualquer número de Cartas para ",
+		"Escolha uma Carta para "
+	]
+  },
+  "AbandonRunButton": {
+    "TEXT": [
+		"Abandonar Jornada"	
+	]
+  },
+  "ConfirmPopup": {
+    "TEXT": [
+		"Retornar",
+		"Apagar Save",
+		"Sim",
+		"Não"
+	]
+  },
+  "ExitGameButton": {
+    "TEXT": [
+		"Sair do Jogo"
+	]
+  },
+  "OptionsPanel": {
+    "TEXT": [
+		"",
+		"Game Menu",
+		"Gráficos",
+		"Resolução: NL Quadros por segundo (Max):",
+		"Tela cheia NL Tela cheia sem bordas (recomendado) NL Screenshake",
+		"Audio",
+		"Volume Principal NL Volume da musica NL Volume dos efeitos",
+		"Efeitos Sonoros do Ambiente",
+		"Preferências",
+		"Exibir valor total do dano em dourado NL Exibir dano defendido em azul NL Desligar confirmação ao escolher uma carta",
+		"Dicas em geral NL Dicas de cartas",
+		"Dicas de Poderes NL Dicas de Reliquias",
+		"Diversos",
+		"Idioma:",
+		"fazer upload dos dados do jogo #b(?)",
+		"Sair do Jogo",
+		"Salvar e Sair do Jogo",
+		"NL NL VSync",
+		"Mode de Arte para jogadores de teste"
+	]
+  },
+  "SettingsScreen": {
+    "TEXT": [
+		"Você tem certeza?",
+		"Seu progresso é salvo automaticamente.",
+		"Abandonar o jogo resultará em uma derrota.",
+		"ATENÇÃO:\nO Progresso NÃO foi salvo.\n\nAvançe até o próximo andar para salvar o progresso.",
+		"Voltar",
+		"O Progresso NÃO é salvo para diárias."
+	]
+  },
+  "CardLibraryScreen": {
+    "TEXT": [
+		"Retornar",
+		"Vermelho",
+		"Verde",
+		"Azul",
+		"Neutra",
+		"Maldições",
+		"Condições",
+		"Ver Melhorias"
+	]
+  },
+  "CardLibSortHeader": {
+    "TEXT": [
+		"Raridade",
+		"Tipo",
+		"A-Z"
+	]
+  },
+  "EarlyAccessPopup": {
+    "TEXT": [
+		"O que é Acesso Antecipado?",
+		"O que é Beta Aberto?",
+		"Slay the Spire está em desenvolvimento continuo! NL Muitas funcionalidades, cartas, e inimigos ainda estão em desenvolvimento. NL NL Se você se deparar com algum problema ou tem sugestões a fazer, por favor, nos faça saber através da nossa página de #bDiscussão #bna #bSteam. NL NL Chega de ler, você tem uma torre a subir!",
+		"Slay the Spire está em desenvolvimento continuo! NL Além disso, você está jogando a versão Beta. NL NL Por favor nos informe se você encontrar algum problema no jogo, mas não se espante de encontrar algo provisório no jogo. NL NL Chega de ler, você tem uma torre a subir!",
+		"Clique em qualquer lugar para Começar"
+	]
+  },
+  "MainMenuScreen": {
+    "TEXT": [
+		"#yConstruir: ",
+		"Embarcar",
+		"Retornar",
+		"Clique para editar"
+	]
+  },
+  "MenuButton": {
+    "TEXT": [
+		"Biblioteca de cartas",
+		"Jogar",
+		"Desafio diário",
+		"Coleção de Reliquia",
+		"Continue",
+		"Tabelas de classificação",
+		"Estatisticas",
+		"Creditos",
+		"Sair do Jogo",
+		"Notas de Versão",
+		"Abandonar Jornada",
+		"Abandonar Jornada (Clique novamente para confirmar)",
+		"Configurações"
+	]
+  },
+  "PatchNotesScreen": {
+    "TEXT": [
+		"Retornar",
+		"#yNotas #yde #yVersão",
+		" NL (TEMPORÁRIO: Use as setas do teclado para navegar através de notas antigas)"
+	]
+  },
+  "RelicViewScreen": {
+    "TEXT": [
+		"Retornar",
+		"Inicial:",
+		"Personagens podem começar com estas reliquias.",
+		"Comum:",
+		"Reliquias fracas que podem ser encontradas com facilidade.",
+		"Incomum:",
+		"Reliquias mais fortes, um pouco mais difíceis de encontrar do que as Reliquias Comuns.",
+		"Rara:",
+		"Reliquias Únicas e Poderosas, raramente são vistas por aí.",
+		"Chefe:",
+		"Reliquias encontradas apenas nos baús de chefes.",
+		"Evento:",
+		"Reliquias que podem ser obtidas sometne através de Eventos .",
+		"Loja:",
+		"Reliquias que só podem ser obtidas a partir de um Mercador."
+	]
+  },
+  "CharacterOption": {
+    "TEXT": [
+		"Bloqueado",
+		"Este personagem é desbloqueado após completar uma partida.",
+		"Este personagem ainda não está disponível no Acesso Antecipado.",
+		"Este personagem é desbloqueado ao alcançar o topo da Spire.",
+		"HP: ",
+		"Ouro: ",
+		" Desbloqueios Remanescentes",
+		"Desconhecido",
+		"???",
+		" Próximo desbloqueio"
+	]
+  },
+  "CharacterSelectScreen": {
+    "TEXT": [
+		"Escolha seu personagem",
+		"Embarque",
+		"O Ironclad",
+		"A Sorrateira",
+		"Corvo-Robo",
+		"Voltar",
+		"Modo Ascensão (Nível ",
+		")",
+		"Modo Ascensão"
+	]
+  },
+  "AscensionModeDescriptions": {
+  	"TEXT": [
+		"1. Elites aparecerão com maior frequência.",
+		"2. Inimigos Normais são mais mortais.",
+		"3. Elites são mais mortais.",
+		"4. Chefes são mais mortais.",
+		"5. Cure menos depois de cada batalha de Chefe.",
+		"6. Começe sua partida com HP parcial.",
+		"7. Inimigos normais são mais resistentes.",
+		"8. Elites normais são mais resistentes.",
+		"9. Chefes normais são mais resistentes.",
+		"10. Parasitas!"
+	]
+  },
+  "AbstractMonster": {
+    "TEXT": [
+		"Agressivo",
+		"Esse inimigo pretende NL #yAtacar causando #b",
+		" de dano #b",
+		" vezes.",
+		"Esse inimigo pretende  #yAtacar causando #b",
+		" de dano.",
+		"Aggressivo",
+		"Esse inimigo pretende usar um #yBuff e #yAtacar causando #b",
+		" vezes.",
+		"Esse inimigo pretende usar um #yBuff e #yAtacar causando #b",
+		"Estratégico",
+		"Esse inimigo pretende causar um #yEfeito #yNegativo em você e #yAtacar causando #b",
+		"Esse inimigo pretende #yProteger-se e #yAtacar causando #b",
+		"Defensivo",
+		"Covardemente",
+		"Magico",
+		"Dormindo",
+		"Atordoado",
+		"Desconhecido",
+		"Este inimigo pretende usar um #yBuff.",
+		"Este inimigo pretende causar um #yEfeito #yNegativo em você.",
+		"Este inimigo pretende causar um #yEfeito #yNegativo poderoso em você.",
+		"Este inimigo pretende #yProteger-se neste turno.",
+		"Este inimigo pretende #yProteger-se e causar um #yEfeito #yNegativo em você.",
+		"Este inimigo pretende #Proteger-se e usar um #Buff.",
+		"Este inimigo pretende #yFugir.",
+		"Este inimigo pretende usar uma #Mágica misteriosa.",
+		"Este inimigo está adormecido.",
+		"Este inimigo está #Atordoado durante este turno.",
+		"As intenções deste inimigo são #yDesconhecidas (mas não vai atacar).",
+		"Bloqueado"
+	]
+  },
+  "AbstractDungeon": {
+    "TEXT": [
+		"Prosseguir"
+	]
+  },
+  "Exordium": {
+    "TEXT": [
+		"Exórdio"
+	]
+  },
+  "TheCity": {
+    "TEXT": [
+		"A Cidade"
+	]
+  },
+  "GameSavedEffect": {
+    "TEXT": [
+		"#y~Jogo~ #y~Salvo~"
+	]
+  },
+  "BattleStartEffect": {
+    "TEXT": [
+		"Início da batalha",
+		"Turno do Jogador",
+		"Turno do Inimigo",
+		" Turno"
+	]
+  },
+   "RewardItem": {
+    "TEXT": [
+		" Ouro (Recuperado)",
+		" Ouro",
+		"Adicione uma carta ao seu baralho",
+		"",
+		"Escolha uma Carta"
+	]
+  },
+  "CampfireUI": {
+    "TEXT": [
+		"O que fazer?",
+		"Hmm...",
+		"O que devo fazer?",
+		"Hora de uma pausa",
+		"São tantas opções...",
+		"Eu preciso descansar",
+		"Estou tão cansado..."
+	]
+  },
+  "CampfireSmithEffect": {
+    "TEXT": [
+		"Escolha uma Carta para Aprimorar"
+	]
+  },
+  "CampfireSleepEffect": {
+    "TEXT": [
+		"Estou Sonhando?"
+	]
+  },
+  "CampfireTokeEffect": {
+    "TEXT": [
+		"Escolha uma Carta para Remover."
+	]
+  },
+  "UnlockTextEffect": {
+    "TEXT": [
+		"Novo Desbloqueio!"
+	]
+  },
+  "AbstractPotion": {
+    "TEXT": [
+		"Eu não posso carregar NL mais nenhuma Poção."
+	]
+  },
+  "TipHelper": {
+    "TEXT": [
+		"Energia"
+	]
+  },
+  "ExhaustAction": {
+    "TEXT": [
+		"Exaurir"
+	]
+  },
+  "ExhumeAction": {
+    "TEXT": [
+		"Escolha uma Carta para Retorná-la para sua mão"
+	]
+  },
+  "PowerExpireTextEffect": {
+    "TEXT": [
+		"Esgotado"
+	]
+  },
+  "RestartForChangesEffect": {
+    "TEXT": [
+		"Reinicie o jogo para as mudanças de exibição fazerem efeito."
+	]
+  },
+  "OpeningAction": {
+    "TEXT": [
+		"Este inimigo não pretende atacar!"
+	]
+  },
+  "ApplyPowerAction": {
+    "TEXT": [
+		"Negado",
+		"Immune",
+		"Anulado",
+		"\n Acabou"
+	]
+  },
+  "PutOnDeckAction": {
+    "TEXT": [
+		"coloque no topo da sua pilha de saques"
+	]
+  },
+  "ImmolateAction": {
+    "TEXT": [
+		"Exaurir"
+	]
+  },
+  "TheBeyond": {
+    "TEXT": [
+		"O Além"
+	]
+  }
+}
