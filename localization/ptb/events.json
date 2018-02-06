@@ -12,7 +12,7 @@
 			"Você decide ver se consegue achar alguma coisa útil. Após arrastar lonas, vasculhar caixas, e verificar cantos e frestas, você encontra uma #y~reliquia!~ coberta por poeira. ",
 			"A medida que você avança pelos toques finais, as chamas da forja pulam em você, #r@queimando@ #r@e@ #r@marcando@ seus braços..",
 			"Você não consegue se livrar deste #r~sentimento~ #r~desagradável~ mesmo após deixar a cabana. Será que você pertubou algum tipo de espírito?",
-			"Aparentemente, não há nada de útil para você na cabana. Você sai dela da mesma forma que entrou, enquanto as chamas da fornalha lançam #p~sombras~ #p~inquietantes~ nas paredes dentro da cabana..."
+			"Aparentemente, não há nada de útil para você na cabana. Você sai dela da mesma forma que entrou, enquanto as chamas da fornalha lançam #p~sombras~ #p~misteriosas~ nas paredes dentro da cabana..."
 	],
     "OPTIONS": [
 			"[Forjar] #gAprimore #guma #gcarta. #r25%: #rDe #rser #rAmaldiçoado #r- #rFerimento.",
@@ -225,39 +225,39 @@
 			"Você se prepara para a aterrissagem, mas simplesmente não há nenhuma maneira segura de pousar quando se é ejetado de uma tão bizarra bugiganga. @BAM@ NL NL ...você permanece no chão, amaldiçoando a existência de poças, ambas líquidas e mágicas."
 	],
     "OPTIONS": [
-			"[Gooped] #rPerca #ruma #rCarta #rRara #raleatória.",
+			"[Ficar um Trapo] #rPerca #ruma #rCarta #rRara #raleatória.",
 			"[Cair de Cara] #rTome #r",
 			" #rde #rdano. #rReceba #ra #rMaldição #r- #rFerimento.",
 			"[Ir Embora]"
     ]
   },
   "Tomb of Lord Red Mask": {
-	"NAME": "Tumba do Lorde Mascara Vermelha",
+	"NAME": "Tumba do Lorde Máscara Vermelha",
     "DESCRIPTIONS": [
-			"Uma tumba bem ornamentada pode ser vista do outro lado de um caminho flutuante. Ao se aproximar da tumba, você percebe que existe um buraco para moedas de #ouro com uma inscrição rabiscada acima dele..",
-			"Você coloca a mascará e a tumba começa a se ~desintegrar...~ revelenda uma passage secreta! NL NL A passagem é rodeada de bens roubado e pilhas de #youro!",
-			"Uma abertura aparece na tumba e de dentro dela cai uma pequena mascara vermelha com uma nota colada a ela. \"Tome dos outros assim como eu tomei de você!\""
+			"Uma tumba bem ornamentada pode ser vista do outro lado de um caminho flutuante. Ao se aproximar da tumba, você percebe que existe um buraco para moedas de #youro com uma inscrição rabiscada acima dele..",
+			"Você coloca a máscara e a tumba começa a se ~desintegrar...~ revelando uma passagem secreta! NL NL A passagem é rodeada de incontáveis bens roubados e pilhas de #youro!",
+			"Uma abertura aparece na tumba e de dentro dela desliza uma pequena máscara vermelha com uma nota colada a ela. \"Tome dos outros assim como EU tomei de você!\""
 	],
     "OPTIONS": [
-			"[Colocar a Mascara Vermelha] #gObtenha #g222 #gde #gOuro.",
-			"[Bloqueado] Requer: Mascara Vermelha.",
+			"[Colocar a Máscara Vermelha] #gObtenha #g222 #gde #gOuro.",
+			"[Bloqueado] Requer: Máscara Vermelha.",
 			"[Oferecer: ",
-			" Ouro] #rPerca #rtodo #rseu #rOuro. #gGanhe #guma #gReliquia.",
+			" Ouro] #rPerca #rtodo #rseu #rOuro. #gGanhe #guma #gRelíquia.",
 			"[Ir Embora]"
     ]
   },  
   "Winding Halls": {
 	"NAME": "Salões Labirintícos",
     "DESCRIPTIONS": [
-			"Conforme você avança vagarosamente através de caminhos sinuosos, você constantemente percebe que já passou por esse lugar antes, parece que inexplicávelmente as paredes e o chão se movem ao seu redor. E as vozes que contantemente sussuram no seu ouvido também não ajudam.",
-			"Ao passar por uma estrutura que você tem certeza de já ter passado por ela antes, você começa a se questionar se você está enloquecendo ou se é possível que a geografia deste lugar está começando a te afetar. Você precisa fazer algo, e rápido. Isso é exatamente o que as vozes dizem, e porque elas mentiriam?",
-			"Algo acontece com você. Somente um louco poderia entender um lugar como esse, então você resolve embarcar na ideia das vozes e prosseguir com sua  \"nova\" perspectiva. AS coisas parecem fazer muito mais sentido agora.",
-			"Conforme você toma um momento para observar cuidadosamente o cenário tortuoso a sua volta, um padrão parece surgir em meio a todo aquele ambiente confuso.  Sempre que sons e vozes tentam atrapalhar sua concentração, você resiste mentalmente e apesar de doloroso, consegue ignorá-los. NL NL Eventualmente, você consegue traçar um caminho seguro, e prosseguir adiante, agora resistente a nefasta natureza desse lugar estranho."
+			"Conforme você avança vagarosamente através de caminhos sinuosos, você constantemente percebe que está repetindo o trajeto, pois parece que inexplicávelmente as paredes e o chão se movem ao seu redor, diante dos seus olhos. E as vozes que constantemente sussuram no seu ouvido também não estão ajudando.",
+			"Ao passar por uma estrutura que você tem certeza de já ter passado por ela antes, você começa a se questionar se você está enloquecendo ou se é possível que a geografia deste lugar está começando a te afetar. Você precisa fazer algo, e rápido. Isso é exatamente o que as vozes dizem, e por que elas mentiriam?",
+			"Algo em você clica. Somente um louco poderia entender um lugar como esse, então você resolve embarcar na ideia das vozes e prosseguir com sua  \"nova\" perspectiva. AS coisas parecem fazer muito mais sentido agora.",
+			"Conforme você toma um momento para observar cuidadosamente o cenário tortuoso a sua volta, um padrão parece surgir em meio a todo aquele ambiente confuso.  Sempre que sons e vozes tentam atrapalhar sua concentração, você resiste mentalmente e apesar de doloroso, consegue ignorá-los. NL NL Eventualmente, você consegue traçar um caminho seguro, e prosseguir adiante, agora resistente à nefasta natureza desse lugar estranho."
 	],
     "OPTIONS": [
 			"...",
 			"[Abraçar a Loucura] #gReceba #g2 #cartas #gLoucura. #rPerca #r10 #rde #rHP.",
-			"[Focar] #rTorne-se #rAlmaldiçoado #r- #rContorser-se. #gCure #g",
+			"[Focar] #rTorne-se #rAmaldiçoado #r- #rContorcer-se. #gCure #g",
 			"[Ir Embora]",
 			" #gde #gHP."
     ]
@@ -265,29 +265,29 @@
   "Big Fish": {
 	"NAME": "Peixe Grande",
     "DESCRIPTIONS": [
-			"Conforme você desce por um longo corredor, você vê uma #ybanana, um #ydonut, e uma #ycaixa ~pairando~ ~no~ ~ar~. Não não... Com um olhar mais atento, você percebe que eles estão amarrados em linhas que vêm de alguns buracos no teto. Você percebe um silêncioso @vozerio@ do alto conforme você se aproxima dos objetos. NL O que você faz?",
-			"Você come a #ybanana. Ela é nutritia e um pouco #bmagica, ela te cura.",
+			"Conforme você desce por um longo corredor, você vê uma #ybanana, um #ydonut, e uma #ycaixa ~pairando~ ~no~ ~ar~. Não, não... Com um olhar mais atento, você percebe que eles estão amarrados em linhas que vêm de alguns buracos no teto. Você percebe uma quieta @risadinha@ vinda do alto conforme você se aproxima dos objetos. NL O que você faz?",
+			"Você come a #ybanana. Ela é nutritiva e um pouco #bmágica, e te cura.",
 			"Você come o #ydonut. Ele está realmente delicioso! Seu HP máximo é aumentado.",
 			"",
-			"Você pega a caixa. E dentro dela você encontra uma #yreliquia!",
-			" NL Entretanto, você desejava mesmo era o donut... NL Agora você está preenchido por uma ~tristeza,~ e principalmente de #rarrependimento."
+			"Você pega a caixa, e dentro dela você encontra uma #yrelíquia!",
+			" NL Entretanto, você queria mesmo aquele donut... NL Agora você está preenchido por uma ~tristeza,~ e principalmente de #rarrependimento."
 	],
     "OPTIONS": [
 			"[Banana] #gCure #g",
 			" #gde #gHP.",
 			"[Donut] #gHP #gMáximo #g+",
 			".",
-			"[Caixa] #gReceba #guma #gReliquia. #rSe #rTorne #rAmaldiçoado #r- #rArrependimento.",
+			"[Caixa] #gReceba #guma #gRelíquia. #rTorne-se #rAmaldiçoado #r- #rArrependimento.",
 			"[Ir Embora]"
     ]
   },
   "The Cleric": {
-	"NAME": "O Clerigo",
+	"NAME": "O Clérigo",
     "DESCRIPTIONS": [
-			"Um estranho humanoide azul com um helmo dourado(?) se aproxima com um grande sorriso. NL @\"Olá@ @amigo!@ Eu sou um #bClerigo! Você está interessado nos meus serviços?!\" a criatura anuncia, bem alto.",
-			"Uma gentil luz dourada envolve seu corpo e se dissipa em seguida. NL A criatura sorri. \"Clerigo melhor curandeiro. @Tenha@ @um@ @bom@ @dia!\"@",
-			"Uma fria chama azul envolve seu corpo e se dissipa em seguida. NL A criatura sorri. \"Clerigo talentoso. @Tenha@ @um@ @bom@ @dia!\"@",
-			"Você não acredita nesse #b\"Clerigo\", então você vai embora."
+			"Um estranho humanoide azul com um elmo dourado(?) se aproxima com um enorme sorriso. NL @\"Olá@ @amigo!@ Eu sou #bClérigo! Você está interessado nos meus serviços?!\" a criatura anuncia, bem alto.",
+			"Uma morna luz dourada envolve seu corpo e se dissipa em seguida. NL A criatura sorri. \"Clérigo melhor curandeiro. @Tenha@ @um@ @bom@ @dia!\"@",
+			"Uma fria chama azul envolve seu corpo e se dissipa em seguida. NL A criatura sorri. \"Clérigo talentoso. @Tenha@ @um@ @bom@ @dia!\"@",
+			"Você não confia nesse #b\"Clérigo\", então você vai embora."
 	],
     "OPTIONS": [
 			"[Curar] #y35 #yde #yOuro: #gCura #g",
@@ -296,44 +296,44 @@
 			"[Purifcar] #y50 #yde #yOuro: #gRemove #guma #gcarta #gdo #gseu #gbaralho.",
 			"[Bloqueado] Requer: 50 de Ouro.",
 			"[Ir Embora]",
-			"Escolha uma Carta para remover."
+			"Escolha uma Carta para Remover."
     ]
   },
   "Dead Adventurer": {
 	"NAME": "Aventureiro Morto",
     "DESCRIPTIONS": [
-			"Enquanto procurava pelo aventureiro, você foi pegue com a guarda-baixa!",
+			"Enquanto procurava pelo aventureiro, você foi pego com a guarda baixa!",
 			"Você consegue sair em silêncio.",
-			"Você se depara com o #raventureiro #rmorto no chão. NL Sua #bcalçam foram roubadas! E também, ",
-			"seus trajes e sua face parecem terem sido #r@smarcados@ #r@por@ #r@chamas.@ ",
-			"parece que ele foi #r@atacado@ #r@e@ #r@pisoteado@ por uma besta com chifres. ",
+			"Você se depara com o #raventureiro #rmorto no chão. NL Sua #bcalças foram roubadas! E também, ",
+			"sua armadura e face aparentam terem sido #r@smarcados@ #r@por@ #r@chamas.@ ",
+			"parece que ele foi #r@perfurado@ #r@e@ #r@pisoteado@ por uma besta com chifres. ",
 			"ele parece ter sido #r@eviscerado@ #r@e@ #r@retalhado@ por garras gigantes. ",
-			"NL Moesmo suas #yposses #estando #yintactas, você não está com o humor de tentar descobrir o que houve aqui...",
+			"NL Mesmo suas #yposses #estando #yintactas, você não está com o humor de tentar descobrir o que houve aqui...",
 			"Você encontrou um pouco de #rouro! NL Continuar procurando?",
 			"Hmm, você não encontrou mais nada... NL Continuar procurando?",
-			"Você encontrou uma #yreliquia! Continuar procurando?",
+			"Você encontrou uma #yrelíquia! Continuar procurando?",
 			"Parece que você encontrou todos os pertences sem nenhum problema!"
 	],
     "OPTIONS": [
-			"[Procurar] #gEncontre #gitems. #r",
+			"[Procurar] #gEncontre #gItems. #r",
 			"[Ir Embora]",
 			"[Lutar]",
-			"[Prosseguir] #gEncontrar #gItems. #r",
-			"%: #rmonstros #rretornarem."
+			"[Prosseguir] #gEncontre #gItems. #r",
+			"%: #rmonstro #rretorna."
     ]
   },
   "Golden Idol": {
-	"NAME": "Idolo Dourado",
+	"NAME": "Ídolo Dourado",
     "DESCRIPTIONS": [
-			"Você se depara com um pedestal discreto com um #yídolo #ydourado respousando pacificamente ao topo. Ele parece ser incrivelmente valioso. NL NL Você se certifica que não há armadilhas.",
-			"Assim que você pega o ídolo e o guarda rapidamente, uma pedra gigante arrebenta o telhado e cai no chão bem próxima a você. NL Você percebe que o chão é levemente inclinado assim que a pedra começa a rola em sua direção.",
-			"@COOOOOORRA!@ NL Você mal entra em uma fenda lateral quando a pedra passa correndo por você. Infelizmente parece que você torçeu algo de alguma maneira.",
-			"Você se jogar contra a pedra com toda a sua força. Quando a poeira abaixa, você finalmente consegue encontrar uma saída.",
-			"@SQUISH!@ NL A pedra lhe amassa quando ela passa por você, mas de qualquer forma, você consegue sair.",
-			"Se existisse uma armadilha óbvia, assim seria. NL Você decide não interferir com objetos em pedestais."
+			"Você se depara com um pedestal discreto com um #ybrilhante #yídolo #ydourado respousando pacificamente ao topo. Ele parece ser incrivelmente valioso. NL NL Você se certifica de que não há armadilhas.",
+			"Assim que você pega o ídolo e o guarda rapidamente, uma pedra gigante arrebenta o telhado e cai no chão bem próxima a você. NL Você percebe que o chão é levemente inclinado assim que a pedra começa a rolar em sua direção.",
+			"@COOOOOORRA!@ NL Você por pouco não entra em uma fenda lateral quando a pedra passa correndo por você. Infelizmente parece que você torceu algo, no entanto.",
+			"Você se joga contra a pedra com toda a sua força. Quando a poeira abaixa, você finalmente consegue encontrar uma saída.",
+			"@CRECK!@ NL A pedra lhe esmaga de leve quando ela passa por você, mas de qualquer forma, você consegue sair.",
+			"Se existisse uma armadilha óbvia, esta seria uma. NL Você decide não interferir com objetos em pedestais."
 	],
     "OPTIONS": [
-			"[Pegue] #gReceba #go #gÍdolo #gDourado. #rAtiva #ruma #rarmadilha.",
+			"[Pegue] #gReceba #go #gÍdolo #gDourado. #rAtive #ruma #rarmadilha.",
 			"[Ir Embora]",
 			"[Correr] #rTorne-se #rAmaldiçoado #r- #rFerimento.",
 			"[Arrebentar] #rSofra #r",
@@ -345,15 +345,15 @@
   "Golden Wing": {
 	"NAME": "Estatua de Asa",
     "DESCRIPTIONS": [
-			"Em meio a pedras e rochas, você percebe uma grande estatua complexa que se assemelha a uma asa azul. NL Você encontra #youro saindo de suas frestas. Talvez tenha mais lá dentro...",
-			"Alguem uma vez lhe contou sobre uma seita que adorava um gigantesco passaro. Enquanto você se ajoelha para orar, você começa a se ~sentir~ ... ~tonto~ . NL NL Você acorda um tempo depois, se sentindo estranhamente bem disposto.",
-			"Com toda a sua força, você golpeia a estatua. NL E ela @desmorona,@ revelando uma #ypilha #yde #youro. Você pega o quanto consegue e continua seu caminho.",
-			"A estatua faz você se sentir ~desconfortável.~ Você passa sobre ela e continua seu caminho."
+			"Em meio a pedras e rochas, você percebe uma estátua grande, complexa e azul que se assemelha a uma asa. NL Você encontra #youro vazando de suas frestas. Talvez tenha mais lá dentro...",
+			"Alguém uma vez lhe contou sobre uma seita que adorava um gigantesco pássaro. Enquanto você se ajoelha para orar, você começa a se ~sentir~ ... ~tonto~ . NL NL Você acorda um tempo depois, se sentindo estranhamente mais ágil.",
+			"Com toda a sua força, você golpeia a estátua. NL E ela @desmorona,@ revelando uma #ypilha #yde #youro. Você pega o quanto consegue e segue seu caminho.",
+			"A estátua faz você se sentir ~desconfortável.~ Você passa sobre ela e continua seu caminho."
 	],
     "OPTIONS": [
 			"[Orar] #gRemova #guma #gcarta #gdo #gseu #gbaralho. #rPerca #r",
 			" #rde #rHP.",
-			"[Destrua] #gObtenha #g",
+			"[Destruir] #gObtenha #g",
 			" #g- #g",
 			" #gde #gOuro.",
 			"[Bloqueado] Requer: Carta com ",
