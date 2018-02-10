@@ -1,0 +1,168 @@
+{
+  "Beyond Elites Killed": {
+    "NAME": "Beyond Elites Killed",
+    "DESCRIPTIONS": []
+  },
+  "Bosses Slain": {
+    "NAME": "Chefes Derrotados",
+    "DESCRIPTIONS": []
+  },
+  "City Elites Killed": {
+    "NAME": "City Elites Killed",
+    "DESCRIPTIONS": []
+  },
+  "Exordium Elites Killed": {
+    "NAME": "Exordium Elites Killed",
+    "DESCRIPTIONS": []
+  },
+  "Champion": {
+    "NAME": "Campeão",
+    "DESCRIPTIONS": [
+      "Derrote um Elite sem sofrer danos."
+    ]
+  },
+  "Perfect": {
+    "NAME": "Perfeito",
+    "DESCRIPTIONS": [
+      "Derrote um chefe sem sofrer danos."
+    ]
+  },
+  "Beyond Perfect": {
+    "NAME": "Além da perfeição",
+    "DESCRIPTIONS": [
+      "Derrote 3 chefes sem sofrer danos."
+    ]
+  },
+  "Overkill": {
+    "NAME": "Overkill",
+    "DESCRIPTIONS": [
+      "Dê 99 de dano com um único ataque."
+    ]
+  },
+  "Combo": {
+    "NAME": "C-c-c-combo",
+    "DESCRIPTIONS": [
+      "Jogue 20 cartas em uma única vez."
+    ]
+  },
+  "Poopy": {
+    "NAME": "Poopy",
+    "DESCRIPTIONS": [
+      "Receba o Spirit Poop."
+    ]
+  },
+  "Cheater": {
+    "NAME": "Trapaceiro",
+    "DESCRIPTIONS": [
+      "Pego com Trapaça.Se for pego duas vezes, sua pontuação nunca mais será enviada para o Tabela de pontuação."
+    ]
+  },
+  "Speedster": {
+    "NAME": "Speedster",
+    "DESCRIPTIONS": [
+      "Vitória em menos de 60 minutos."
+    ]
+  },
+  "Light Speed": {
+    "NAME": "Velocidade da luz",
+    "DESCRIPTIONS": [
+      "Vitória em menos de 45 minutos."
+    ]
+  },
+  "Money Money": {
+    "NAME": "Dinheiro, Dinheiro",
+    "DESCRIPTIONS": [
+      "Acumule 1.000 de ouro."
+    ]
+  },
+  "Raining Money": {
+    "NAME": "Chovendo Dinheiro",
+    "DESCRIPTIONS": [
+      "Acumule 2,000 gold."
+    ]
+  },
+  "I Like Gold": {
+    "NAME": "Eu gosto de ouro",
+    "DESCRIPTIONS": [
+      "Acumule 3,000 gold."
+    ]
+  },
+  "Minimalist": {
+    "NAME": "Minimalist",
+    "DESCRIPTIONS": [
+      "Remova mais de 5 cartas do seu deck."
+    ]
+  },
+  "Highlander": {
+    "NAME": "Highlander",
+    "DESCRIPTIONS": [
+      "Seu deck não contém duplicatas (cartas de inicio da partida é excluso)."
+    ]
+  },
+  "Shiny": {
+    "NAME": "I Like Shiny",
+    "DESCRIPTIONS": [
+      "Tenha mais de 25 relíquias."
+    ]
+  },
+  "Collector": {
+    "NAME": "Colecionador",
+    "DESCRIPTIONS": [
+      "Tenha 4 cópias de qualquer cartas que não seja inicial."
+    ]
+  },
+  "Pauper": {
+    "NAME": "Pobre",
+    "DESCRIPTIONS": [
+      "Possua 0 Cartas raras."
+    ]
+  },
+ "Librarian": {
+    "NAME": "Bibliotecário",
+    "DESCRIPTIONS": [
+      "Deck size greater than 35 cards"
+    ]
+  },
+  "Encyclopedian": {
+    "NAME": "Enciclopédia",
+    "DESCRIPTIONS": [
+      "Deck size greater than 50 cards."
+    ]
+  },
+  "Well Fed": {
+    "NAME": "Bem alimentado",
+    "DESCRIPTIONS": [
+      "Increased your Max HP by 15+."
+    ]
+  },
+  "Stuffed": {
+    "NAME": "Estufado",
+    "DESCRIPTIONS": [
+      "Increased your Max HP by 30+."
+    ]
+  },
+  "Curses": {
+    "NAME": "Maldições!",
+    "DESCRIPTIONS": [
+      "Seu baralho contém 5 maldições."
+    ]
+  },
+  "Alchemist": {
+    "NAME": "Alquimista",
+    "DESCRIPTIONS": [
+      "Comprou 5 poções."
+    ]
+  },
+  "Mystery Machine": {
+    "NAME": "Máquina de mistério",
+    "DESCRIPTIONS": [
+      "Traveled to 15+ ? rooms."
+    ]
+  },
+  "On My Own Terms": {
+    "NAME": "Em meus próprios termos",
+    "DESCRIPTIONS": [
+      "Se Matou"
+    ]
+  }
+}
