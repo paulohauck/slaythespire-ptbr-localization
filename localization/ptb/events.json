@@ -638,43 +638,43 @@
     ]
   },
   "The Joust": {
-	"NAME": "The Joust",
+	"NAME": "A Justa",
     "DESCRIPTIONS": [
-			"Enquanto você anda através dos grandes edifícios, você encontra uma ponte longa e estreita e percebe cavaleiros em ambos os lados, de frente um pro outro. Você se aproxima... NL @\"Pare!\"@ NL NL Um cavaleiro faz um gesto forte para você parar com sua lança gigante.",
-			"\"Hoje é o dia que eu devo prestar conta com este #rassassino de meu amado animal de estimação, #yNoodles. Até então, você não ira passar. NL NL Parceiros espectadores, por que vocês não #bapostam em quem vocês acham qie vai emergir vitorioso?\"",
-			"\"Eu não consigo acreditar que você está apostando contra #yNoodles!\" NL NL Furioso, ele fecha seu capacete com força e corre em direção a seu nêmesis.",
-			"\"Me de força, #yNoodles!\" NL NL Fechando seu capacete com força, o caveleiro avança correndo.",
+			"Enquanto você anda através dos grandes edifícios, você encontra uma ponte longa e estreita, e percebe cavaleiros em ambos os lados, de frente um pro outro. Você se aproxima... NL @\"Pare!\"@ NL NL Um cavaleiro faz um gesto forte para você parar com sua lança gigante.",
+			"\"Hoje é o dia que eu devo acertas as contas com o #rassassino de meu amado animal de estimação, #yNoodles. Até que isso aconteça, você não irá passar. NL NL Parceiros espectadores, por que vocês não #bapostam em quem vocês acham qie vai sair vitorioso?\"",
+			"\"Eu não consigo acreditar que você está apostando contra #yNoodles!\" NL NL Furioso, ele fecha seu capacete bruscamente e corre em direção ao seu nêmesis.",
+			"\"Dê-me forças, #yNoodles!\" NL NL Fechando seu capacete bruscamente, o caveleiro avança correndo.",
 			"NL #y@*CRASH!!!*@ #r@*KLAAAANG!*@ NL NL #g@*POW!*@",
 			"O nêmesis foi morto. NL NL ",
 			"O dono morreu. NL NL ",
-			"Você #gganha a aposta. Sem ter certeza do que pensar, você pega seus ganhos e sai.",
+			"Você #gganha a aposta. Sem ter certeza do que pensar, você pega seus ganhos e vai embora.",
 			"Você #rperdeu a aposta, mas pelo menos você não foi perfurado por uma lança."
 	],
     "OPTIONS": [
-			"[Continue]",
+			"[Continuar]",
 			"[Assassino] #yAposte #y",
 			" #yOuro - #g70%: #gvitória #g",
 			" #gouro.",
 			"[Dono] #yAposte #y",
 			" #yOuro - #g30%: #gVitória #g",
 			"[Assistir]",
-			"[Sair]"
+			"[Ir Emobra]"
     ]
   },
   "The Library": {
 	"NAME": "A Biblioteca",
     "DESCRIPTIONS": [
-			"Você se depara com um edifício ornamentado que aparenta estar abandonado. NL Uma plaqueta que caiu da parede está no chão. Lê-se, #b\"A #bLIVRARIA\". NL Dentro, você encontra incontáveis fileiras de pergaminhos, manuscritos e livros. NL Você escolhe um e se aconchega em uma cadeira para um momento de sossego.",
-			"Ler é para idiotas. NL Você dorme em uma cadeira confortável ao invés de ler. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL Você acorda se sentindo refrescado.",
-			"A história é sobre uma garota adolescente controladora de insetos que aspira a se tornar uma heroína. O livro é cheio de uso creativo de poderes, estratégias de combate e perspectivas variadas. NL Gratificante.",
-			"É a história sobre um homem que viajou através das estrelas e se encontra preso em uma planeta estranho e desolado. Ingenuidades, sorte, perserverança e humor para reter seua sanidades foram suas ferramentas para voltar pra casa. NL Fascinante.",
-			"A história ocorre em uma construção gigante e isolada embaixo da terra como as condições ficaram insuportáveis. O romance é cheio de conspirações, propaganda, e injustiça. Você imagina se algo similar está acontecendo dentro da torre. NL Perturbador."
+			"Você se depara com um edifício ornamentado que aparenta estar abandonado. NL Uma plaqueta que caiu da parede está no chão. Lê-se, #b\"A #bBIBLIOTECA\". NL Dentro, você encontra incontáveis fileiras de pergaminhos, manuscritos e livros. NL Você escolhe um e se aconchega em uma cadeira para um momento de sossego.",
+			"Ler é para idiotas. NL Você dorme em uma cadeira confortável ao invés de ler. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL Você acorda se sentindo renovado.",
+			"A história é sobre uma garota adolescente controladora de insetos que deseja tornar-se uma heroína. O livro é cheio de uso creativo de poderes, estratégias de combate e perspectivas variadas. NL Gratificante.",
+			"É a história sobre um homem que viajou através das estrelas e se encontra preso em uma planeta estranho e desolado. Ingenuidades, sorte, perserverança e humor para manter sua sanidade foram suas ferramentas para voltar pra casa. NL Fascinante.",
+			"A história ocorre em uma gigante construção isolada embaixo da terra devido as condições do exterior terem se tornada hostís. O romance é cheio de conspirações, propaganda, e injustiça. Você imagina se algo similar está acontecendo dentro da torre. NL Perturbador."
 	],
     "OPTIONS": [
-		"[Ler] #gEscolha #g1 #guma de #g20 #gcartas #gpara #gadicionar #gpara #gseu #gdeck.",
-			"[Dormir] #gcure #g",
-			" #gHP.",
-			"[Sair]",
+			"[Ler] #gEscolha #g1 dentre #g20 #gcartas #gpara #gadicionar #gao #gseu #gbaralho.",
+			"[Dormir] #gCure #g",
+			" #gde #gHP.",
+			"[Ir Embora]",
 			"Adicione uma carta ao seu baralho."	
     ]
   },

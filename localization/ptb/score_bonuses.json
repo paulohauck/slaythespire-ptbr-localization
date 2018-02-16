@@ -1,12 +1,12 @@
 {
   "Ascension": {
-    "NAME": "Ascension",
+    "NAME": "Ascenção",
     "DESCRIPTIONS": [
-      "+5% score per Ascension Level."
+      "+5% de pontuação por Nível de Ascenção."
     ]
   },
   "Beyond Elites Killed": {
-    "NAME": "Beyond Elites Killed",
+    "NAME": "Elites Derrotados no Além",
     "DESCRIPTIONS": []
   },
   "Bosses Slain": {
@@ -14,11 +14,11 @@
     "DESCRIPTIONS": []
   },
   "City Elites Killed": {
-    "NAME": "City Elites Killed",
+    "NAME": "Elites Derrotados na Cidade",
     "DESCRIPTIONS": []
   },
   "Exordium Elites Killed": {
-    "NAME": "Exordium Elites Killed",
+    "NAME": "Elites Derrotados no Exórdio",
     "DESCRIPTIONS": []
   },
   "Champion": {
@@ -64,7 +64,7 @@
     ]
   },
   "Speedster": {
-    "NAME": "Speedster",
+    "NAME": "Velocista",
     "DESCRIPTIONS": [
       "Vitória em menos de 60 minutos."
     ]
@@ -102,7 +102,7 @@
   "Highlander": {
     "NAME": "Highlander",
     "DESCRIPTIONS": [
-      "Seu deck não contém duplicatas (cartas de inicio da partida é excluso)."
+      "Seu baralho não contém duplicatas (cartas de inicio da partida é excluso)."
     ]
   },
   "Shiny": {
@@ -132,19 +132,19 @@
   "Encyclopedian": {
     "NAME": "Enciclopédia",
     "DESCRIPTIONS": [
-      "Deck size greater than 50 cards."
+      "Baralho com mais de 50 cartas."
     ]
   },
   "Well Fed": {
     "NAME": "Bem alimentado",
     "DESCRIPTIONS": [
-      "Increased your Max HP by 15+."
+      "Aumentou seu HP máximo em 15+."
     ]
   },
   "Stuffed": {
     "NAME": "Estufado",
     "DESCRIPTIONS": [
-      "Increased your Max HP by 30+."
+      "Aumentou seu HP máximo em 30+."
     ]
   },
   "Curses": {
@@ -162,7 +162,7 @@
   "Mystery Machine": {
     "NAME": "Máquina de mistério",
     "DESCRIPTIONS": [
-      "Traveled to 15+ ? rooms."
+      "Viajou por 15+ salas de ?"
     ]
   },
   "On My Own Terms": {

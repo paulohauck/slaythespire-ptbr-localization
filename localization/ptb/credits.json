@@ -1,34 +1,157 @@
 {
-  "Credits": {
-    "UI": [
-			"Clique novamente para sair"
-  	],
-    "THANKS_MSG": "...e obrigado a VOCÊ por jogar!",
-    "NAMES": [
-			"Desenvolvimento & Design",
+	"DEV": {
+		"HEADER": "Desenvolvimento & Design",
+		"NAMES": [
 			"Anthony Giovannetti",
-			"Casey Yano",
-			"Musicas & Efeitos Sonoros",
-			"Clark Aboud",
-			"Vozes",
-			"Michael Schwalbe",
-			"Tamara Ryan",
-			"Artes de Ilustrações de Cartas e Eventos",
-			"Anailis Dorta",
-			"Animação de Personagens",
-			"Jon Sandler",
-			"Ilustração de Ambiente e Artes Promocionais",
-			"Bruce Brenneise",
-			"Operações & Métricas",
+			"Casey Yano"
+		]
+	},
+	"OPS": {
+		"HEADER": "Operações & Métricas",
+		"NAMES": [
 			"Danielle Jenkins",
-			"Playtesters",
+			"Jake Rabinowitz"
+		]
+	},
+	"SOUND": {
+		"HEADER": "Músicas & Efeitos Sonoros",
+		"NAMES": [
+			"Clark Aboud"
+		]
+	},
+	"VOICE": {
+		"HEADER": "Vozes",
+		"NAMES": [
+			"Tamara Ryan",
+			"Michael Schwalbe"
+		]
+	},
+	"PORTRAITS": {
+		"HEADER": "Artes de Ilustrações de Cartas e Eventos",
+		"NAMES": [
+			"Anailis Dorta"
+		]
+	},
+	"ANIMATION": {
+		"HEADER": "Animação de Personagens",
+		"NAMES": [
+			"Julio Duque Montero",
+			"Jon Sandler"
+		]
+	},
+	"ILLUSTRATION": {
+		"HEADER": "Ilustração de Ambiente e Artes Promocionais",
+		"NAMES": [
+			"Bruce Brenneise"
+		]
+	},
+	"LOC_ZHS": {
+		"HEADER": "Localização - Chinês (Simplificado)",
+		"NAMES": [
+			"Sound of Mystery"
+		]
+	},
+	"LOC_ZHT": {
+		"HEADER": "Localização - Chinês (Tradicional)",
+		"NAMES": [
+		]
+	},
+	"LOC_FRA": {
+		"HEADER": "Localização - Francês",
+		"NAMES": [
+			"Xavier \"Blagatt\" Dupont",
+			"Malik \"Devexia\" Leonarski",
+			"Thomas \"Elgerine\" Ferry",
+			"Vincent \"Hénip\" Barthoux",
+			"Alexandre \"Judgy\" Gaubert",
+			"Vincent \"MissingNoShiny\" Larcin",
+			"Julien \"RoPeTTe\" Ropero",
+			"Corentin \"Tchus\" Monfort"
+		]
+	},
+	"LOC_DEU": {
+		"HEADER": "Localização - Alemão",
+		"NAMES": [
+			"Joshua \"Joshipon\" Wiegand "
+		]
+	},
+	"LOC_ITA": {
+		"HEADER": "Localização - Italiano",
+		"NAMES": [
+		]
+	},
+	"LOC_JPN": {
+		"HEADER": "Localização - Japonês",
+		"NAMES": [
+			"Grezzz"
+		]
+	},
+	"LOC_KOR": {
+		"HEADER": "Localização - Coreâno",
+		"NAMES": [
+			"Translation Manager:",
+			"Eteriny",
+			"Translation:",
+			"Simcoding",
+			"DesFrog",
+			"insight",
+			"K4lium",
+			"hina",
+			"Steam Page Translation",
+			"GyeRyak"
+		]
+	},
+	"LOC_POL": {
+		"HEADER": "Localização - Polonês",
+		"NAMES": [
+		]
+	},
+	"LOC_PTB": {
+		"HEADER": "Localização - Portugues Brasileiro",
+		"NAMES": [
+			"Paulo \"SilverTape\" Hauck",
+			"Gustavo \"Komklave\" Duarte"
+		]
+	},
+	"LOC_RUS": {
+		"HEADER": "Localization - Russo",
+		"NAMES": [
+			"Translation and Coordination:",
+			"Ivan \"Ingrett\" Khoroshunenko",
+			"Translation and repository:",
+			"Vladislav \"Vlad-00003\" Bolshakov",
+			"Suggestions and feedback:",
+			"Mikhail \"Outmind\" Dyuzhev",
+			"Bohdan \"DarkRosse\" Kalytiuk",
+			"Sergey \"lol10801lol\" K.",
+			"Ascimator",
+			"Kateryna \"Meds\" Belimenko-Bolger",
+			"Alexey \"Surrealistic Ganerson\" Popov",
+			"Alexandr \"LiaNdrY\" Mazistov"
+		]
+	},
+	"LOC_TUR": {
+		"HEADER": "Localização - Turco",
+		"NAMES": [
+			"Erdem Gürbüz"
+		]
+	},
+	"LOC_ADDITIONAL": {
+		"HEADER": "Traduções Adicionais",
+		"NAMES": [
+			"MoGi Group"
+		]
+	},
+	"TEST": {
+		"HEADER": "Testers",
+		"NAMES": [
 			"Agari",
 			"Daria Anderson",
 			"Zac Bauermeister",
 			"Nick Becker",
 			"Esther Beckman",
 			"Leo Chen",
-			"Brian Chow",
+			"Brian Chau",
 			"Dan D'Argenio",
 			"David Delorenzo",
 			"Tim Erskine",
@@ -48,9 +171,12 @@
 			"Alexander Toy",
 			"Merijn van der Vliet",
 			"David Von Derau",
-			"Conor Watson",
-			"Agradecimentos Especiais",
-			"Jake Rabinowitz",
+			"Conor Watson"
+		]
+	},
+	"SPECIAL": {
+		"HEADER": "Agradecimentos Especiais",
+		"NAMES": [
 			"Harry Rabinowitz",
 			"Kevin \"Billy\" Matheson",
 			"Anthony Roybal",
@@ -58,7 +184,13 @@
 			"Sam Welch",
 			"feedbackbot",
 			"Evan Howell",
-			"Justin Myhres"
-	]
-  }
+			"Justin Myhres",
+			"robojumper"
+		]
+	},
+	"THANKS_MSG": {
+		"HEADER": "...e obrigado a VOCÊ por jogar!",
+		"NAMES": [
+		]
+	}
 }

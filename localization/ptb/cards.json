@@ -6,7 +6,7 @@
     },
     "Immolate": {
       "NAME": "Imolação",
-      "DESCRIPTION": "Destrua 1 carta. Se a carta escolhida for uma carta de Condição ou Maldição, causa !D! de dano a TODOS os inimigos."
+      "DESCRIPTION": "Exaure 1 carta. Se a carta escolhida for uma carta de Condição ou Maldição, causa !D! de dano a TODOS os inimigos."
     },
     "Regret": {
       "NAME": "Arrependimento",
@@ -34,7 +34,7 @@
     },
     "Dark Shackles": {
       "NAME": "Grilhões Sombrios",
-      "DESCRIPTION": "O adversário perde !M! de Força durante este turno. NL Destrua."
+      "DESCRIPTION": "O adversário perde !M! de Força durante este turno. NL Exaurir."
     },
     "Glass Knife": {
       "NAME": "Faca Vítrea",
@@ -87,7 +87,7 @@
     },
     "Exhume": {
       "NAME": "Exumação",
-      "DESCRIPTION": "Escolha uma carta que foi destruída e coloque-a em sua mão. NL Volátil."
+      "DESCRIPTION": "Escolha uma carta que foi exaurida e coloque-a em sua mão. NL Volátil."
     },
     "Power Through": {
       "NAME": "Resistir",
@@ -196,7 +196,7 @@
     },
     "Dramatic Entrance": {
       "NAME": "Entrada Dramática",
-      "DESCRIPTION": "Inato. NL Cause !D! de dano a TODOS os Inimigos. NL Destrua."
+      "DESCRIPTION": "Inato. NL Cause !D! de dano a TODOS os Inimigos. NL Exaurir."
     },
     "Hemokinesis": {
       "NAME": "Hemocinésia",
@@ -204,7 +204,7 @@
     },
     "Intimidate": {
       "NAME": "Intimidar",
-      "DESCRIPTION": "Cause !M! de Fraqueza a TODOS os inimigos. NL Destrua."
+      "DESCRIPTION": "Cause !M! de Fraqueza a TODOS os inimigos. NL Exaurir."
     },
     "Necronomicurse": {
       "NAME": "Maldição Necronomica",
@@ -237,8 +237,8 @@
     },
     "True Grit": {
       "NAME": "Bravura Indômita",
-      "DESCRIPTION": "Ganhe !B! de Proteção. NL Destrua uma carta aleatória da sua mão.",
-      "UPGRADE_DESCRIPTION":  "Ganhe !B! de Proteção. NL Destrua uma carta da sua mão."
+      "DESCRIPTION": "Ganhe !B! de Proteção. NL Exauste uma carta aleatória da sua mão.",
+      "UPGRADE_DESCRIPTION":  "Ganhe !B! de Proteção. NL Exauste uma carta da sua mão."
     },
     "Setup": {
       "NAME": "Instalar",
@@ -250,7 +250,7 @@
     },
     "Impervious": {
       "NAME": "Impenetrável",
-      "DESCRIPTION": "Ganhe !B! de Proteção. NL Destrua."
+      "DESCRIPTION": "Ganhe !B! de Proteção. NL Exaurir."
     },
     "Shrug It Off": {
       "NAME": "Minimizar",
@@ -273,7 +273,7 @@
     },
     "Endless Agony": {
       "NAME": "Agonia sem fim",
-      "DESCRIPTION": "Ao sacar esta carta, Adicione uma cópia dela a sua mão. NL Causa !D! de dano. NL Destrua."
+      "DESCRIPTION": "Ao sacar esta carta, Adicione uma cópia dela a sua mão. NL Causa !D! de dano. NL Exaurir."
     },
     "Berserk": {
       "NAME": "Berserk",
@@ -281,7 +281,7 @@
     },
     "Pummel": {
       "NAME": "Esmurrar",
-      "DESCRIPTION": "Cause !D! de dano !M! vezes. NL Destrua."
+      "DESCRIPTION": "Cause !D! de dano !M! vezes. NL Exaurir."
     },
     "Riddle With Holes": {
       "NAME": "Furar como peneira",
@@ -289,7 +289,7 @@
     },
     "Burning Pact": {
       "NAME": "Pacto Ardente",
-      "DESCRIPTION": "Destrua 1 carta. NL Saque !M! cartas."
+      "DESCRIPTION": "Exauste 1 carta. NL Saque !M! cartas."
     },
     "Metallicize": {
       "NAME": "Metalizar",
@@ -320,8 +320,8 @@
     },
     "Doppelganger": {
       "NAME": "Doppelganger",
-      "DESCRIPTION": "Durante o próximo turno, Saque X cartas e ganhe X [G]. NL Destrua.",
-      "UPGRADE_DESCRIPTION": "Durante o próximo turno, Saque X+1 cartas e ganhe X [G]. NL Destrua."
+      "DESCRIPTION": "Durante o próximo turno, Saque X cartas e ganhe X [G]. NL Exaurir.",
+      "UPGRADE_DESCRIPTION": "Durante o próximo turno, Saque X+1 cartas e ganhe X [G]. NL Exaurir."
     },
     "Skewer": {
       "NAME": "Espetar",
@@ -333,7 +333,7 @@
     },
     "Adrenaline": {
       "NAME": "Adrenalina",
-      "DESCRIPTION": "Ganhe [G]. NL Saque 2 cartas. NL Destrua.",
+      "DESCRIPTION": "Ganhe [G]. NL Saque 2 cartas. NL Exaurir.",
       "UPGRADE_DESCRIPTION": "Ganhe [G] [G]. NL Saque 2 cartas. NL Exauste."
     },
     "Quick Slash": {
@@ -358,7 +358,7 @@
     },
     "Shockwave": {
       "NAME": "Onda de Choque",
-      "DESCRIPTION": "Cause !M! de Fraqueza e Vulnerabilidade a todos os inimigos. NL Destrua."
+      "DESCRIPTION": "Cause !M! de Fraqueza e Vulnerabilidade a todos os inimigos. NL Exaurir."
     },
     "Rampage": {
       "NAME": "Rampage",
@@ -366,15 +366,15 @@
     },
     "Bandage Up": {
       "NAME": "Bandagem",
-      "DESCRIPTION": "Cure !M! de HP. NL Destrua."
+      "DESCRIPTION": "Cure !M! de HP. NL Exaurir."
     },
    "The Bomb": {
       "NAME": "A Bomba",
-      "DESCRIPTION": "Cause !D! de dano a todo mundo (inclusive a você). NL Destria."
+      "DESCRIPTION": "Cause !D! de dano a todo mundo (inclusive a você). NL Exaurir."
     },
     "Sever Soul": {
       "NAME": "Romper a Alma",
-      "DESCRIPTION": "Destrua todas as cartas da sua mão, exceto as de Ataque. NL Cause !D! de dano."
+      "DESCRIPTION": "Exauste todas as cartas da sua mão, exceto as de Ataque. NL Cause !D! de dano."
     },
     "Whirlwind": {
       "NAME": "Redemoínho",
@@ -382,12 +382,12 @@
     },
     "Warcry": {
       "NAME": "Grito de Guerra",
-      "DESCRIPTION": "Saque 2 cartas. NL Coloque uma carta da sua mão no topo da pilha de saque. NL Destrua."
-	  "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Place a card from your hand on top of your draw pile. NL Exhaust."
+      "DESCRIPTION": "Saque 2 cartas. NL Coloque uma carta da sua mão no topo da pilha de saque. NL Exaurir.",
+	    "UPGRADE_DESCRIPTION": "Saque !M! cartas. NL Coloque uma carta da sua mão no topo da pilha de saque. NL Exaurir."
     },
     "PiercingWail": {
       "NAME": "Lamento Penetrante",
-      "DESCRIPTION": "Todos os inimigos perdem !M! de Força por 1 turno. NL Destrua."
+      "DESCRIPTION": "Todos os inimigos perdem !M! de Força por 1 turno. NL Exaurir."
     },
     "Bite": {
       "NAME": "Morder",
@@ -403,7 +403,7 @@
     },
     "Calculated Gamble": {
       "NAME": "Apostas Calculadas",
-      "DESCRIPTION": "Descarte toda a sua mão, NL e saque o mesmo número de cartas que foram descartadas. NL Destrua.",
+      "DESCRIPTION": "Descarte toda a sua mão, NL e saque o mesmo número de cartas que foram descartadas. NL Exaurir.",
       "UPGRADE_DESCRIPTION": "Descarte toda a sua mão, NL e saque o mesmo número de cartas que foram descartadas."
     },
     "Combust": {
@@ -434,11 +434,11 @@
     },
     "Dark Embrace": {
       "NAME": "Abraçar as Trevas",
-      "DESCRIPTION": "Sempre que uma carta for Destruída, NL saque 1 carta."
+      "DESCRIPTION": "Sempre que uma carta for Exaurida, NL saque 1 carta."
     },
     "Die Die Die": {
       "NAME": "Morra Morra Morra",
-      "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos. NL Destrua."
+      "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos. NL Exaurir."
     },
     "Well Laid Plans": {
       "NAME": "Planos Bem-Elaborados",
@@ -459,11 +459,11 @@
     },
     "Seeing Red": {
       "NAME": "Olhar furioso",
-      "DESCRIPTION": "Ganhe [R] [R]. NL Destrua."
+      "DESCRIPTION": "Ganhe [R] [R]. NL Exaurir."
     },
     "Disarm": {
       "NAME": "Desarmar",
-      "DESCRIPTION": "O Inimigo perderá !M! de Força. NL Destrua."
+      "DESCRIPTION": "O Inimigo perderá !M! de Força. NL Exaurir."
     },
     "Panache": {
       "NAME": "Desenvoltura",
@@ -471,11 +471,11 @@
     },
     "Fiend Fire": {
       "NAME": "Chamas Demoníacas",
-      "DESCRIPTION": "Destrua as cartas da sua mão your hand. NL Cause !D! de dano para cada carta destruída. NL Destrua."
+      "DESCRIPTION": "Exauste as cartas da sua mão your hand. NL Cause !D! de dano para cada carta Exaurida. NL Exaurir."
     },
     "Terror": {
       "NAME": "Terror",
-      "DESCRIPTION": "Cause 99 de Vulnerabilidade. NL Destrua."
+      "DESCRIPTION": "Cause 99 de Vulnerabilidade. NL Exaurir."
     },
     "Dazed": {
       "NAME": "Atortoado",
@@ -492,11 +492,11 @@
     },
     "Havoc": {
       "NAME": "Devastar",
-      "DESCRIPTION": "Jogue uma carta diretamente do topo da sua pilha de saque e a destrua."
+      "DESCRIPTION": "Jogue uma carta diretamente do topo da sua pilha de saque e a exaure."
     },
     "Secret Weapon": {
       "NAME": "Arma Secreta",
-      "DESCRIPTION": "Escolha uma carta de Ataque da sua pilha de saques e coloque-a em sua mão. NL Destrua.",
+      "DESCRIPTION": "Escolha uma carta de Ataque da sua pilha de saques e coloque-a em sua mão. NL Exaurir.",
       "UPGRADE_DESCRIPTION": "Escolha uma carta de Ataque da sua pilha de saques e coloque-a em sua mão.",
       "EXTENDED_DESCRIPTION": [
           "Não possuo cartas de Ataque  NL in na minha pilha de saque."
@@ -504,7 +504,7 @@
     },
     "Apotheosis": {
       "NAME": "Apoteóse",
-      "DESCRIPTION": "Aprimore TODAS as cartas pelo resto deste combate. NL Destrua."
+      "DESCRIPTION": "Aprimore TODAS as cartas pelo resto deste combate. NL Exaurir."
     },
     "Feel No Pain": {
       "NAME": "Ignore a dor",
@@ -512,11 +512,11 @@
     },
     "Hide": {
       "NAME": "Esconder-se",
-      "DESCRIPTION": "Você não poderá HP até o início de seu próximo turno. NL Destrua."
+      "DESCRIPTION": "Você não poderá HP até o início de seu próximo turno. NL Exaurir."
     },
     "Corruption": {
       "NAME": "Corrupção",
-      "DESCRIPTION": "Habilidades custam 0. NL Sempre que jogar uma habilidade, a destrua."
+      "DESCRIPTION": "Habilidades custam 0. NL Sempre que jogar uma habilidade, a exaure."
     },
     "Heel Hook": {
       "NAME": "Agarrar o Calcanhar",
@@ -536,7 +536,7 @@
     },
     "Limit Break": {
       "NAME": "Exceder os Limites",
-      "DESCRIPTION": "Doble sua Força. NL Destrua.",
+      "DESCRIPTION": "Doble sua Força. NL Exaurir.",
       "UPGRADE_DESCRIPTION": "Dobre sua Força."
     },
     "Entrench": {
@@ -559,8 +559,8 @@
     },
     "Malaise": {
       "NAME": "Mal-estar",
-      "DESCRIPTION": "Gaste toda [G]. NL O Inimigo perderá X de Força. Causa X de Fraqueza. NL Destrua.",
-      "UPGRADE_DESCRIPTION": "Gaste toda [G]. NL O Inimigo perderá X+1 de Força. Causa X+1 de Fraqueza. NL Destrua."
+      "DESCRIPTION": "Gaste toda [G]. NL O Inimigo perderá X de Força. Causa X de Fraqueza. NL Exaurir.",
+      "UPGRADE_DESCRIPTION": "Gaste toda [G]. NL O Inimigo perderá X+1 de Força. Causa X+1 de Fraqueza. NL Exaurir."
     },
     "Reflex": {
       "NAME": "Reflexo",
@@ -572,8 +572,8 @@
     },
     "Sentinel": {
       "NAME": "Sentinela",
-      "DESCRIPTION": "Ganhe !B! de Proteção. NL Se esta carta for destruída, NL ganhe [R] [R].",
-      "UPGRADE_DESCRIPTION": "Ganhe !B! de Proteção. NL Se esta carta for destruída, NL ganhe [R] [R] [R]."
+      "DESCRIPTION": "Ganhe !B! de Proteção. NL Se esta carta for exaurida, NL ganhe [R] [R].",
+      "UPGRADE_DESCRIPTION": "Ganhe !B! de Proteção. NL Se esta carta for exaurida, NL ganhe [R] [R] [R]."
     },
     "Survivor": {
       "NAME": "Sobrevivente",
@@ -617,7 +617,7 @@
     },
     "Second Wind": {
       "NAME": "Folego Extra",
-      "DESCRIPTION": "Destrua todas as cartas (exceto Ataques), ganhe !B! de proteção para cada carta destruída."
+      "DESCRIPTION": "Exaure todas as cartas (exceto Ataques), ganhe !B! de proteção para cada carta exaurida."
     },
     "Enlightenment": {
       "NAME": "Iluminação",
@@ -626,11 +626,11 @@
     },
     "Purity": {
       "NAME": "Pureza",
-      "DESCRIPTION": "Escolhe e destrua até !M! cartas da sua mão. NL Destrua."
+      "DESCRIPTION": "Escolhe e exaure até !M! cartas da sua mão. NL Exaurir."
     },
     "Panacea": {
       "NAME": "Panacea",
-      "DESCRIPTION": "Ganhe !M! Artefato. NL Destrua."
+      "DESCRIPTION": "Ganhe !M! Artefato. NL Exaurir."
     },
     "Dash": {
       "NAME": "Arrancada",
@@ -638,20 +638,20 @@
     },
     "Transmutation": {
       "NAME": "Transmutação",
-      "DESCRIPTION": "Adicione X cartas neutras aleatórias em sua mão. NL Destrua.",
-      "UPGRADE_DESCRIPTION": "Adicione X cartas neutras aprimoradas aleatórias em sua mão. NL Destrua."
+      "DESCRIPTION": "Adicione X cartas neutras aleatórias em sua mão. NL Exaurir.",
+      "UPGRADE_DESCRIPTION": "Adicione X cartas neutras aprimoradas aleatórias em sua mão. NL Exaurir."
     },
     "Backstab": {
       "NAME": "Apunhalar Pelas Costas",
-      "DESCRIPTION": "Cause !D! de dano. NL Inata. NL Destrua."
+      "DESCRIPTION": "Cause !D! de dano. NL Inata. NL Exaurir."
     },
     "Step Through Time": {
       "NAME": "Caminhar no Tempo",
-      "DESCRIPTION": "CUSTO: 2 Cartas. NL Seu HP retorna ao valor do turno anterior. NL Destrua."
+      "DESCRIPTION": "CUSTO: 2 Cartas. NL Seu HP retorna ao valor do turno anterior. NL Exaurir."
     },
     "Feed": {
       "NAME": "Alimentar-se",
-      "DESCRIPTION": "Cause !D! de dano. NL Se um inimigo morrer (exceto Lacaios) , ganhe !M! de HP máximo permanentemente. Destrua."
+      "DESCRIPTION": "Cause !D! de dano. NL Se um inimigo morrer (exceto Lacaios) , ganhe !M! de HP máximo permanentemente. Exaurir."
     },
     "Rupture": {
       "NAME": "Irromper",
@@ -659,7 +659,7 @@
     },
     "Venomology": {
       "NAME": "Alquimizar",
-      "DESCRIPTION": "Obtenha uma poção aleatória. NL Destrua."
+      "DESCRIPTION": "Obtenha uma poção aleatória. NL Exaurir."
     },
     "Bouncing Flask": {
       "NAME": "Frascos Saltitantes",
@@ -688,7 +688,7 @@
     },
     "Night Terror": {
       "NAME": "Terror Noturno",
-      "DESCRIPTION": "Escolha uma carta. NL Durante o próximo turno, adicione !M! copias desta carta a sua mão. Destrua.",
+      "DESCRIPTION": "Escolha uma carta. NL Durante o próximo turno, adicione !M! copias desta carta a sua mão. Exaurir.",
       "EXTENDED_DESCRIPTION": [
           "Eu só posso usar NL ",
           " NL uma única vez por turno."	
@@ -705,7 +705,7 @@
     },
     "Master of Strategy": {
       "NAME": "Mestre da Estratégia",
-      "DESCRIPTION": "Saque !M! cartas. NL Destrua."
+      "DESCRIPTION": "Saque !M! cartas. NL Exaurir."
     },
     "Flechettes": {
       "NAME": "Flechetes",
@@ -768,7 +768,7 @@
     },
     "Jack Of All Trades": {
       "NAME": "Pau Para Toda Obra",
-      "DESCRIPTION": "Adicione !M! cartas neutras aleatórias a sua mão. NL Destrua."
+      "DESCRIPTION": "Adicione !M! cartas neutras aleatórias a sua mão. NL Exaurir."
     },
     "Demon Form": {
       "NAME": "Forma Demoniaca",
@@ -835,12 +835,12 @@
     },
     "Thinking Ahead": {
       "NAME": "Pensando a Frente",
-      "DESCRIPTION": "Saque 2 cartas. NL Coloque uma carta da sua mão no topo da sua pilha de saques. NL Destrua.",
+      "DESCRIPTION": "Saque 2 cartas. NL Coloque uma carta da sua mão no topo da sua pilha de saques. NL Exaurir.",
       "UPGRADE_DESCRIPTION": "Saque 2 cartas. NL Coloque uma carta da sua mão no topo da sua pilha de saques."
     },
     "Distraction": {
       "NAME": "Distração",
-      "DESCRIPTION": "Adicione uma Habilidade aleatória a sua mão. NL Ela custará 0 somente este turno. NL Destrua."
+      "DESCRIPTION": "Adicione uma Habilidade aleatória a sua mão. NL Ela custará 0 somente este turno. NL Exaurir."
     },
     "Dodge and Roll": {
       "NAME": "Esquivar e Rolar",
@@ -860,7 +860,7 @@
     },
     "Madness": {
       "NAME": "Loucura",
-      "DESCRIPTION": "Uma carta aleatória na sua mão custará 0 pelo resto deste combate. NL Destrua."
+      "DESCRIPTION": "Uma carta aleatória na sua mão custará 0 pelo resto deste combate. NL Exaurir."
     },
     "Expertise": {
       "NAME": "Perícia",
