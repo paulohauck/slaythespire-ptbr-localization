@@ -26,6 +26,7 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 | (The) Champ/Champion   | (O) Campeão             |        |
 | City                   | Cidade                  |        |
 | (The) Collector        | (O) Colecionador        |        |
+| Confused               | Confuso                 |        |
 | Curse                  | Maldição                |        |
 | Damage                 | Dano                    |        |
 | Deck                   | Baralho                 |        |
@@ -35,6 +36,7 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 | Draw (Pile)            | (Pilha de) Compra       | Em muitos jogos de cartas, "draw" é localizado como "compra". Exemplos: Hearthstone, Magic: The Gathering, Yu-Gi-Oh!, Pokémon TCG |
 | Elite                  | Elite                   |        |
 | Energy                 | Energia                 |        |
+| Ethereal               | Etérea                  |        |
 | Exhaust                | Exaurir                 |        |
 | Exordium               | Exórdio                 |        |
 | Gold                   | Ouro                    |        |
@@ -42,6 +44,8 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 | Hand                   | Mão                     |        |
 | Hexaghost              | Hexafantasma            |        |
 | HP                     | PV                      | HP é a abreviação de "HitPoints". Em português, é comum encontrarmos este termo localizado para "Pontos de Vida", ou PV |
+| Innate                 | Inata                   |        |
+| Locked                 | Bloqueada               |        |
 | To Play (a card)       | Jogar (uma carta)       |        |
 | Poison                 | Veneno                  |        |
 | Potion                 | Poção                   |        |
@@ -49,17 +53,24 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 | Rare (card)            | (Carta) Rara            |        |
 | Relic                  | Relíquia                |        |
 | Remove (a card)        | Remover (uma carta)     |        |
+| Retain                 | Manter                  |        |
 | Shiv                   | Estoque                 | [Wikipédia](https://pt.wikipedia.org/wiki/Estoque_(arma)) |
 | Skill                  | Habilidade              |        |
 | Slain/Killed           | Morto                   |        |
 | (The) Slime Boss       | (O) Chefe Gosma         |        |
 | Status                 | Condição                |        |
 | Strength               | Força                   |        |
+| Strike                 | Golpe                   |        |
 | (The) Time Eater       | (O) Devorador do Tempo  |        |
 | Transform (a card)     | Transformar (uma carta) |        |
 | Turn                   | Turno                   |        |
+| Unlocked               | Desbloqueada            |        |
+| Unknow                 | Desconhecida            |        |
+| Unplayable             | Injogável               |        |
 | Upgrade (a card)       | Aprimorar (uma carta)   |        |
+| Vulnerable             | Vulnerável              |        |
 | Weak                   | Fraqueza                |        |
+| Wound                  | Ferida                  |        |
 
 - **Achievements | Conquistas**
 
