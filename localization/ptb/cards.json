@@ -383,20 +383,13 @@
     "Warcry": {
       "NAME": "Grito de Guerra",
       "DESCRIPTION": "Saque 2 cartas. NL Coloque uma carta da sua mão no topo da pilha de saque. NL Destrua."
+	  "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Place a card from your hand on top of your draw pile. NL Exhaust."
     },
     "PiercingWail": {
       "NAME": "Lamento Penetrante",
       "DESCRIPTION": "Todos os inimigos perdem !M! de Força por 1 turno. NL Destrua."
     },
-    "Bite_R": {
-      "NAME": "Morder",
-      "DESCRIPTION": "Cause !D! de dano. NL Cure !M! de HP."
-    },
-    "Bite_G": {
-      "NAME": "Morder",
-      "DESCRIPTION": "Cause !D! de dano. NL Cure !M! de HP."
-    },
-    "Bite_B": {
+    "Bite": {
       "NAME": "Morder",
       "DESCRIPTION": "Cause !D! de dano. NL Cure !M! de HP."
     },

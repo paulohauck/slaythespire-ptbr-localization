@@ -648,7 +648,7 @@
 			"O nêmesis foi morto. NL NL ",
 			"O dono morreu. NL NL ",
 			"Você #gganha a aposta. Sem ter certeza do que pensar, você pega seus ganhos e sai.",
-			"Você #rperdeu a aposta, mas pelo menos você não foi Furando por uma lança."
+			"Você #rperdeu a aposta, mas pelo menos você não foi perfurado por uma lança."
 	],
     "OPTIONS": [
 			"[Continue]",
@@ -662,20 +662,20 @@
     ]
   },
   "The Library": {
-	"NAME": "A livraria",
+	"NAME": "A Biblioteca",
     "DESCRIPTIONS": [
 			"Você se depara com um edifício ornamentado que aparenta estar abandonado. NL Uma plaqueta que caiu da parede está no chão. Lê-se, #b\"A #bLIVRARIA\". NL Dentro, você encontra incontáveis fileiras de pergaminhos, manuscritos e livros. NL Você escolhe um e se aconchega em uma cadeira para um momento de sossego.",
 			"Ler é para idiotas. NL Você dorme em uma cadeira confortável ao invés de ler. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL Você acorda se sentindo refrescado.",
 			"A história é sobre uma garota adolescente controladora de insetos que aspira a se tornar uma heroína. O livro é cheio de uso creativo de poderes, estratégias de combate e perspectivas variadas. NL Gratificante.",
 			"É a história sobre um homem que viajou através das estrelas e se encontra preso em uma planeta estranho e desolado. Ingenuidades, sorte, perserverança e humor para reter seua sanidades foram suas ferramentas para voltar pra casa. NL Fascinante.",
-			"A história ocorre em uma construção gigante e isolada embaixo da terra como as condições ficaram insuportáveis. O romance é cheio de conspirações, propaganda, e injustiça. Você imagina se algo similar está acontecendo dentro da espira. NL Perturbador."
+			"A história ocorre em uma construção gigante e isolada embaixo da terra como as condições ficaram insuportáveis. O romance é cheio de conspirações, propaganda, e injustiça. Você imagina se algo similar está acontecendo dentro da torre. NL Perturbador."
 	],
     "OPTIONS": [
 		"[Ler] #gEscolha #g1 #guma de #g20 #gcartas #gpara #gadicionar #gpara #gseu #gdeck.",
 			"[Dormir] #gcure #g",
 			" #gHP.",
 			"[Sair]",
-			"Adicione uma carta ao seu deck."	
+			"Adicione uma carta ao seu baralho."	
     ]
   },
   "The Mausoleum": {

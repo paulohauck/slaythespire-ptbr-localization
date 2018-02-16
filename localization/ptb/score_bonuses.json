@@ -1,4 +1,10 @@
 {
+  "Ascension": {
+    "NAME": "Ascension",
+    "DESCRIPTIONS": [
+      "+5% score per Ascension Level."
+    ]
+  },
   "Beyond Elites Killed": {
     "NAME": "Beyond Elites Killed",
     "DESCRIPTIONS": []

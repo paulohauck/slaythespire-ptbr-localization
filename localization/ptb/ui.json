@@ -1,4 +1,13 @@
 {
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+		"Card Removal Service",
+		"SALE",
+		"Not for Sale",
+		"Sold Out",
+		"Oh no!"
+	]
+  },
   "Cancel Button": {
     "TEXT": [
 		"Deletar Save"	
@@ -14,6 +23,37 @@
 		"Terminar Turno",
 		"Turno do Inimigo"
 	]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+		"The Ironclad",
+		"The Silent",
+		"",
+		"Return",
+		"No run histories found. NL Go Slay the Spire!",
+		"Ascension Level: ",
+		"Slain on Floor %1$d by %2$s",
+		"Abandoned Run on Floor %d",
+		"Victory!",
+		"Cards",
+		"Relics",
+		"Starter",
+		"Common",
+		"Uncommon",
+		"Rare",
+		"Special",
+		"Curse",
+		"Boss",
+		"Shop",
+		"Unknown",
+		"%1$d %2$s",
+		"%1$s (%2$d):",
+		"Score: %d",
+		"All Characters",
+		"Wins and Losses",
+		"Wins",
+		"Losses"
+    ]
   },
   "LeaderboardsScreen": {
     "TEXT": [
@@ -61,7 +101,9 @@
 		"Polish",
 		"Russian",
 		"Spanish",
-		"Hebrew"
+		"Hebrew",
+		"Turkish",
+		"Swedish"
 	]
   },
   "Proceed Button": {
@@ -225,7 +267,9 @@
     "TEXT": [
 		"Morto",
 		"Bloqueado",
-		"Max HP +"
+		"Max HP +",
+		"Stunned!",
+		"Interrupted!"
 	]
   },
   "TopPanel": {
@@ -372,6 +416,12 @@
 			"Duplicar"
 		]
 	},
+  "DeathScreenUi": {
+    "TEXT": [
+    	"Ascension Mode Level ",
+    	" Unlocked!"
+    ]
+  },
   "DeathScreen": {
     "TEXT": [
 		"Prosseguir",
@@ -468,10 +518,18 @@
 		"Escolha um"	
 	]
   },
+  "TwitchVoter": {
+    "TEXT": [
+		"VOTE NOW: "
+    ]
+  },
   "CardRewardScreen": {
     "TEXT": [
 		"Pular",
-		"Escolha uma Carta"
+		"Escolha uma Carta",
+		"+2 Max HP",
+		"VOTE NOW: ",
+		"s left."
 	]
   },
   "BossRelicSelectScreen": {
@@ -479,7 +537,9 @@
 		"Confirmar",
 		"Confirmar Your Selection",
 		"Escolha uma reliquia",
-		"Pular"
+		"Pular",
+		"VOTE NOW: ",
+		"s left."
 	]
   },
   "GridCardSelectScreen": {
@@ -601,8 +661,14 @@
 		"Notas de Versão",
 		"Abandonar Jornada",
 		"Abandonar Jornada (Clique novamente para confirmar)",
-		"Configurações"
+		"Configurações",
+		"Histórico de Jogadas"
 	]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+		"click again to exit"
+    ]
   },
   "PatchNotesScreen": {
     "TEXT": [
@@ -654,7 +720,8 @@
 		"Voltar",
 		"Modo Ascensão (Nível ",
 		")",
-		"Modo Ascensão"
+		"Modo Ascensão",
+		"Runs get harder as you win... (Winstreaks are unaffected)"
 	]
   },
   "AscensionModeDescriptions": {
@@ -668,7 +735,12 @@
 		"7. Inimigos normais são mais resistentes.",
 		"8. Elites normais são mais resistentes.",
 		"9. Chefes normais são mais resistentes.",
-		"10. Parasitas!"
+		"10. Parasitas!",
+		"Potions are less potent.",
+		"Upgraded cards appear less often.",
+		"Poor bosses.",
+		"Lower Max HP.",
+		"(Max Level) Unfavorable Events."
 	]
   },
   "AbstractMonster": {
@@ -772,6 +844,12 @@
   "UnlockTextEffect": {
     "TEXT": [
 		"Novo Desbloqueio!"
+	]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+		"Ascension Mode Level ",
+		" Unlocked!"
 	]
   },
   "AbstractPotion": {
