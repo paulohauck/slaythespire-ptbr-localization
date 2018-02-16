@@ -32,7 +32,7 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 | Dexterity              | Destreza               | - |
 | Discard (Pile)         | (Pilha de) Descarte    | - |
 | Donu & Deca            | Donu & Deca            | - |
-| Draw (Pile)            | (Pilha de) Compras     | Em muitos jogos de cartas, "draw" é localizado como "compra". Exemplos: Hearthstone, Magic: The Gathering, Yu-Gi-Oh!, Pokémon TCG |
+| Draw (Pile)            | (Pilha de) Compra      | Em muitos jogos de cartas, "draw" é localizado como "compra". Exemplos: Hearthstone, Magic: The Gathering, Yu-Gi-Oh!, Pokémon TCG |
 | Elite                  | Elite                  | - |
 | Energy                 | Energia                | - |
 | Exhaust                | Exaurir                | - |
