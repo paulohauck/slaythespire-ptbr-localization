@@ -62,7 +62,7 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 
 | English         | Brazilian Portuguese | Reason |
 |-----------------|----------------------|--------|
-| Shrug It Off    | Nem ligar            | A ideia da expressão "Shrug It Off" é menosprezar ou minimizar uma situação. Essa conquista é desbloqueada ao vencer um combate, restando apenas 1 PV. |
+| Shrug It Off    | Nem Ligar            | A ideia da expressão "Shrug It Off" é menosprezar ou minimizar uma situação. Essa conquista é desbloqueada ao vencer um combate, restando apenas 1 PV. |
 | Purity          | Pureza               | - |
 | Come At Me      | Vem Pra Cima         | "Come At Me" é uma provocação usada para chamar alguém para uma briga. No Brasil, temos a expressão "Vem Pra Cima" com um sentido muito parecido. |
 | The Pact        | O Pacto              | - |
