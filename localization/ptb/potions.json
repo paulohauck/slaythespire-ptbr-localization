@@ -1,16 +1,23 @@
 {
-  "Block Potion": {
-	"NAME": "Poção de Protecão",
+  "Ancient Potion": {
+	"NAME": "Poção Antiga",
     "DESCRIPTIONS": [
 			"Ganhe #b",
-			" de #yproteção."
+			" de #yArtefato."
+	]
+  },
+  "Block Potion": {
+	"NAME": "Poção de Proteção",
+    "DESCRIPTIONS": [
+			"Ganhe #b",
+			" de #yProteção."
 	]
   },
   "Dexterity Potion": {
 	"NAME": "Poção de Destreza",
     "DESCRIPTIONS": [
 			"Ganhe #b",
-			" de #ydestreza."
+			" de #yDestreza."
 	]
   },
   "Elixir": {
@@ -18,7 +25,7 @@
     "DESCRIPTIONS": [
 			"",
 			"",
-			"#yRemova todos as #yCondições e #yMaldições de sua mão.",
+			"#yExaure todos as #yCondições e #yMaldições de sua mão.",
 			"",
 			"Não teve efeito..."
 	]
@@ -27,7 +34,7 @@
 	"NAME": "Poção de Energia",
     "DESCRIPTIONS": [
 			"Ganhe #b",
-			" De Energia."
+			" de Energia."
 	]
   },
   "Explosive Potion": {
@@ -45,31 +52,31 @@
 	]
   },
   "Health Potion": {
-	"NAME": "Poção de Cura",
+	"NAME": "Poção de Saúde",
     "DESCRIPTIONS": [
 			"Cure #b",
-			" de HP."
+			" PV."
 	]
   },
   "Poison Potion": {
-	"NAME": "Poção de Envenenamento",
+	"NAME": "Poção de Veneno",
     "DESCRIPTIONS": [
 			"Aplique #b",
-			" de #yEnvenenamento."
+			" de #yVeneno."
 	]
   },
   "Potion Slot": {
-	"NAME": "Espaço para Poções",
+	"NAME": "Espaço de Poções",
     "DESCRIPTIONS": [
-			"Use poções durante os combates para receber #gBônus ou #afetar seus inimigos.",
-			"Espaço para Poções"
+			"Use poções durante combates para receber #gbônus ou #afetar seus inimigos.",
+			"Espaço de Poções"
 	]
   },
     "Regen Potion": {
 	"NAME": "Poção de Regeneração",
     "DESCRIPTIONS": [
 			"Cure #b",
-			" de #yHP no final de cada turno por #b",
+			" #yPV no final de cada turno por #b",
 			" turnos."
 	]
   },
@@ -84,7 +91,7 @@
 	"NAME": "Poção da Velocidade",
     "DESCRIPTIONS": [
 			"",
-			"Saque #b",
+			"Compre #b",
 			" cartas."
 	]
   },
