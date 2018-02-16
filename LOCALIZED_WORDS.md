@@ -20,15 +20,16 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 | Discard (Pile)         | (Pilha de) Descarte    | - |
 | To Play (a card)       | Jogar (uma carta)      | - |
 | Turn                   | Turno                  | - |
+| Damage                 | Dano                   | - |
 | Attack                 | Ataque                 | - |
 | Skill                  | Habilidade             | - |
 | Power                  | Poder                  | - |
 | Status                 | Condição               | - |
 | Curse                  | Maldição               | - |
-| (keyword) Exhaust      | Exaurir                | - |
-| (imp. verb) Exhaust    | Exaura                 | - |
+| Exhaust                | Exaurir                | - |
 | Energy                 | Energia                | - |
 | Strength               | Força                  | - |
+| Weak                   | Fraqueza               | - |
 | Block                  | Proteção               | Block é literalmente "bloqueio". Porém, no jogo, as fontes de Block são diversas: poções, esquivas, armaduras, etc. "Proteção" é um termo mais amplo. |
 | Poison                 | Veneno                 | - |
 | Shiv                   | Estoque                | [Wikipédia](https://pt.wikipedia.org/wiki/Estoque_(arma)) |
@@ -43,6 +44,9 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 | Donu & Deca            | Donu & Deca            | - |
 | (The) Time Eater       | (O) Devorador do Tempo | - |
 | Achievement            | Conquista              | - |
+| Potion                 | Poção                  | - |
+| Artifact               | Artefato               | - |
+| Dexterity              | Destreza               | - |
 
 - **Achievements | Conquistas**
 
