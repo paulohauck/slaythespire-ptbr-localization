@@ -20,7 +20,6 @@
 			"[Leave]",
 			"Choose a Card to Upgrade",
 			"[Locked] Requires: Upgradeable Cards"
-			
     ]
   },
   "Bonfire Elementals": {
@@ -90,7 +89,8 @@
 			"You ignore the shrine."
 	],
     "OPTIONS": [
-			"[Pray] #gGain #g100 #gGold.",
+			"[Pray] #gGain #g",
+			" #gGold.",
 			"[Desecrate] #gGain #g250 #gGold. #rBecome #rCursed #r- #rRegret.",
 			"[Leave]"
     ]
@@ -198,7 +198,8 @@
 			"You leave, wondering what could have been."
 	],
     "OPTIONS": [
-			"[Jump Inside] #gHeal #gto #gfull #gHP. #rLose #r10 #rMax #rHP.",
+			"[Jump Inside] #gHeal #gto #gfull #gHP. #rLose #r",
+			" #rMax #rHP.",
 			"[Offer: Golden Idol] #gReceive #g333 #gGold. #rLose #rGolden #rIdol.",
 			"[Locked] Requires: Golden Idol.",
 			"[Leave]"
@@ -256,7 +257,8 @@
 	],
     "OPTIONS": [
 			"...",
-			"[Embrace Madness] #gReceive #g2 #gMadness. #rLose #r10 #rHP.",
+			"[Embrace Madness] #gReceive #g2 #gMadness. #rLose #r",
+			" #rHP.",
 			"[Focus] #rBecome #rCursed #r- #rWrithe. #gHeal #g",
 			"[Leave]",
 			" #gHP."
@@ -293,10 +295,12 @@
 			"[Heal] #y35 #yGold: #gHeal #g",
 			"[Locked] Requires: ",
 			" Gold.",
-			"[Purify] #y50 #yGold: #gRemove #ga #gcard #gfrom #gyour #gdeck.",
+			"[Purify] #y",
+			" #yGold: #gRemove #ga #gcard #gfrom #gyour #gdeck.",
 			"[Locked] Requires: 50 Gold.",
 			"[Leave]",
-			"Select a Card to Remove."
+			"Select a Card to Remove.",
+			"."
     ]
   },
   "Dead Adventurer": {
@@ -538,7 +542,8 @@
 			"[Continue] #rLose #r2 #rHP.",
 			"[Continue] #rLose #r3 #rHP.",
 			"[Stop] #rLose #r3 #rHP.",
-			"[Take] #gObtain #gthe #gBook. #rLose #r10 #rHP.",
+			"[Take] #gObtain #gthe #gBook. #rLose #r",
+			" #rHP.",
 			"[Leave]"
     ]
   },
@@ -687,7 +692,8 @@
 			"You continue along your way, leaving the forgotten dead undisturbed."
 	],
     "OPTIONS": [
-			"[Open Coffin] #gReceive #ga #gRelic. #r50%: #rBecome #rCursed #r- #rWrithe.",
+			"[Open Coffin] #gReceive #ga #gRelic. #r",
+			"%: #rBecome #rCursed #r- #rWrithe.",
 			"[Leave]"
     ]
   },  
@@ -720,7 +726,7 @@
 			"[Buy 1 Potion] #y",
 			"[Buy 2 Potions] #y",
 			"[Buy 3 Potions] #y",
-			" #yGold",
+			" #yGold.",
 			"[Leave]"
     ]
   }

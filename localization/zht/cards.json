@@ -54,7 +54,7 @@
   },
   "Anger": {
     "NAME": "憤怒",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 在棄牌堆放入一張此牌的復製品。"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 在棄牌堆放入一張此牌的複製品。"
   },
   "Storm of Steel": {
     "NAME": "鋼鐵風暴",
@@ -125,7 +125,7 @@
   },
   "Reaper": {
     "NAME": "死亡收割",
-    "DESCRIPTION": "對於所有敵人造成 !D! 點傷害。未被 格擋 的傷害將回覆你的生命。 NL 消耗 。"
+    "DESCRIPTION": "對於所有敵人造成 !D! 點傷害。未被 格擋 的傷害將回復你的生命。 NL 消耗 。"
   },
   "Shiv": {
     "NAME": "小刀",
@@ -148,7 +148,7 @@
     "DESCRIPTION": "增加一張隨機攻擊牌到你的手牌。 NL 這張牌在本回合耗能變為0。 NL 消耗 。"
   },
   "After Image": {
-    "NAME": "余像",
+    "NAME": "餘像",
     "DESCRIPTION": "你每打出一張牌，都獲得1點 格擋 。",
     "UPGRADE_DESCRIPTION": " 固有 。 NL 你每打出一張牌，都獲得1點 格擋 。"
   },
@@ -167,7 +167,7 @@
   "Trip": {
     "NAME": "絆倒",
     "DESCRIPTION": "給予 !M! 層 易傷 。",
-    "UPGRADE_DESCRIPTION": "施放 !M! 層 易傷 到所有敵人身上."
+    "UPGRADE_DESCRIPTION": "施放 !M! 層 易傷 到所有敵人身上。"
   },
   "Dagger Throw": {
     "NAME": "投擲匕首",
@@ -273,7 +273,7 @@
   },
   "Endless Agony": {
     "NAME": "無盡苦痛",
-    "DESCRIPTION": "每當你抽到這張牌，都增加一張其復製品到你的手牌。 NL 造成 !D! 點傷害。 NL 消耗 。"
+    "DESCRIPTION": "每當你抽到這張牌，都增加一張其複製品到你的手牌。 NL 造成 !D! 點傷害。 NL 消耗 。"
   },
   "Berserk": {
     "NAME": "狂暴",
@@ -316,7 +316,7 @@
   "Blind": {
     "NAME": "致盲",
     "DESCRIPTION": "給予 !M! 層 虛弱 。",
-    "UPGRADE_DESCRIPTION": "給予 !M! 層 虛弱 到所有敵人身上."
+    "UPGRADE_DESCRIPTION": "給予 !M! 層 虛弱 到所有敵人身上。"
   },
   "Doppelganger": {
     "NAME": "雙重存在",
@@ -328,7 +328,7 @@
     "DESCRIPTION": "消費所有 [G] 。 NL 造成 !D! 點傷害X次。"
   },
   "Envenom": {
-    "NAME": "涂毒",
+    "NAME": "塗毒",
     "DESCRIPTION": "每有一次攻擊造成未被格擋的傷害，就給予1層 中毒 。"
   },
   "Adrenaline": {
@@ -366,7 +366,7 @@
   },
   "Bandage Up": {
     "NAME": "包紮",
-    "DESCRIPTION": "回覆 !M! 生命。 NL 消耗 。"
+    "DESCRIPTION": "回復 !M! 生命。 NL 消耗 。"
   },
   "The Bomb": {
     "NAME": "炸彈",
@@ -382,7 +382,7 @@
   },
   "Warcry": {
     "NAME": "戰吼",
-    "DESCRIPTION": "抽 !M! 張牌。 NL 將手牌中的一張牌放到你的抽牌堆頂部。 NL 消耗 。 ",
+    "DESCRIPTION": "抽 !M! 張牌。 NL 將手牌中的一張牌放到你的抽牌堆頂部。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "抽 !M! 張牌。 NL 將手牌中的一張牌放到你的抽牌堆頂部。 NL 消耗 。"
   },
   "PiercingWail": {
@@ -394,7 +394,7 @@
     "DESCRIPTION": "從抽牌堆中選擇一張技能牌放入你的手牌。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "從抽牌堆中選擇一張技能牌放入你的手牌。",
     "EXTENDED_DESCRIPTION": [
-      "我的抽牌堆中 NL 沒有技能牌."
+      "我的抽牌堆中 NL 沒有技能牌。"
     ]
   },
   "Calculated Gamble": {
@@ -409,7 +409,7 @@
   "Deep Breath": {
     "NAME": "深呼吸",
     "DESCRIPTION": "將你的棄牌堆洗牌後放入你的抽牌堆。 NL 抽 !M! 張牌。",
-    "UPGRADE_DESCRIPTION": "將你的棄牌堆洗牌後放入你的抽牌堆。 NL 抽 !M! 張牌."
+    "UPGRADE_DESCRIPTION": "將你的棄牌堆洗牌後放入你的抽牌堆。 NL 抽 !M! 張牌。"
   },
   "Doubt": {
     "NAME": "疑慮",
@@ -495,7 +495,7 @@
     "DESCRIPTION": "從抽牌堆中選擇一張攻擊牌放入你的手牌。 NL 消耗 。",
     "UPGRADE_DESCRIPTION": "從抽牌堆中選擇一張攻擊牌放入你的手牌。",
     "EXTENDED_DESCRIPTION": [
-      "我的抽牌堆中 NL 沒有攻擊牌."
+      "我的抽牌堆中 NL 沒有攻擊牌。"
     ]
   },
   "Apotheosis": {
@@ -508,14 +508,14 @@
   },
   "Hide": {
     "NAME": "躲藏",
-    "DESCRIPTION": "再下一回合開始之前你不會受到損失HP. NL 消耗 。"
+    "DESCRIPTION": "在下一回合開始之前你不會損失生命。 NL 消耗 。"
   },
   "Corruption": {
     "NAME": "腐化",
     "DESCRIPTION": "所有技能牌耗能變為0。 NL 所有技能牌在被打出時被 消耗 。"
   },
   "Heel Hook": {
-    "NAME": "足跟勾",
+    "NAME": "腳跟鎖",
     "DESCRIPTION": "造成 !D! 點傷害。 NL 如果敵人有 虛弱  狀態 ， NL 獲得 [G] 並且 NL 抽1張牌。"
   },
   "Injury": {
@@ -647,7 +647,7 @@
   },
   "Feed": {
     "NAME": "狂宴",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果這張牌殺死敵人，則永久獲得 !M! 點最大生命。 消耗 。"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 如果這張牌殺死一名不是「爪牙」的敵人，則永久獲得 !M! 點最大生命。 消耗 。"
   },
   "Rupture": {
     "NAME": "撕裂",
@@ -684,7 +684,7 @@
   },
   "Night Terror": {
     "NAME": "夜魘",
-    "DESCRIPTION": "選擇一張牌， NL 在下一回合，將 !M! 份這張牌的復製品放入你的手牌中。 消耗 。",
+    "DESCRIPTION": "選擇一張牌， NL 在下一回合，將 !M! 份這張牌的複製品放入你的手牌中。 消耗 。",
     "EXTENDED_DESCRIPTION": [
       "我每回合只能使用 NL ",
       " NL 一次。"
@@ -715,7 +715,7 @@
   "Perfected Strike": {
     "NAME": "完美打擊",
     "DESCRIPTION": "造成 !D! 點傷害。 NL 你每有一張名字中有 打擊 的牌，傷害+2。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害。 NL 你每有一張名字中有「打擊」的牌，傷害+3。"
+    "UPGRADE_DESCRIPTION": "造成 !D! 點傷害。 NL 你每有一張名字中有 打擊 的牌，傷害+3。"
   },
   "Carnage": {
     "NAME": "殘殺",
@@ -864,6 +864,6 @@
   },
   "Bite": {
     "NAME": "噬咬",
-    "DESCRIPTION": "造成 !D! 點傷害。 NL 回复 !M! 點生命。"
+    "DESCRIPTION": "造成 !D! 點傷害。 NL 回復 !M! 點生命。"
   }
 }

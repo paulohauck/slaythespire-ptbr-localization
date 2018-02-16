@@ -1,0 +1,185 @@
+{
+  "DEV": {
+    "HEADER": "Geliştirme & Dizayn",
+    "NAMES": [
+      "Anthony Giovannetti",
+      "Casey Yano"
+    ]
+  },
+  "OPS": {
+    "HEADER": "İşlemler & Metrikler",
+    "NAMES": [
+      "Danielle Jenkins",
+      "Jake Rabinowitz"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "Müzik & Sesler",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "VOICE": {
+    "HEADER": "Ses Sanatçısı",
+    "NAMES": [
+      "Tamara Ryan",
+      "Michael Schwalbe"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "Kart Portreleri & Olaylardaki Sanat",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "ANIMATION": {
+    "HEADER": "Karakter Animasyonları",
+    "NAMES": [
+      "Julio Duque Montero",
+      "Jon Sandler"
+    ]
+  },
+  "ILLUSTRATION": {
+    "HEADER": "Reklam & Arka Plan İllüstürasyonu",
+    "NAMES": [
+      "Bruce Brenneise"
+    ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "Çince (Basitleştirilmiş) Yerelleştirme",
+    "NAMES": [
+      "Sound of Mystery"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "Çince (Geleneksel) Yerelleştirme",
+    "NAMES": []
+  },
+  "LOC_FRA": {
+    "HEADER": "Fransızca Yerelleştirme",
+    "NAMES": [
+      "Xavier \"Blagatt\" Dupont",
+      "Malik \"Devexia\" Leonarski",
+      "Thomas \"Elgerine\" Ferry",
+      "Vincent \"Hénip\" Barthoux",
+      "Alexandre \"Judgy\" Gaubert",
+      "Vincent \"MissingNoShiny\" Larcin",
+      "Julien \"RoPeTTe\" Ropero",
+      "Corentin \"Tchus\" Monfort"
+    ]
+  },
+  "LOC_DEU": {
+    "HEADER": "Almanca Yerelleştirme",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand "
+    ]
+  },
+  "LOC_ITA": {
+    "HEADER": "İtalyanca Yerelleştirme",
+    "NAMES": []
+  },
+  "LOC_JPN": {
+    "HEADER": "Japonca Yerelleştirme",
+    "NAMES": [
+      "Grezzz"
+    ]
+  },
+  "LOC_KOR": {
+    "HEADER": "Korece Yerelleştirme",
+    "NAMES": [
+      "Translation Manager:",
+      "Eteriny",
+      "Translation:",
+      "Simcoding",
+      "DesFrog",
+      "insight",
+      "K4lium",
+      "hina",
+      "Steam Page Translation",
+      "GyeRyak"
+    ]
+  },
+  "LOC_POL": {
+    "HEADER": "Polonyaca Yerelleştirme",
+    "NAMES": []
+  },
+  "LOC_RUS": {
+    "HEADER": "Rusça Yerelleştirme",
+    "NAMES": [
+      "Çeviri ve Koordinasyon:",
+      "Ivan \"Ingrett\" Khoroshunenko",
+      "Çeviri ve Depolama:",
+      "Vladislav \"Vlad-00003\" Bolshakov",
+      "Öneri ve Geri Bildirim:",
+      "Mikhail \"Outmind\" Dyuzhev",
+      "Bohdan \"DarkRosse\" Kalytiuk",
+      "Sergey \"lol10801lol\" K.",
+      "Ascimator",
+      "Kateryna \"Meds\" Belimenko-Bolger",
+      "Alexey \"Surrealistic Ganerson\" Popov",
+      "Alexandr \"LiaNdrY\" Mazistov"
+    ]
+  },
+  "LOC_TUR": {
+    "HEADER": "Türkçe Yerelleştirme",
+    "NAMES": [
+      "Erdem Gürbüz"
+    ]
+  },
+  "LOC_ADDITIONAL": {
+    "HEADER": "Ek Çeviriler",
+    "NAMES": [
+      "MoGi Group"
+    ]
+  },
+  "TEST": {
+    "HEADER": "Oyunu Test Edenler",
+    "NAMES": [
+      "Agari",
+      "Daria Anderson",
+      "Zac Bauermeister",
+      "Nick Becker",
+      "Esther Beckman",
+      "Leo Chen",
+      "Brian Chau",
+      "Dan D'Argenio",
+      "David Delorenzo",
+      "Tim Erskine",
+      "Benjamin Finkel",
+      "Rajiv Giridharagopal",
+      "Wyatt Grodzins",
+      "Ren Howell",
+      "Kyle James",
+      "Ryan Mathisen",
+      "Anthony McMillian",
+      "Brad Meine",
+      "Jacob Morris",
+      "Alex Rockwell",
+      "Greg Scheopner",
+      "John \"Slide20xl\" Smith",
+      "Aaron Taggart",
+      "Alexander Toy",
+      "Merijn van der Vliet",
+      "David Von Derau",
+      "Conor Watson"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "Özel Olarak Teşekkür Ederiz",
+    "NAMES": [
+      "Harry Rabinowitz",
+      "Kevin \"Billy\" Matheson",
+      "Anthony Roybal",
+      "Lee Beckman",
+      "Sam Welch",
+      "feedbackbot",
+      "Evan Howell",
+      "Justin Myhres",
+      "robojumper"
+    ]
+  },
+  "THANKS_MSG": {
+    "HEADER": "...ve oynadığınızı için SİZE teşekkürler!",
+    "NAMES": []
+  }
+}

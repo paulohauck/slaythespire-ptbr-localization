@@ -386,7 +386,9 @@
     "TEXT": [
       "Überspringen",
       "Wähle eine Karte",
-      "+2 Max HP"
+      "+2 Max TP",
+      "VOTE NOW: ",
+      "s left."
     ]
   },
   "BossRelicSelectScreen": {
@@ -394,7 +396,9 @@
       "Bestätigen",
       "Bestätige deine Auswahl",
       "Wähle ein Relikt",
-      "Überspringen"
+      "Überspringen",
+      "VOTE NOW: ",
+      "s left."
     ]
   },
   "GridCardSelectScreen": {
@@ -435,7 +439,7 @@
   },
   "OptionsPanel": {
     "TEXT": [
-      "HINWEIS: Optionen in ROT wurden noch nicht implementiert.",
+      "",
       "Spielmenü",
       "Grafik",
       "Auflösung: NL Max. Framerate:",
@@ -445,10 +449,10 @@
       "Hintergrundgeräusche",
       "Präferenzen",
       "Zusammengezählten Schaden in Gold anzeigen NL Geblockten Schaden in Blau anzeigen NL Bestätigung beim Wählen 1 Karte deaktivieren",
-      "Gewöhnliche Tipps NL Kartentipps",
-      "Machttipps NL Relikttipps",
+      "Schnellmodus",
+      "",
       "Diverses",
-      "#rSprache:",
+      "Sprache:",
       "Spieldaten hochladen #b(?)",
       "Spiel verlassen",
       "Speichern & Verlassen",
@@ -517,7 +521,7 @@
       "Durchlauf abbrechen",
       "Durchlauf abbrechen (erneut klicken zum Bestätigen)",
       "Einstellungen",
-      "Run History"
+      "Run-Historie"
     ]
   },
   "PatchNotesScreen": {
@@ -773,8 +777,8 @@
       "Tot",
       "Blockiert",
       "Max TP +",
-      "Stunned!",
-      "Interrupted!"
+      "Gestunnt!",
+      "Unterbrochen!"
     ]
   },
   "LeaderboardsScreen": {
@@ -836,48 +840,74 @@
       "7. Normale Gegner halten mehr aus.",
       "8. Eliten halten mehr aus.",
       "9. Bosse halten mehr aus.",
-      "10. Parasit!"
+      "10. Parasit!",
+      "11. Tränke sind schwächer.",
+      "12. Verbesserte Karten erscheinen seltener.",
+      "13. Schlechte Bosse.",
+      "14. Niedrigere max TP.",
+      "15. Ungünstige Events."
     ]
   },
   "MerchantImageTextNotInGame": {
     "TEXT": [
-      "Card Removal Service",
-      "SALE",
+      "Kartenentfernungsdienst",
+      "AUSVERKAUF",
       "Not for Sale",
-      "Sold Out",
-      "Oh no!"
+      "Ausverkauft",
+      "Oh nein!"
     ]
   },
   "DeathScreenUi": {
     "TEXT": [
-      "Ascension Mode Level ",
-      " Unlocked!"
+      "Aufstiegsmodus Level ",
+      " Freigeschaltet!"
     ]
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "Ascension Mode Level ",
-      " Unlocked!"
+      "Aufstiegsmodus Level ",
+      " Freigeschaltet!"
     ]
   },
   "RunHistoryScreen": {
     "TEXT": [
-      "The Ironclad",
-      "The Silent",
+      "Der Eiserne",
+      "Die Stille",
       "",
-      "Return",
-      "No run histories found. NL Go Slay the Spire!",
-      "Ascension Level: ",
-      "Slain on Floor ",
-      " by ",
-      "Victory!",
-      "Cards",
-      "Relics"
+      "Zurück",
+      "Keine Run-Historie gefunden. NL Geh und Slay the Spire!",
+      "Aufstieg Level: ",
+      "Besiegt auf Ebene %1$d von %2$s",
+      "Abandoned Run on Floor %d",
+      "Sieg!",
+      "Karten",
+      "Relikte",
+      "Starter",
+      "Common",
+      "Uncommon",
+      "Rare",
+      "Special",
+      "Curse",
+      "Boss",
+      "Shop",
+      "Unknown",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Score: %d",
+      "All Characters",
+      "Wins and Losses",
+      "Wins",
+      "Losses"
     ]
   },
   "CreditsScreen": {
     "TEXT": [
-      "click again to exit"
+      "erneut klicken zum Verlassen"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "VOTE NOW: "
     ]
   }
 }

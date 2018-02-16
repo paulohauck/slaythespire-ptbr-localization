@@ -96,10 +96,10 @@
     ]
   },
   "Ancient Potion": {
-    "NAME": "Ancient Potion",
+    "NAME": "Uralter Trank",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yArtifact."
+      "Erhalte #b",
+      " #yArtifakt."
     ]
   }
 }

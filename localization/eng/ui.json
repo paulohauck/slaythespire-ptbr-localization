@@ -32,11 +32,27 @@
 		"Return",
 		"No run histories found. NL Go Slay the Spire!",
 		"Ascension Level: ",
-		"Slain on Floor ",
-		" by ",
+		"Slain on Floor %1$d by %2$s",
+		"Abandoned Run on Floor %d",
 		"Victory!",
 		"Cards",
-		"Relics"
+		"Relics",
+		"Starter",
+		"Common",
+		"Uncommon",
+		"Rare",
+		"Special",
+		"Curse",
+		"Boss",
+		"Shop",
+		"Unknown",
+		"%1$d %2$s",
+		"%1$s (%2$d):",
+		"Score: %d",
+		"All Characters",
+		"Wins and Losses",
+		"Wins",
+		"Losses"
     ]
   },
   "LeaderboardsScreen": {
@@ -502,11 +518,18 @@
 		"Choose One"	
 	]
   },
+  "TwitchVoter": {
+    "TEXT": [
+		"VOTE NOW: "
+    ]
+  },
   "CardRewardScreen": {
     "TEXT": [
 		"Skip",
 		"Choose a Card",
-		"+2 Max HP"
+		"+2 Max HP",
+		"VOTE NOW: ",
+		"s left."
 	]
   },
   "BossRelicSelectScreen": {
@@ -514,7 +537,9 @@
 		"Confirm",
 		"Confirm Your Selection",
 		"Choose a Relic",
-		"Skip"
+		"Skip",
+		"VOTE NOW: ",
+		"s left."
 	]
   },
   "GridCardSelectScreen": {
@@ -562,11 +587,11 @@
 		"Fullscreen NL Borderless Fullscreen (recommended) NL Screenshake",
 		"Sound",
 		"Master Volume NL Music Volume NL Effects Volume",
-		"Ambient Sound Effects",
+		"Ambient Sound Effects NL Mute while in background",
 		"Preferences",
 		"Display summed up damage in gold NL Display blocked damage in blue NL Disable confirmation when choosing 1 card",
-		"Common Tips NL Card Tips",
-		"Power Tips NL Relic Tips",
+		"Fast Mode",
+		"",
 		"Miscellaneous",
 		"Language:",
 		"Upload gameplay data #b(?)",
@@ -693,24 +718,29 @@
 		"The Silent",
 		"Crowbot",
 		"Back",
-		"Ascension Mode (Level ",
-		")",
+		"Ascension",
+		"Level ",
 		"Ascension Mode",
-		"EXPERIMENTAL: Runs get harder as you win... (doesn't affect winstreak)"
+		"Runs get harder as you win... (Winstreaks are unaffected)"
 	]
   },
   "AscensionModeDescriptions": {
   	"TEXT": [
-		"1. Elites spawn more often.",
-		"2. Normal enemies are deadlier.",
-		"3. Elites are deadlier.",
-		"4. Bosses are deadlier.",
-		"5. Heal less after Boss battles.",
-		"6. Start each run damaged.",
-		"7. Normal enemies are tougher.",
-		"8. Elites are tougher.",
-		"9. Bosses are tougher.",
-		"10. Parasite!"
+		"Elites spawn more often.",
+		"Normal enemies are deadlier.",
+		"Elites are deadlier.",
+		"Bosses are deadlier.",
+		"Heal less after Boss battles.",
+		"Start each run damaged.",
+		"Normal enemies are tougher.",
+		"Elites are tougher.",
+		"Bosses are tougher.",
+		"Parasite!",
+		"Potions are less potent.",
+		"Upgraded cards appear less often.",
+		"Poor bosses.",
+		"Lower Max HP.",
+		"(Max Level) Unfavorable Events."
 	]
   },
   "AbstractMonster": {

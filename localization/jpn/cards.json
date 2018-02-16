@@ -429,7 +429,7 @@
     "DESCRIPTION": "カードを 廃棄 するたび、 NL カードを 1 枚引く。"
   },
   "Die Die Die": {
-    "NAME": "死ね死ね死ね",
+    "NAME": "ダイ、ダイ、ダイ！",
     "DESCRIPTION": "敵全体に !D! のダメージを与える。 NL 廃棄 。"
   },
   "Well Laid Plans": {
@@ -844,7 +844,7 @@
   },
   "Expertise": {
     "NAME": "職人技",
-    "DESCRIPTION": "!B! の ブロック を得る。 NL このカードは何度でも アップグレード できる。"
+    "DESCRIPTION": "手札が !M! 枚になるまでカードを引く。"
   },
   "The Bomb": {
     "NAME": "爆弾",

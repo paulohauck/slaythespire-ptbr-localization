@@ -744,7 +744,7 @@
     "NAME": "Klangschale",
     "FLAVOR": "Dieses oft genutzte Artefakt lässt eine wunderschöne Melodie erklingen, wenn man draufschlägt.",
     "DESCRIPTIONS": [
-      "Immer wenn du eine Kartenbelohnung überspringst, erhöhen sich deine max. TP um #b"
+      "Anstatt eine Karte deinem Deck hinzuzufügen, kannst du nun #b+2 max TP erhalten."
     ]
   },
   "Smiling Mask": {
@@ -1063,24 +1063,24 @@
     ]
   },
   "Molten Egg 2": {
-    "NAME": "Molten Egg (BETA)",
-    "FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
+    "NAME": "Geschmolzenes Ei (BETA)",
+    "FLAVOR": "Das Ei eines Phoenix. Es leuchtet rot mit schimmernder Lava.",
     "DESCRIPTIONS": [
-      "Whenever you obtain an #yAttack card, it is #yUpgraded."
+      "Jedes mal, wenn du eine #yAngriffskarte erhältst, ist sie #yverbessert."
     ]
   },
   "Frozen Egg 2": {
-    "NAME": "Frozen Egg (BETA)",
-    "FLAVOR": "The egg lies inert and frozen, never to hatch.",
+    "NAME": "Gefrorenes Ei (BETA)",
+    "FLAVOR": "Ein regloses und gefrorenes Ei, das niemals schlüpfen wird.",
     "DESCRIPTIONS": [
-      "Whenever you obtain a #yPower card, it is #yUpgraded."
+      "Jedes mal, wenn du eine #yKraftkarte erhältst, ist sie #yverbessert."
     ]
   },
   "Toxic Egg 2": {
-    "NAME": "Toxic Egg (BETA)",
-    "FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
+    "NAME": "Toxisches Ei (BETA)",
+    "FLAVOR": "\"Was eine fabelhafte Entdeckung! Es scheint ein inaktives Ei einer magischen Kreatur zu sein. Wer oder was hat es erschaffen?\" - Ranwid",
     "DESCRIPTIONS": [
-      "Whenever you obtain a #ySkill card, it is #yUpgraded."
+      "Jedes mal, wenn du eine #yFähigkeitskarte erhältst, ist sie #yverbessert."
     ]
   }
 }

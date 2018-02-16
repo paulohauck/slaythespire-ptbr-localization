@@ -299,7 +299,7 @@
 	"NAME": "Enchiridion",
 	"FLAVOR": "The legendary journal of an ancient lich.",
     "DESCRIPTIONS": [
-	"Start each combat with a random #yPower card in your hand. It costs #b0 until the end of turn."
+	"At the start of each combat, add a random #yPower card to your hand. It costs #b0 until the end of turn."
 	]
   },
   "Eternal Feather": {
@@ -717,9 +717,9 @@
 	"NAME": "Runic Cube",
 	"FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
-	"Max HP is lowered by #b", 
-	"%. Whenever you lose HP, draw #b",
-	" card."
+	"Whenever you lose HP, draw #b",
+	" card.",
+	""
 	]
   },
   "Runic Dome": {
@@ -974,7 +974,7 @@
     "DESCRIPTIONS": [
 	"Obtain #b1 potion. NL Gain #b",
 	" #yGold. NL Raise your Max HP by #b", 
-	". NL Obtain #b1 card.",
+	". NL Obtain #b1 card. NL Upgrade #b1 random card.",
 	"Tiny House!"
 	]
   },

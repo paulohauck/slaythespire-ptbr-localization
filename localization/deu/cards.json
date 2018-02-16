@@ -325,7 +325,7 @@
   },
   "Skewer": {
     "NAME": "Aufspießen",
-    "DESCRIPTION": "Du verbrauchst [G] komplett. NL Du verursachst X Mal !D! Schaden."
+    "DESCRIPTION": "Du verursachst X Mal !D! Schaden."
   },
   "Envenom": {
     "NAME": "Klinge vergiften",
@@ -374,12 +374,12 @@
   },
   "Whirlwind": {
     "NAME": "Wirbelwind",
-    "DESCRIPTION": "Du verbrauchst [R] komplett. NL Du verursachst X Mal !D! Schaden an ALLEN Gegnern."
+    "DESCRIPTION": "Du verursachst X Mal !D! Schaden an ALLEN Gegnern."
   },
   "Warcry": {
     "NAME": "Schlachtruf",
-    "DESCRIPTION": "Du ziehst 2 Karten. NL Lege eine Karte deiner Hand auf deinen Aufnahmestapel. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Place a card from your hand on top of your draw pile. NL Exhaust."
+    "DESCRIPTION": "Du ziehst !M! Karte. NL Lege eine Karte deiner Hand auf deinen Aufnahmestapel. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Du ziehst !M! Karten. NL Lege eine Karte deiner Hand auf deinen Aufnahmestapel. NL Erschöpft."
   },
   "PiercingWail": {
     "NAME": "Durchdringendes Heulen",
@@ -551,8 +551,8 @@
   },
   "Malaise": {
     "NAME": "Unwohlsein",
-    "DESCRIPTION": "Du verbrauchst [G] komplett. NL Gegner verliert X Stärke. Du wendest X Schwach an. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Du verbrauchst [G] komplett. NL Gegner verliert X+1 Stärke. Du wendest X+1 Schwach an. NL Erschöpft."
+    "DESCRIPTION": "Gegner verliert X Stärke. Du wendest X Schwach an. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Gegner verliert X+1 Stärke. Du wendest X+1 Schwach an. NL Erschöpft."
   },
   "Reflex": {
     "NAME": "Reflex",
@@ -864,6 +864,6 @@
   },
   "Bite": {
     "NAME": "Bite",
-    "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
+    "DESCRIPTION": "Du verursachst !D! Schaden. NL Du heilst !M! TP."
   }
 }
