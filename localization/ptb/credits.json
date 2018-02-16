@@ -87,7 +87,7 @@
 		]
 	},
 	"LOC_KOR": {
-		"HEADER": "Localização - Coreâno",
+		"HEADER": "Localização - Coreano",
 		"NAMES": [
 			"Translation Manager:",
 			"Eteriny",
@@ -107,14 +107,15 @@
 		]
 	},
 	"LOC_PTB": {
-		"HEADER": "Localização - Portugues Brasileiro",
+		"HEADER": "Localização - Português Brasileiro",
 		"NAMES": [
 			"Paulo \"SilverTape\" Hauck",
 			"Gustavo \"Komklave\" Duarte"
+			"Guilherme \"GPerego\" Perego"
 		]
 	},
 	"LOC_RUS": {
-		"HEADER": "Localization - Russo",
+		"HEADER": "Localização - Russo",
 		"NAMES": [
 			"Translation and Coordination:",
 			"Ivan \"Ingrett\" Khoroshunenko",
@@ -143,7 +144,7 @@
 		]
 	},
 	"TEST": {
-		"HEADER": "Testers",
+		"HEADER": "Playtesters",
 		"NAMES": [
 			"Agari",
 			"Daria Anderson",
