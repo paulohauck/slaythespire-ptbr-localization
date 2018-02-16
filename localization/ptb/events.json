@@ -640,42 +640,42 @@
   "The Joust": {
 	"NAME": "The Joust",
     "DESCRIPTIONS": [
-			"As you make your way through the large buildings you come across a long narrow bridge and spot knights on either side, facing one another. You approach... NL @\"Halt!\"@ NL NL A knight forcefully gestures you to stop with its giant lance.",
-			"\"Today is the day I must settle the score with the #rmurderer of my beloved pet, #yNoodles. Until then, you may not pass. NL NL Fellow witness, why don't you #bbet on who you think will emerge victorious?\"",
-			"\"I can't believe you're betting against #yNoodles!\" NL NL Furious, he clamps down his helmet and rushes towards his nemesis.",
-			"\"Give me strength, #yNoodles!\" NL NL Clamping down his helmet, the knight charges forward.",
+			"Enquanto você anda através dos grandes edifícios, você encontra uma ponte longa e estreita e percebe cavaleiros em ambos os lados, de frente um pro outro. Você se aproxima... NL @\"Pare!\"@ NL NL Um cavaleiro faz um gesto forte para você parar com sua lança gigante.",
+			"\"Hoje é o dia que eu devo prestar conta com este #rassassino de meu amado animal de estimação, #yNoodles. Até então, você não ira passar. NL NL Parceiros espectadores, por que vocês não #bapostam em quem vocês acham qie vai emergir vitorioso?\"",
+			"\"Eu não consigo acreditar que você está apostando contra #yNoodles!\" NL NL Furioso, ele fecha seu capacete com força e corre em direção a seu nêmesis.",
+			"\"Me de força, #yNoodles!\" NL NL Fechando seu capacete com força, o caveleiro avança correndo.",
 			"NL #y@*CRASH!!!*@ #r@*KLAAAANG!*@ NL NL #g@*POW!*@",
-			"The nemesis was slain. NL NL ",
-			"The owner died. NL NL ",
-			"You #gwin the bet. Unsure what to think, you grab your winnings and leave.",
-			"You #rlost the bet, but at least you weren't gouged by a lance."
+			"O nêmesis foi morto. NL NL ",
+			"O dono morreu. NL NL ",
+			"Você #gganha a aposta. Sem ter certeza do que pensar, você pega seus ganhos e sai.",
+			"Você #rperdeu a aposta, mas pelo menos você não foi Furando por uma lança."
 	],
     "OPTIONS": [
 			"[Continue]",
-			"[Murderer] #yBet #y",
-			" #yGold - #g70%: #gwin #g",
-			" #gGold.",
-			"[Owner] #yBet #y",
-			" #yGold - #g30%: #gwin #g",
-			"[Watch]",
-			"[Leave]"
+			"[Assassino] #yAposte #y",
+			" #yOuro - #g70%: #gvitória #g",
+			" #gouro.",
+			"[Dono] #yAposte #y",
+			" #yOuro - #g30%: #gVitória #g",
+			"[Assistir]",
+			"[Sair]"
     ]
   },
   "The Library": {
-	"NAME": "The Library",
+	"NAME": "A livraria",
     "DESCRIPTIONS": [
-			"You come across an ornate building which appears abandoned. NL A plaque that has been torn free from a wall is on the floor. It reads, #b\"THE #bLIBRARY\". NL Inside, you find countless rows of scrolls, manuscripts, and books. NL You pick one and cozy yourself into a chair for some quiet time.",
-			"Reading is for chumps. NL You doze off in a comfy chair instead. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL You wake up feeling refreshed.",
-			"The story is about an insect-controlling teenage girl who aspires to become a hero. The book is filled with creative uses of powers, combat strategies, and varying perspectives. NL Satisfying.",
-			"The story is about a man who journeyed beyond the stars and found himself stuck on a desolate foreign planet. Ingenuity, luck, perseverance, and humor to retain his sanity were his tools to return home. NL Fascinating.",
-			"The story takes place in a giant isolated building underground as the outside conditions have become unbearable. The novel is mired with conspiracies, propaganda, and injustice. You ponder if similar dynamics are at play within the Spire. NL Unsettling."
+			"Você se depara com um edifício ornamentado que aparenta estar abandonado. NL Uma plaqueta que caiu da parede está no chão. Lê-se, #b\"A #bLIVRARIA\". NL Dentro, você encontra incontáveis fileiras de pergaminhos, manuscritos e livros. NL Você escolhe um e se aconchega em uma cadeira para um momento de sossego.",
+			"Ler é para idiotas. NL Você dorme em uma cadeira confortável ao invés de ler. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL Você acorda se sentindo refrescado.",
+			"A história é sobre uma garota adolescente controladora de insetos que aspira a se tornar uma heroína. O livro é cheio de uso creativo de poderes, estratégias de combate e perspectivas variadas. NL Gratificante.",
+			"É a história sobre um homem que viajou através das estrelas e se encontra preso em uma planeta estranho e desolado. Ingenuidades, sorte, perserverança e humor para reter seua sanidades foram suas ferramentas para voltar pra casa. NL Fascinante.",
+			"A história ocorre em uma construção gigante e isolada embaixo da terra como as condições ficaram insuportáveis. O romance é cheio de conspirações, propaganda, e injustiça. Você imagina se algo similar está acontecendo dentro da espira. NL Perturbador."
 	],
     "OPTIONS": [
-		"[Read] #gChoose #g1 #gof #g20 #gcards #gto #gadd #gto #gyour #gdeck.",
-			"[Sleep] #gHeal #g",
+		"[Ler] #gEscolha #g1 #guma de #g20 #gcartas #gpara #gadicionar #gpara #gseu #gdeck.",
+			"[Dormir] #gcure #g",
 			" #gHP.",
-			"[Leave]",
-			"Add a card to your deck."	
+			"[Sair]",
+			"Adicione uma carta ao seu deck."	
     ]
   },
   "The Mausoleum": {
