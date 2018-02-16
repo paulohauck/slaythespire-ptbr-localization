@@ -12,41 +12,51 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 | (The) Ironclad         | (O) Rígido             | "Iron Clad" traduzido literalmente é "Revestido de Ferro". "Ironclad" também [é um adjetivo significando "Rígido", "Inflexível"](http://www.dictionary.com/browse/ironclad). |
 | (The) Silent           | (A) Sorrateira         | [1. A personagem é mulher 2. Uma ladra.](http://slay-the-spire.wikia.com/wiki/Silent) |
 | Crowbot                | Corvobô                | Crow é literalmente corvo. O "bot" vem da palavra "robot", que em português é "robô".
-| Battle/Combat          | Batalha/Combate        | - |
-| HP                     | PV                     | HP é a abreviação de "HitPoints". Em português, é comum encontrarmos este termo localizado para "Pontos de Vida", ou PV |
-| Card                   | Carta                  | - |
-| Hand                   | Mão                    | - |
-| Draw (Pile)            | (Pilha de) Compras     | Em muitos jogos de cartas, "draw" é localizado como "compra". Exemplos: Hearthstone, Magic: The Gathering, Yu-Gi-Oh!, Pokémon TCG |
-| Discard (Pile)         | (Pilha de) Descarte    | - |
-| To Play (a card)       | Jogar (uma carta)      | - |
-| Turn                   | Turno                  | - |
-| Damage                 | Dano                   | - |
-| Attack                 | Ataque                 | - |
-| Skill                  | Habilidade             | - |
-| Power                  | Poder                  | - |
-| Status                 | Condição               | - |
-| Curse                  | Maldição               | - |
-| Exhaust                | Exaurir                | - |
-| Energy                 | Energia                | - |
-| Strength               | Força                  | - |
-| Weak                   | Fraqueza               | - |
-| Block                  | Proteção               | Block é literalmente "bloqueio". Porém, no jogo, as fontes de Block são diversas: poções, esquivas, armaduras, etc. "Proteção" é um termo mais amplo. |
-| Poison                 | Veneno                 | - |
-| Shiv                   | Estoque                | [Wikipédia](https://pt.wikipedia.org/wiki/Estoque_(arma)) |
-| Boss                   | Chefe                  | - |
-| (The) Guardian         | (O) Guardião           | - |
-| Hexaghost              | Hexafantasma           | - |
-| (The) Slime Boss       | (O) Chefe Gosma        | - |
-| (The) Bronze Automaton | (O) Autômato de Broze  | - |
-| (The) Collector        | (O) Colecionador       | - |
-| (The) Champ            | (O) Campeão            | - |
-| (The) Awakened One     | (O) Despertado         | - |
-| Donu & Deca            | Donu & Deca            | - |
-| (The) Time Eater       | (O) Devorador do Tempo | - |
 | Achievement            | Conquista              | - |
-| Potion                 | Poção                  | - |
 | Artifact               | Artefato               | - |
+| Ascension              | Ascenção               | - |
+| Attack                 | Ataque                 | - |
+| (The) Awakened One     | (O) Despertado         | - |
+| Battle/Combat          | Batalha/Combate        | - |
+| Beyond                 | Além                   | - |
+| Block                  | Proteção               | Block é literalmente "bloqueio". Porém, no jogo, as fontes de Block são diversas: poções, esquivas, armaduras, etc. "Proteção" é um termo mais amplo. |
+| Boss                   | Chefe                  | - |
+| (The) Bronze Automaton | (O) Autômato de Broze  | - |
+| Card                   | Carta                  | - |
+| (The) Champ/Champion   | (O) Campeão            | - |
+| City                   | Cidade                 | - |
+| (The) Collector        | (O) Colecionador       | - |
+| Curse                  | Maldição               | - |
+| Damage                 | Dano                   | - |
+| Deck                   | Baralho                | - |
 | Dexterity              | Destreza               | - |
+| Discard (Pile)         | (Pilha de) Descarte    | - |
+| Donu & Deca            | Donu & Deca            | - |
+| Draw (Pile)            | (Pilha de) Compras     | Em muitos jogos de cartas, "draw" é localizado como "compra". Exemplos: Hearthstone, Magic: The Gathering, Yu-Gi-Oh!, Pokémon TCG |
+| Elite                  | Elite                  | - |
+| Energy                 | Energia                | - |
+| Exhaust                | Exaurir                | - |
+| Exordium               | Exórdio                | - |
+| Gold                   | Ouro                   | - |
+| (The) Guardian         | (O) Guardião           | - |
+| Hand                   | Mão                    | - |
+| Hexaghost              | Hexafantasma           | - |
+| HP                     | PV                     | HP é a abreviação de "HitPoints". Em português, é comum encontrarmos este termo localizado para "Pontos de Vida", ou PV |
+| To Play (a card)       | Jogar (uma carta)      | - |
+| Poison                 | Veneno                 | - |
+| Potion                 | Poção                  | - |
+| Power                  | Poder                  | - |
+| Rare (card)            | (Carta) Rara           | - |
+| Relic                  | Relíquia               | - |
+| Shiv                   | Estoque                | [Wikipédia](https://pt.wikipedia.org/wiki/Estoque_(arma)) |
+| Skill                  | Habilidade             | - |
+| Slain/Killed           | Morto                  | - |
+| (The) Slime Boss       | (O) Chefe Gosma        | - |
+| Status                 | Condição               | - |
+| Strength               | Força                  | - |
+| (The) Time Eater       | (O) Devorador do Tempo | - |
+| Turn                   | Turno                  | - |
+| Weak                   | Fraqueza               | - |
 
 - **Achievements | Conquistas**
 
