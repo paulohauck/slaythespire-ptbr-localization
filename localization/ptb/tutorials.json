@@ -58,8 +58,8 @@
   },  
   "Relic Tip": {
     "TEXT": [
-		"As relíquias encontradas ao longo do jogo ,concede bônus únicos e permanecem ao longo de sua jornada NL Eles podem ser encontrados pela derrota de inimigos poderosos ou dentro dos baús.",
-		"Esta relíquia continua a ser vista.",
+		"As relíquias encontradas ao longo do jogo, concedem bônus únicos e permanecem ao longo de sua jornada NL Eles podem ser encontrados pela derrota de inimigos poderosos ou dentro dos baús.",
+		"Esta relíquia ainda não foi vista.",
 		"Seu poder está esgotado."
 	],
 	"LABEL": [
@@ -106,12 +106,12 @@
 		"Métrico",
 		"Tela Cheia",
 		"Tela Cheia com Borda",
-		"Max Framerate"
+		"Framerate Máximo"
 	]
   },  
   "Shop Tip": {
     "TEXT": [
-		"Remova uma carta do seu deck. O custo desse serviço aumenta de acordo com #b",
+		"Remova uma carta do seu baralho. O custo desse serviço aumenta de acordo com #b",
 		" para o resto dessa Jornada."
 	],
 	"LABEL": [
@@ -129,7 +129,7 @@
   },
  "Discard Tip": {
     "TEXT": [
-		"Se sua pilha de saques estiver vazia, a pilha de descarte será arrastada para a pilha de saques. NL NL Clique para ver as cartas na sua pilha de descarte."
+		"Se sua pilha de saques estiver vazia, a pilha de descarte será embaralhada para a pilha de saques. NL NL Clique para ver as cartas na sua pilha de descarte."
 	],
 	"LABEL": [
 		"Pilha de Descarte"	
@@ -137,7 +137,7 @@
   },
  "Energy Panel Tip": {
     "TEXT": [
-		"Sua contagem de energia atual. Os cartões exigem energia para jogar."
+		"Sua contagem de energia atual. As cartas exigem energia para jogar."
 	],
 	"LABEL": [
 		"Energia"	
@@ -158,7 +158,7 @@
  "Top Panel Tips": {
     "TEXT": [
 		"Abre o menu do jogo. NL NL Mude ou atualize suas preferências de gráficos, áudio e jogabilidade aqui.",
-		"Veja todas as cartas no seu deck.",
+		"Veja todas as cartas no seu baralho.",
 		"Veja este mapa do calabouço atual.",
 		"Se você ficar sem HP, você morre.",
 		"Mostra quanto de ouro você carrega. O ouro é a moeda dentro do Spire.",
@@ -167,7 +167,7 @@
 	],
 	"LABEL": [
 		"Configurações",
-		"Deck",
+		"Baralho",
 		"Mapa",
 		"Hit Points (HP)",
 		"Bolsa de dinheiro"	
@@ -197,8 +197,8 @@
 		"Cartas incomuns tem uma moldura e banner azuis.",
 		"Cartas raras tem moldura e banner dourados.",
 		"A raridade de uma carta é visível na carta em si.",
-		"Não é sempre sábio adicionar cartas ao seu deck.",
-		"Cartas exauridas durante combar não são removidas do seu deck.",
+		"Não é sempre sábio adicionar cartas ao seu baralho.",
+		"Cartas exauridas durante combar não são removidas do seu baralho.",
 		"Você só pode ter até 10 cartas na sua mão.",
 		"Cartas de status desaparecem ao fim do combate.",
 		"Maldições não podem ser melhoradas. Por que você iria querer isso?",
