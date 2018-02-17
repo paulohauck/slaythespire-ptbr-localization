@@ -38,7 +38,7 @@
 	]
   },
   "Explosive Potion": {
-	"NAME": "Poção Explosiva",
+	"NAME": "Poção de Explosão",
     "DESCRIPTIONS": [
 			"Dê #b",
 			" de dano a TODOS os inimigos."
@@ -88,7 +88,7 @@
 	]
   },
   "Swift Potion": {
-	"NAME": "Poção da Velocidade",
+	"NAME": "Poção de Velocidade",
     "DESCRIPTIONS": [
 			"",
 			"Compre #b",
@@ -96,7 +96,7 @@
 	]
   },
     "Weak Potion": {
-	"NAME": "Poção da Fraqueza",
+	"NAME": "Poção de Fraqueza",
     "DESCRIPTIONS": [
 			"Aplique #b",
 			" de #yFraqueza."
