@@ -7,20 +7,103 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 
 - **General Terms**
 
-| English  | Brazilian Portuguese | Reason
-|-----|-----|-----|
-|Apply|Cause / Causa| - |
-|Exhaust| Destrua | Exaurir não é um termo muito utilizado, apesar de ser o mais próximo na tradução.|
-|Slime| Gosma ou Gosmento | - |
-| The Silent | A Sorrateira | 1. O Personagem é uma mulher (segundo sua biografia) 2. Uma assinssina  caçadora/assissina. |
-| Draw Pile | Pilha de Saques | Pilha de compras de cartas |
-
+| English                | Brazilian Portuguese    | Reason |
+| ---------------------- | ----------------------- | :----: |
+| (The) Ironclad         | (O) Rígido              | "Iron Clad" traduzido literalmente é "Revestido de Ferro". "Ironclad" também [é um adjetivo significando "Rígido", "Inflexível"](http://www.dictionary.com/browse/ironclad). |
+| (The) Silent           | (A) Sorrateira          | [1. A personagem é mulher 2. Uma ladra.](http://slay-the-spire.wikia.com/wiki/Silent) |
+| Crowbot                | Corvobô                 | Crow é literalmente corvo. O "bot" vem da palavra "robot", que em português é "robô".
+| Achievement            | Conquista               |        |
+| Artifact               | Artefato                |        |
+| Ascension              | Ascenção                |        |
+| Attack                 | Ataque                  |        |
+| (The) Awakened One     | (O) Despertado          |        |
+| Battle/Combat          | Batalha/Combate         |        |
+| Beyond                 | Além                    |        |
+| Block                  | Proteção                | Block é literalmente "bloqueio". Porém, no jogo, as fontes de Block são diversas: poções, esquivas, armaduras, etc. "Proteção" é um termo mais amplo. |
+| Boss                   | Chefe                   |        |
+| (The) Bronze Automaton | (O) Autômato de Broze   |        |
+| Card                   | Carta                   |        |
+| (The) Champ/Champion   | (O) Campeão             |        |
+| City                   | Cidade                  |        |
+| (The) Collector        | (O) Colecionador        |        |
+| Confused               | Confuso                 |        |
+| Curse                  | Maldição                |        |
+| Damage                 | Dano                    |        |
+| Deck                   | Baralho                 |        |
+| Dexterity              | Destreza                |        |
+| Discard (Pile)         | (Pilha de) Descarte     |        |
+| Donu & Deca            | Donu & Deca             |        |
+| Draw (Pile)            | (Pilha de) Compra       | Em muitos jogos de cartas, "draw" é localizado como "compra". Exemplos: Hearthstone, Magic: The Gathering, Yu-Gi-Oh!, Pokémon TCG |
+| Elite                  | Elite                   |        |
+| Energy                 | Energia                 |        |
+| Ethereal               | Etérea                  |        |
+| Exhaust                | Exaurir                 |        |
+| Exordium               | Exórdio                 |        |
+| Gold                   | Ouro                    |        |
+| (The) Guardian         | (O) Guardião            |        |
+| Hand                   | Mão                     |        |
+| Hexaghost              | Hexafantasma            |        |
+| HP                     | PV                      | HP é a abreviação de "HitPoints". Em português, é comum encontrarmos este termo localizado para "Pontos de Vida", ou PV |
+| Innate (card)          | (Carta) Inata           |        |
+| Intent                 | Intenção                |        |
+| Locked                 | Bloqueada               |        |
+| To Play (a card)       | Jogar (uma carta)       |        |
+| Poison                 | Veneno                  |        |
+| Potion                 | Poção                   |        |
+| Power                  | Poder                   |        |
+| Rare (card)            | (Carta) Rara            |        |
+| Relic                  | Relíquia                |        |
+| Remove (a card)        | Remover (uma carta)     |        |
+| Retain                 | Manter                  |        |
+| Run                    | Jornada                 |        |
+| Shiv                   | Estoque                 | [Wikipédia](https://pt.wikipedia.org/wiki/Estoque_(arma)) |
+| Skill                  | Habilidade              |        |
+| Slain/Killed           | Morto                   |        |
+| (The) Slime Boss       | (O) Chefe Gosma         |        |
+| Spire                  | Pináculo                |        |
+| Status                 | Condição                |        |
+| Strength               | Força                   |        |
+| Strike                 | Golpe                   |        |
+| (The) Time Eater       | (O) Devorador do Tempo  |        |
+| Transform (a card)     | Transformar (uma carta) |        |
+| Turn                   | Turno                   |        |
+| Uncommon (card)        | (Carta) Incomum         |        |
+| Unlocked               | Desbloqueada            |        |
+| Unknow                 | Desconhecida            |        |
+| Unplayable             | Injogável               |        |
+| Upgrade (a card)       | Aprimorar (uma carta)   |        |
+| Vulnerable             | Vulnerável              |        |
+| Weak                   | Fraqueza                |        |
+| Wound                  | Ferida                  |        |
 
 - **Achievements | Conquistas**
 
-| English  | Brazilian Portuguese | Reason
-|-----|-----|-----|
-| Shrug It Off | Não foi nada | A ideia da expressão "Shrug It Off"  é menosprezar ou minimizar uma situação. Essa conquista é desbloqueada ao vencer um combate, restando apenas 1 de HP.
-| Barricated | Impenetrável | A ideia do termo barricated é de se proteger atrás de uma barreira. A conquista é desbloqueada conseguindo 999 de escudo. O que, convenhamos, é uma defesa impenetrável.
-| You are Nothing! | Você não é de nada | A Expressão é utilizada para minimizar o inimigo. No Brazil, costumamos dizer "Você não É de nada" ao invés do literal "Você não é nada".
-| You are Nothing! | Você não é de nada | A Expressão é utilizada para minimizar o inimigo. No Brazil, costumamos dizer "Você não É de nada" ao invés do literal "Você não é nada".
+| English         | Brazilian Portuguese | Reason |
+|-----------------|----------------------|--------|
+| Shrug It Off    | Nem Ligar            | A ideia da expressão "Shrug It Off" é menosprezar ou minimizar uma situação. Essa conquista é desbloqueada ao vencer um combate, restando apenas 1 PV. |
+| Purity          | Pureza               |        |
+| Come At Me      | Vem Pra Cima         | "Come At Me" é uma provocação usada para chamar alguém para uma briga. No Brasil, temos a expressão "Vem Pra Cima" com um sentido muito parecido. |
+| The Pact        | O Pacto              |        |
+| Adrenaline      | Adrenalina           |        |
+| Powerful        | Poderoso             |        |
+| Jaxxed          | Bombado              | "Jaxxed" é, no universo do jogo, a pessoa que se drogou com "J.A.X." (Referência ao termo "Get Jacked Up", "Dopar-se"), uma espécie de droga que aumenta as capacidades físicas do usuário. Um paralelo no mundo real seria esteróides. No Brasil, temos uma gíria para esteróides: "Bomba". Aquele que toma "bomba" e é musculoso é chamado de "Bombado". |
+| Impervious      | Inabalável           | Sinônimo de impenetrável. Ver "Barricated". |
+| Barricaded      | Impenetrável         | A ideia do termo barricated é de se proteger atrás de uma barreira. A conquista é desbloqueada conseguindo 999 de escudo. O que, convenhamos, é uma defesa impenetrável. |
+| Catalyst        | Catalizador          |        |
+| Plague          | Praga                |        |
+| Ninja           | Ninja                |        |
+| Infinity        | Infinito             |        |
+| You Are Nothing | Você Não É De Nada   | A Expressão é utilizada para minimizar o inimigo. No Brasil, costumamos dizer "Você não é de nada" ao invés do literal "Você não é nada". |
+| Perfect         | Perfeição            |        |
+| The Guardian    | O Guardião           |        |
+| The Ghost       | O Fantasma           |        |
+| The Boss        | O Chefe              |        |
+| The Automaton   | O Autômato           |        |
+| The Collector   | O Colecionador       |        |
+| The Champion    | O Campeão            |        |
+| The Crow        | O Corvo              |        |
+| The Shapes      | As Formas            |        |
+| The Time Eater  | O Devorador do Tempo |        |
+| Ruby            | Rubi                 |        |
+| Emerald         | Esmeralda            |        |
+| Hidden          | Oculto               |        |
