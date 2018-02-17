@@ -44,7 +44,8 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 | Hand                   | Mão                     |        |
 | Hexaghost              | Hexafantasma            |        |
 | HP                     | PV                      | HP é a abreviação de "HitPoints". Em português, é comum encontrarmos este termo localizado para "Pontos de Vida", ou PV |
-| Innate                 | Inata                   |        |
+| Innate (card)          | (Carta) Inata           |        |
+| Intent                 | Intenção                |        |
 | Locked                 | Bloqueada               |        |
 | To Play (a card)       | Jogar (uma carta)       |        |
 | Poison                 | Veneno                  |        |
@@ -54,16 +55,19 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 | Relic                  | Relíquia                |        |
 | Remove (a card)        | Remover (uma carta)     |        |
 | Retain                 | Manter                  |        |
+| Run                    | Jornada                 |        |
 | Shiv                   | Estoque                 | [Wikipédia](https://pt.wikipedia.org/wiki/Estoque_(arma)) |
 | Skill                  | Habilidade              |        |
 | Slain/Killed           | Morto                   |        |
 | (The) Slime Boss       | (O) Chefe Gosma         |        |
+| Spire                  | Pináculo                |        |
 | Status                 | Condição                |        |
 | Strength               | Força                   |        |
 | Strike                 | Golpe                   |        |
 | (The) Time Eater       | (O) Devorador do Tempo  |        |
 | Transform (a card)     | Transformar (uma carta) |        |
 | Turn                   | Turno                   |        |
+| Uncommon (card)        | (Carta) Incomum         |        |
 | Unlocked               | Desbloqueada            |        |
 | Unknow                 | Desconhecida            |        |
 | Unplayable             | Injogável               |        |
