@@ -31,7 +31,7 @@
 		"",
 		"Retornar",
 		"Histórias de jornada não encontradas. NL Vá Matar o Pináculo!",
-		"Nível de Ascenção: ",
+		"Nível de Ascensão: ",
 		"Morto no Andar %1$d por %2$s",
 		"Abandonou a Jornada no Andar %d",
 		"Vitória!",
@@ -275,7 +275,7 @@
   "TopPanel": {
     "TEXT": [
 		" Andar",
-		" - Ascenção ",
+		" - Ascensão ",
 		" (Nivel Máximo)"
 	]
   },
@@ -418,7 +418,7 @@
 	},
   "DeathScreenUi": {
     "TEXT": [
-    	"Modo Ascenção Nível ",
+    	"Modo Ascensão Nível ",
     	" Desbloqueado!"
     ]
   },
@@ -718,9 +718,9 @@
 		"A Sorrateira",
 		"Corvobô",
 		"Voltar",
-    "Ascenção",
+    "Ascensão",
     "Nível ",
-    "Modo Ascenção",
+    "Modo Ascensão",
 		"Jornadas ficam mais difíceis enquanto você vence... (Sequências de Vitórias não são afetadas)"
 	]
   },
@@ -848,7 +848,7 @@
   },
   "AscensionTextEffect": {
     "TEXT": [
-		"Modo Ascenção Nível ",
+		"Modo Ascensão Nível ",
 		" Desbloqueado!"
 	]
   },
