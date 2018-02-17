@@ -2,13 +2,13 @@
   "Game Dictionary": {
   	"ARTIFACT": {
 		"NAMES":[
-			"Artefato",
+			"artefato",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Nega o próximo Debuff."
+		"DESCRIPTION": "Nega o próximo debuff."
 	},
 	"BLOCK": {
 		"NAMES":[
@@ -18,7 +18,7 @@
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Previne dano, expira no próximo turno."
+		"DESCRIPTION": "Até o próximo turno, previne dano."
 	},
 	"CURSE": {
 		"NAMES":[
@@ -38,7 +38,7 @@
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Destreza melhora a Proteção que você ganha a partir de Cartas."
+		"DESCRIPTION": "Destreza melhora a Proteção ganha de Cartas."
 	},
 	"ETHEREAL": {
 		"NAMES":[
@@ -48,12 +48,12 @@
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Se esta carta está em sua mão ao finalizar seu turno, ela será destruída. Cartas destruídas são removidas do seu baralho apenas durante este combate."
+		"DESCRIPTION": "Se esta carta estiver em sua mão no final do turno, ela será exaurida. Cartas exauridas são removidas do seu baralho até o final do combate."
 	},
 	"EXHAUST": {
 		"NAMES":[
-			"destrua",
-			"destruída",
+			"exaurir",
+			"exaurida",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
@@ -68,7 +68,7 @@
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Começe o combate com esta carta na sua mão."
+		"DESCRIPTION": "Comece cada combate com esta carta em sua mão."
 	},
 	"LOCKED": {
 		"NAMES":[
@@ -78,17 +78,17 @@
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Está carta ainda não foi desbloqueada."
+		"DESCRIPTION": "Esta carta ainda deve ser desbloqueada."
 	},
 	"POISON": {
 		"NAMES":[
-			"envenena",
+			"veneno",
 			"envenenado",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Criaturas envenenadas perdem HP no iniciar seu turno. A cada turno o Envenenamento é reduzido em #b1."
+		"DESCRIPTION": "Criaturas envenenadas perdem PV no começo de seus turnos. A cada turno, o Veneno é reduzido em #b1."
 	},
 	"RETAIN": {
 		"NAMES":[
@@ -102,13 +102,13 @@
 	},
 	"SHIV": {
 		"NAMES":[
-			"shiv",
-			"shivs",
+			"estoque",
+			"estoques",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Shivs são cartas de Ataque com custo #b0 mas que são Destruídas."
+		"DESCRIPTION": "Estoques são cartas de Ataque com custo #b0 que Exaurem."
 	},
 	"STATUS": {
 		"NAMES":[
@@ -128,7 +128,7 @@
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Força causa dano adicional em Ataques."
+		"DESCRIPTION": "Força adiciona dano adicional a Ataques."
 	},
 	"TRANSFORM": {
 		"NAMES":[
@@ -152,13 +152,13 @@
 	},
 	"UNPLAYABLE": {
 		"NAMES":[
-			"não-jogável",
+			"injogável",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Casrtas não-jogáveis não podem ser jogadas diretamente da sua mão."
+		"DESCRIPTION": "Cartas injogáveis não podem ser jogadas da sua mão."
 	},
 	"UPGRADE": {
 		"NAMES":[
@@ -168,17 +168,17 @@
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Aprimorar cartas fazem delas mais poderosas. Cartas podem ser aprimoradas uma única vez."
+		"DESCRIPTION": "Aprimorar cartas as fazem mais poderosas. Cartas só podem ser aprimoradas uma vez."
 	},
 	"VULNERABLE": {
 		"NAMES":[
-			"vulneravél",
-			"vulnerabilidade",			
+			"vulnerável",
+			"vulnerabilidade",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Criaturas vulneráveis recebem b50% a mais de dano proveniente de Ataques."
+		"DESCRIPTION": "Criaturas vulneráveis recebem #b50% a mais de dano de Ataques."
 	},
 	"WEAK": {
 		"NAMES":[
@@ -188,7 +188,7 @@
 			"enfraquece",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Criaturas enfraquecidas causam #b25% menos dano em Ataques."
+		"DESCRIPTION": "Criaturas enfraquecidas causam #b25% a menos de dano em Ataques."
 	},
 	"WOUND": {
 		"NAMES":[
@@ -198,7 +198,7 @@
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Ferias são cartas de condição não-jogáveis."
+		"DESCRIPTION": "Feridas são cartas de condição injogáveis."
 	},
 	"FRAIL": {
 		"NAMES":[
@@ -208,7 +208,7 @@
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Enquanto Fragilizado, obtenha #b25% menos #yProteção de suas cartas."
+		"DESCRIPTION": "Enquanto Fragilizado, ganhe #b25% menos #yProteção de cartas."
 	},
 	"STRIKE": {
 		"NAMES":[
@@ -228,7 +228,7 @@
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Sempre que sacar uma carta, o seu custo será aleatório."
+		"DESCRIPTION": "Sempre que você comprar uma carta, aleatorize seu custo."
 	},
 	"FIRE": {
 		"NAMES":[
@@ -251,7 +251,7 @@
 		"DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
 	},
     "TEXT": [
-		"Energia é utilizada para jogar cartas diretamente da sua mão."
+		"Energia é utilizada para jogar cartas da sua mão."
 	]
   }
 }
