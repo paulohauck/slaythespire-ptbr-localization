@@ -117,32 +117,38 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 
 - **Achievements | Conquistas**
 
-| English         | Brazilian Portuguese | Reason |
-|-----------------|----------------------|--------|
-| Shrug It Off    | Nem Ligar            | A ideia da expressão "Shrug It Off" é menosprezar ou minimizar uma situação. Essa conquista é desbloqueada ao vencer um combate, restando apenas 1 PV. |
-| Purity          | Pureza               |        |
-| Come At Me      | Vem Pra Cima         | "Come At Me" é uma provocação usada para chamar alguém para uma briga. No Brasil, temos a expressão "Vem Pra Cima" com um sentido muito parecido. |
-| The Pact        | O Pacto              |        |
-| Adrenaline      | Adrenalina           |        |
-| Powerful        | Poderoso             |        |
-| Jaxxed          | Bombado              | "Jaxxed" é, no universo do jogo, a pessoa que se drogou com "J.A.X." (Referência ao termo "Get Jacked Up", "Dopar-se"), uma espécie de droga que aumenta as capacidades físicas do usuário. Um paralelo no mundo real seria esteróides. No Brasil, temos uma gíria para esteróides: "Bomba". Aquele que toma "bomba" e é musculoso é chamado de "Bombado". |
-| Impervious      | Inabalável           | Sinônimo de impenetrável. Ver "Barricated". |
-| Barricaded      | Impenetrável         | A ideia do termo barricated é de se proteger atrás de uma barreira. A conquista é desbloqueada conseguindo 999 de escudo. O que, convenhamos, é uma defesa impenetrável. |
-| Catalyst        | Catalizador          |        |
-| Plague          | Praga                |        |
-| Ninja           | Ninja                |        |
-| Infinity        | Infinito             |        |
-| You Are Nothing | Você Não É De Nada   | A Expressão é utilizada para minimizar o inimigo. No Brasil, costumamos dizer "Você não é de nada" ao invés do literal "Você não é nada". |
-| Perfect         | Perfeição            |        |
-| The Guardian    | O Guardião           |        |
-| The Ghost       | O Fantasma           |        |
-| The Boss        | O Chefe              |        |
-| The Automaton   | O Autômato           |        |
-| The Collector   | O Colecionador       |        |
-| The Champion    | O Campeão            |        |
-| The Crow        | O Corvo              |        |
-| The Shapes      | As Formas            |        |
-| The Time Eater  | O Devorador do Tempo |        |
-| Ruby            | Rubi                 |        |
-| Emerald         | Esmeralda            |        |
-| Hidden          | Oculto               |        |
+| English           | Brazilian Portuguese       | Reason |
+| ----------------- | -------------------------- | :----: |
+| Shrug It Off      | Nem Ligar                  | A ideia da expressão "Shrug It Off" é menosprezar ou minimizar uma situação. Essa conquista é desbloqueada ao vencer um combate, restando apenas 1 PV. |
+| Purity            | Pureza                     |        |
+| Come At Me        | Vem Pra Cima               | "Come At Me" é uma provocação usada para chamar alguém para uma briga. No Brasil, temos a expressão "Vem Pra Cima" com um sentido muito parecido. |
+| The Pact          | O Pacto                    |        |
+| Adrenaline        | Adrenalina                 |        |
+| Powerful          | Poderoso                   |        |
+| Jaxxed            | Bombado                    | "Jaxxed" é, no universo do jogo, a pessoa que se drogou com "J.A.X." (Referência ao termo "Get Jacked Up", "Dopar-se"), uma espécie de droga que aumenta as capacidades físicas do usuário. Um paralelo no mundo real seria esteróides. No Brasil, temos uma gíria para esteróides: "Bomba". Aquele que toma "bomba" e é musculoso é chamado de "Bombado". |
+| Impervious        | Inabalável                 | Sinônimo de impenetrável. Ver "Barricated". |
+| Barricaded        | Impenetrável               | A ideia do termo barricated é de se proteger atrás de uma barreira. A conquista é desbloqueada conseguindo 999 de escudo. O que, convenhamos, é uma defesa impenetrável. |
+| Catalyst          | Catalizador                |        |
+| Plague            | Praga                      |        |
+| Ninja             | Ninja                      |        |
+| Infinity          | Infinito                   |        |
+| You Are Nothing   | Você Não É De Nada         | A Expressão é utilizada para minimizar o inimigo. No Brasil, costumamos dizer "Você não é de nada" ao invés do literal "Você não é nada". |
+| Perfect           | Perfeição                  |        |
+| The Guardian      | O Guardião                 |        |
+| The Ghost         | O Fantasma                 |        |
+| The Boss          | O Chefe                    |        |
+| The Automaton     | O Autômato                 |        |
+| The Collector     | O Colecionador             |        |
+| The Champion      | O Campeão                  |        |
+| The Crow          | O Corvo                    |        |
+| The Shapes        | As Formas                  |        |
+| The Time Eater    | O Devorador do Tempo       |        |
+| Ruby              | Rubi                       |        |
+| Emerald           | Esmeralda                  |        |
+| Hidden            | Oculto                     |        |
+| Who Needs Relics? | Quem Precisa de Relíquias? |        |
+| Speed Climber     | Escalador Ágil             |        |
+| Ascend 0          | Ascender 0                 |        |
+| Ascend 10         | Ascender 10                |        |
+| Minimalist        | Minimalista                |        |
+| Ooh Donut!        | Ohh Rosquinha!             |        |
