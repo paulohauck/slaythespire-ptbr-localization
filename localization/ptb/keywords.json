@@ -93,7 +93,7 @@
 	"RETAIN": {
 		"NAMES":[
 			"manter",
-			"mantenha",
+			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
@@ -163,7 +163,7 @@
 	"UPGRADE": {
 		"NAMES":[
 			"aprimorar",
-			"UNUSED_RESERVE",
+			"aprimorada",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
@@ -173,7 +173,7 @@
 	"VULNERABLE": {
 		"NAMES":[
 			"vulnerável",
-			"vulnerabilidade",
+			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
