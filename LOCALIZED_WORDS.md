@@ -16,7 +16,7 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 | Achievement            | Conquista               |        |
 | Ammo                   | Munição                 |        |
 | Artifact               | Artefato                |        |
-| Ascension              | Ascenção                |        |
+| Ascension              | Ascensão                |        |
 | Attack                 | Ataque                  |        |
 | (The) Awakened One     | (O) Despertado          |        |
 | Battle/Combat          | Batalha/Combate         |        |
