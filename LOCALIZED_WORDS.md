@@ -11,67 +11,106 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 | ---------------------- | ----------------------- | :----: |
 | (The) Ironclad         | (O) Rígido              | "Iron Clad" traduzido literalmente é "Revestido de Ferro". "Ironclad" também [é um adjetivo significando "Rígido", "Inflexível"](http://www.dictionary.com/browse/ironclad). |
 | (The) Silent           | (A) Sorrateira          | [1. A personagem é mulher 2. Uma ladra.](http://slay-the-spire.wikia.com/wiki/Silent) |
-| Crowbot                | Corvobô                 | Crow é literalmente corvo. O "bot" vem da palavra "robot", que em português é "robô".
+| Crowbot                | Corvobô                 | Crow é literalmente corvo. O "bot" vem da palavra "robot", que em português é "robô". |
+| (The) Gunner           | (O) Atirador            | Possível nome do terceiro personagem? |
 | Achievement            | Conquista               |        |
+| Ammo                   | Munição                 |        |
 | Artifact               | Artefato                |        |
 | Ascension              | Ascenção                |        |
 | Attack                 | Ataque                  |        |
 | (The) Awakened One     | (O) Despertado          |        |
 | Battle/Combat          | Batalha/Combate         |        |
-| Beyond                 | Além                    |        |
+| (The) Beyond           | (O) Além                |        |
 | Block                  | Proteção                | Block é literalmente "bloqueio". Porém, no jogo, as fontes de Block são diversas: poções, esquivas, armaduras, etc. "Proteção" é um termo mais amplo. |
+| Blue                   | Azul                    |        |
 | Boss                   | Chefe                   |        |
 | (The) Bronze Automaton | (O) Autômato de Broze   |        |
 | Card                   | Carta                   |        |
 | (The) Champ/Champion   | (O) Campeão             |        |
-| City                   | Cidade                  |        |
+| Charge                 | Carga                   |        |
+| Chest                  | Baú                     |        |
+| (The) City             | (A) Cidade              |        |
+| Climb                  | Escalar                 |        |
 | (The) Collector        | (O) Colecionador        |        |
+| Colorless              | Incolor                 |        |
+| Common (card)          | (Carta) Comum           |        |
 | Confused               | Confuso                 |        |
+| Cowardly               | Covardemente            |        |
 | Curse                  | Maldição                |        |
 | Damage                 | Dano                    |        |
 | Deck                   | Baralho                 |        |
+| Desecrate              | Profanar                |        |
+| Devastation            | Devastação              |        |
 | Dexterity              | Destreza                |        |
+| Dig                    | Cavar                   |        |
 | Discard (Pile)         | (Pilha de) Descarte     |        |
 | Donu & Deca            | Donu & Deca             |        |
 | Draw (Pile)            | (Pilha de) Compra       | Em muitos jogos de cartas, "draw" é localizado como "compra". Exemplos: Hearthstone, Magic: The Gathering, Yu-Gi-Oh!, Pokémon TCG |
 | Elite                  | Elite                   |        |
 | Energy                 | Energia                 |        |
+| Escape                 | Escapar                 |        |
+| Entangle               | Prender                 | O mais correto seria "entrelaçar" ou "enredar", mas "entangled" ainda dá a ideia de "preso" |
 | Ethereal               | Etérea                  |        |
 | Exhaust                | Exaurir                 |        |
 | Exordium               | Exórdio                 |        |
+| Floor                  | Andar                   |        |
 | Gold                   | Ouro                    |        |
+| Green                  | Verde                   |        |
 | (The) Guardian         | (O) Guardião            |        |
 | Hand                   | Mão                     |        |
 | Hexaghost              | Hexafantasma            |        |
 | HP                     | PV                      | HP é a abreviação de "HitPoints". Em português, é comum encontrarmos este termo localizado para "Pontos de Vida", ou PV |
 | Innate (card)          | (Carta) Inata           |        |
 | Intent                 | Intenção                |        |
+| Interrupted            | Interrompido            |        |
+| Level                  | Nível                   |        |
 | Locked                 | Bloqueada               |        |
-| To Play (a card)       | Jogar (uma carta)       |        |
+| Loot                   | Saquear                 |        |
+| Magical                | Mágico                  |        |
+| Merchant               | Vendedor                |        |
+| Mugged                 | Roubado                 |        |
+| Play (a card)          | Jogar (uma carta)       |        |
 | Poison                 | Veneno                  |        |
 | Potion                 | Poção                   |        |
 | Power                  | Poder                   |        |
 | Rare (card)            | (Carta) Rara            |        |
+| Red                    | Vermelho                |        |
 | Relic                  | Relíquia                |        |
+| Rest                   | Descansar               |        |
 | Remove (a card)        | Remover (uma carta)     |        |
 | Retain                 | Manter                  |        |
+| Room                   | Sala                    |        |
 | Run                    | Jornada                 |        |
+| Save                   | Save                    |        |
+| Score                  | Pontuação               |        |
 | Shiv                   | Estoque                 | [Wikipédia](https://pt.wikipedia.org/wiki/Estoque_(arma)) |
+| Shop                   | Loja                    |        |
+| Shuffle                | Embaralhar              |        |
 | Skill                  | Habilidade              |        |
 | Slain/Killed           | Morto                   |        |
+| Slay                   | Matar                   |        |
 | (The) Slime Boss       | (O) Chefe Gosma         |        |
+| Smith                  | Forjar                  |        |
+| Special                | Especial                |        |
 | Spire                  | Pináculo                |        |
+| Spoils                 | Espólios                |        |
+| Starter                | Inicial                 |        |
 | Status                 | Condição                |        |
 | Strength               | Força                   |        |
 | Strike                 | Golpe                   |        |
+| Stunned                | Atordoado               |        |
 | (The) Time Eater       | (O) Devorador do Tempo  |        |
+| Tip                    | Dica                    |        |
+| Toke                   | Pitar                   | Gíria  |
 | Transform (a card)     | Transformar (uma carta) |        |
+| Treasure               | Tesouro                 |        |
 | Turn                   | Turno                   |        |
 | Uncommon (card)        | (Carta) Incomum         |        |
 | Unlocked               | Desbloqueada            |        |
 | Unknow                 | Desconhecida            |        |
 | Unplayable             | Injogável               |        |
 | Upgrade (a card)       | Aprimorar (uma carta)   |        |
+| Vanquished             | Vencido                 |        |
 | Vulnerable             | Vulnerável              |        |
 | Weak                   | Fraqueza                |        |
 | Wound                  | Ferida                  |        |
