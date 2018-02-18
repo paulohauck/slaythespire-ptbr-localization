@@ -108,7 +108,7 @@
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Estoques são cartas de Ataque com custo #b0 que Exaurem."
+		"DESCRIPTION": "Estoques são cartas de Ataque com custo #b0 com Exaurir."
 	},
 	"STATUS": {
 		"NAMES":[
