@@ -71,7 +71,7 @@
     },
     "Wraith Form": {
       "NAME": "Forma Espectral",
-      "DESCRIPTION": "Sempre que você jogar uma Habilidade, cause !M! de dano a um inimigo aleatório."
+      "DESCRIPTION": "Sempre que você jogar uma Técnica, cause !M! de dano a um inimigo aleatório."
     },
     "Sadistic Nature": {
       "NAME": "Natureza Sádica",
@@ -306,8 +306,8 @@
     },
     "Burst": {
       "NAME": "Explosão",
-      "DESCRIPTION": "Neste turno, sua próxima Habilidade será jogada duas vezes.",
-      "UPGRADE_DESCRIPTION": "Neste turno, suas próximas !M! Habilidades serão jogadas duas vezes."
+      "DESCRIPTION": "Neste turno, sua próxima Técnica será jogada duas vezes.",
+      "UPGRADE_DESCRIPTION": "Neste turno, suas próximas !M! Técnicas serão jogadas duas vezes."
     },
     "Acrobatics": {
       "NAME": "Acrobacias",
@@ -395,10 +395,10 @@
     },
     "Secret Technique": {
       "NAME": "Técnica Secreta",
-      "DESCRIPTION": "Escolha uma Habilidade da sua pilha de compra e a coloque em sua mão. NL Exaurir.",
-      "UPGRADE_DESCRIPTION": "Escolha uma Habilidade da sua pilha de compra e a coloque em sua mão.",
+      "DESCRIPTION": "Escolha uma Técnica da sua pilha de compra e a coloque em sua mão. NL Exaurir.",
+      "UPGRADE_DESCRIPTION": "Escolha uma Técnica da sua pilha de compra e a coloque em sua mão.",
       "EXTENDED_DESCRIPTION": [
-          "Não tenho Habilidades NL na minha pilha de compra."
+          "Não tenho Técnicas NL na minha pilha de compra."
       ]
     },
     "Calculated Gamble": {
@@ -421,7 +421,7 @@
     },
     "Escape Plan": {
       "NAME": "Plano de Fuga",
-      "DESCRIPTION": "Compre 1 carta. NL Se a carta for uma Habilidade, ganhe !B! de Proteção."
+      "DESCRIPTION": "Compre 1 carta. NL Se a carta for uma Técnica, ganhe !B! de Proteção."
     },
     "Finisher": {
       "NAME": "Finalizador",
@@ -516,7 +516,7 @@
     },
     "Corruption": {
       "NAME": "Corrupção",
-      "DESCRIPTION": "Habilidades custam 0. NL Sempre que você jogar uma Habilidade, a exaure."
+      "DESCRIPTION": "Técnicas custam 0. NL Sempre que você jogar uma Técnica, a exaure."
     },
     "Heel Hook": {
       "NAME": "Chave de Calcanhar",
@@ -709,11 +709,11 @@
     },
     "Flechettes": {
       "NAME": "Flechettes",
-      "DESCRIPTION": "Causa !D! de dano para cada Habilidade em sua mão.",
+      "DESCRIPTION": "Causa !D! de dano para cada Técnica em sua mão.",
       "EXTENDED_DESCRIPTION": [
           " NL (Você tem ",
-          " Habilidade).",
-          " Habilidades)."
+          " Técnica).",
+          " Técnicas)."
       ]
     },
     "Perfected Strike": {
@@ -840,7 +840,7 @@
     },
     "Distraction": {
       "NAME": "Distração",
-      "DESCRIPTION": "Adicione uma Habilidade aleatória à sua mão. NL Ela custa 0 neste turno. NL Exaurir."
+      "DESCRIPTION": "Adicione uma Técnica aleatória à sua mão. NL Ela custa 0 neste turno. NL Exaurir."
     },
     "Dodge and Roll": {
       "NAME": "Esquivar e Rolar",
