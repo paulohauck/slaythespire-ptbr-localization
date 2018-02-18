@@ -127,7 +127,7 @@
       "NAME": "Ceifeiro",
       "DESCRIPTION": "Cause !D! de dano a TODOS inimigos. Cure-se o tanto de dano não protegido. NL Exaurir."
     },
-    "Estoque": {
+    "Shiv": {
       "NAME": "Estoque",
       "DESCRIPTION": "Cause !D! de dano. NL Exaurir."
     },
@@ -382,7 +382,7 @@
     },
     "Warcry": {
       "NAME": "Grito de Guerra",
-      "DESCRIPTION": "Compre 2 cartas. NL Coloque uma carta da sua mão no topo da pilha de compra. NL Exaurir.",
+      "DESCRIPTION": "Compre !M! carta. NL Coloque uma carta da sua mão no topo da pilha de compra. NL Exaurir.",
 	    "UPGRADE_DESCRIPTION": "Compre !M! cartas. NL Coloque uma carta da sua mão no topo da pilha de compra. NL Exaurir."
     },
     "PiercingWail": {
