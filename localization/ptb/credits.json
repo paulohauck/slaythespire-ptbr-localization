@@ -89,15 +89,15 @@
 	"LOC_KOR": {
 		"HEADER": "Localização - Coreano",
 		"NAMES": [
-			"Translation Manager:",
+			"Diretor de Tradução:",
 			"Eteriny",
-			"Translation:",
+			"Tradução:",
 			"Simcoding",
 			"DesFrog",
 			"insight",
 			"K4lium",
 			"hina",
-			"Steam Page Translation",
+			"Tradução da Página do Steam:",
 			"GyeRyak"
 		]
 	},
@@ -117,11 +117,11 @@
 	"LOC_RUS": {
 		"HEADER": "Localização - Russo",
 		"NAMES": [
-			"Translation and Coordination:",
+			"Tradução e Coordenação:",
 			"Ivan \"Ingrett\" Khoroshunenko",
-			"Translation and repository:",
+			"Tradução e Repositório:",
 			"Vladislav \"Vlad-00003\" Bolshakov",
-			"Suggestions and feedback:",
+			"Sugestões e Comentários:",
 			"Mikhail \"Outmind\" Dyuzhev",
 			"Bohdan \"DarkRosse\" Kalytiuk",
 			"Sergey \"lol10801lol\" K.",
