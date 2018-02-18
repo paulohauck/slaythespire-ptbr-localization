@@ -251,13 +251,13 @@
   },
   "AbstractCard": {
     "TEXT": [
-		"Bloqueado",
-		"Desconhecido"
+		"Bloqueada",
+		"Desconhecida"
 	]
   },
   "AbstractPlayer": {
     "TEXT": [
-		"Bloqueado",
+		"Protegido",
 		"o Rígido",
 		"a Sorrateira",
 		"o Atirador"
@@ -266,7 +266,7 @@
   "AbstractCreature": {
     "TEXT": [
 		"Morto",
-		"Bloqueado",
+		"Protegido",
 		"PV Máximo +",
 		"Atordoado!",
 		"Interrompido!"
@@ -775,7 +775,7 @@
 		"Este inimigo está adormecido.",
 		"Este inimigo está #yAtordoado no turno dele.",
 		"As intenções deste inimigo são #yDesconhecidas (mas não atacará).",
-		"Bloqueado"
+		"Protegido"
 	]
   },
   "AbstractDungeon": {
