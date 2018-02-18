@@ -135,7 +135,7 @@ The following table shows the Words/Expressions that suffered an adaptation to f
 | Shop                   | Loja                    |        |
 | Shuffle                | Embaralhar              |        |
 | Skewer                 | Espetar                 | O literal seria "espeto". Para a carta, foi escolhido "espetar" |
-| Skill                  | Habilidade              |        |
+| Skill                  | Técnica                 |        |
 | Slain/Killed           | Morto                   |        |
 | Slash                  | Cortar, corte           |        |
 | Slay                   | Matar                   |        |
