@@ -37,7 +37,7 @@
 		"Vitória!",
 		"Cartas",
 		"Relíquias",
-		"Starter",
+		"Inicial",
 		"Comum",
 		"Incomum",
 		"Rara",
@@ -691,9 +691,9 @@
 		"Chefe:",
 		"Relíquias encontradas apenas nos baús de Chefes.",
 		"Evento:",
-		"Relíquias que podem somente ser obtidas através de Eventos.",
+		"Relíquias que só podem ser obtidas através de Eventos.",
 		"Loja:",
-		"Relíquias que podem somente ser compradas do Vendedor."
+		"Relíquias que só podem ser compradas do Vendedor."
 	]
   },
   "CharacterOption": {
@@ -874,7 +874,7 @@
   },
   "PowerExpireTextEffect": {
     "TEXT": [
-		"Esgota-se"
+		"Acabou"
 	]
   },
   "RestartForChangesEffect": {
