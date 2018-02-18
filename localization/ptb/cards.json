@@ -1,12 +1,12 @@
 {
     "Grand Finale": {
       "NAME": "Grand Finale",
-      "DESCRIPTION": "Só pode ser jogada se não houver cartas na sua pilha de compra. NL Causa !D! de dano a TODOS os inimigos.",
+      "DESCRIPTION": "Só pode ser jogada se não houver cartas na sua pilha de compra. NL Cause !D! de dano a TODOS os inimigos.",
       "UPGRADE_DESCRIPTION": "Minha pilha de compra NL precisa estar #rVazia."
     },
     "Immolate": {
       "NAME": "Imolar",
-      "DESCRIPTION": "Exaura 1 carta. Se a carta escolhida for uma Condição ou Maldição, causa !D! de dano a TODOS os inimigos."
+      "DESCRIPTION": "Exaura 1 carta. Se a carta escolhida for uma Condição ou Maldição, cause !D! de dano a TODOS os inimigos."
     },
     "Regret": {
       "NAME": "Arrependimento",
@@ -21,7 +21,7 @@
       "DESCRIPTION": "Sempre que você jogar uma carta, cause !M! de dano a TODOS os inimigos."
     },
     "Spot Weakness": {
-      "NAME": "Encontrar Ponto-Fraco",
+      "NAME": "Encontrar Ponto Fraco",
       "DESCRIPTION": "Se um inimigo tem a intenção de atacar, ganhe !M! de Força."
     },
     "Wound": {
@@ -38,10 +38,10 @@
     },
     "Glass Knife": {
       "NAME": "Faca Vítrea",
-      "DESCRIPTION": "Causa !D! de dano duas vezes. O dano da Faca Vítrea é reduzido em 2 neste combate."
+      "DESCRIPTION": "Cause !D! de dano duas vezes. O dano da Faca Vítrea é reduzido em 2 neste combate."
     },
     "Cloak And Dagger": {
-      "NAME": "Capa E Adaga",
+      "NAME": "Manto E Adaga",
       "DESCRIPTION": "Ganhe !B! de Proteção. NL Adicione !M! Estoque à sua mão.",
       "UPGRADE_DESCRIPTION": "Ganhe !B! de Proteção. NL Adicione !M! Estoques à sua mão."
     },
@@ -233,7 +233,7 @@
     "Body Slam": {
       "NAME": "Encontrão",
       "DESCRIPTION": "Cause dano igual à sua Proteção atual.",
-      "UPGRADE_DESCRIPTION": " NL (Causa !D! de dano.)"
+      "UPGRADE_DESCRIPTION": " NL (Cause !D! de dano.)"
     },
     "True Grit": {
       "NAME": "Bravura Indômita",
@@ -246,7 +246,7 @@
     },
     "Blood for Blood": {
       "NAME": "Sangue por Sangue",
-      "DESCRIPTION": "Custa 1 [R] a menos NL para cada vez que você perder PV neste combate. NL Causa !D! de dano."
+      "DESCRIPTION": "Custa 1 [R] a menos NL para cada vez que você perder PV neste combate. NL Cause !D! de dano."
     },
     "Impervious": {
       "NAME": "Impenetrável",
@@ -258,7 +258,7 @@
     },
     "Clash": {
       "NAME": "Colidir",
-      "DESCRIPTION": "Só pode ser jogada se todas as outras cartas da sua mão forem um Ataque. NL Causa !D! de dano.",
+      "DESCRIPTION": "Só pode ser jogada se todas as outras cartas da sua mão forem um Ataque. NL Cause !D! de dano.",
       "EXTENDED_DESCRIPTION": [
           "Eu tenho cartas que não são Ataque em minha mão."
       ]
@@ -273,7 +273,7 @@
     },
     "Endless Agony": {
       "NAME": "Agonia Sem Fim",
-      "DESCRIPTION": "Ao comprar esta carta, adicione uma cópia dela à sua mão. NL Causa !D! de dano. NL Exaurir."
+      "DESCRIPTION": "Ao comprar esta carta, adicione uma cópia dela à sua mão. NL Cause !D! de dano. NL Exaurir."
     },
     "Berserk": {
       "NAME": "Enfurecer",
@@ -365,7 +365,7 @@
       "DESCRIPTION": "Cause !D! de dano. NL Toda vez que esta carta é jogada, aumente seu dano em !M! neste combate."
     },
     "Bandage Up": {
-      "NAME": "Bandagem",
+      "NAME": "Enfaixar",
       "DESCRIPTION": "Cure !M! PV. NL Exaurir."
     },
    "The Bomb": {
@@ -402,7 +402,7 @@
       ]
     },
     "Calculated Gamble": {
-      "NAME": "Apostas Calculadas",
+      "NAME": "Aposta Calculada",
       "DESCRIPTION": "Descarte sua mão, NL então compre o mesmo número de cartas. NL Exaurir.",
       "UPGRADE_DESCRIPTION": "Descarte sua mão, NL então compre o mesmo número de cartas."
     },
@@ -437,7 +437,7 @@
       "DESCRIPTION": "Sempre que uma carta for exaurida, NL compre 1 carta."
     },
     "Die Die Die": {
-      "NAME": "Morra Morra Morra",
+      "NAME": "Morram Morram Morram",
       "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos. NL Exaurir."
     },
     "Well Laid Plans": {
@@ -492,7 +492,7 @@
     },
     "Havoc": {
       "NAME": "Devastar",
-      "DESCRIPTION": "Jogue a carta do topo da sua pilha de compra e a exaure."
+      "DESCRIPTION": "Jogue a carta do topo da sua pilha de compra e a exaura."
     },
     "Secret Weapon": {
       "NAME": "Arma Secreta",
@@ -516,7 +516,7 @@
     },
     "Corruption": {
       "NAME": "Corrupção",
-      "DESCRIPTION": "Técnicas custam 0. NL Sempre que você jogar uma Técnica, a exaure."
+      "DESCRIPTION": "Técnicas custam 0. NL Sempre que você jogar uma Técnica, a exaura."
     },
     "Heel Hook": {
       "NAME": "Chave de Calcanhar",
@@ -589,7 +589,7 @@
     },
     "Flash of Steel": {
       "NAME": "Lampejo de Aço",
-      "DESCRIPTION": "Causa !D! de dano. NL Compre 1 carta."
+      "DESCRIPTION": "Cause !D! de dano. NL Compre 1 carta."
     },
     "Battle Trance": {
       "NAME": "Êxtase de Batalha",
@@ -609,8 +609,8 @@
     },
     "Corpse Explosion": {
       "NAME": "Explosão de Corpos",
-      "DESCRIPTION": "O inimigo perde todo o Veneno. Causa dano igual a duas vezes a quantia perdidida a TODOS os inimigos.",
-      "UPGRADE_DESCRIPTION": "O inimigo perde todo o Veneno. Causa dano igual a 3 vezes a quantia perdidida a TODOS os inimigos.",
+      "DESCRIPTION": "O inimigo perde todo o Veneno. Cause dano igual a duas vezes a quantia perdidida a TODOS os inimigos.",
+      "UPGRADE_DESCRIPTION": "O inimigo perde todo o Veneno. Cause dano igual a 3 vezes a quantia perdidida a TODOS os inimigos.",
       "EXTENDED_DESCRIPTION": [
         "Aquele inimigo não está Envenenado."
       ]
@@ -650,7 +650,7 @@
       "DESCRIPTION": "CUSTO: 2 Cartas. NL Seus PV retornam ao valor do turno anterior. NL Exaurir."
     },
     "Feed": {
-      "NAME": "Alimentar-se",
+      "NAME": "Comer",
       "DESCRIPTION": "Cause !D! de dano. NL Se isso matar um inimigo não lacaio, ganhe !M! PV máximo permanentemente. Exaurir."
     },
     "Rupture": {
@@ -667,7 +667,7 @@
     },
     "Bludgeon": {
       "NAME": "Cacetada",
-      "DESCRIPTION": "Causa !D! de dano."
+      "DESCRIPTION": "Cause !D! de dano."
     },
     "Finesse": {
       "NAME": "Sutileza",
@@ -709,7 +709,7 @@
     },
     "Flechettes": {
       "NAME": "Flechettes",
-      "DESCRIPTION": "Causa !D! de dano para cada Técnica em sua mão.",
+      "DESCRIPTION": "Cause !D! de dano para cada Técnica em sua mão.",
       "EXTENDED_DESCRIPTION": [
           " NL (Você tem ",
           " Técnica).",
@@ -718,8 +718,8 @@
     },
     "Perfected Strike": {
       "NAME": "Golpe Aperfeiçoado",
-      "DESCRIPTION": "Cause !D! de dano. NL Causa +2 de dano adicional para TODAS as suas cartas contendo \"Golpe\".",
-      "UPGRADE_DESCRIPTION": "Cause !D! de dano. NL Causa +3 de dano adicional para TODAS as suas cartas contendo \"Golpe\"."
+      "DESCRIPTION": "Cause !D! de dano. NL Cause +2 de dano adicional para TODAS as suas cartas contendo \"Golpe\".",
+      "UPGRADE_DESCRIPTION": "Cause !D! de dano. NL Cause +3 de dano adicional para TODAS as suas cartas contendo \"Golpe\"."
     },
     "Carnage": {
       "NAME": "Carnificina",
@@ -727,7 +727,7 @@
     },
     "Masterful Stab": {
       "NAME": "Estocada Magistral",
-      "DESCRIPTION": "Só pode ser jogada se não houverem outras cartas em sua mão. NL Causa !D! de dano.",
+      "DESCRIPTION": "Só pode ser jogada se não houverem outras cartas em sua mão. NL Cause !D! de dano.",
       "UPGRADE_DESCRIPTION": "Isto tem que ser minha NL única carta."
     },
     "Good Instincts": {
@@ -745,7 +745,7 @@
     },
     "Swift Strike": {
       "NAME": "Golpe Veloz",
-      "DESCRIPTION": "Causa !D! de dano."
+      "DESCRIPTION": "Cause !D! de dano."
     },
     "Normality": {
       "NAME": "Mediocridade",
@@ -764,7 +764,7 @@
     },
     "Sword Boomerang": {
       "NAME": "Espada Bumerangue",
-      "DESCRIPTION": "Causa !D! de dano a um inimigo aleatório !M! vezes."
+      "DESCRIPTION": "Cause !D! de dano a um inimigo aleatório !M! vezes."
     },
     "Jack Of All Trades": {
       "NAME": "Pau Para Toda Obra",
@@ -788,8 +788,8 @@
     },
     "Mind Blast": {
       "NAME": "Explosão Mental",
-      "DESCRIPTION": "Causa dano igual ao número de cartas na sua pilha de compras.",
-      "UPGRADE_DESCRIPTION": "Inata. NL Causa dano igual ao número de cartas na sua pilha de compras.",
+      "DESCRIPTION": "Cause dano igual ao número de cartas na sua pilha de compras.",
+      "UPGRADE_DESCRIPTION": "Inata. NL Cause dano igual ao número de cartas na sua pilha de compras.",
 	  "EXTENDED_DESCRIPTION": [
       " NL (Cause !D! de dano.)"
     ]
@@ -851,7 +851,7 @@
       "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos. NL Compre 1 carta a menos no próximo turno."
     },
     "Flying Knee": {
-      "NAME": "Joelhada",
+      "NAME": "Joelhada Voadora",
       "DESCRIPTION": "Cause !D! de dano. NL Ganhe [G] no próximo turno."
     },
     "Predator": {
