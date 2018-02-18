@@ -153,7 +153,7 @@
   },
   "SkillFromDeckToHandAction": {
     "TEXT": [
-		"Escolha uma Habilidade para ser Adicionada à Sua Mão"
+		"Escolha uma Técnica para ser Adicionada à Sua Mão"
 	]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -328,7 +328,7 @@
   "SingleCardViewPopup": {
     "TEXT": [
 		"Ataque",
-		"Habilidade",
+		"Técnica",
 		"Poder",
 		"Maldição",
 		"Bloqueado",
