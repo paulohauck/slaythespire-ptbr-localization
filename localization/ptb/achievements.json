@@ -8,8 +8,8 @@
 		"Adrenalina",
 		"Poderoso",
 		"Bombado",
+    "Impenetrável",
 		"Inabalável",
-		"Impenetrável",
 		"Catalizador",
 		"Praga",
 		"Ninja",
@@ -27,7 +27,13 @@
 		"O Devorador do Tempo",
 		"Rubi",
 		"Esmeralda",
-		"Oculto"
+		"Oculto",
+    "Quem Precisa de Relíquias?",
+		"Escalador Ágil",
+		"Ascender 0",
+		"Ascender 10",
+		"Minimalista",
+		"Ohh Rosquinha!"
 	],
 	"TEXT": [
 		"Vença uma batalha com 1 PV restante.",
@@ -56,7 +62,13 @@
 		"Derrotou o Devorador do Tempo.",
 		"Conclua o jogo com o Rígido.",
 		"Conclua o jogo com a Sorrateira.",
-		"Os detalhes desta conquista serão revelados quando ela for desbloqueada."
+		"Os detalhes desta conquista serão revelados quando ela for desbloqueada.",
+    "Conclua o jogo com uma única relíquia.",
+		"Conclua o jogo em menos de 20 minutos.",
+		"Desbloqueie o modo Ascensão.",
+		"Complete a Ascensão Nível 10.",
+		"Conclua o jogo com um baralho de 5 cartas ou menor.",
+		"Acabe com Donu com um Alimentar-se."
 	]
   },
   "CharStat": {
@@ -94,7 +106,7 @@
     "NAMES": [
 		"#Estatísticas #yGerais",
 		"#yConquistas",
-		"#O #rIronclad",
+		"#rO #rRígido",
 		"#gA #gSorrateira",
 		"#bCorvobô"
 	],

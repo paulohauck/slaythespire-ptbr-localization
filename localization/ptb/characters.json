@@ -1,40 +1,40 @@
 {
   "Ironclad": {
 	"NAMES": [
-		"O Ironclad"
-	], 
+		"O Rígido"
+	],
     "TEXT": [
-		"O Soldado remanescente do clã Ironclads. NL Vendeu sua alma para poder fazer uso de energias demoníacas."
+		"O soldado remanescente dos Rígidos. NL Vendeu sua alma para se aproveitar de energias demoníacas."
 	]
   },
   "Crowbot": {
 	"NAMES": [
-		"Corvo-robô"
-	], 
+		"Corvobô"
+	],
     "TEXT": [
-		"BIP BUP"
+		"BEEP BOOP"
 	]
   },
   "Silent": {
 	"NAMES": [
 		"A Sorrateira"
-	], 
+	],
     "TEXT": [
-		"Uma caçadora mortal das terras enevoadas. NL Elimina seus adversários com suas adagas e venenos."
+		"Uma caçadora mortal das terras nebulosas. NL Elimina adversários com adagas e venenos."
 	]
   },
   "Neow Event": {
 	"NAMES": [
 		"Neow"
-	], 
+	],
     "TEXT": [
 		"~Saudações...~ NL ~Eu..~ ~sou~ ~Neow...~",
-		"~Olá...~ NL ~Mais uma vez..~",
+		"~Olá...~ NL ~Novamente..~",
 		"~Saudações...~",
-		"~Tentar~ NL ~de novo...?~",
+		"~Outra~ NL ~tentativa...?~",
 		"~Avance~ ~até~ ~o~ ~Chefe...~ NL ~para~ ~receber~ ~minha..~ ~benção...~",
 		"~Enfrente~ ~pelo...~ ~menos~ NL ~o~ ~primeiro~ ~chefe...~",
-		"~Eu~ ~te~ ~trouxe~ ~de volta...~",
+		"~Eu~ ~te~ ~trouxe~ ~de~ ~volta...~",
 		"~Escolha...~",
 		"~Concedido...~",
 		"~Risco...~ NL ~..recompensa....~"
@@ -43,106 +43,106 @@
 		"[Continuar]",
 		"[Conversar]",
 		"[Pular]",
-		"[Ir embora]"
+		"[Sair]"
 	]
   },
   "Neow Reward": {
 	"NAMES": [
-	
-	], 
+
+	],
     "TEXT": [
-		"[ #Escolha #guma #gCarta #gpara #gobtê-la ]",
+		"[ #Escolha #guma #gCarta #gpara #gobter ]",
 		"[ #gObtenha #guma #gCarta #grara #galeatória ]",
 		"[ #gRemova #guma #gCarta #gdo #gseu #gbaralho ]",
 		"[ #gAprimore #guma #gCarta ]",
 		"[ #gTransforme #guma #gCarta ]",
 		"[ #gObtenha #g3 #gPoções #galeatórias ]",
 		"[ #gObtenha #guma #gRelíquia #gcomum #galeatória ]",
-		"[#g+ #gHP #gmáximo",
+		"[ #gPV #gmáximo #g+",
 		"[ #gObtenha #g",
 		" #gde #gOuro ]",
 		"#gRemova #g2 #gCartas ]",
 		"#gObtenha #guma #gRelíquia #grara #galeatória ]",
-		"#gEscolha #guma #gCarta #grara #gpara #gobtê-la]",
-		"#gObtenha #g",
+		"#gEscolha #guma #gCarta #grara #gpara #gobter ]",
+		"#gGanhe #g",
 		" #gde #gOuro ]",
 		"#gTransforme #g2 #gCartas ]",
-		"#g+ #gHP #gmáximo",
+		"#gPV #gmáximo #g+",
 		"[ #rPerca #r",
-		" #rde #rHP #rmáximo ",
+		" #rPV #rmáximo ",
 		"[ #rPerca #rtodo #ro #rOuro ",
 		"[ #rObtenha #ruma #rMaldição ",
-		"[ #rPerca #r50% #rdo #rseu #rHP #ratual ",
+		"[ #rPerca #r50% #rdo #rseu #rPV #ratual ",
 		"Escolha uma Carta",
-		"Escolha uma Carta para removê-la ",
-		"Escolha 2 Cartas para removê-las",
-		"Escolha uma carta para transformá-la",
-		"Escolha 2 cartas para transformá-las",
-		"Escolha uma carta para Aprimorá-la",
-		"[ #gInimigos #gnos #gpróximos #gtrês #gcombates #gterão #g1 #gde #gHP ]"
+		"Selecione uma Carta para Remover",
+		"Selecione 2 Cartas para Remover",
+		"Selecione uma carta para Transformar",
+		"Selecione 2 cartas para Transformar",
+		"Selecione uma carta para Aprimorar",
+		"[ #gInimigos #gnos #gpróximos #gtrês #gcombates #gterão #g1 #gPV ]"
 	],
 	"UNIQUE_REWARDS": [
-		"[ #rPerca #rsua #rRelíquia #rinicial #ge #gobtenha #guma #gRelíquia #gde #gChefe #galeatória]"
+		"[ #rPerca #rsua #rRelíquia #rinicial #gObtenha #guma #gRelíquia #gde #gchefe #galeatória]"
 	]
   },
   "Merchant": {
 	"NAMES": [
 		"Prossiga",
 		"~Bem-vindo!~"
-	], 
+	],
     "TEXT": [
-		"Olá! NL Compre algo! NL Compra, compra, compra!",
+		"Olá! NL Compre algo! NL Compre, compre, compre!",
 		"Gostei do seu corte de cabelo",
 		"Você tem tempo?",
-		"Você gosta mais de cachorro ou gato?",
+		"Você gosta mais de cachorros ou de gatos?",
 		"Você me parece ~perigoso,~ NL hehe...",
 		"Leve o tempo que precisar... NL ..... NL ... ou não",
 		"Gostou do tapete? NL Ele não está à venda",
 		"Ajude os pequenos empreendedores!",
-		"Máscaras são maneiras, Eu sei!",
+		"Máscaras são maneiras, eu sei!",
 		"Hmm... NL ...hmm... NL Oh!",
-		"Espera um pouco e escute!",
-		"Ei, é perigoso andar por aí só! Deixe seu Ouro aqui comigo!",
+		"Fique um pouco e escute!",
+		"Ei, é perigoso ir sozinho! Deixe seu ouro aqui comigo!",
 		"Compre algo",
-		"~*B o c e j o*~",
-		"Eu gosto de Ouro.",
+		"~*BOCEJO*~",
+		"Eu gosto de ouro.",
 		"Minha cor favorita é azul. NL Qual é a sua?"
 	]
   },
   "Shop Screen": {
 	"NAMES": [
 		"~Bem-vindo~ NL ~bem-vindo!~",
-		"Ei, NL você precisa NL de #rOuro.",
+		"Ei, NL você precisa NL de mais #rOuro.",
 		"Ei camarada, você não tem #rGrana!",
 		"Tá quebrado é?",
 		"Você não tem #rOuro o suficiente.",
 		"Você não consegue pagar por isso.",
 		"Isso aqui não é caridade.",
-		"~Obrigado~",
+		"~Obrigaaaado~",
 		"Outra venda... NL hohoho! NL Ka - @Ching!@",
 		"@VENDIDO!@",
 		"Sem reembolso.",
 		"Tenha um bom dia.",
-		"Vá embora",
-		"Escolha uma carta para removê-la do seu baralho."
-	], 
+		"Sair",
+		"Selecione uma carta para remover do seu baralho."
+	],
     "TEXT": [
-		"Olá! NL Compre algo! NL Compra compra compra!",
-		"Gostei do seu corte de cabelo",
-		"Você tem tempo?",
-		"Você gosta mais de cachorro ou gato?",
-		"Você me parece ~perigoso,~ NL hehe...",
-		"Leve o tempo que precisar... NL ..... NL ... ou não",
-		"Gostou do tapete? NL Ele não está à venda",
-		"Ajude os pequenos empreendedores!",
-		"Máscaras são maneiras, Eu sei!",
-		"Por um acaso, você viu meu transportador de carga?",
-		"Espera um pouco e escute!",
-		"Ei, é perigoso ficar andando por aí só! Deixe seu Ouro aqui comigo!",
-		"Compre algo",
-		"~*B o c e j o*~",
-		"Eu gosto de Ouro.",
-		"Minha cor favorita é azul. NL Qual é a sua?"
+    "Olá! NL Compre algo! NL Compre, compre, compre!",
+  	"Gostei do seu corte de cabelo",
+  	"Você tem tempo?",
+  	"Você gosta mais de cachorros ou de gatos?",
+  	"Você me parece ~perigoso,~ NL hehe...",
+  	"Leve o tempo que precisar... NL ..... NL ... ou não",
+  	"Gostou do tapete? NL Ele não está à venda",
+  	"Ajude os pequenos empreendedores!",
+  	"Máscaras são maneiras, eu sei!",
+  	"Você viu meu entregador por aí?",
+  	"Fique um pouco e escute!",
+  	"Ei, é perigoso ir sozinho! Deixe seu ouro aqui comigo!",
+  	"Compre algo",
+  	"~*BOCEJO*~",
+  	"Eu gosto de ouro.",
+  	"Minha cor favorita é azul. NL Qual é a sua?"
 	]
   }
 }

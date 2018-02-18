@@ -1,16 +1,23 @@
 {
-  "Block Potion": {
-	"NAME": "Poção de Protecão",
+  "Ancient Potion": {
+	"NAME": "Poção Antiga",
     "DESCRIPTIONS": [
 			"Ganhe #b",
-			" de #yproteção."
+			" de #yArtefato."
+	]
+  },
+  "Block Potion": {
+	"NAME": "Poção de Proteção",
+    "DESCRIPTIONS": [
+			"Ganhe #b",
+			" de #yProteção."
 	]
   },
   "Dexterity Potion": {
 	"NAME": "Poção de Destreza",
     "DESCRIPTIONS": [
 			"Ganhe #b",
-			" de #ydestreza."
+			" de #yDestreza."
 	]
   },
   "Elixir": {
@@ -18,7 +25,7 @@
     "DESCRIPTIONS": [
 			"",
 			"",
-			"#yRemova todos as #yCondições e #yMaldições de sua mão.",
+			"#yExaure todos as #yCondições e #yMaldições de sua mão.",
 			"",
 			"Não teve efeito..."
 	]
@@ -27,11 +34,11 @@
 	"NAME": "Poção de Energia",
     "DESCRIPTIONS": [
 			"Ganhe #b",
-			" De Energia."
+			" de Energia."
 	]
   },
   "Explosive Potion": {
-	"NAME": "Poção Explosiva",
+	"NAME": "Poção de Explosão",
     "DESCRIPTIONS": [
 			"Dê #b",
 			" de dano a TODOS os inimigos."
@@ -45,31 +52,31 @@
 	]
   },
   "Health Potion": {
-	"NAME": "Poção de Cura",
+	"NAME": "Poção de Saúde",
     "DESCRIPTIONS": [
 			"Cure #b",
-			" de HP."
+			" PV."
 	]
   },
   "Poison Potion": {
-	"NAME": "Poção de Envenenamento",
+	"NAME": "Poção de Veneno",
     "DESCRIPTIONS": [
 			"Aplique #b",
-			" de #yEnvenenamento."
+			" de #yVeneno."
 	]
   },
   "Potion Slot": {
-	"NAME": "Espaço para Poções",
+	"NAME": "Espaço de Poções",
     "DESCRIPTIONS": [
-			"Use poções durante os combates para receber #gBônus ou #afetar seus inimigos.",
-			"Espaço para Poções"
+			"Use poções durante combates para receber #gbônus ou #rafetar seus inimigos.",
+			"Espaço de Poções"
 	]
   },
     "Regen Potion": {
 	"NAME": "Poção de Regeneração",
     "DESCRIPTIONS": [
 			"Cure #b",
-			" de #yHP no final de cada turno por #b",
+			" #yPV no final de cada turno por #b",
 			" turnos."
 	]
   },
@@ -81,17 +88,17 @@
 	]
   },
   "Swift Potion": {
-	"NAME": "Poção da Velocidade",
+	"NAME": "Poção de Velocidade",
     "DESCRIPTIONS": [
 			"",
-			"Saque #b",
+			"Compre #b",
 			" cartas."
 	]
   },
     "Weak Potion": {
-	"NAME": "Poção da Fraqueza",
+	"NAME": "Poção de Fraqueza",
     "DESCRIPTIONS": [
-			"Cause #b",
+			"Aplique #b",
 			" de #yFraqueza."
 	]
   }
