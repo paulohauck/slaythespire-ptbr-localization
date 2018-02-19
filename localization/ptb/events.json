@@ -601,40 +601,40 @@
     ]
   },
   "Masked Bandits": {
-	"NAME": "Masked Bandits",
+	"NAME": "Bandidos Mascarados",
     "DESCRIPTIONS": [
-			"Hehehe.. Thanks for the #ygold! NL Oh, I love #ygold. It's so nice. NL #y~shiny~ #y~shiny~ chits they are!",
-			"Hey #bBear, hey! NL This guy gave us all his #ygold! What a sucker, right? NL Get this, I just had to ask nicely. Who knew?! NL I certainly didn't! What a chump!",
-			"Gang, let's all have a laugh for this wondrous occasion! NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
-			"Oh? You're still here? NL Did you overhear something? Didn't think so. NL #r@*snerk*@ ~...loser....~ @Hahaha@ ~haaah~",
-			"You encounter a group of bandits wearing large #rred #rmasks. NL \"Hello, pay up to pass... a reasonable fee of @ALL@ your #ygold will do! Heh heh!\""
+			"Hehehe.. Obrigado pelo #youro! NL Uh, eu amo #youro. É tão bom. NL #y~Brilhante~ #y~brilhante~ tintilantes!",
+			"Hey #bBear, hey! NL Esse cara nos deu todo seu #youro! Que idiota, né? NL Só ouve isso, eu só tive que pedir educatamente. Quem diria?! NL Eu certamente não! Que idiota!",
+			"Gange, vamos todos rir por essa incrível ocasião! NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
+			"Oh? Você ainda está aqui? NL Você ouviu alguma coisa? Acho que não. NL #r@*snerk*@ ~...Perdedor....~ @Hahaha@ ~haaah~",
+			"Você encontra um monte de bandidos usando #rmascaras #rvermelhas. NL \"Olá, paga pra passar... Uma quantidade razoável de @TODO@ seu #youro vai ser suficiente! Heh heh!\""
 	],
     "OPTIONS": [
-			"[Pay] #rLose #rALL of your #yGold.",
-			"[Fight!]",
+			"[Pague] #rPerca #rTodo seu #yOuro.",
+			"[Lute!]",
 			"[Continue]",
-			"[Leave]"
+			"[Saia]"
     ]
   },
   "Spire Heart": {
-	"NAME": "Spire Heart",
+	"NAME": "O coração da espirat",
     "DESCRIPTIONS": [
-			"@tu-thump@ ... @tu-thump@ ... @tu-thump@ ... NL A deep pulsing dread can be felt throughout the room... NL Is this the #r~heart~ of the Spire? The source of this evil?",
-			"You deal #b",
-			" damage! NL The heart #r@squirms@ and #r~bleeds~ ...but is ultimately still pounding. NL Are your mightiest attacks not enough?",
-			"You ask yourself, ~\"Have~ ~I~ ~been~ ~here~ ~before?\"~ NL You feel that you have dealt a total of #b",
-			" damage to the heart.",
-			" NL A total of #b",
-			" damage has been dealt by all who have challenged it.",
-			" NL The heart pulses louder and louder as your #y~consciousness~ #y~fades...~",
-			"NL You ready your blade...",
-			"NL You prepare your daggers...",
-			"NL You charge your core to its maximum..."
+			"@tu-thump@ ... @tu-thump@ ... @tu-thump@ ... NL Um pulsante e profundo pavor pode ser sentido pela sala... NL Esse é o #r~coração~ da espira? A origem de todo esse mal?",
+			"Você faz #b",
+			" de dano! NL O coração #r@retorce@ e #r~sangra~ ...mas no final, ainda bate. NL Seus mais fortes ataques não são o suficiente?",
+			"Você se pergunta, ~\"Eu~ ~já~ ~estive~ ~aqui~ ~antes?\"~ NL Você sente que já fez um total de #b",
+			" dano ao coração.",
+			" NL Um total de #b",
+			" dano foi feito por todos que o desafiaram.",
+			" NL O coração pulsa cada vez mais alto enquanto sua #y~conciência~ #y~esvai...~",
+			"NL Você prepara sua espada...",
+			"NL Você prepara suas adaga...",
+			"NL Você carrega seu núcleo ao seu máximo..."
 	],
 	"OPTIONS": [
 			"[Continue]",
-			"[Attack] #b???",
-			"[Sleep]"
+			"[Ataque] #b???",
+			"[Durma]"
     ]
   },
   "The Joust": {
@@ -679,49 +679,49 @@
     ]
   },
   "The Mausoleum": {
-	"NAME": "The Mausoleum",
+	"NAME": "O Mausoléu",
     "DESCRIPTIONS": [
-			"Venturing through a series of tombs, you are faced with a large sarcophagus ~studded~ ~with~ ~gems~ in the center of a circular room. NL You cannot make out the writing on the coffin, however, you do notice #p~black~ #p~fog~ seeping out from the sides.",
-			"You push open the coffin. As you do, #p~black~ #p~fog~ spews forth and covers the entire room! Inside, you find no body, only a #y~relic.~ You take it and move onwards, #r@coughing@ #r@violently.@",
-			"You push open the coffin. The fog dissipates harmlessly. Inside, you find the mortal remains of a decorated soldier grasping an old #yrelic. You pilfer it and move on.",
-			"You continue along your way, leaving the forgotten dead undisturbed."
+			"Aventurando por uma série de tumbas, você se depara com um grande sarcófago ~tachado~ ~de~ ~gemas~ no centro de uma sala circular NL Você não consegue enteder o que está escrito, mas você percebe a #p~névoa~ #p~negra~ vazando pelos lados.",
+			"Você abre o caixão. Quando você o faz, a #p~névoa~ #p~negra~ é jogada para fora e enche a sala inteira! Dentro, você não encontra nenhum corpo, apenas uma #y~relíquia.~ Você a pega e segue em frente, #r@tossindo@ #r@violentamente.@",
+			"Você abre o caixão. A névoa se dissipa inofensivamente. Dentro, você encontra os restos mortais de um cavaleiro decorado segurando uma velha #yrelíquia. Você rouba ela e segue em frente.",
+			"Você continua em seu caminho, deixando os mortos e esquecidos sem perturbações."
 	],
     "OPTIONS": [
-			"[Open Coffin] #gReceive #ga #gRelic. #r50%: #rBecome #rCursed #r- #rWrithe.",
-			"[Leave]"
+			"[Abra o caixão] #gReceba #guma #grelíquia. #r50%: #rReceba #ruma #maldição #r- #rTorção.",
+			"[Saia]"
     ]
   },  
   "Vampires": {
-	"NAME": "Vampires(?)",
+	"NAME": "Vampiros(?)",
     "DESCRIPTIONS": [
-			"Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~brother,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~",
-			"Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~sister,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~",
-			"The tall figure grabs your arm, pulls you forward, and sinks his fangs into your neck. You feel a @dark@ @force@ pour into your neck and @course@ through your body. NL ... NL You wake up some time later, alone. An intense ~hunger~ passes through your belly. You #rmust #rfeed...",
-			"You step back and raise your weapon in defiance. The tall figure sighs. \"Very well.\" The entire group of hooded figures morph into a thick black fog that flows away from you. NL You are alone once more.",
-			"The pale figures gasp as you take out the #yBlood #yVial. NL ~\"The~ ~master's~ ~blood...~ ~the~ ~master's~ ~blood!~ @THE@ @MASTER'S@ @BLOOD!\"@ NL They all chant fervently as the tall one bows before you. \" Drink from His blood, and become one with #y~Him.\"~ NL The chant growing louder, you consume the contents of the vial. Your vision immediately ~warps~ and fades to darkness. NL NL You wake up some time later, alone. An intense ~hunger~ passes through your belly. You #rmust #rfeed."
+			"Andando por uma rua sem iluminação, você se depara com varias figuras encapuzadas no meio de um ritual sombrio. Quando você se aproxima, eles viram para você em um misterioso uníssono. O mais alto deles tem dentes afiados e extende sua longa e pálida mão em sua direção. Nl ~\"Junte-se~ ~a~ ~nós~ ~irmão,~ ~e~ ~sinta~ ~o~ ~calor~ ~da~ ~Espira.\"~",
+			"Andando por uma rua sem iluminação, você se depara com varias figuras encapuzadas no meio de um ritual sombrio. Quando você se aproxima, eles viram para você em um misterioso uníssono. O mais alto deles tem dentes afiados e extende sua longa e pálida mão em sua direção. Nl ~\"Junte-se~ ~a~ ~nós~ ~irmã,~ ~e~ ~sinta~ ~o~ ~calor~ ~da~ ~Espira.\"~",
+			"A figura alta segura seu braço, te puxa para frente, e afunda seus dentes em seu pescoço. Você sente uma @força@ @sombria@ ser despejada em seu pescoço e @percorrer@ pelo seu corpo. NL ... Nl Você acorda algum tempo depois, só. Uma ~fome~ intensa passa pela sua barriga. Você #rdeve #rse #ralimentar....",
+			"Você dá um passo para trás e levanta sua arma em desafio. A figura alta suspira. \"Muito bem então.\" Todo o grupo de figuras encapuzadas se junta em uma grossa e negra neblina que flutua para longe de você. Você está só novamente.",
+			"As figuras pálidas arquejam enquanto você pega o #yFrasco #yde #ySangue. Nl ~\"O~ ~sangue~ ~do~ ~Mestre~... @O@ @SANGUE@ @DO@ @MESTRE!\"@ Nl Todos eles entoam fervorosamente enquanto o alto faz uma reverência. \"Tome do sangue Dele, e vire um com  #y~Ele.\"~ A entoação crescendo em volume, você consome o conteúdo do frasco. Sua visão imediatamente ~distorce~ e se esvai em escuridão. NL NL Você acorda algum tempo depois, só. Uma ~fome~ intensa passa pela sua barriga. Você #rdeve #rse #ralimentar."
 	],
     "OPTIONS": [
-			"[Accept] #gRemove #gall #gStrikes. #gObtain #g5 #gBites. #rLose #r",
+			"[Aceite] #gRemova #gtodos #gGolpes. #gObtenha #g5 #gMorder. #rPerca #r",
 			"% #rMax #rHP.",
-			"[Refuse]",
-			"[Lose ",
-			"] #gRemove #gall #gStrikes. #gObtain #g5 #gBites.",
-			"[Leave]"
+			"[Recuse]",
+			"[Perca ",
+			"] #gRemova #gtodos #gGolpes. #gObtenha #g5 #gMorder.",
+			"[Saia]"
     ]
   },
   "The Woman in Blue": {
-	"NAME": "The Woman in Blue",
+	"NAME": "A Mulher em Azul",
     "DESCRIPTIONS": [
-			"From the darkness, an arm pulls you into a small shop. As your eyes adjust, you see a pale woman in sharp clothes gesturing towards a wall of potions. NL \"Buy a potion. Now!\" she states.",
-			"\"Good. Now leave.\" NL You exit the shop cautiously.",
-			"#r@WHAM@ NL Her gloved fist collides with your face, nearly knocking you off your feet. NL \"Get out before I litter the floor with your guts.\" You take her word and exit with your guts still safely in your body."
+			"Dá escuridão, um braço te puxa para uma pequena loja. Enquanto seus olhos se ajustam, você vê uma mulher pálida em roupas pontudas gesticulando em direção a uma estante de poções. NL \"Compre uma poção. Agora!\" Ela diz.",
+			"\"Bom. Agora saia.\" NL Você sai da loja com cautela.",
+			"#r@WHAM@ NL O punho enluvado dela se choca em seu rosto, quase te levantado do chão. NL \"Saia antes que eu espalhe suas tripas pelo chão.\" Você aceita as palavras dela e sai com suas tripas ainda seguras dentro do seu corpo."
 	],
     "OPTIONS": [
-			"[Buy 1 Potion] #y",
-			"[Buy 2 Potions] #y",
-			"[Buy 3 Potions] #y",
-			" #yGold",
-			"[Leave]"
+			"[Compre 1 poção] #y",
+			"[Compre 2 poções] #y",
+			"[Compre 3 poções] #y",
+			" #yOuro",
+			"[Saia]"
     ]
   }
 }
