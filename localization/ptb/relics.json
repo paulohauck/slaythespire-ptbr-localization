@@ -169,10 +169,10 @@
 	]
   },
   "Chameleon Ring": {
-	"NAME": "Chameleon Ring",
-	"FLAVOR": "Deprecated",
+	"NAME": "Anel Camaleão",
+	"FLAVOR": "Obsoleto",
     "DESCRIPTIONS": [
-	"You can now #yBrew at Rest Sites."
+	"Agora você pode #yfazer #ypoções em Lugares de Descanso."
 	]
   },
   "Champion Belt": {
@@ -410,10 +410,10 @@
 	]
   },
   "Living Blade": {
-	"NAME": "Living Blade",
-	"FLAVOR": "DEPRECATED",
+	"NAME": "Lâmina Viva",
+	"FLAVOR": "Obsoleto",
     "DESCRIPTIONS": [
-	"You can get any number of any card."
+	"Você pode ganhar qualquer quantidade de qualquer carta."
 	]
   },
   "Lizard Tail": {
@@ -515,13 +515,13 @@
 	]
   },
   "Nine Lives": {
-	"NAME": "Nine Lives",
-	"FLAVOR": "DEPRECATED.",
+	"NAME": "Nove Vidas",
+	"FLAVOR": "Obsoleto.",
     "DESCRIPTIONS": [
-	"When you would die, heal to full HP instead. NL (Works #b9 times)",
-	"When you would die, heal to full HP instead. NL (No more lives)",
-	"When you would die, heal to full HP instead. NL (Works #b", 
-	" more times)"
+	"Quando você deveria morrer, cure para o hp máximo ao invés. NL (Funciona #b9 vezes)",
+	"Quando você deveria morrer, cure para o hp máximo ao invés. NL (Mais nenhuma vida)",
+	"Quando você deveria morrer, cure para o hp máximo ao invés. NL (Funciona #b", 
+	" mais vezes)"
 	]
   },
   "Ninja Scroll": {
@@ -540,10 +540,10 @@
 	]
   },
   "Nullstone Periapt": {
-	"NAME": "Nullstone Periapt",
-	"FLAVOR": "DEPRECATED.",
+	"NAME": "Amuleto de pedra nula",
+	"FLAVOR": "Obsoleto.",
     "DESCRIPTIONS": [
-	"Negate the next #yDebuff you receive from an enemy. NL Recharges in #b10 turns."
+	"Nege o próximo #yEfeito #Negativo que você receberia de um inimigo. NL Recarrega em #b10 turnos."
 	]
   },
   "Oddly Smooth Stone": {
