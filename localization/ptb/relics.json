@@ -26,7 +26,7 @@
 	]
   },
   "Bag of Marbles": {
-	"NAME": "Bola de Gude",
+	"NAME": "Bolas de Gude",
 	"FLAVOR": "Já foi um brinquedo popular na cidade. Útil para deixar os inimigos sem equilíbrio.",
     "DESCRIPTIONS": [
 	"No começo de cada combate, aplique #b",
@@ -34,7 +34,7 @@
 	]
   },
   "Bag of Preparation": {
-	"NAME": "Mochila de preparo",
+	"NAME": "Mochila de Preparo",
 	"FLAVOR": "Uma mochila de aventureiro gigante. Possui várias alças e bolsos.",
     "DESCRIPTIONS": [
 	"No começo de cada combate, compre #b", 
@@ -42,7 +42,7 @@
 	]
   },
   "Bird Faced Urn": {
-	"NAME": "Urna com cara de pássaro",
+	"NAME": "Urna com Cara de Pássaro",
 	"FLAVOR": "Essa urna mostra o Deus corvo Mazaleth parecendo maldoso.",
     "DESCRIPTIONS": [
 	"Sempre que você jogar um #yPoder, cure #b", 
@@ -102,7 +102,7 @@
 	"NAME": "Relâmpago Engarrafado",
 	"FLAVOR": "Olhando para dentro do turbilhão, você vê uma parte de si mesmo lhe encarando de volta.",
     "DESCRIPTIONS": [
-	"Após pegar, escolha uma carta de Habilidade. No começo de cada combate, essa carta estará em sua mão.",
+	"Após pegar, escolha uma carta de Técnica. No começo de cada combate, essa carta estará em sua mão.",
 	"Escolha uma carta para ",
 	"No começo de cada combate, adicionar ",
 	"A sua mão."
@@ -143,7 +143,7 @@
 	]
   },
   "Calling Bell": {
-	"NAME": "Sino de vocação",
+	"NAME": "Sino de Vocação",
 	"FLAVOR": "Esse sino de ferro negro badalou 3 vezes quando você o encontrou, mas agora ele segue em silêncio.",
     "DESCRIPTIONS": [
 	"Ganhe #b3 #rMaldições e #b3 #yRelíquias.",
@@ -154,7 +154,7 @@
   },
   "Cauldron": {
 	"NAME": "Caldeirão",
-	"FLAVOR": "O Merchant é na verdade um habilidoso criador de poções. Compre 4 ganhe 1.",
+	"FLAVOR": "O mercante é na verdade um habilidoso criador de poções. Compre 4 ganhe 1.",
     "DESCRIPTIONS": [
 	"Quando obtido, crie #b5 poções aleatórias.",
 	"Blup blip bloop...!"	
@@ -292,7 +292,7 @@
 	"NAME": "Ovo Tóxico",
 	"FLAVOR": "\"Que descoberta maravilhosa! Isso parece ser o ovo de alguma criatura mágica. Quem ou o que criou isso?\" - Ranwid",
     "DESCRIPTIONS": [
-	"Sempre que você adicionar uma carta de #yHabilidade no seu baralho, ela está #yAprimorada."
+	"Sempre que você adicionar uma carta de #yTécnica no seu baralho, ela está #yAprimorada."
 	]
   },
   "Enchiridion": {
@@ -405,7 +405,7 @@
 	"NAME": "Abridor de Cartas",
 	"FLAVOR": "Extremamente afiado.",
     "DESCRIPTIONS": [
-	"Sempre que você jogar #b3 Habilidades em um único turno, cause #b",
+	"Sempre que você jogar #b3 Técnicas em um único turno, cause #b",
 	" de dano à TODOS os inimigos."
 	]
   },
@@ -454,7 +454,7 @@
 	]
   },
   "Meat on the Bone": {
-	"NAME": "Carne com osso",
+	"NAME": "Carne com Osso",
 	"FLAVOR": "A carne continua se reaparecendo, e nunca parece acabar.",
     "DESCRIPTIONS": [ 
 	"Se seu PV está em ou menos de #b50% no fim do combate, cure #b",
@@ -547,8 +547,8 @@
 	]
   },
   "Oddly Smooth Stone": {
-	"NAME": "Pedra estranhamente suave",
-	"FLAVOR": "Você nunca viu algo tão primitivo e suave. Deve ser um trabalho dos Anciões.",
+	"NAME": "Pedra Estranhamente Lisa",
+	"FLAVOR": "Você nunca viu algo tão liso e primitivo. Deve ser um trabalho dos Anciões.",
     "DESCRIPTIONS": [
 	"No começo de cada combate, ganhe #b", 
 	" #yDestreza."
@@ -632,7 +632,7 @@
 	]
   },
   "Peace Pipe": {
-	"NAME": "Cachimbo da paz",
+	"NAME": "Cachimbo da Paz",
 	"FLAVOR": "Limpa a mente e purifica a alma.",
     "DESCRIPTIONS": [
 	"Você agora pode remover cartas em locais de descanço."
@@ -857,7 +857,7 @@
 	"FLAVOR": "Faltando Descrição.",
     "DESCRIPTIONS": [
 	"Após pegar, #yAprimore #b", 
-	" #yHabilidades aleatórias."
+	" #yTécnicas aleatórias."
 	]
   },
   "Darkstone Periapt": {
@@ -910,7 +910,7 @@
 	"FLAVOR": "Relíquia teste pro beta. Se você gostou dela, fale aos desenvolvedores.",
     "DESCRIPTIONS": [
 	"Após pegar, #yAprimore #b", 
-	" #yHabilidades aleatórias."
+	" #yTécnicas aleatórias."
 	]
   },
   "Test 6": {
@@ -1005,7 +1005,7 @@
 	"NAME": "Ovo Tóxico",
 	"FLAVOR": "\"Que descoberta maravilhosa! Isso parece ser o ovo de alguma criatura mágica. Quem ou o que criou isso?\" - Ranwid",
     "DESCRIPTIONS": [
-	"Após pegar, escolha e #yAprimore uma #yHabilidade.",
+	"Após pegar, escolha e #yAprimore uma #yTécnica.",
 	"Escolha uma carta para "
 	]
   },

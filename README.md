@@ -87,3 +87,4 @@ Anthony and Casey
 
 - Paulo "SilverTape" Hauck
 - Gustavo "KomKlave" Duarte
+- José "Maneimax" Vasconcelos
