@@ -54,21 +54,13 @@
   "Poopy": {
     "NAME": "Cocôzinho",
     "DESCRIPTIONS": [
-<<<<<<< HEAD
       "Receba o Cocô Espiritual."
-=======
-      "Recebeu o Cocô de Espírito."
->>>>>>> 66b66f027664a09e05ccc7fee4ae50f380c3b160
     ]
   },
   "Cheater": {
     "NAME": "Trapaceiro",
     "DESCRIPTIONS": [
-<<<<<<< HEAD
-      "Pego com Trapaça. Se for pego duas vezes, sua pontuação nunca mais será enviada para o Tabela de pontuação."
-=======
       "Pego trapaceando. Se pego duas vezes, sua pontuação nunca mais será enviada para as Tabelas de Classificação."
->>>>>>> 66b66f027664a09e05ccc7fee4ae50f380c3b160
     ]
   },
   "Speedster": {
