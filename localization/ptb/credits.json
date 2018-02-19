@@ -87,17 +87,17 @@
 		]
 	},
 	"LOC_KOR": {
-		"HEADER": "Localização - Coreâno",
+		"HEADER": "Localização - Coreano",
 		"NAMES": [
-			"Translation Manager:",
+			"Diretor de Tradução:",
 			"Eteriny",
-			"Translation:",
+			"Tradução:",
 			"Simcoding",
 			"DesFrog",
 			"insight",
 			"K4lium",
 			"hina",
-			"Steam Page Translation",
+			"Tradução da Página do Steam:",
 			"GyeRyak"
 		]
 	},
@@ -107,20 +107,21 @@
 		]
 	},
 	"LOC_PTB": {
-		"HEADER": "Localização - Portugues Brasileiro",
+		"HEADER": "Localização - Português Brasileiro",
 		"NAMES": [
 			"Paulo \"SilverTape\" Hauck",
-			"Gustavo \"Komklave\" Duarte"
+			"Gustavo \"Komklave\" Duarte",
+			"Guilherme \"GPerego\" Perego"
 		]
 	},
 	"LOC_RUS": {
-		"HEADER": "Localization - Russo",
+		"HEADER": "Localização - Russo",
 		"NAMES": [
-			"Translation and Coordination:",
+			"Tradução e Coordenação:",
 			"Ivan \"Ingrett\" Khoroshunenko",
-			"Translation and repository:",
+			"Tradução e Repositório:",
 			"Vladislav \"Vlad-00003\" Bolshakov",
-			"Suggestions and feedback:",
+			"Sugestões e Comentários:",
 			"Mikhail \"Outmind\" Dyuzhev",
 			"Bohdan \"DarkRosse\" Kalytiuk",
 			"Sergey \"lol10801lol\" K.",
@@ -143,7 +144,7 @@
 		]
 	},
 	"TEST": {
-		"HEADER": "Testers",
+		"HEADER": "Playtesters",
 		"NAMES": [
 			"Agari",
 			"Daria Anderson",

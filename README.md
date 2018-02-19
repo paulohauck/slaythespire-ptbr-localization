@@ -1,10 +1,10 @@
 # Slay The Spire - Brazilian Portuguese Localization (Community)
-Welcome, 
-The project has just started. 
+Welcome,
+The project has just started.
 
-I'll update the `readme.md` with instructions as soon as i finish the configuration of the repository.
+I'll update the `readme.md` with instructions as soon as I finish the configuration of the repository.
 
-Please, be patient. 
+Please, be patient.
 
 > PS.: The Brazilian Portuguese files are in the `localization/ptb` folder.
 
@@ -25,7 +25,7 @@ EXAMPLE: Only the fields under "NAMES" and "TEXT" needs to be translated. (Marke
 "Ironclad": {
     "NAMES": [
         "The Ironclad" <- This!
-    ], 
+    ],
 "TEXT": [
         "The remaining soldier of the Ironclads. NL Sold his soul to harness demonic energies." <- This!
     ]
@@ -36,7 +36,7 @@ EXAMPLE: Only the fields under "NAMES" and "TEXT" needs to be translated. (Marke
     -Text is colored to highlight keywords and other important concepts. Colors are as follows: #y, #r, #g, #b, #p. These colors are Gold, Red, Green, Blue, Purple (Only in events)
     EXAMPLE: "#yI'm #yGolden!"
 
-    -For events and dialogs, if a word is surrounded by ~ or @, they are wavy or shaky in game. 
+    -For events and dialogs, if a word is surrounded by ~ or @, they are wavy or shaky in game.
     EXAMPLE: "@This@ @is@ @shaky.@" "\~This\~ \~is\~ \~wavy.\~"
 
     -Colors and text effects can be combined. However, the color must always come before the effect.
@@ -58,7 +58,7 @@ EXAMPLE: Only the fields under "NAMES" and "TEXT" needs to be translated. (Marke
     "I ate #b",
     " pies."
     Would look like: "I ate #b6 pies." in the game
-	
+
 3. Lore Quirks
     The animal references in Slay the Spire are misspelled because the animals aren't the same as the ones in our world, Earth- as the game doesn't take place anywhere near our time and place. Frog -> Phrog. Crane -> Krane. Bird -> Byrd are notable examples in the game.
 
@@ -82,8 +82,9 @@ Thanks,
 Anthony and Casey
 
 
---- 
+---
 ## **Current Contributors**
 
 - Paulo "SilverTape" Hauck
 - Gustavo "KomKlave" Duarte
+- Guilherme "GPerego" Perego

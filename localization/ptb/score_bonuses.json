@@ -1,24 +1,24 @@
 {
   "Ascension": {
-    "NAME": "Ascenção",
+    "NAME": "Ascensão",
     "DESCRIPTIONS": [
-      "+5% de pontuação por Nível de Ascenção."
+      "+5% de pontuação por Nível de Ascensão."
     ]
   },
   "Beyond Elites Killed": {
-    "NAME": "Elites Derrotados no Além",
+    "NAME": "Elites Mortos no Além",
     "DESCRIPTIONS": []
   },
   "Bosses Slain": {
-    "NAME": "Chefes Derrotados",
+    "NAME": "Chefes Mortos",
     "DESCRIPTIONS": []
   },
   "City Elites Killed": {
-    "NAME": "Elites Derrotados na Cidade",
+    "NAME": "Elites Mortos na Cidade",
     "DESCRIPTIONS": []
   },
   "Exordium Elites Killed": {
-    "NAME": "Elites Derrotados no Exórdio",
+    "NAME": "Elites Mortos no Exórdio",
     "DESCRIPTIONS": []
   },
   "Champion": {
@@ -28,19 +28,19 @@
     ]
   },
   "Perfect": {
-    "NAME": "Perfeito",
+    "NAME": "Perfeição",
     "DESCRIPTIONS": [
       "Derrote um chefe sem sofrer danos."
     ]
   },
   "Beyond Perfect": {
-    "NAME": "Além da perfeição",
+    "NAME": "Além da Perfeição",
     "DESCRIPTIONS": [
       "Derrote 3 chefes sem sofrer danos."
     ]
   },
   "Overkill": {
-    "NAME": "Overkill",
+    "NAME": "Exagero",
     "DESCRIPTIONS": [
       "Dê 99 de dano com um único ataque."
     ]
@@ -48,19 +48,19 @@
   "Combo": {
     "NAME": "C-c-c-combo",
     "DESCRIPTIONS": [
-      "Jogue 20 cartas em uma única vez."
+      "Jogue 20 cartas em um único turno."
     ]
   },
   "Poopy": {
-    "NAME": "Poopy",
+    "NAME": "Cocôzinho",
     "DESCRIPTIONS": [
-      "Receba o Spirit Poop."
+      "Recebeu o Cocô de Espírito."
     ]
   },
   "Cheater": {
     "NAME": "Trapaceiro",
     "DESCRIPTIONS": [
-      "Pego com Trapaça.Se for pego duas vezes, sua pontuação nunca mais será enviada para o Tabela de pontuação."
+      "Pego trapaceando. Se pego duas vezes, sua pontuação nunca mais será enviada para as Tabelas de Classificação."
     ]
   },
   "Speedster": {
@@ -70,7 +70,7 @@
     ]
   },
   "Light Speed": {
-    "NAME": "Velocidade da luz",
+    "NAME": "Velocidade da Luz",
     "DESCRIPTIONS": [
       "Vitória em menos de 45 minutos."
     ]
@@ -78,73 +78,73 @@
   "Money Money": {
     "NAME": "Dinheiro, Dinheiro",
     "DESCRIPTIONS": [
-      "Acumule 1.000 de ouro."
+      "Acumulou 1.000 de ouro."
     ]
   },
   "Raining Money": {
     "NAME": "Chovendo Dinheiro",
     "DESCRIPTIONS": [
-      "Acumule 2,000 gold."
+      "Acumulou 2.000 de ouro."
     ]
   },
   "I Like Gold": {
     "NAME": "Eu gosto de ouro",
     "DESCRIPTIONS": [
-      "Acumule 3,000 gold."
+      "Acumulou 3.000 de ouro."
     ]
   },
   "Minimalist": {
-    "NAME": "Minimalist",
+    "NAME": "Minimalista",
     "DESCRIPTIONS": [
-      "Remova mais de 5 cartas do seu deck."
+      "Removeu 5+ cartas do seu deck."
     ]
   },
   "Highlander": {
     "NAME": "Highlander",
     "DESCRIPTIONS": [
-      "Seu baralho não contém duplicatas (cartas de inicio da partida é excluso)."
+      "Seu baralho não contém duplicatas (tirando cartas iniciais)."
     ]
   },
   "Shiny": {
-    "NAME": "I Like Shiny",
+    "NAME": "Eu Gosto de Brilhantes",
     "DESCRIPTIONS": [
-      "Tenha mais de 25 relíquias."
+      "Tenha 25+ relíquias."
     ]
   },
   "Collector": {
     "NAME": "Colecionador",
     "DESCRIPTIONS": [
-      "Tenha 4 cópias de qualquer cartas que não seja inicial."
+      "Tenha 4 cópias de qualquer carta não inicial."
     ]
   },
   "Pauper": {
     "NAME": "Pobre",
     "DESCRIPTIONS": [
-      "Possua 0 Cartas raras."
+      "Tenha 0 cartas raras."
     ]
   },
  "Librarian": {
     "NAME": "Bibliotecário",
     "DESCRIPTIONS": [
-      "Deck size greater than 35 cards"
+      "Baralho maior do que 35 cartas"
     ]
   },
   "Encyclopedian": {
     "NAME": "Enciclopédia",
     "DESCRIPTIONS": [
-      "Baralho com mais de 50 cartas."
+      "Baralho maior do que 50 cartas."
     ]
   },
   "Well Fed": {
-    "NAME": "Bem alimentado",
+    "NAME": "Bem Alimentado",
     "DESCRIPTIONS": [
-      "Aumentou seu HP máximo em 15+."
+      "Aumentou seu PV máximo em 15+."
     ]
   },
   "Stuffed": {
     "NAME": "Estufado",
     "DESCRIPTIONS": [
-      "Aumentou seu HP máximo em 30+."
+      "Aumentou seu PV máximo em 30+."
     ]
   },
   "Curses": {
@@ -160,15 +160,15 @@
     ]
   },
   "Mystery Machine": {
-    "NAME": "Máquina de mistério",
+    "NAME": "Máquina Misteriosa",
     "DESCRIPTIONS": [
-      "Viajou por 15+ salas de ?"
+      "Viajou para 15+ salas de ?"
     ]
   },
   "On My Own Terms": {
-    "NAME": "Em meus próprios termos",
+    "NAME": "Nos Meus Próprios Termos",
     "DESCRIPTIONS": [
-      "Se Matou"
+      "Se matou."
     ]
   }
 }
