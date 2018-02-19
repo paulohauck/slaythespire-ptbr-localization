@@ -1,4 +1,4 @@
-{
+﻿{
   "Anchor": {
 	"NAME": "Âncora",
 	"FLAVOR": "Segurando essa miniatura de âncora, você se sente pesado e mais estável.",
@@ -143,7 +143,7 @@
 	]
   },
   "Calling Bell": {
-	"NAME": "Sino de Vocação",
+	"NAME": "Sino de Invocação",
 	"FLAVOR": "Esse sino de ferro negro badalou 3 vezes quando você o encontrou, mas agora ele segue em silêncio.",
     "DESCRIPTIONS": [
 	"Ganhe #b3 #rMaldições e #b3 #yRelíquias.",
