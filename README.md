@@ -89,4 +89,5 @@ Anthony and Casey
 - Gustavo "KomKlave" Duarte
 - José "Maneimax" Vasconcelos
 - Guilherme "GPerego" Perego
+- Nathan "NoxShadow" Cervieri
 
