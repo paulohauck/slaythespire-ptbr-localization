@@ -601,6 +601,23 @@
 		"Modo de Arte para Playtester"
 	]
   },
+  "DailyScreen": {
+    "TEXT": [
+		"Desafio Diário",
+		"Conectando ao Servidor de Tempo...",
+		"Você já fez o defio de hoje",
+		"Retornar",
+		"Embarque",
+		"Personagem de hoje: ",
+		"dd/MM/yyyy HH:mm:ss",
+		"Tempo Restante: ",
+		"#yAndar #yAlcançado: NL  ",
+		" NL NL  #yBaralho: NL ",
+		" NL NL  #yRelíquias: NL  ",
+		" NL Desafio de Hoje: NL TAB #yClasse: NL TAB ",
+		" NL TAB #yModificadores: "
+	]
+  },
   "SettingsScreen": {
     "TEXT": [
 		"Você tem certeza?",
