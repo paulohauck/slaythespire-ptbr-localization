@@ -15,8 +15,11 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | (The) Gunner<sup>4</sup> | (O) Atirador         |        |
 
 ><sup>1</sup> [Reference](http://www.dictionary.com/browse/ironclad)
+
 ><sup>2</sup> [Reference](http://slay-the-spire.wikia.com/wiki/Silent)
+
 ><sup>3</sup> Found in `characters.json` *(lines 10 and 12)*, `achievements.json` *(line 111)* and `ui.json` *(line 719)*. Probably the third character.
+
 ><sup>4</sup> Found in `ui.json` *(line 263)*. Probably the "class" of the third character.
 
 ## Cards | Cartas
@@ -162,6 +165,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Reaper       | Ceifeiro             |        |
 
 ><sup>1</sup> [Magic: the Gathering](https://imgur.com/a/kkyti)
+
 ><sup>2</sup> [Wikipedia](https://en.wikipedia.org/wiki/Juggernaut)
 
 ### Green Cards | Cartas Verdes
@@ -190,7 +194,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Dodge and Roll     | Esquivar e Rolar     |        |
 | Flying Knee        | Joelhada Voadora     |        |
 | Outmaneuver        | Enganar              |        |
-| Piercing Wail      | Lamento Penetrante   |        |
+| Piercing Wail      | Lamúrio Penetrante   |        |
 | Poisoned Stab      | Estocada Envenenada  |        |
 | Prepared           | Preparado            |        |
 | Quick Slash        | Corte Rápido         |        |
@@ -240,7 +244,9 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Well-Laid Plans   | Planos Bem Definidos |        |
 
 ><sup>1</sup> [Wikipédia](https://pt.wikipedia.org/wiki/Estrepe)
+
 ><sup>2</sup> [Wikipédia](https://pt.wikipedia.org/wiki/Flechette)
+
 ><sup>3</sup> [Wikipédia](https://pt.wikipedia.org/wiki/Leglock#Heel_hook)
 
 #### Rare | Rara
@@ -268,8 +274,11 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Wraith Form        | Forma Espectral          |        |
 
 ><sup>1</sup> [Wikipedia](https://en.wikipedia.org/wiki/Afterimage)
+
 ><sup>2</sup> Segundo o desenvolvedor caseyyano em discussão no canal do Discord
+
 ><sup>3</sup> [Youtube](https://youtu.be/A9FfcgnedW8?t=1m18s)
+
 ><sup>4</sup> [Wikipédia](https://pt.wikipedia.org/wiki/Doppelg%C3%A4nger)
 
 ### Blue Cards | Cartas Azuis
@@ -359,7 +368,9 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Step Through Time<sup>3</sup> | Caminhar no Tempo    |        |
 
 ><sup>1</sup> `cards.json` *(Line 371)*
+
 ><sup>2</sup> `cards.json` *(Line 513)*
+
 ><sup>3</sup> `cards.json` *(Line 648)*
 
 ## Monsters | Monstros
@@ -464,6 +475,7 @@ TBD
 | Chest                  | Baú                     |        |
 | Climb                  | Escalar                 |        |
 | Combat                 | Combate                 |        |
+| Continue               | Continuar               |        |
 | Damage                 | Dano                    |        |
 | Deal                   | Cause                   |        |
 | Deck                   | Baralho                 |        |
@@ -476,6 +488,7 @@ TBD
 | Energy                 | Energia                 |        |
 | Escape                 | Escapar                 |        |
 | Entangle               | Prender                 | O mais correto seria "entrelaçar" ou "enredar", mas "entangled" ainda dá a ideia de "preso" |
+| Fight                  | Lutar                   |        |
 | Floor                  | Andar                   |        |
 | Gain                   | Ganhe                   |        |
 | Gold                   | Ouro                    |        |
@@ -484,9 +497,10 @@ TBD
 | Intends                | Tem intenção de         |        |
 | Intent                 | Intenção                |        |
 | Interrupted            | Interrompido            |        |
+| Leave                  | Sair                    |        |
 | Level                  | Nível                   |        |
 | Locked                 | Bloqueado               |        |
-| Loot                   | Saquear                 |        |
+| Loot                   | Pilhagem                |        |
 | Magical                | Mágico                  |        |
 | Minion                 | Lacaio                  |        |
 | Mugged                 | Roubado                 |        |
@@ -502,6 +516,7 @@ TBD
 | Save                   | Save                    |        |
 | Score                  | Pontuação               |        |
 | Shop                   | Loja                    |        |
+| Shrine                 | Santuário               |        |
 | Shuffle                | Embaralhar              |        |
 | Slain/Killed           | Morto                   |        |
 | Slay                   | Matar                   |        |
