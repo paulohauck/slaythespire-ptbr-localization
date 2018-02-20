@@ -1,5 +1,112 @@
 Updates for Translators!
 
+2/19/2018:
+relics.json
+	"Sozu"
+credits.json
+	"LOC_ITA"
+run_mods.json (New File! These are mods applied to the player for daily runs.)
+ui.json
+	"DailyScreen"
+
+----------------------------------
+
+2/16/2018:
+achievements.json (6 New Achievements)
+	"AchievementGrid"
+		"NAMES"
+		"TEXT"
+
+----------------------------------
+		
+2/15/2018:
+credits.json
+    "LOC_KOR"
+    "LOC_FRA"
+
+----------------------------------
+
+2/14/2018:
+credits.json
+	"SPECIAL"
+		"robojumper"
+ui.json
+	"OptionsPanel"
+powers.json
+	"Intangible"
+
+----------------------------------
+
+2/12/2018:
+tutorials.json
+	"Top Panel Tips"
+relics.json
+	"Tiny House"
+
+----------------------------------
+
+2/7/2018:
+ui.json
+	"CardRewardScreen"
+	"BossRelicSelectScreen"
+
+----------------------------------
+
+2/6/2018:
+credits.json
+	"Special Thanks" (was wrong in English)
+	"Voice Talent" (was wrong in English)
+	"LOC_ZHS"
+ui.json
+	"OptionsPanel" (Removal of all Tips options. Added Fast Mode)
+	"AscensionModeDescriptions"
+	"CharacterSelectScreen"
+relics.json
+	"Runic Cube" (Was buffed, penalty removed)
+	"Enchiridion"
+achievements.json
+	"CharStat"
+		"Highest Ascent: " -> "Highest Floor: "
+events.json
+	"Golden Shrine"
+		"[Pray] #gGain #g",
+		" #gGold.", <- The first option was separated into two lines
+		"[Desecrate] #gGain #g250 #gGold. #rBecome #rCursed #r- #rRegret.",
+		"[Leave]"
+	"The Moai Head"
+		"[Jump Inside] #gHeal #gto #gfull #gHP. #rLose #r",
+		" #rMax #rHP.", <- The first option was separated into two lines
+	"Winding Halls"
+		"...",
+		"[Embrace Madness] #gReceive #g2 #gMadness. #rLose #r",
+		" #rHP.", <- This option was separated into two lines
+	"The Cleric"
+		"[Purify] #y",
+		" #yGold: #gRemove #ga #gcard #gfrom #gyour #gdeck.", <- This option was separated into two lines
+		"." <- Period!
+	"Cursed Tome"
+		"[Take] #gObtain #gthe #gBook. #rLose #r",
+		" #rHP.", <- This option was separated into two lines
+	"The Mausoleum"
+		"[Open Coffin] #gReceive #ga #gRelic. #r",
+		"%: #rBecome #rCursed #r- #rWrithe.", <- This option was separated into two lines
+		"[Leave]"
+	"The Woman in Blue"
+		" #yGold", -> " #yGold.", (Added a period!)
+
+----------------------------------
+
+2/5/2018:
+credits.json
+	There should be some folks credited for various language localization now :)
+ui.json
+	"OptionsPanel" (Removal of all Tips options. Added Fast Mode)
+relics.json
+	"Runic Cube" (Was buffed, penalty removed)
+	"Enchiridion"
+
+----------------------------------
+
 2/2/2018:
 credits.json
 	Overhauled! If you would like to credit yourself, please add yourself into the

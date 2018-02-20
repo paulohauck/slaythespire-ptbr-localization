@@ -806,8 +806,8 @@
 	"NAME": "Sozu",
 	"FLAVOR": "Você percebe que líquidos mágicos perdem suas propriedades quando perto deste item.",
     "DESCRIPTIONS": [
-	" Você não pode mais utilizar poções. ",
-	"Ganhe [R] no começo de cada turno.", 
+	" Você não pode mais obter poções. ",
+	"Ganhe [R] no começo de cada turno.",
 	"Ganhe [G] no começo de cada turno.",
 	"Ganhe [B] no começo de cada turno."
 	]

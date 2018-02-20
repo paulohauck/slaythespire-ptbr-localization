@@ -509,7 +509,7 @@
 		"O que tem Dentro?",
 		"Recompensas!",
 		"Espólios!",
-		"Saquear!",
+		"Pilhagem!",
 		"Dica: "
 	]
   },
@@ -599,6 +599,23 @@
 		"Salvar e Sair",
 		"NL NL VSync",
 		"Modo de Arte para Playtester"
+	]
+  },
+  "DailyScreen": {
+    "TEXT": [
+		"Desafio Diário",
+		"Conectando ao Servidor de Tempo...",
+		"Você já fez o desafio de hoje",
+		"Retornar",
+		"Embarque",
+		"Personagem de hoje: ",
+		"dd/MM/yyyy HH:mm:ss",
+		"Tempo Restante: ",
+		"#yAndar #yAlcançado: NL  ",
+		" NL NL  #yBaralho: NL ",
+		" NL NL  #yRelíquias: NL  ",
+		" NL Desafio de Hoje: NL TAB #yClasse: NL TAB ",
+		" NL TAB #yModificadores: "
 	]
   },
   "SettingsScreen": {

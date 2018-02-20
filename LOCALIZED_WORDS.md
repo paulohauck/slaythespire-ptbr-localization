@@ -194,7 +194,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Dodge and Roll     | Esquivar e Rolar     |        |
 | Flying Knee        | Joelhada Voadora     |        |
 | Outmaneuver        | Enganar              |        |
-| Piercing Wail      | Lamento Penetrante   |        |
+| Piercing Wail      | Lamúrio Penetrante   |        |
 | Poisoned Stab      | Estocada Envenenada  |        |
 | Prepared           | Preparado            |        |
 | Quick Slash        | Corte Rápido         |        |
@@ -475,6 +475,7 @@ TBD
 | Chest                  | Baú                     |        |
 | Climb                  | Escalar                 |        |
 | Combat                 | Combate                 |        |
+| Continue               | Continuar               |        |
 | Damage                 | Dano                    |        |
 | Deal                   | Cause                   |        |
 | Deck                   | Baralho                 |        |
@@ -487,6 +488,7 @@ TBD
 | Energy                 | Energia                 |        |
 | Escape                 | Escapar                 |        |
 | Entangle               | Prender                 | O mais correto seria "entrelaçar" ou "enredar", mas "entangled" ainda dá a ideia de "preso" |
+| Fight                  | Lutar                   |        |
 | Floor                  | Andar                   |        |
 | Gain                   | Ganhe                   |        |
 | Gold                   | Ouro                    |        |
@@ -495,9 +497,10 @@ TBD
 | Intends                | Tem intenção de         |        |
 | Intent                 | Intenção                |        |
 | Interrupted            | Interrompido            |        |
+| Leave                  | Sair                    |        |
 | Level                  | Nível                   |        |
 | Locked                 | Bloqueado               |        |
-| Loot                   | Saquear                 |        |
+| Loot                   | Pilhagem                |        |
 | Magical                | Mágico                  |        |
 | Minion                 | Lacaio                  |        |
 | Mugged                 | Roubado                 |        |
@@ -513,6 +516,7 @@ TBD
 | Save                   | Save                    |        |
 | Score                  | Pontuação               |        |
 | Shop                   | Loja                    |        |
+| Shrine                 | Santuário               |        |
 | Shuffle                | Embaralhar              |        |
 | Slain/Killed           | Morto                   |        |
 | Slay                   | Matar                   |        |
