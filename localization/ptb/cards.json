@@ -75,7 +75,7 @@
     },
     "Sadistic Nature": {
       "NAME": "Natureza Sádica",
-      "DESCRIPTION": "Sempre que você aplicar um Debuff a um inimigo, ele sofrerá !M! de dano."
+      "DESCRIPTION": "Sempre que você aplicar um Efeito Negativo a um inimigo, ele sofrerá !M! de dano."
     },
     "J.A.X.": {
       "NAME": "B.O.M.B.A.",
