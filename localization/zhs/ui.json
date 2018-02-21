@@ -568,7 +568,8 @@
       "放弃当前游戏",
       "放弃当前游戏（请再次点击来确认放弃）",
       "设定",
-      "历史记录"
+      "历史记录",
+      "Compendium"
     ]
   },
   "PatchNotesScreen": {
@@ -912,19 +913,62 @@
   },
   "DailyScreen": {
     "TEXT": [
-      "Daily Challenge",
-      "Connecting to Time Server...",
-      "You have done today's challenge",
-      "Return",
-      "Embark",
-      "Today's character: ",
-      "dd/MM/yyyy HH:mm:ss",
-      "Time Left: ",
-      "#yFloor #yReached: NL  ",
-      " NL NL  #yDeck: NL ",
-      " NL NL  #yRelics: NL  ",
-      " NL Today's Challenge: NL TAB #yClass: NL TAB ",
-      " NL TAB #yMods: "
+      "每日挑战",
+      "正在连接时间服务器……",
+      "你已经完成今天的每日挑战",
+      "返回",
+      "启程",
+      "今日角色： ",
+      "yyyy/MM/dd HH:mm:ss",
+      "剩余时间： ",
+      "#y到达的层数： NL  ",
+      " NL NL  #y牌组： NL ",
+      " NL NL  #y遗物： NL  ",
+      " NL 今日挑战： NL TAB #y职业： NL TAB ",
+      " NL TAB #y今日特效： "
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Standard",
+      "",
+      "Embark on a quest to Slay the Spire.",
+      "Daily Climb",
+      "",
+      "A new challenge is availble once a day.\n\nCompete with other players for the highest score!",
+      "Ascension",
+      "",
+      "The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",
+      "Card Library",
+      "",
+      "View all of the cards you have encountered throughout the Spire.",
+      "Relic Collection",
+      "",
+      "Examine the various trinkets and artifacts obtained throughout your runs.",
+      "Bestiary",
+      "",
+      "This feature is not yet available.",
+      "Character Stats",
+      "",
+      "The progress and statistics for each character can be seen here.",
+      "Leaderboards",
+      "",
+      "View and compare your score with friends and other players.",
+      "Run History",
+      "",
+      "Revisit your past attempts at slaying the Spire.",
+      "Game Settings",
+      "",
+      "Change your resolution and toggle various options on/off.",
+      "Input Settings",
+      "",
+      "This feature is not yet available.",
+      "Credits",
+      "",
+      "See all of the people who contributed on Slay the Spire!",
+      "Unknown",
+      "",
+      "This feature is not yet available."
     ]
   }
 }
