@@ -346,7 +346,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Decay          | Apodrecer            |        |
 | Doubt          | Dúvida               |        |
 | Injury         | Ferimento            |        |
-| Necronomicurse | Necronomaldição      |        |
+| Necronomicurse | Necronomaldição      | Referência ao Necronomicon<sup>1</sup> |
 | Normality      | Mediocridade         |        |
 | Pain           | Dor                  |        |
 | Parasite       | Parasita             |        |
@@ -403,66 +403,74 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 
 ### Common | Comum
 
-| English            | Brazilian Portuguese     | Reason |
-| ------------------ | ------------------------ | ------ |
-| Anchor             | Âncora                   |        |
-| Ancient Tea Set    | Antigo Conjunto de Chá   |        |
-| Art of War         | Arte da Guerra           |        |
-| Bag of Marbles     | Bolas de Gude            |        |
-| Bag of Preparation | Mochila de Preparo       |        |
-| Blood Vial         | Frasco de Sangue         |        |
-| Bronze Scales      | Escamas de Bronze        |        |
-| Dream Catcher      | Apanhador de Sonhos      |        |
-| Happy Flower       | Flor Alegre              |        |
-| Juzu Bracelet      | Bracelete Juzu           |        |
-| Lantern            | Lanterna                 |        |
-| Oddly Smooth Stone | Pedra Estranhamente Lisa |        |
-| Omamori            | Omamori                  |        |
-| Orichalcum         | Oricalco                 |        |
-| Pen Nib            | Ponta de Caneta          |        |
-| Prayer Wheel       | Roda de Orações          |        |
-| Regal Pillow       | Travesseiro Real         |        |
-| Singing Bowl       | Taça de Canto            |        |
-| Snecko Skull       | Caveira de Snecko        |        |
-| Strawberry         | Morango                  |        |
-| Tiny Chest         | Baú Pequeno              |        |
-| Vajra              | Vajra                    |        |
-| War Paint          | Pintura de Guerra        |        |
-| Whetstone          | Pedra de Amolar          |        |
+| English            | Brazilian Portuguese    | Reason |
+| ------------------ | ----------------------- | ------ |
+| Anchor             | Âncora                  |        |
+| Ancient Tea Set    | Antigo Jogo de Chá      |        |
+| Art of War         | Arte da Guerra          | Referência ao livro "A Arte da Guerra" de Sun Tzu<sup>1</sup> |
+| Bag of Marbles     | Bolas de Gude           |        |
+| Bag of Preparation | Mochila de Preparo      |        |
+| Blood Vial         | Frasco de Sangue        |        |
+| Bronze Scales      | Escamas de Bronze       |        |
+| Dream Catcher      | Filtro de Sonhos        | <sup>2</sup> |
+| Happy Flower       | Flor Alegre             | Referência ao Girassol de Plants vs Zombies<sup>3</sup> |
+| Juzu Bracelet      | Bracelete Juzu          |        |
+| Lantern            | Lanterna                |        |
+| Oddly Smooth Stone | Pedra Curiosamente Lisa |        |
+| Omamori            | Omamori                 |        |
+| Orichalcum         | Oricalco                |        |
+| Pen Nib            | Ponta de Caneta         |        |
+| Prayer Wheel       | Roda de Oração          |        |
+| Regal Pillow       | Travesseiro Real        |        |
+| Singing Bowl       | Sino Tigela             | <sup>4</sup> |
+| Snecko Skull       | Crânio de Snecko        |        |
+| Strawberry         | Morango                 |        |
+| Tiny Chest         | Baú Pequeno             |        |
+| Vajra              | Vajra                   |        |
+| War Paint          | Pintura de Guerra       |        |
+| Whetstone          | Pedra de Amolar         |        |
+
+><sup>1 3</sup> `REFERENCES.txt`
+
+><sup>2</sup> http://www.somostodosum.com.br/artigos/autoconhecimento/o-que-e-um-filtro-de-sonhos-05394.html
+
+><sup>4</sup> [Youtube](https://www.youtube.com/watch?v=dDIVQx0XAqY)
 
 ### Uncommon | Incomum
 
 | English            | Brazilian Portuguese     | Reason |
 | ------------------ | ------------------------ | ------ |
-| Blue Candle        | Vela Azul                |        |
+| Blue Candle        | Vela Azul                | Referência ao item homônimo de The Legend of Zelda<sup>1</sup> |
 | Bottled Flame      | Chama Engarrafada        |        |
 | Bottled Lightning  | Relâmpago Engarrafado    |        |
 | Bottled Tornado    | Tornado Engarrafado      |        |
-| Centennial Puzzle  | Quebra-Cabeça Centenário |        |
-| Darkstone Periapt  | Amuleto da Pedra Negra   |        |
+| Centennial Puzzle  | Enigma do Centênio       | Referência ao Millenium Puzzle de Yu-gi-oh<sup>2</sup> (Em português, Enigma do Milênio) |
+| The Courier        | O Entregador             |        |
+| Darkstone Periapt  | Amuleto de Pedra Negra   |        |
 | Frozen Egg         | Ovo Congelado            |        |
 | Gremlin Horn       | Chifre de Gremlin        |        |
 | Kunai              | Kunai                    |        |
 | Letter Opener      | Abridor de Cartas        |        |
 | Matryoshka         | Matriosca                |        |
-| Meat on the Bone   | Carne com Osso           |        |
+| Meat on the Bone   | Carne no Osso            |        |
 | Mercury Hourglass  | Ampulheta de Mercúrio    |        |
-| Molten Egg         | Ovo Fundido              |        |
+| Molten Egg         | Ovo Derretido            |        |
 | Mummified Hand     | Mão Mumificada           |        |
-| Ninja Scroll       | Pergaminho do Ninja      |        |
+| Ninja Scroll       | Pergaminho Ninja         |        |
 | Ornamental Fan     | Leque Ornamental         |        |
 | Pantograph         | Pantógrafo               |        |
-| Paper Krane        | Garsa de Papel           |        |
-| Paper Phrog        | Çapo de Papel            |        |
-| Pear               | Pera                     |        |
+| Paper Krane        | Garsa de Papel           | Um origami de papel de garça<sup>3</sup>. O erro é proposital. |
+| Paper Phrog        | Çapo de Papel            | Um origami de papel de sapo<sup>4</sup>. O erro é proposital. |
+| Pear               | Pêra                     |        |
 | Runic Dodecahedron | Dodecaedro Rúnico        |        |
-| Self-Forming Clay  | Argila Auto-Moldadora    |        |
+| Self-Forming Clay  | Argila Auto Moldante     |        |
 | Shuriken           | Shuriken                 |        |
 | Smiling Mask       | Máscara Sorridente       |        |
-| The Courier        | O Transportador          |        |
 | Toolbox            | Caixa de Ferramentas     |        |
 | Tough Bandages     | Bandagens Resistentes    |        |
-| Toxic Egg          | Ovo Tóxico               |        |
+| Toxic Egg          | Ovo Tóxico               | Visualmente referencia Alien<sup>5</sup> |
+
+><sup>1 2 3 4 5</sup> `REFERENCES.txt`
 
 ### Rare | Rara
 
@@ -470,26 +478,30 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | ----------------- | ------------------------ | ------ |
 | Bird-Faced Urn    | Urna com Cara de Pássaro |        |
 | Calipers          | Paquímetro               |        |
-| Champion Belt     | Cinto do Campeão         |        |
-| Charon's Ashes    | Cinzas do Caronte        |        |
-| Dead Branch       | Galho Morto              |        |
-| Du-Vu Doll        | Boneca Du-Vu             |        |
+| Champion Belt     | Cinturão do Campeão      |        |
+| Charon's Ashes    | Cinzas de Caronte        | Referência de Caronte da mitologia grega<sup>1</sup> |
+| Dead Branch       | Galho Seco               | Referência do item homônimo de Ragnarok Online<sup>2</sup>. No Brasil, Galho Seco<sup>3</sup>. |
+| Du-Vu Doll        | Boneco Du-Vu             | Referência a um boneco vodu<sup>4</sup> |
 | Frozen Eye        | Olho Congelado           |        |
 | Gambling Chip     | Ficha de Apostas         |        |
 | Ginger            | Gengibre                 |        |
-| Girya             | Girya                    |        |
+| Girya             | Peso                     |        |
 | Ice Cream         | Sorvete                  |        |
 | Magic Flower      | Flor Mágica              |        |
 | Mango             | Manga                    |        |
 | Old Coin          | Moeda Velha              |        |
 | Peace Pipe        | Cachimbo da Paz          |        |
-| Red Skull         | Caveira Vermelha         |        |
-| Shovel            | Pá                       |        |
+| Red Skull         | Crânio Vermelho          |        |
+| Shovel            | Pá                       | Referência visual a Shovel Knight<sup>5</sup> |
 | Sundial           | Relógio de Sol           |        |
-| Thread and Needle | Fio e Agulha             |        |
-| Tingsha           | Címbalo                  |        |
+| Thread and Needle | Linha e Agulha           |        |
+| Tingsha           | Címbalos                 |        |
 | Torii             | Torii                    |        |
-| Unceasing Top     | Peão Incessante          |        |
+| Unceasing Top     | Pião Incessante          |        |
+
+><sup>1 2 4 5</sup> `REFERENCES.txt`,
+
+><sup>3</sup> [Database de Itens de Ragnarok Online](http://www.ragnadb.com.br/item/604/galho-seco.html)
 
 ### Boss | Chefe
 
@@ -497,8 +509,8 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | ------------------- | ----------------------- | ------ |
 | Astrolabe           | Astrolábio              |        |
 | Black Blood         | Sangue Negro            |        |
-| Black Star          | Estrela Negra           |        |
-| Calling Bell        | Sino de Invocação       |        |
+| Black Star          | Estrela Negra           | Referência a uma música de David Bowie<sup>1</sup> |
+| Calling Bell        | Sino de Invocação       | Referência ao Beckoning Bell de Bloodborne<sup>2</sup> |
 | Cursed Key          | Chave Amaldiçoada       |        |
 | Ectoplasm           | Ectoplasma              |        |
 | Eternal Feather     | Pena Eterna             |        |
@@ -507,57 +519,63 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Orrery              | Planetário              |        |
 | Pandora's Box       | Caixa de Pandora        |        |
 | Philosopher's Stone | Pedra Filosofal         |        |
-| Question Card       | Carta de Interrogação   |        |
+| Question Card       | Carta de Interrogação   | Referência à "?" Card de Binding of Isaac<sup>3</sup> |
 | Runic Cube          | Cubo Rúnico             |        |
 | Runic Dome          | Domo Rúnico             |        |
 | Runic Pyramid       | Pirâmide Rúnica         |        |
 | Snecko Eye          | Olho de Snecko          |        |
 | Sozu                | Sozu                    |        |
-| The Specimen        | O Espécime              |        |
+| The Specimen        | O Espécime              | Referência visual a Dorohedoro<sup>4</sup> |
 | Tiny House          | Casa Pequena            |        |
 | Velvet Choker       | Gargantilha de Veludo   |        |
-| White Beast Statue  | Estátua da Besta Branca |        |
+| White Beast Statue  | Estátua de Besta Branca |        |
+
+><sup>1 2 3 4</sup> `REFERENCES.txt`
 
 ### Event | Evento
 
 | English       | Brazilian Portuguese | Reason |
 | ------------- | -------------------- | ------ |
-| Bloody Idol   | Ídolo Sangrento      |        |
-| Enchiridion   | Enquirídio           |        |
-| Golden Idol   | Ídolo Dourado        |        |
+| Bloody Idol   | Ídolo Sangrento      | Referência ao Golden Idol de Spelunky<sup>1</sup> |
+| Enchiridion   | Enquirídio           | Referência ao Enquirídio de Adventure Time<sup>2</sup> |
+| Golden Idol   | Ídolo Dourado        | Referência ao Golden Idol de Spelunky<sup>3</sup> |
 | Necronomicon  | Necronomicon         |        |
 | Neow's Lament | O Lamento de Neow    |        |
-| Nilry's Codex | Códice de Nilry      |        |
+| Nilry's Codex | Códice de Nilrys     | Referência à Codex, um jogo de tabuleiro feito por Sirlin (Nilry's ao contrário)<sup>4</sup> |
 | Nloth's Gift  | Presente de Nloth    |        |
 | Odd Mushroom  | Cogumelo Estranho    |        |
 | Red Mask      | Máscara Vermelha     |        |
 | Spirit Poop   | Cocô Espiritual      |        |
+
+><sup>1 2 3 4</sup> `REFERENCES.txt`
 
 ### Shop | Loja
 
 | English         | Brazilian Portuguese     | Reason |
 | --------------- | ------------------------ | ------ |
 | Cauldron        | Caldeirão                |        |
-| Lee's Waffle    | Waffle de Lee            |        |
+| Lee's Waffle    | Waffle do Lee            | Referência a um amigo do desenvolvedor que possuía uma máquina de waffles no trabalho<sup>1</sup> |
 | Medical Kit     | Kit Médico               |        |
-| Membership Card | Cartão de Membro         |        |
+| Membership Card | Cartão de Fidelidade     |        |
 | Strange Spoon   | Colher Estranha          |        |
-| Toy Ornithopter | Ornitóptero de brinquedo |        |
+| Toy Ornithopter | Ornitóptero de Brinquedo |        |
+
+><sup>1</sup> `REFERENCES.txt`
 
 ### Other | Outros
 
 | English             | Brazilian Portuguese  | Reason |
 | ------------------- | --------------------- | ------ |
-| Chameleon Ring      | Anel Camaleão         |        |
+| Chameleon Ring*     | Anel Camaleão         |        |
 | Chemical X          | Elemento X            |        |
 | Circlet             | Tiara                 |        |
-| Derp Rock           | Derp Rock             |        |
+| Derp Rock           | Pedra Derp            |        |
 | Discerning Monocle  | Monóculo Perspicaz    |        |
 | Frozen Egg          | Ovo Congelado         |        |
-| Living Blade        | Lâmina Viva           |        |
-| Molten Egg          | Ovo Fundido           |        |
-| Nine Lives          | Nove Vidas            |        |
-| Nullstone Periapt   | Amuleto de pedra nula |        |
+| Living Blade*       | Lâmina Viva           |        |
+| Molten Egg          | Ovo Derretido         |        |
+| Nine Lives*         | Nove Vidas            |        |
+| Nullstone Periapt*  | Amuleto de Pedra Nula |        |
 | Red Circlet         | Tiara Vermelha        |        |
 | Ring of the Serpent | Anel da Serpente      |        |
 | Test 1              | Teste 1               |        |
@@ -569,6 +587,8 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Test 7              | Teste 7               |        |
 | Test 8              | Teste 8               |        |
 | Toxic Egg           | Ovo Tóxico            |        |
+
+>* Obsoleto
 
 ## Potions | Poções
 
@@ -663,6 +683,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Dig                    | Cavar                   |        |
 | Discard (Pile)         | (Pilha de) Descarte     |        |
 | Draw (Pile)            | (Pilha de) Compra       | Em muitos jogos de cartas, "draw" é localizado como "compra". Exemplos: Hearthstone, Magic: The Gathering, Yu-Gi-Oh!, Pokémon TCG |
+| Drop                   | Deixar                  |        |
 | Elite                  | Elite                   |        |
 | Enemy                  | Inimigo                 |        |
 | Energy                 | Energia                 |        |
@@ -684,6 +705,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Magical                | Mágico                  |        |
 | Minion                 | Lacaio                  |        |
 | Mugged                 | Roubado                 |        |
+| Plated Armor           | Armadura Chapeada       |        |
 | Play                   | Jogar                   |        |
 | Poison                 | Veneno                  |        |
 | Potion                 | Poção                   |        |
@@ -704,6 +726,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Smith                  | Forjar                  |        |
 | Special                | Especial                |        |
 | Spire                  | Pináculo                |        |
+| Spireblight            | Pragapinacular          | Spire ("Pináculo") + Blight ("Praga") |
 | Spoils                 | Espólios                |        |
 | Standard               | Padrão                  |        |
 | Strength               | Força                   |        |
