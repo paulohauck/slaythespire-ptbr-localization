@@ -3,13 +3,13 @@
 		"NAME": "Jornada Amaldiçoada",
 		"DESCRIPTION": "Sempre que você derrotar um Chefe, seja Amaldiçoado."
 	},
-	"Double Elites": {
-		"NAME": "Elites em Dobro",
-		"DESCRIPTION": "Dobre a quantia de encontros de elite."
+	"Elite Swarm": {
+		"NAME": "Infestação de Elites",
+		"DESCRIPTION": "Inimigos de elite estão infestando o Pináculo."
 	},
-	"Fat Deck": {
-		"NAME": "Baralho Gordo",
-		"DESCRIPTION": "Você não pode pular recompensas de escolha uma carta."
+	"Greed": {
+		"NAME": "Ganância",
+		"DESCRIPTION": "Você não pode pular recompensas de combate."
 	},
 	"Growing Enemies": {
 		"NAME": "Inimigos em Crescimento",
@@ -39,9 +39,17 @@
 		"NAME": "Inimigos Durões",
 		"DESCRIPTION": "Inimigos têm 25% a mais PV."
 	},
-	"Turtle": {
-		"NAME": "Tartaruga",
-		"DESCRIPTION": "Comece com 1 Golpe a menos e 1 Defender adicional."
+	"Shiny": {
+		"NAME": "Cintilante",
+		"DESCRIPTION": "Comece com 1 carta Rara aleatória."
+	},
+	"Allstar": {
+		"NAME": "Profissional",
+		"DESCRIPTION": "Comece com 2 cartas incolores aleatórias."
+	},
+	"Diverse": {
+		"NAME": "Diverso",
+		"DESCRIPTION": "Comece com 2 cartas aleatórias de outra classe."
 	},
 	"Vintage": {
 		"NAME": "Vintage",

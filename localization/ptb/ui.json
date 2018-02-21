@@ -666,20 +666,20 @@
   },
   "MenuButton": {
     "TEXT": [
-		"Biblioteca de Cartas",
+		"",
 		"Jogar",
-		"Desafio Diário",
-		"Coleção de Relíquias",
+		"",
+		"",
 		"Continuar",
-		"Tabelas de Classificação",
+		"",
 		"Estatísticas",
-		"Créditos",
 		"Sair",
 		"Notas de Patch",
 		"Abandonar Jornada",
-		"Abandonar Jornada (clique novamente para confirmar)",
+    "",
 		"Configurações",
-		"Histórico de Jornadas"
+    "",
+		"Compêndio"
 	]
   },
   "CreditsScreen": {
@@ -925,6 +925,49 @@
   "TheBeyond": {
     "TEXT": [
 		"O Além"
+	]
+  },
+  "MenuPanels": {
+		"TEXT": [
+		"Padrão",
+		"",
+		"Embarcar em uma missão para Matar o Pináculo.",
+		"Escalada Diária",
+		"",
+		"Um novo desafio está disponível uma vez por dia.\n\nCompita com outros jogadores pela maior puntuação!",
+		"Ascensão",
+		"",
+		"O Pináculo se torna mais forte com cada vitória.\n\nTeste os limites de suas mais poderosas estratégias.",
+		"Biblioteca de Cartas",
+		"",
+		"Veja todas as cartas que você encontrou ao longo do Pináculo.",
+		"Coleção de Relíquias",
+		"",
+		"Examine as várias bugigangas e artefatos obtidos ao longo de suas jornadas.",
+		"Bestiário",
+		"",
+		"Essa funcionalidade ainda não está disponível.",
+		"Estatísticas de Personagens",
+		"",
+		"O progresso e estatísticas para cada personagem podem ser vistos aqui.",
+		"Tabelas de Classificação",
+		"",
+		"Veja e compare sua pontuação com amigos e outros jogadores.",
+		"Histórico de Jornadas",
+		"",
+		"Revisite suas tentativas passadas em matar o Pináculo.",
+		"Configurações de Jogo",
+		"",
+		"Mude sua resolução e ligue ou desligue várias opções.",
+		"Configurações de Entrada",
+		"",
+		"Essa funcionalidade ainda não está disponível.",
+		"Créditos",
+		"",
+		"Veja todas as pessoas que contribuíram com Slay the Spire!",
+		"Desconhecido",
+		"",
+		"Essa funcionalidade ainda não está disponível."
 	]
   }
 }
