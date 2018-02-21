@@ -646,6 +646,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Artifact               | Artefato                |        |
 | Ascension              | Ascensão                |        |
 | Battle                 | Batalha                 |        |
+| Bestiary               | Bestiário               |        |
 | Block                  | Proteção                | Block é literalmente "bloqueio". Porém, no jogo, as fontes de Block são diversas: poções, esquivas, armaduras, etc. "Proteção" é um termo mais amplo. |
 | Boss                   | Chefe                   |        |
 | Card                   | Carta                   |        |
@@ -653,6 +654,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Chest                  | Baú                     |        |
 | Climb                  | Escalar                 |        |
 | Combat                 | Combate                 |        |
+| Compendium             | Compêndio               |        |
 | Continue               | Continuar               |        |
 | Damage                 | Dano                    |        |
 | Deal                   | Cause                   |        |
@@ -685,9 +687,10 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Play                   | Jogar                   |        |
 | Poison                 | Veneno                  |        |
 | Potion                 | Poção                   |        |
+| Quest                  | Missão                  |        |
 | Relic                  | Relíquia                |        |
 | Rest                   | Descansar               |        |
-| Remove                 | Remover (uma carta)     |        |
+| Remove                 | Remover                 |        |
 | Retain                 | Manter                  |        |
 | Room                   | Sala                    |        |
 | Run                    | Jornada                 |        |
@@ -702,6 +705,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Special                | Especial                |        |
 | Spire                  | Pináculo                |        |
 | Spoils                 | Espólios                |        |
+| Standard               | Padrão                  |        |
 | Strength               | Força                   |        |
 | Stunned                | Atordoado               |        |
 | Tip                    | Dica                    |        |
