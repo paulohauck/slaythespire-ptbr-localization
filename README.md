@@ -83,11 +83,10 @@ Anthony and Casey
 
 
 ---
-## **Current Contributors**
+## **Current Contributors (Alphabetical Order)**
 
-- Paulo "SilverTape" Hauck
+- Guilherme "GPerego" Perego
 - Gustavo "KomKlave" Duarte
 - José "Maneimax" Vasconcelos
-- Guilherme "GPerego" Perego
 - Nathan "NoxShadow" Cervieri
-
+- Paulo "SilverTape" Hauck
