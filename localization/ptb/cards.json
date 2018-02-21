@@ -207,7 +207,7 @@
       "DESCRIPTION": "Aplique !M! de Fraqueza a TODOS os inimigos. NL Exaurir."
     },
     "Necronomicurse": {
-      "NAME": "Maldição Necronômica",
+      "NAME": "Necronomaldição",
       "DESCRIPTION": "Injogável. NL Não há como fugir desta Maldição."
     },
     "Choke": {
@@ -768,7 +768,7 @@
     },
     "Jack Of All Trades": {
       "NAME": "Pau Para Toda Obra",
-      "DESCRIPTION": "Adicione !M! cartas incolores aleatórias à sua mão. NL Exaurir."
+      "DESCRIPTION": "Adicione !M! carta incolor aleatória à sua mão. NL Exaurir."
     },
     "Demon Form": {
       "NAME": "Forma Demoníaca",

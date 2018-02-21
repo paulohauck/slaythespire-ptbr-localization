@@ -346,7 +346,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Decay          | Apodrecer            |        |
 | Doubt          | Dúvida               |        |
 | Injury         | Ferimento            |        |
-| Necronomicurse | Maldição Necronômica | Referência ao Necronomicon<sup>1</sup> |
+| Necronomicurse | Necronomaldição      |        |
 | Normality      | Mediocridade         |        |
 | Pain           | Dor                  |        |
 | Parasite       | Parasita             |        |
