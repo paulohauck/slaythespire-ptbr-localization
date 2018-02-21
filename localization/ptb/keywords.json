@@ -8,7 +8,7 @@
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Nega o próximo debuff."
+		"DESCRIPTION": "Nega o próximo efeito negativo."
 	},
 	"BLOCK": {
 		"NAMES":[

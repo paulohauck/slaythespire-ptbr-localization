@@ -649,6 +649,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Bestiary               | Bestiário               |        |
 | Block                  | Proteção                | Block é literalmente "bloqueio". Porém, no jogo, as fontes de Block são diversas: poções, esquivas, armaduras, etc. "Proteção" é um termo mais amplo. |
 | Boss                   | Chefe                   |        |
+| Buff                   | Efeito Positivo         |        |
 | Card                   | Carta                   |        |
 | Charge                 | Carga                   |        |
 | Chest                  | Baú                     |        |
@@ -658,6 +659,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Continue               | Continuar               |        |
 | Damage                 | Dano                    |        |
 | Deal                   | Cause                   |        |
+| Debuff                 | Efeito Negativo         |        |
 | Deck                   | Baralho                 |        |
 | Dexterity              | Destreza                |        |
 | Dig                    | Cavar                   |        |
