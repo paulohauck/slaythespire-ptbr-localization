@@ -770,5 +770,12 @@
       "「スキル」カードを使用すると、敵に ",
       " ダメージ与える。"
     ]
+  },
+  "GrowthPower": {
+    "NAME": "Growth",
+    "DESCRIPTIONS": [
+      "At the end of its turn, gains #b",
+      " #yStrength."
+    ]
   }
 }
