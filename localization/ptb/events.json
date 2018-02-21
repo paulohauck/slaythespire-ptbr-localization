@@ -543,7 +543,7 @@
 			"[Continuar] #rPerca #r3 #rPV.",
 			"[Parar] #rPerca #r3 #rPV.",
 			"[Pegar] #gObtenha #go #gLivro. #rPerca #r",
-      " #rPV.",
+			" #rPV.",
 			"[Sair]"
     ]
   },
@@ -693,7 +693,7 @@
   	],
       "OPTIONS": [
   			"[Abrir Caixão] #gReceba #guma #gRelíquia. #r",
-        "%: #rSeja #rAmaldiçoado #r- #rTorção.",
+  			"%: #rSeja #rAmaldiçoado #r- #rTorção.",
   			"[Sair]"
       ]
     },
