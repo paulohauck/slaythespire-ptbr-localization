@@ -25,7 +25,7 @@
   "Bonfire Elementals": {
 	"NAME": "Espíritos da Fogueira",
     "DESCRIPTIONS": [
-			"Você se depara com um grupo do que parece ser #pespíritos #pde #pfogo #proxos ~dançando~ ao redor de uma grande fogueira. NL ",
+			"Você se depara com um grupo do que parece ser #pespíritos #pde #pfogo #proxo ~dançando~ ao redor de uma grande fogueira. NL ",
 			"Os espíritos arremessam pequenos ossos e fragmentos nas chamas, que ~brilhantemente~ ~irrompem~ a cada vez. NL Conforme você se aproxima, todos os espirítos se voltam para você, com expectativas...",
 			"Você arremessa uma oferenda nas chamas. NL NL ",
 			"Entretanto, os espíritos não ficaram felizes que você ofereceu uma #pMaldição... A carta emite um chiado e solta uma branda fumaça negra. Você recebe... #p~algo~ em troca.",
@@ -134,7 +134,7 @@
 	"NAME": "Santuário do Aprimoramento",
     "DESCRIPTIONS": [
 			"À sua frente se encontra um elaborado santuário a um espírito esquecido.",
-			"O energia do santuário flui para dentro de você, fazendo-o mais forte.",
+			"A energia do santuário flui para dentro de você, fazendo-o mais forte.",
 			"Você ignora o santuário."
 	],
     "OPTIONS": [
@@ -534,7 +534,7 @@
 			"Aqueles ressuscitados por #yNeow se lembram apenas de fragmentos de seus egos passados, amaldiçoado a lutar pela eternidade. NL NL Conforme você se aproxima das últimas páginas, suas #r@antigas@ #r@feridas@ #r@começam@ #r@a@ #r@reabrir!@",
 			"Ao terminar o tomo, você resolve levá-lo com você. Com a prova em mãos, você irá reter suas memórias?",
 			"Você sai, sentindo uma #p~energia~ #p~sombria~ #p~emanando~ do livro no pedestal.",
-			"Com um incríveis esforço e força de vontade, você resiste ao êxtase do tomo e @SLAM@ o fecha. NL Você se vira e sai do tempo, se sentindo #b~drenado...~"
+			"Com um incrível esforço e força de vontade, você resiste ao êxtase do tomo e @SLAM@ o fecha. NL Você se vira e sai do tempo, se sentindo #b~drenado...~"
 	],
     "OPTIONS": [
 			"[Ler]",
@@ -550,7 +550,7 @@
   "Drug Dealer": {
 	"NAME": "Traficante de B.O.M.B.A.",
     "DESCRIPTIONS": [
-			"Um homem com um tapa olho e sorriso malicioso caualmente vem em sua direção. NL \"E aí, estranho. Interessado em um poco de #yB.O.M.B.A.? Ela o fará mais forte do que qualquer treinamento ou benção. Você vai precisar disso se for um daqueles heróis com um desejo de morte. NL O que me diz? Quer ficar #yBOMBADO?\" NL ",
+			"Um homem com um tapa olho e sorriso malicioso casualmente vem em sua direção. NL \"E aí, estranho. Interessado em um poco de #yB.O.M.B.A.? Ela o fará mais forte do que qualquer treinamento ou benção. Você vai precisar disso se for um daqueles heróis com um desejo de morte. NL O que me diz? Quer ficar #yBOMBADO?\" NL ",
 			"~\"Excelente.\"~ NL O homem lhe entrega uma seringa que parece perigosa cheia de um líquido brilhante antes de se esconder em um beco escuro.",
 			"\"Não importa, sempre haverá um próximo...\" NL O homem vagueia para longe."
 	],
