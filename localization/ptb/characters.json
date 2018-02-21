@@ -37,7 +37,7 @@
 		"~Eu~ ~te~ ~trouxe~ ~de~ ~volta...~",
 		"~Escolha...~",
 		"~Concedido...~",
-		"~Risco...~ NL ~..recompensa....~",
+		"~Arriscada...~ NL ~..recompensa....~"
 		"~Hora~ ~de~ ~um~ NL ~DESAFIO...~"
 	],
 	"OPTIONS": [
@@ -83,7 +83,7 @@
 		"[ #gInimigos #gnos #gpróximos #gtrês #gcombates #gterão #g1 #gPV ]"
 	],
 	"UNIQUE_REWARDS": [
-		"[ #rPerca #rsua #rRelíquia #rinicial #gObtenha #guma #gRelíquia #gde #gchefe #galeatória]"
+		"[ #rPerca #rsua #rRelíquia #rinicial #gGanhe #guma #gRelíquia #gde #gchefe]"
 	]
   },
   "Merchant": {

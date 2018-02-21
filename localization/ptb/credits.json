@@ -109,14 +109,6 @@
 		"NAMES": [
 		]
 	},
-	"LOC_PTB": {
-		"HEADER": "Localização - Português Brasileiro",
-		"NAMES": [
-			"Paulo \"SilverTape\" Hauck",
-			"Gustavo \"Komklave\" Duarte",
-			"Guilherme \"GPerego\" Perego"
-		]
-	},
 	"LOC_RUS": {
 		"HEADER": "Localização - Russo",
 		"NAMES": [
