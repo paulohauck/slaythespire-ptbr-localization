@@ -275,7 +275,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 
 ><sup>1</sup> [Wikipedia](https://en.wikipedia.org/wiki/Afterimage)
 
-><sup>2</sup> Segundo o desenvolvedor caseyyano em discussão no canal do Discord
+><sup>2</sup> `REFERENCES.txt`
 
 ><sup>3</sup> [Youtube](https://youtu.be/A9FfcgnedW8?t=1m18s)
 
@@ -297,10 +297,12 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | English | Brazilian Portuguese | Reason |
 | ------- | -------------------- | ------ |
 | Bite    | Morder               |        |
-| J.A.X.  | B.O.M.B.A.           | "J.A.X." é uma referência a "getting jacked" ("getting buff"). No universo do jogo, "J.A.X." é uma espécie de droga que aumenta as capacidades físicas do usuário. Um paralelo no mundo real seria "esteróides". No Brasil, temos uma gíria para esteróides: "Bomba". |
-| Shiv    | Estoque              | <sup>1</sup> |
+| J.A.X.  | B.O.M.B.A.           | "J.A.X." é uma referência a "getting jacked" ("getting buff") <sup>1</sup>. No universo do jogo, "J.A.X." é uma espécie de droga que aumenta as capacidades físicas do usuário. Um paralelo no mundo real seria "esteróides". No Brasil, temos uma gíria para esteróides: "Bomba". |
+| Shiv    | Estoque              | <sup>2</sup> |
 
-><sup>1</sup> [Wikipédia](https://pt.wikipedia.org/wiki/Estoque_(arma))
+><sup>1</sup> `REFERENCES.txt`
+
+><sup>2</sup> [Wikipédia](https://pt.wikipedia.org/wiki/Estoque_(arma))
 
 #### Uncommon | Incomum
 
@@ -344,12 +346,14 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Decay          | Apodrecer            |        |
 | Doubt          | Dúvida               |        |
 | Injury         | Ferimento            |        |
-| Necronomicurse | Maldição Necronômica |        |
+| Necronomicurse | Maldição Necronômica | Referência ao Necronomicon<sup>1</sup> |
 | Normality      | Mediocridade         |        |
 | Pain           | Dor                  |        |
 | Parasite       | Parasita             |        |
 | Regret         | Arrependimento       |        |
 | Writhe         | Torção               |        |
+
+><sup>1</sup> `REFERENCES.txt`
 
 ### Status Cards | Cartas de Condição
 
@@ -390,7 +394,181 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 
 ## Relics | Relíquias
 
-TBD
+### Starter | Inicial
+
+| English           | Brazilian Portuguese | Reason |
+| ----------------- | -------------------- | ------ |
+| Burning Blood     | Sangue Ardente       |        |
+| Ring of the Snake | Anel da Cobra        |        |
+
+### Common | Comum
+
+| English            | Brazilian Portuguese     | Reason |
+| ------------------ | ------------------------ | ------ |
+| Anchor             | Âncora                   |        |
+| Ancient Tea Set    | Antigo Conjunto de Chá   |        |
+| Art of War         | Arte da Guerra           |        |
+| Bag of Marbles     | Bolas de Gude            |        |
+| Bag of Preparation | Mochila de Preparo       |        |
+| Blood Vial         | Frasco de Sangue         |        |
+| Bronze Scales      | Escamas de Bronze        |        |
+| Dream Catcher      | Apanhador de Sonhos      |        |
+| Happy Flower       | Flor Alegre              |        |
+| Juzu Bracelet      | Bracelete Juzu           |        |
+| Lantern            | Lanterna                 |        |
+| Oddly Smooth Stone | Pedra Estranhamente Lisa |        |
+| Omamori            | Omamori                  |        |
+| Orichalcum         | Oricalco                 |        |
+| Pen Nib            | Ponta de Caneta          |        |
+| Prayer Wheel       | Roda de Orações          |        |
+| Regal Pillow       | Travesseiro Real         |        |
+| Singing Bowl       | Taça de Canto            |        |
+| Snecko Skull       | Caveira de Snecko        |        |
+| Strawberry         | Morango                  |        |
+| Tiny Chest         | Baú Pequeno              |        |
+| Vajra              | Vajra                    |        |
+| War Paint          | Pintura de Guerra        |        |
+| Whetstone          | Pedra de Amolar          |        |
+
+### Uncommon | Incomum
+
+| English            | Brazilian Portuguese     | Reason |
+| ------------------ | ------------------------ | ------ |
+| Blue Candle        | Vela Azul                |        |
+| Bottled Flame      | Chama Engarrafada        |        |
+| Bottled Lightning  | Relâmpago Engarrafado    |        |
+| Bottled Tornado    | Tornado Engarrafado      |        |
+| Centennial Puzzle  | Quebra-Cabeça Centenário |        |
+| Darkstone Periapt  | Amuleto da Pedra Negra   |        |
+| Frozen Egg         | Ovo Congelado            |        |
+| Gremlin Horn       | Chifre de Gremlin        |        |
+| Kunai              | Kunai                    |        |
+| Letter Opener      | Abridor de Cartas        |        |
+| Matryoshka         | Matriosca                |        |
+| Meat on the Bone   | Carne com Osso           |        |
+| Mercury Hourglass  | Ampulheta de Mercúrio    |        |
+| Molten Egg         | Ovo Fundido              |        |
+| Mummified Hand     | Mão Mumificada           |        |
+| Ninja Scroll       | Pergaminho do Ninja      |        |
+| Ornamental Fan     | Leque Ornamental         |        |
+| Pantograph         | Pantógrafo               |        |
+| Paper Krane        | Garsa de Papel           |        |
+| Paper Phrog        | Çapo de Papel            |        |
+| Pear               | Pera                     |        |
+| Runic Dodecahedron | Dodecaedro Rúnico        |        |
+| Self-Forming Clay  | Argila Auto-Moldadora    |        |
+| Shuriken           | Shuriken                 |        |
+| Smiling Mask       | Máscara Sorridente       |        |
+| The Courier        | O Transportador          |        |
+| Toolbox            | Caixa de Ferramentas     |        |
+| Tough Bandages     | Bandagens Resistentes    |        |
+| Toxic Egg          | Ovo Tóxico               |        |
+
+### Rare | Rara
+
+| English           | Brazilian Portuguese     | Reason |
+| ----------------- | ------------------------ | ------ |
+| Bird-Faced Urn    | Urna com Cara de Pássaro |        |
+| Calipers          | Paquímetro               |        |
+| Champion Belt     | Cinto do Campeão         |        |
+| Charon's Ashes    | Cinzas do Caronte        |        |
+| Dead Branch       | Galho Morto              |        |
+| Du-Vu Doll        | Boneca Du-Vu             |        |
+| Frozen Eye        | Olho Congelado           |        |
+| Gambling Chip     | Ficha de Apostas         |        |
+| Ginger            | Gengibre                 |        |
+| Girya             | Girya                    |        |
+| Ice Cream         | Sorvete                  |        |
+| Magic Flower      | Flor Mágica              |        |
+| Mango             | Manga                    |        |
+| Old Coin          | Moeda Velha              |        |
+| Peace Pipe        | Cachimbo da Paz          |        |
+| Red Skull         | Caveira Vermelha         |        |
+| Shovel            | Pá                       |        |
+| Sundial           | Relógio de Sol           |        |
+| Thread and Needle | Fio e Agulha             |        |
+| Tingsha           | Címbalo                  |        |
+| Torii             | Torii                    |        |
+| Unceasing Top     | Peão Incessante          |        |
+
+### Boss | Chefe
+
+| English             | Brazilian Portuguese    | Reason |
+| ------------------- | ----------------------- | ------ |
+| Astrolabe           | Astrolábio              |        |
+| Black Blood         | Sangue Negro            |        |
+| Black Star          | Estrela Negra           |        |
+| Calling Bell        | Sino de Invocação       |        |
+| Cursed Key          | Chave Amaldiçoada       |        |
+| Ectoplasm           | Ectoplasma              |        |
+| Eternal Feather     | Pena Eterna             |        |
+| Lizard Tail         | Cauda de Lagarto        |        |
+| Mark of Pain        | Marca da Dor            |        |
+| Orrery              | Planetário              |        |
+| Pandora's Box       | Caixa de Pandora        |        |
+| Philosopher's Stone | Pedra Filosofal         |        |
+| Question Card       | Carta de Interrogação   |        |
+| Runic Cube          | Cubo Rúnico             |        |
+| Runic Dome          | Domo Rúnico             |        |
+| Runic Pyramid       | Pirâmide Rúnica         |        |
+| Snecko Eye          | Olho de Snecko          |        |
+| Sozu                | Sozu                    |        |
+| The Specimen        | O Espécime              |        |
+| Tiny House          | Casa Pequena            |        |
+| Velvet Choker       | Gargantilha de Veludo   |        |
+| White Beast Statue  | Estátua da Besta Branca |        |
+
+### Event | Evento
+
+| English       | Brazilian Portuguese | Reason |
+| ------------- | -------------------- | ------ |
+| Bloody Idol   | Ídolo Sangrento      |        |
+| Enchiridion   | Enquirídio           |        |
+| Golden Idol   | Ídolo Dourado        |        |
+| Necronomicon  | Necronomicon         |        |
+| Neow's Lament | O Lamento de Neow    |        |
+| Nilry's Codex | Códice de Nilry      |        |
+| Nloth's Gift  | Presente de Nloth    |        |
+| Odd Mushroom  | Cogumelo Estranho    |        |
+| Red Mask      | Máscara Vermelha     |        |
+| Spirit Poop   | Cocô Espiritual      |        |
+
+### Shop | Loja
+
+| English         | Brazilian Portuguese     | Reason |
+| --------------- | ------------------------ | ------ |
+| Cauldron        | Caldeirão                |        |
+| Lee's Waffle    | Waffle de Lee            |        |
+| Medical Kit     | Kit Médico               |        |
+| Membership Card | Cartão de Membro         |        |
+| Strange Spoon   | Colher Estranha          |        |
+| Toy Ornithopter | Ornitóptero de brinquedo |        |
+
+### Other | Outros
+
+| English             | Brazilian Portuguese  | Reason |
+| ------------------- | --------------------- | ------ |
+| Chameleon Ring      | Anel Camaleão         |        |
+| Chemical X          | Elemento X            |        |
+| Circlet             | Tiara                 |        |
+| Derp Rock           | Derp Rock             |        |
+| Discerning Monocle  | Monóculo Perspicaz    |        |
+| Frozen Egg          | Ovo Congelado         |        |
+| Living Blade        | Lâmina Viva           |        |
+| Molten Egg          | Ovo Fundido           |        |
+| Nine Lives          | Nove Vidas            |        |
+| Nullstone Periapt   | Amuleto de pedra nula |        |
+| Red Circlet         | Tiara Vermelha        |        |
+| Ring of the Serpent | Anel da Serpente      |        |
+| Test 1              | Teste 1               |        |
+| Test 2              | Teste 2               |        |
+| Test 3              | Teste 3               |        |
+| Test 4              | Teste 4               |        |
+| Test 5              | Teste 5               |        |
+| Test 6              | Teste 6               |        |
+| Test 7              | Teste 7               |        |
+| Test 8              | Teste 8               |        |
+| Toxic Egg           | Ovo Tóxico            |        |
 
 ## Potions | Poções
 
