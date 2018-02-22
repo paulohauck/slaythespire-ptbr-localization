@@ -216,7 +216,7 @@
     },
     "Juggernaut": {
       "NAME": "Juggernaut",
-      "DESCRIPTION": "No ganhar Proteção, cause !M! de dano a um inimigo aleatório."
+      "DESCRIPTION": "Ao ganhar Proteção, cause !M! de dano a um inimigo aleatório."
     },
     "Caltrops": {
       "NAME": "Estrepes",
@@ -273,7 +273,7 @@
     },
     "Endless Agony": {
       "NAME": "Agonia Sem Fim",
-      "DESCRIPTION": "No comprar esta carta, adicione uma cópia dela à sua mão. NL Cause !D! de dano. NL Exaurir."
+      "DESCRIPTION": "Ao comprar esta carta, adicione uma cópia dela à sua mão. NL Cause !D! de dano. NL Exaurir."
     },
     "Berserk": {
       "NAME": "Enfurecer",
