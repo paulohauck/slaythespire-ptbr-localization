@@ -10,7 +10,7 @@
     },
     "Regret": {
       "NAME": "Arrependimento",
-      "DESCRIPTION": "Injogável. NL Ao final do seu turno, perca 1 PV para cada carta em sua mão."
+      "DESCRIPTION": "Injogável. NL No fim do seu turno, perca 1 PV para cada carta em sua mão."
     },
     "Crippling Poison": {
       "NAME": "Veneno Incapacitante",
@@ -108,7 +108,7 @@
     },
     "Flex": {
       "NAME": "Flexionar",
-      "DESCRIPTION": "Ganhe !M! de Força. NL Ao final do seu turno, perca !M! de Força."
+      "DESCRIPTION": "Ganhe !M! de Força. NL No fim do seu turno, perca !M! de Força."
     },
     "Dagger Spray": {
       "NAME": "Borrifar Adagas",
@@ -188,7 +188,7 @@
     },
     "Decay": {
       "NAME": "Apodrecer",
-      "DESCRIPTION": "Injogável. NL Receba 2 de dano ao final do seu turno."
+      "DESCRIPTION": "Injogável. NL Receba 2 de dano no fim do seu turno."
     },
     "Tools of the Trade": {
       "NAME": "Ferramentas do Ofício",
@@ -216,7 +216,7 @@
     },
     "Juggernaut": {
       "NAME": "Juggernaut",
-      "DESCRIPTION": "Ao ganhar Proteção, cause !M! de dano a um inimigo aleatório."
+      "DESCRIPTION": "No ganhar Proteção, cause !M! de dano a um inimigo aleatório."
     },
     "Caltrops": {
       "NAME": "Estrepes",
@@ -273,7 +273,7 @@
     },
     "Endless Agony": {
       "NAME": "Agonia Sem Fim",
-      "DESCRIPTION": "Ao comprar esta carta, adicione uma cópia dela à sua mão. NL Cause !D! de dano. NL Exaurir."
+      "DESCRIPTION": "No comprar esta carta, adicione uma cópia dela à sua mão. NL Cause !D! de dano. NL Exaurir."
     },
     "Berserk": {
       "NAME": "Enfurecer",
@@ -293,7 +293,7 @@
     },
     "Metallicize": {
       "NAME": "Metalizar",
-      "DESCRIPTION": "Ao final do seu turno, ganhe !M! de Proteção."
+      "DESCRIPTION": "No fim do seu turno, ganhe !M! de Proteção."
     },
     "Pommel Strike": {
       "NAME": "Golpe de Empunhadura",
@@ -408,7 +408,7 @@
     },
     "Combust": {
       "NAME": "Combustão",
-      "DESCRIPTION": "Ao final do seu turno, perca 1 PV e cause !M! de dano a TODOS os inimigos."
+      "DESCRIPTION": "No fim do seu turno, perca 1 PV e cause !M! de dano a TODOS os inimigos."
     },
     "Deep Breath": {
       "NAME": "Respirar Fundo",
@@ -417,7 +417,7 @@
     },
     "Doubt": {
       "NAME": "Dúvida",
-      "DESCRIPTION": "Injogável. NL Ao final do seu turno, ganhe 1 de Fraqueza."
+      "DESCRIPTION": "Injogável. NL No fim do seu turno, ganhe 1 de Fraqueza."
     },
     "Escape Plan": {
       "NAME": "Plano de Fuga",
@@ -442,8 +442,8 @@
     },
     "Well Laid Plans": {
       "NAME": "Planos Bem Definidos",
-      "DESCRIPTION": "Ao final do seu turno, Mantenha até !M! carta.",
-      "UPGRADE_DESCRIPTION": "Ao final do seu turno, Mantenha até !M! cartas."
+      "DESCRIPTION": "No fim do seu turno, Mantenha até !M! carta.",
+      "UPGRADE_DESCRIPTION": "No fim do seu turno, Mantenha até !M! cartas."
     },
     "Defend_R": {
       "NAME": "Defender",
@@ -772,11 +772,11 @@
     },
     "Demon Form": {
       "NAME": "Forma Demoníaca",
-      "DESCRIPTION": "Ao início de cada turno, ganhe !M! de Força."
+      "DESCRIPTION": "No início de cada turno, ganhe !M! de Força."
     },
     "Fire Breathing": {
       "NAME": "Cuspir Fogo",
-      "DESCRIPTION": "Ao final do seu turno, para cada Ataque jogado neste turno cause 1 de dano a TODOS os inimigos.."
+      "DESCRIPTION": "No fim do seu turno, para cada Ataque jogado neste turno cause 1 de dano a TODOS os inimigos.."
     },
     "Ghostly Armor": {
       "NAME": "Armadura Fantasmagórica",
@@ -817,8 +817,8 @@
     },
     "Burn": {
       "NAME": "Queimadura",
-      "DESCRIPTION": "Injogável. NL Receba 2 de dano ao final do seu turno.",
-      "UPGRADE_DESCRIPTION": "Injogável. NL Receba 4 de dano ao final do seu turno."
+      "DESCRIPTION": "Injogável. NL Receba 2 de dano no fim do seu turno.",
+      "UPGRADE_DESCRIPTION": "Injogável. NL Receba 4 de dano no fim do seu turno."
     },
     "Sucker Punch": {
       "NAME": "Murro",

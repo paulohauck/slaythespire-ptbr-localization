@@ -76,7 +76,7 @@
 	"NAME": "Poção de Regeneração",
     "DESCRIPTIONS": [
 			"Cure #b",
-			" #yPV no final de cada turno por #b",
+			" #yPV no fim de cada turno por #b",
 			" turnos."
 	]
   },
