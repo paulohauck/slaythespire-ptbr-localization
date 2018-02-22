@@ -115,7 +115,7 @@
     ]
   },
   "Corruption": {
-    "NAME": "Corrução",
+    "NAME": "Corrupção",
     "DESCRIPTIONS": [
 	"Técnicas custam #b0. Sempre que você jogar uma #yTécnica, #yExaura-a.",
 	"Sempre que você jogar uma #yTécnica, #yExaura-a."
@@ -654,7 +654,7 @@
     ]
   },
   "Spore Cloud": {
-    "NAME": "Novem de Esporos",
+    "NAME": "Nuvem de Esporos",
     "DESCRIPTIONS": [
 	"Na morte, aplica #yVulnerabilidade a você por #b",
 	" turnos."
