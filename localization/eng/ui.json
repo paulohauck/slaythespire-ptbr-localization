@@ -103,7 +103,12 @@
 		"Spanish",
 		"Hebrew",
 		"Turkish",
-		"Swedish"
+		"Swedish",
+		"Norwegian",
+		"Thai",
+		"Serbian",
+		"Ukrainian",
+		"Vietnamese"
 	]
   },
   "Proceed Button": {
@@ -614,8 +619,9 @@
 		"#yFloor #yReached: NL  ",
 		" NL NL  #yDeck: NL ",
 		" NL NL  #yRelics: NL  ",
-		" NL Today's Challenge: NL TAB #yClass: NL TAB ",
-		" NL TAB #yMods: "
+		" NL Today's Challenge: NL #yClass: NL ",
+		" NL #yMods: ",
+		"Modifiers: "
 	]
   },
   "SettingsScreen": {
@@ -935,7 +941,7 @@
 		"Embark on a quest to Slay the Spire.",
 		"Daily Climb",
 		"",
-		"A new challenge is availble once a day.\n\nCompete with other players for the highest score!",
+		"A new challenge is available once a day.\n\nCompete with other players for the highest score!",
 		"Ascension",
 		"",
 		"The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",

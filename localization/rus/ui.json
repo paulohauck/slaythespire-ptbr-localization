@@ -693,7 +693,12 @@
       "Spanish",
       "Hebrew",
       "Turkish",
-      "Swedish"
+      "Swedish",
+      "Norwegian",
+      "Thai",
+      "Serbian",
+      "Ukrainian",
+      "Vietnamese"
     ]
   },
   "UnlockTextEffect": {
@@ -925,7 +930,8 @@
       " NL NL  #yDeck: NL ",
       " NL NL  #yRelics: NL  ",
       " NL Today's Challenge: NL TAB #yClass: NL TAB ",
-      " NL TAB #yMods: "
+      " NL TAB #yMods: ",
+      "Modifiers: "
     ]
   },
   "MenuPanels": {

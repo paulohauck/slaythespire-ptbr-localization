@@ -29,7 +29,7 @@
 	},
 	"Restless Journey": {
 		"NAME": "Restless Journey",
-		"DESCRIPTION": "You no longer heal when entering new levels."
+		"DESCRIPTION": "You no longer heal when entering new acts."
 	},
 	"Slow Start": {
 		"NAME": "Slow Start",
@@ -41,15 +41,15 @@
 	},
 	"Shiny": {
 		"NAME": "Shiny",
-		"DESCRIPTION": "Start with 1 random Rare card."
+		"DESCRIPTION": "Start with 1 Rare card."
 	},
 	"Allstar": {
 		"NAME": "All Star",
-		"DESCRIPTION": "Start with 2 random colorless cards."
+		"DESCRIPTION": "Start with 2 colorless cards."
 	},
 	"Diverse": {
 		"NAME": "Diverse",
-		"DESCRIPTION": "Start with 2 random cards from another class."
+		"DESCRIPTION": "Start with 2 cards from another class."
 	},
 	"Vintage": {
 		"NAME": "Vintage",

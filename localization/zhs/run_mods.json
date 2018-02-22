@@ -3,20 +3,20 @@
     "NAME": "诅咒局",
     "DESCRIPTION": "每打败一名Boss都被诅咒。"
   },
-  "Double Elites": {
-    "NAME": "双倍精英",
-    "DESCRIPTION": "精英数量翻倍。"
+  "Elite Swarm": {
+    "NAME": "遍地精英",
+    "DESCRIPTION": "高塔中满是精英。"
   },
-  "Fat Deck": {
-    "NAME": "满手是牌",
-    "DESCRIPTION": "不能跳过卡牌奖励。"
+  "Greed": {
+    "NAME": "贪婪",
+    "DESCRIPTION": "不能跳过战斗胜利后的奖励。"
   },
   "Growing Enemies": {
     "NAME": "万物生长",
     "DESCRIPTION": "敌人每回合变强。"
   },
   "Heirloom": {
-    "NAME": "遗产",
+    "NAME": "传家宝",
     "DESCRIPTION": "开始时获得一件随机遗物。"
   },
   "Lethal Enemies": {
@@ -39,36 +39,20 @@
     "NAME": "坚实强敌",
     "DESCRIPTION": "敌人获得25%额外生命。"
   },
-  "Turtle": {
-    "NAME": "龟缩",
-    "DESCRIPTION": "开始时少一张打击，多一张防御。"
+  "Shiny": {
+    "NAME": "金光闪闪",
+    "DESCRIPTION": "开始时拥有一张随机稀有牌。"
+  },
+  "Allstar": {
+    "NAME": "全明星",
+    "DESCRIPTION": "开始时拥有两张随机无色牌。"
+  },
+  "Diverse": {
+    "NAME": "涉猎广泛",
+    "DESCRIPTION": "开始时拥有两张随机其他职业的牌。"
   },
   "Vintage": {
     "NAME": "奇货可居",
     "DESCRIPTION": "商人涨价25%。"
-  },
-  "TEST POSITIVE": {
-    "NAME": "TEST POSITIVE",
-    "DESCRIPTION": "TEST POSITIVETEST POSITIVETEST POSITIVE."
-  },
-  "Shiny": {
-    "NAME": "Shiny",
-    "DESCRIPTION": "Start with 1 random Rare card."
-  },
-  "Elite Swarm": {
-    "NAME": "Elite Swarm",
-    "DESCRIPTION": "Elite enemies are swarming the Spire."
-  },
-  "Allstar": {
-    "NAME": "All Star",
-    "DESCRIPTION": "Start with 2 random colorless cards."
-  },
-  "Greed": {
-    "NAME": "Greed",
-    "DESCRIPTION": "You cannot skip combat rewards."
-  },
-  "Diverse": {
-    "NAME": "Diverse",
-    "DESCRIPTION": "Start with 2 random cards from another class."
   }
 }

@@ -31,7 +31,12 @@
       "西班牙語",
       "希伯來語",
       "土耳其語",
-      "瑞典語"
+      "瑞典語",
+      "Norwegian",
+      "Thai",
+      "Serbian",
+      "Ukrainian",
+      "Vietnamese"
     ]
   },
   "Proceed Button": {
@@ -925,7 +930,8 @@
       " NL NL  #yDeck: NL ",
       " NL NL  #yRelics: NL  ",
       " NL Today's Challenge: NL TAB #yClass: NL TAB ",
-      " NL TAB #yMods: "
+      " NL TAB #yMods: ",
+      "Modifiers: "
     ]
   },
   "MenuPanels": {
