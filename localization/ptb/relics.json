@@ -29,7 +29,7 @@
 	"NAME": "Bolas de Gude",
 	"FLAVOR": "Já foi um brinquedo popular na Cidade. Útil para desequilibrar inimigos.",
     "DESCRIPTIONS": [
-	"No começo de cada combate, aplique #b",
+	"No início de cada combate, aplique #b",
 	" de #yVulnerabilidade a TODOS os inimigos."
 	]
   },
@@ -37,7 +37,7 @@
 	"NAME": "Mochila de Preparo",
 	"FLAVOR": "Uma mochila de aventureiro gigante. Possui várias alças e bolsos.",
     "DESCRIPTIONS": [
-	"No começo de cada combate, compre #b",
+	"No início de cada combate, compre #b",
 	" cartas adicionais."
 	]
   },
@@ -68,7 +68,7 @@
 	"NAME": "Frasco de Sangue",
 	"FLAVOR": "Um frasco que contém o sangue de um antigo e puro vampiro.",
     "DESCRIPTIONS": [
-	"No começo de cada combate, cure #b",
+	"No início de cada combate, cure #b",
 	" PV."
 	]
   },
@@ -92,9 +92,9 @@
 	"NAME": "Chama Engarrafada",
 	"FLAVOR": "Dentro da garrafa reside uma chama que queima eternamente.",
     "DESCRIPTIONS": [
-	"Após pegar, escolha uma carta de Ataque. No começo de cada combate, essa carta estará em sua mão.",
+	"Após pegar, escolha uma carta de Ataque. No início de cada combate, essa carta estará em sua mão.",
 	"Escolha uma carta para ",
-	"No começo de cada combate, adicione ",
+	"No início de cada combate, adicione ",
 	" à sua mão."
 	]
   },
@@ -102,9 +102,9 @@
 	"NAME": "Relâmpago Engarrafado",
 	"FLAVOR": "Olhando para dentro do turbilhão, você vê uma parte de si mesmo lhe encarando de volta.",
     "DESCRIPTIONS": [
-	"Após pegar, escolha uma carta de Técnica. No começo de cada combate, essa carta estará em sua mão.",
+	"Após pegar, escolha uma carta de Técnica. No início de cada combate, essa carta estará em sua mão.",
 	"Escolha uma carta para ",
-	"No começo de cada combate, adicione ",
+	"No início de cada combate, adicione ",
 	" à sua mão."
 	]
   },
@@ -112,9 +112,9 @@
 	"NAME": "Tornado Engarrafado",
 	"FLAVOR": "Relíquia de teste.",
     "DESCRIPTIONS": [
-	"Após pegar, escolha uma carta de Poder. No começo de cada combate, essa carta estará em sua mão.",
+	"Após pegar, escolha uma carta de Poder. No início de cada combate, essa carta estará em sua mão.",
 	"Escolha uma carta para ",
-	"No começo de cada combate, adicione ",
+	"No início de cada combate, adicione ",
 	" à sua mão."
 	]
   },
@@ -138,7 +138,7 @@
 	"NAME": "Paquímetro",
 	"FLAVOR": "\"Precisão mecânica leva à grandeza\" - O Arquiteto",
     "DESCRIPTIONS": [
-	"No começo do seu turno, perca #b",
+	"No início do seu turno, perca #b",
 	" de #yProteção ao invés de toda sua #yProteção."
 	]
   },
@@ -217,9 +217,9 @@
 	"FLAVOR": "Você sente a energia maliciosa emanando da chave. Poder vem com um preço.",
     "DESCRIPTIONS": [
 	" Sempre que você abrir um baú que não seja de chefe, obtenha uma #rMaldição.",
-	"Ganhe [R] no começo de cada turno.",
-	"Ganhe [G] no começo de cada turno.",
-	"Ganhe [B] no começo de cada turno."
+	"Ganhe [R] no início de cada turno.",
+	"Ganhe [G] no início de cada turno.",
+	"Ganhe [B] no início de cada turno."
 	]
   },
   "Dead Branch": {
@@ -241,9 +241,9 @@
 	"FLAVOR": "As runas são indecifráveis.",
     "DESCRIPTIONS": [
 	"Se seu PV estiver cheio, ganhe ",
-	"[R] no começo de cada turno.",
-	"[G] no começo de cada turno.",
-	"[B] no começo de cada turno."
+	"[R] no início de cada turno.",
+	"[G] no início de cada turno.",
+	"[B] no início de cada turno."
 	]
   },
   "Dream Catcher": {
@@ -269,9 +269,9 @@
 	"FLAVOR": "Essa bolha de gosma e energia parece pulsar com vida.",
     "DESCRIPTIONS": [
 	" Você não pode mais ganhar #yOuro.",
-	"Ganhe [R] no começo de cada turno.",
-	"Ganhe [G] no começo de cada turno.",
-	"Ganhe [B] no começo de cada turno."
+	"Ganhe [R] no início de cada turno.",
+	"Ganhe [G] no início de cada turno.",
+	"Ganhe [B] no início de cada turno."
 	]
   },
   "Frozen Egg 2": {
@@ -299,7 +299,7 @@
 	"NAME": "Enquirídio",
 	"FLAVOR": "O lendário diário de um antigo lich.",
     "DESCRIPTIONS": [
-	"No começo de cada combate, adicione uma carta de #yPoder aleatória à sua mão. Ela custa #b0 até o fim do turno."
+	"No início de cada combate, adicione uma carta de #yPoder aleatória à sua mão. Ela custa #b0 até o fim do turno."
 	]
   },
   "Eternal Feather": {
@@ -323,7 +323,7 @@
 	"NAME": "Ficha de Apostas",
 	"FLAVOR": "Você vê uma pequena inscrição de um lado. Está escrito: \"Ficha da Sorte do Bear!\"",
     "DESCRIPTIONS": [
-	"No começo de cada combate, descarte qualquer número de cartas e então compre o mesmo tanto."
+	"No início de cada combate, descarte qualquer número de cartas e então compre o mesmo tanto."
 	]
   },
   "Ginger": {
@@ -441,7 +441,7 @@
 	"NAME": "Marca da Dor",
 	"FLAVOR": "Essa marca era utilizada pelas tribos do norte para mostrar seus guerreiros que haviam dominado a dor em batalha.",
     "DESCRIPTIONS": [
-	"Ganhe [R] no começo de cada turno. Comece combates com #b2 #rFeridas na sua pilha de compra."
+	"Ganhe [R] no início de cada turno. Comece combates com #b2 #rFeridas na sua pilha de compra."
 	]
   },
   "Matryoshka": {
@@ -479,7 +479,7 @@
 	"NAME": "Ampulheta de Mercúrio",
 	"FLAVOR": "Uma ampulheta encantada que escorre sem fim.",
     "DESCRIPTIONS": [
-	"No começo de seu turno, cause #b",
+	"No início de seu turno, cause #b",
 	" de dano a TODOS os inimigos."
 	]
   },
@@ -550,7 +550,7 @@
 	"NAME": "Pedra Curiosamente Lisa",
 	"FLAVOR": "Você nunca viu algo tão liso e impecável. Deve ser um trabalho dos Anciões.",
     "DESCRIPTIONS": [
-	"No começo de cada combate, ganhe #b",
+	"No início de cada combate, ganhe #b",
 	" de #yDestreza."
 	]
   },
@@ -613,7 +613,7 @@
 	"NAME": "Pantógrafo",
 	"FLAVOR": "\"Fundações sólidas não são acidentais. Ferramentas para planejamento são necessárias.\" - O Arquiteto",
     "DESCRIPTIONS": [
-	"No começo de combates de chefe, cure #b",
+	"No início de combates de chefe, cure #b",
 	" PV."
 	]
   },
@@ -657,9 +657,9 @@
 	"FLAVOR": "Energia pura emana da pedra, fortalecendo todos por perto.",
     "DESCRIPTIONS": [
 	" TODOS os inimigos começam com #b2 de #yForça.",
-	"Ganhe [R] no começo de cada turno.",
-	"Ganhe [G] no começo de cada turno.",
-	"Ganhe [B] no começo de cada turno."
+	"Ganhe [R] no início de cada turno.",
+	"Ganhe [G] no início de cada turno.",
+	"Ganhe [B] no início de cada turno."
 	]
   },
   "Prayer Wheel": {
@@ -687,7 +687,7 @@
 	"NAME": "Máscara Vermelha",
 	"FLAVOR": "Essa muito estilosa máscara pertence ao líder dos Bandidos de Máscara Vermelha. Tecnicamente isso te torna o líder agora?",
     "DESCRIPTIONS": [
-	"No começo de cada combate, aplique #b",
+	"No início de cada combate, aplique #b",
 	" de #yFraqueza a TODOS os inimigos."
 	]
   },
@@ -726,7 +726,7 @@
 	"NAME": "Domo Rúnico",
 	"FLAVOR": "As runas são indecifráveis.",
     "DESCRIPTIONS": [
-	"no começo de cada turno. Você não pode mais ver as #bIntenções inimigas.",
+	"no início de cada turno. Você não pode mais ver as #bIntenções inimigas.",
 	"Ganhe [R] ",
 	"Ganhe [G] ",
 	"Ganhe [B] "
@@ -783,7 +783,7 @@
 	"NAME": "Anel da Cobra",
 	"FLAVOR": "Feito de uma cobra fossilizada. Representa grandes habilidades como uma caçadora.",
     "DESCRIPTIONS": [
-	"No começo de cada combate, compre #b",
+	"No início de cada combate, compre #b",
 	" cartas adicionais."
 	]
   },
@@ -807,9 +807,9 @@
 	"FLAVOR": "Você nota que líquidos mágicos parecem perder suas propriedades quando perto desta relíquia.",
     "DESCRIPTIONS": [
 	" Você não pode mais obter poções. ",
-	"Ganhe [R] no começo de cada turno.",
-	"Ganhe [G] no começo de cada turno.",
-	"Ganhe [B] no começo de cada turno."
+	"Ganhe [R] no início de cada turno.",
+	"Ganhe [G] no início de cada turno.",
+	"Ganhe [B] no início de cada turno."
 	]
   },
   "Spirit Poop": {
@@ -902,7 +902,7 @@
 	"NAME": "Teste 4",
 	"FLAVOR": "Relíquia teste para o beta. Se você gostou dela, fale aos desenvolvedores.",
     "DESCRIPTIONS": [
-	"No começo do combate, o custo de todos as suas cartas de #yGolpe é #b0."
+	"No início do combate, o custo de todos as suas cartas de #yGolpe é #b0."
 	]
   },
   "Test 5": {
@@ -947,7 +947,7 @@
 	"NAME": "Linha e Agulha",
 	"FLAVOR": "Enrolando a linha mágica em volta do seu corpo, você se sente mais resistente ao toque.",
     "DESCRIPTIONS": [
-	"No começo de cada combate, ganhe #b",
+	"No início de cada combate, ganhe #b",
 	" de #yArmadura #yChapeada."
 	]
   },
@@ -982,7 +982,7 @@
 	"NAME": "Caixa de Ferramentas",
 	"FLAVOR": "Uma ferramenta para cada trabalho.",
     "DESCRIPTIONS": [
-	"No começo de cada combate, adicione uma carta incolor aleatória à sua mão."
+	"No início de cada combate, adicione uma carta incolor aleatória à sua mão."
 	]
   },
   "Torii": {
@@ -1028,7 +1028,7 @@
 	"NAME": "Vajra",
 	"FLAVOR": "Uma relíquia ornamental dada à guerreiros demonstrando glória em batalha.",
     "DESCRIPTIONS": [
-	"No começo de cada combate, ganhe #b",
+	"No início de cada combate, ganhe #b",
 	" de #yForça."
 	]
   },
@@ -1038,9 +1038,9 @@
     "DESCRIPTIONS": [
 	"Você não pode jogar mais de #b",
 	" cartas por turno.",
-	"Ganhe [R] no começo de cada turno. ",
-	"Ganhe [G] no começo de cada turno. ",
-	"Ganhe [B] no começo de cada turno. ",
+	"Ganhe [R] no início de cada turno. ",
+	"Ganhe [G] no início de cada turno. ",
+	"Ganhe [B] no início de cada turno. ",
 	"Eu só posso jogar até NL #r"
 	]
   },
@@ -1064,7 +1064,7 @@
 	"NAME": "Pedra Derp",
 	"FLAVOR": "Reserva de Espaço",
     "DESCRIPTIONS": [
-		"No começo de cada turno, ganhe #b",
+		"No início de cada turno, ganhe #b",
 		" Carga. NL (Não pode ser removida ou transformada.)"
 	]
   },
