@@ -122,7 +122,7 @@
 	"NAME": "Escamas de Bronze",
 	"FLAVOR": "As escamas afiadas do Guardião. Arrumam-se para proteger o usuário. ",
     "DESCRIPTIONS": [
-	"Sempre que levar dano, cause #b",
+	"Sempre que receber dano, cause #b",
 	" de dano de volta."
 	]
   },
@@ -558,7 +558,7 @@
 	"NAME": "Cogumelo Estranho",
 	"FLAVOR": "\"Depois de comer trichella parastius eu me senti maior e menos... suscetível.\" - Ranwid ",
     "DESCRIPTIONS": [
-	"Quando #yVulnerável, leve #b25% mais dano ao invés de #b50%."
+	"Quando #yVulnerável, receba #b25% a mais dano ao invés de #b50%."
 	]
   },
   "Old Coin": {

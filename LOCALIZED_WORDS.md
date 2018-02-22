@@ -678,7 +678,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Compendium             | Compêndio               |        |
 | Continue               | Continuar               |        |
 | Damage                 | Dano                    |        |
-| Deal                   | Cause                   |        |
+| Deal (damage)          | Cause (dano)            |        |
 | Debuff                 | Efeito Negativo         |        |
 | Deck                   | Baralho                 |        |
 | Dexterity              | Destreza                |        |
@@ -733,6 +733,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Standard               | Padrão                  |        |
 | Strength               | Força                   |        |
 | Stunned                | Atordoado               |        |
+| Take (damage)          | Receber (dano)          |        |
 | Tip                    | Dica                    |        |
 | Toke                   | Pitar                   | Gíria  |
 | Transform              | Transformar             |        |
