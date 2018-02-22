@@ -89,21 +89,26 @@
   },
   "LanguageDropdown": {
     "TEXT": [
-		"Brazilian Portugese",
-		"Chinese (Simplified)",
-		"Chinese (Traditional)",
-		"English",
-		"French",
-		"German",
-		"Italian",
-		"Japanese",
-		"Korean",
-		"Polish",
-		"Russian",
-		"Spanish",
-		"Hebrew",
-		"Turkish",
-		"Swedish"
+		"Português Brasileiro",
+		"Chinês (Simplificado)",
+		"Chinês (Tradicional)",
+		"Inglês",
+		"Francês",
+		"Alemão",
+		"Italiano",
+		"Japonês",
+		"Coreano",
+		"Polonês",
+		"Russo",
+		"Espanhol",
+		"Hebraico",
+		"Turco",
+		"Sueco",
+		"Norueguês",
+		"Tailandês",
+		"Sérvio",
+		"Ucraniano",
+		"Vietnamita"
 	]
   },
   "Proceed Button": {
@@ -614,8 +619,9 @@
 		"#yAndar #yAlcançado: NL  ",
 		" NL NL  #yBaralho: NL ",
 		" NL NL  #yRelíquias: NL  ",
-		" NL Desafio de Hoje: NL TAB #yClasse: NL TAB ",
-		" NL TAB #yModificadores: "
+		" NL Desafio de Hoje: NL #yClasse: NL ",
+		" NL #yModificadores: ",
+		"Modificadores: "
 	]
   },
   "SettingsScreen": {
