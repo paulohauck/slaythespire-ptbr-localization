@@ -88,5 +88,6 @@ Anthony and Casey
 - Guilherme "GPerego" Perego
 - Gustavo "KomKlave" Duarte
 - José "Maneimax" Vasconcelos
+- Leonardo "Iikat" Takii
 - Nathan "NoxShadow" Cervieri
 - Paulo "SilverTape" Hauck
