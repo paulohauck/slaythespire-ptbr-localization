@@ -75,7 +75,7 @@
     },
     "Sadistic Nature": {
       "NAME": "Natureza Sádica",
-      "DESCRIPTION": "Sempre que você aplicar um Debuff a um inimigo, ele sofrerá !M! de dano."
+      "DESCRIPTION": "Sempre que você aplicar um Efeito Negativo a um inimigo, ele recebe !M! de dano."
     },
     "J.A.X.": {
       "NAME": "B.O.M.B.A.",
@@ -817,8 +817,8 @@
     },
     "Burn": {
       "NAME": "Queimadura",
-      "DESCRIPTION": "Injogável. NL Ao final do seu turno, sofra 2 de dano.",
-      "UPGRADE_DESCRIPTION": "Injogável. NL Ao final do seu turno, sofra 4 de dano."
+      "DESCRIPTION": "Injogável. NL Receba 2 de dano ao final do seu turno.",
+      "UPGRADE_DESCRIPTION": "Injogável. NL Receba 4 de dano ao final do seu turno."
     },
     "Sucker Punch": {
       "NAME": "Murro",
