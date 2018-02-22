@@ -227,7 +227,7 @@
 	],
     "OPTIONS": [
 			"[Melecado] #rPerca #ruma #rcarta #rRara #raleatória.",
-			"[Aterrissar de Cara] #rTome #r",
+			"[Aterrissar de Cara] #rReceba #r",
 			" #rde #rdano. #rSeja #rAmaldiçoado #r- #rFerimento.",
 			"[Sair]"
     ]
@@ -340,7 +340,7 @@
 			"[Pegar] #gReceba #go #gÍdolo #gDourado. #rAtive #ruma #rarmadilha.",
 			"[Sair]",
 			"[Correr] #rSeja #rAmaldiçoado #r- #rFerimento.",
-			"[Arrebentar] #rSofra #r",
+			"[Arrebentar] #rReceba #r",
 			" #rde #rDano.",
 			"[Enconder] #rPerca #r",
 			" #rPV #rMáximo."
