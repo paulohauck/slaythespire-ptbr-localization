@@ -29,7 +29,7 @@
 	},
 	"Restless Journey": {
 		"NAME": "Jornada sem Descanso",
-		"DESCRIPTION": "Você não mais cura quando entra em novos níveis."
+		"DESCRIPTION": "Você não mais se cura ao entrar em novos atos."
 	},
 	"Slow Start": {
 		"NAME": "Início Lento",
@@ -41,15 +41,15 @@
 	},
 	"Shiny": {
 		"NAME": "Cintilante",
-		"DESCRIPTION": "Comece com 1 carta Rara aleatória."
+		"DESCRIPTION": "Comece com 1 carta Rara."
 	},
 	"Allstar": {
 		"NAME": "Profissional",
-		"DESCRIPTION": "Comece com 2 cartas incolores aleatórias."
+		"DESCRIPTION": "Comece com 2 cartas incolores."
 	},
 	"Diverse": {
 		"NAME": "Diverso",
-		"DESCRIPTION": "Comece com 2 cartas aleatórias de outra classe."
+		"DESCRIPTION": "Comece com 2 cartas de outra classe."
 	},
 	"Vintage": {
 		"NAME": "Vintage",
