@@ -788,15 +788,15 @@
 	]
   },
   "Snecko Eye": {
-	"NAME": "Olho de Snecko",
-	"FLAVOR": "Um olho de um Snecko derrubado. Muito maior que você imaginava.",
+	"NAME": "Olho de Cortixa",
+	"FLAVOR": "Um olho de uma Cortixa derrubada. Muito maior que você imaginava.",
     "DESCRIPTIONS": [
 	"Compre #b2 cartas adicionais todo turno. Comece cada combate #yConfuso."
 	]
   },
   "Snake Skull": {
-	"NAME": "Crânio de Snecko",
-	"FLAVOR": "Uma crânio de Snecko em condições impecáveis. Misteriosamente limpa e lisa, terra e sujeira se desprendem inexplicavelmente.",
+	"NAME": "Crânio de Cortixa",
+	"FLAVOR": "Uma crânio de Cortixa em condições impecáveis. Misteriosamente limpa e lisa, terra e sujeira se desprendem inexplicavelmente.",
     "DESCRIPTIONS": [
 	"Sempre que você aplicar #yVeneno, aplique #b",
 	" de #yVeneno adicional."
