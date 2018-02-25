@@ -389,7 +389,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Bear             | Bear                  | A tradução de "Bear" é "Urso". Porém, no universo do jogo, Bear é o nome próprio de um dos 3 bandidos da máscara vermelha. |
 | Book of Stabbing | Livro de Estocadas    |        |
 | Bronze Automaton | Autômato de Broze     |        |
-| Byrd             | ???                   | TBD    |
+| Byrd             | Páçaro                | O erro de português é proposital. |
 | Centurion        | Centurião             |        |
 | The Champ        | O Campeão             |        |
 | Chosen           | Escolhido             |        |
