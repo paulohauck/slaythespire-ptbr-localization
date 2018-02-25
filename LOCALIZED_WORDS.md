@@ -379,18 +379,69 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 
 ## Monsters | Monstros
 
-| English          | Brazilian Portuguese | Reason |
-| ---------------- | -------------------- | ------ |
-| Awakened One     | O Despertado         |        |
-| Bronze Automaton | Autômato de Broze    |        |
-| Champ            | Campeão              |        |
-| Collector        | Colecionador         |        |
-| Donu & Deca      | Donu & Deca          |        |
-| Guardian         | Guardião             |        |
-| Hexaghost        | Hexafantasma         |        |
-| Slime Boss       | Chefe Gosma          |        |
-| Time Eater       | Devorador do Tempo   |        |
-| WIP              |                      |        |
+| English          | Brazilian Portuguese  | Reason |
+| ---------------- | --------------------- | ------ |
+| Acid Slime (L)   | Gosma Ácida (G)       |        |
+| Acid Slime (M)   | Gosma Ácida (M)       |        |
+| Acid Slime (S)   | Gosma Ácida (P)       |        |
+| Apology Slime    | Gosma de Desculpas    |        |
+| Awakened One     | O Despertado          |        |
+| Bear             | Bear                  | A tradução de "Bear" é "Urso". Porém, no universo do jogo, Bear é o nome próprio de um dos 3 bandidos da máscara vermelha. |
+| Book of Stabbing | Livro de Estocadas    |        |
+| Bronze Automaton | Autômato de Broze     |        |
+| Byrd             | ???                   | TBD    |
+| Centurion        | Centurião             |        |
+| The Champ        | O Campeão             |        |
+| Chosen           | Escolhido             |        |
+| The Collector    | O Colecionador        |        |
+| Corrupt Heart    | Corração Corrupto     |        |
+| Cultist          | Cultista              |        |
+| Darkling         | Sombrio               |        |
+| Deca             | Deca                  |        |
+| Donu             | Donu                  |        |
+| Exploder         | Detonador             |        |
+| Fat Gremlin      | Gremlin Gordo         |        |
+| Fire Orb         | Orbe de Fogo          |        |
+| Flame Bruiser    | Brutamontes de Chamas |        |
+| Fungi Beast      | Besta Fungo           |        |
+| Giant Head       | Cabeça Gigante        |        |
+| Gremlin Leader   | Gremlin Líder         |        |
+| Gremlin Nob      | ???                   | TBD    |
+| Gremlin Wizard   | Gremlin Mago          |        |
+| The Guardian     | O Guardião            |        |
+| Hexaghost        | Hexafantasma          |        |
+| Jaw Worm         | Vorme Mandíbula       |        |
+| Lagavulin        | Lagavulin             |        |
+| Looter           | Saqueador             |        |
+| Louse            | Piolho                |        |
+| Mad Gremlin      | Gremlin Louco         |        |
+| The Maw          | O Bucho               |        |
+| Mugger           | Assaltante            |        |
+| Mystic           | Místico               |        |
+| Nemesis          | Nêmesis               |        |
+| Orb              | Orbe                  |        |
+| Orb Walker       | Orbe Caminhante       |        |
+| Pointy           | Pointy                | A tradução de "Pointy" é "Pontiagudo". Porém, no universo do jogo, Pointy é o nome próprio de um dos 3 bandidos da máscara vermelha. |
+| Puppeteer        | Titeriteiro           |        |
+| Repulsor         | Repulsor              |        |
+| Romeo            | Romeo                 |        |
+| Sentry           | Sentinela             |        |
+| Serpent          | Serpente              |        |
+| Shelled Parasite | Parasita Com Casca    |        |
+| Shield Gremlin   | Gremlin de Escudo     |        |
+| Slaver           | Escravista            |        |
+| Slime Boss       | Chefe Gosma           |        |
+| Snake Plant      | Planta Cobra          |        |
+| Sneaky Gremlin   | Gremlin Furtivo       |        |
+| Snecko           | Cortixa               | "Snecko" é a mistura de "snake" (cobra) + "gecko" (lagartixa). Logo, Cortixa. |
+| Spheric Guardian | Guardião Esférico     |        |
+| Spike Slime (L)  | Gosma Espinho (G)     |        |
+| Spike Slime (M)  | Gosma Espinho (M)     |        |
+| Spike Slime (S)  | Gosma Espinho (P)     |        |
+| Spiker           | Espinhoso             |        |
+| Taskmaster       | Capataz               |        |
+| Time Eater       | Devorador do Tempo    |        |
+| Torch Head       | Cabeça de Tocha       |        |
 
 ## Relics | Relíquias
 
