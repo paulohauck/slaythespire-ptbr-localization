@@ -406,7 +406,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Fungi Beast      | Besta Fungo           |        |
 | Giant Head       | Cabeça Gigante        |        |
 | Gremlin Leader   | Gremlin Líder         |        |
-| Gremlin Nob      | ???                   | TBD    |
+| Gremlin Nob      | Gremlin Nobre         |        |
 | Gremlin Wizard   | Gremlin Mago          |        |
 | The Guardian     | O Guardião            |        |
 | Hexaghost        | Hexafantasma          |        |
