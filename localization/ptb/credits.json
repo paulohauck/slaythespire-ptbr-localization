@@ -110,6 +110,17 @@
 		"NAMES": [
 		]
 	},
+	"LOC_PTB": {
+		"HEADER": "Localização - Português do Brasil",
+		"NAMES": [
+			"Guilherme \"GPerego\" Perego",
+			"Gustavo \"KomKlave\" Duarte",
+			"José \"Maneimax\" Vasconcelos",
+			"Leonardo \"Iikat\" Takii",
+			"Nathan \"NoxShadow\" Cervieri",
+			"Paulo \"SilverTape\" Hauck"
+		]
+	},
 	"LOC_RUS": {
 		"HEADER": "Localização - Russo",
 		"NAMES": [
