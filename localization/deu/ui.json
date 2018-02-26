@@ -76,7 +76,7 @@
       "Schatz",
       "Schatzräume",
       "In diesen begehrten Räumen kannst du #yRelikte und #yGold finden.",
-      "Ausruhen",
+      "Ruheort",
       "Ruheorte",
       "Halte in diesen Räumen inne, um deine TP zu #gHeilen oder eine Karte zu #yVerbessern.",
       "Gegner",
@@ -155,7 +155,9 @@
   },
   "TopPanel": {
     "TEXT": [
-      " Ebene"
+      " Ebene",
+      " - Aufstieg ",
+      " (Max. Level)"
     ]
   },
   "UnlockCharacterScreen": {
@@ -335,26 +337,26 @@
       "TP-Bonus"
     ],
     "EXTRA_TEXT": [
-      "Exordium Elites Killed",
-      "City Elites Killed",
-      "Beyond Elites Killed",
-      "Speedster",
-      "Light Speed",
-      "Highlander",
-      "Collection",
-      "Full Set",
-      "Pauper",
-      "Librarian",
-      "Encyclopedia",
-      "Well Fed",
-      "Stuffed",
-      "Curses!",
-      "On My Own Terms",
+      "Exordium-Eliten getötet",
+      "Stadt-Eliten getötet",
+      "Jenseits-Eliten getötet",
+      "Sprinter",
+      "Lichtgeschwindigkeit",
+      "Hochländer",
+      "Sammlung",
+      "Volles Set",
+      "Knabe",
+      "Bibliothekar",
+      "Enzyklopädie",
+      "Gut genährt",
+      "Vollgestopft",
+      "Verflucht!",
+      "Selbst schuld",
       "",
-      "Perfect",
-      "Beyond Perfect",
+      "Perfekt",
+      "Mehr als Perfekt",
       "Overkill",
-      "C-c-c-combo",
+      "K-k-k-kombo",
       ""
     ]
   },
@@ -383,7 +385,10 @@
   "CardRewardScreen": {
     "TEXT": [
       "Überspringen",
-      "Wähle eine Karte"
+      "Wähle eine Karte",
+      "+2 Max TP",
+      "VOTE NOW: ",
+      "s left."
     ]
   },
   "BossRelicSelectScreen": {
@@ -391,7 +396,9 @@
       "Bestätigen",
       "Bestätige deine Auswahl",
       "Wähle ein Relikt",
-      "Überspringen"
+      "Überspringen",
+      "VOTE NOW: ",
+      "s left."
     ]
   },
   "GridCardSelectScreen": {
@@ -432,25 +439,25 @@
   },
   "OptionsPanel": {
     "TEXT": [
-      "HINWEIS: Optionen in ROT wurden noch nicht implementiert.",
+      "",
       "Spielmenü",
       "Grafik",
       "Auflösung: NL Max. Framerate:",
       "Vollbild NL Vollbild-Fenster (empfohlen) NL Screenshake",
       "Ton",
       "Gesamtlautstärke NL Musiklautstärke NL Effektlautstärke",
-      "Hintergrundgeräusche",
+      "Hintergrundgeräusche NL Stummschalten, falls im Hintergrund",
       "Präferenzen",
       "Zusammengezählten Schaden in Gold anzeigen NL Geblockten Schaden in Blau anzeigen NL Bestätigung beim Wählen 1 Karte deaktivieren",
-      "Gewöhnliche Tipps NL Kartentipps",
-      "Machttipps NL Relikttipps",
+      "Schnellmodus",
+      "",
       "Diverses",
-      "#rSprache:",
+      "Sprache:",
       "Spieldaten hochladen #b(?)",
       "Spiel verlassen",
       "Speichern & Verlassen",
       "NL NL VSync",
-      "Playtester Art Mode"
+      "Spieltester Kartendesign"
     ]
   },
   "SettingsScreen": {
@@ -486,7 +493,7 @@
     "TEXT": [
       "Was ist Early Access?",
       "Was ist eine Open Beta?",
-      "Slay the Spire befindet sich immer noch in der aktiven Entwicklung! NL Viele Funktionen, Karten und Gegner werden immer noch überarbeitet. NL NL Wenn du irgendwelche Probleme oder Feedback für uns hast, lass es uns über unsere #bSteam-#bDiskussionsseite wissen. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
+      "Slay the Spire befindet sich immer noch in der aktiven Entwicklung! NL Viele Funktionen, Karten und Gegner werden immer noch überarbeitet. NL NL Wenn du irgendwelche Probleme oder Feedback für uns hast, lass es uns über unsere #bSteam-Diskussionsseite wissen. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
       "Slay the Spire befindet sich immer noch in der aktiven Entwicklung! NL Noch dazu spielst du die Beta-Version des Spiels. NL NL Lass uns bitte von jeglichen Problemen wissen, die während des Spielens auftreten, aber sei nicht von Platzhaltern für kommende Inhalte überrascht. NL NL Das war jetzt genug zu lesen, du hast noch einen Spire zu erklimmen!",
       "Klicke irgendwohin, um zu starten"
     ]
@@ -513,7 +520,9 @@
       "Patchnotizen",
       "Durchlauf abbrechen",
       "Durchlauf abbrechen (erneut klicken zum Bestätigen)",
-      "Settings"
+      "Einstellungen",
+      "Run-Historie",
+      "Compendium"
     ]
   },
   "PatchNotesScreen": {
@@ -553,7 +562,7 @@
       " Verbleibende Freischaltungen",
       "Unbekannt",
       "???",
-      " To Next Unlock"
+      " Zur nächsten Freischaltung"
     ]
   },
   "CharacterSelectScreen": {
@@ -563,7 +572,11 @@
       "Der Eiserne",
       "Die Stille",
       "Krähbot",
-      "Zurück"
+      "Zurück",
+      "Aufstiegsmodus (Level ",
+      ")",
+      "Aufstiegsmodus",
+      "EXPERIMENTAL: Runs werden nach jedem Sieg schwerer... (Siegesserie wird nicht beeinflusst)"
     ]
   },
   "AbstractMonster": {
@@ -598,7 +611,7 @@
       "Dieser Gegner schläft.",
       "Dieser Gegner ist in seinem Zug #ybetäubt.",
       "Die Absichten dieses Gegners sind #yUnbekannt (wird nicht angreifen).",
-      "Blocked"
+      "Geblockt"
     ]
   },
   "AbstractDungeon": {
@@ -678,7 +691,14 @@
       "Polish",
       "Russian",
       "Spanish",
-      "Hebrew"
+      "Hebrew",
+      "Turkish",
+      "Swedish",
+      "Norwegian",
+      "Thai",
+      "Serbian",
+      "Ukrainian",
+      "Vietnamese"
     ]
   },
   "UnlockTextEffect": {
@@ -762,7 +782,9 @@
     "TEXT": [
       "Tot",
       "Blockiert",
-      "Max TP +"
+      "Max TP +",
+      "Gestunnt!",
+      "Unterbrochen!"
     ]
   },
   "LeaderboardsScreen": {
@@ -779,7 +801,7 @@
       "Lade Daten...",
       "Rangliste",
       "Nicht mit Steam verbunden",
-      "No Scores Available \n Go Slay the Spire!"
+      "Keine Scores verfügbar \n Geh und Slay the Spire!"
     ]
   },
   "ExhumeAction": {
@@ -789,28 +811,170 @@
   },
   "LeaderboardFilters": {
     "TEXT": [
-      "Ironclad",
-      "The Silent",
+      "Der Eiserne",
+      "Die Stille",
       "3rd Char. DO NOT TRANSLATE",
-      "Average Floor Reached (Last 20 Attempts)",
-      "Average Score (Last 20 Attempts)",
-      "Best Win Streak",
-      "Fastest Victory",
-      "High Score",
+      "Durschnittlich erreichte Ebene (Letzte 20 Versuche)",
+      "Durchschnittlicher Score (Letzte 20 Versuche)",
+      "Beste Siegesserie",
+      "Schnellster Sieg",
+      "Höchster Score",
       "Option 6. DO NOT TRANSLATE",
-      "Friends",
+      "Freunde",
       "Global"
     ]
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile."
+      "Wähle eine Karte, um sie oben auf deinen Aufnahmestapel zu legen."
     ]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "These cards were exhausted this combat.",
-      "Return"
+      "Diese Karten wurde diesen Kampf erschöpft.",
+      "Zurück"
+    ]
+  },
+  "AscensionModeDescriptions": {
+    "TEXT": [
+      "1. Eliten spawnen öfter.",
+      "2. Normale Gegner sind tödlicher.",
+      "3. Eliten sind tödlicher.",
+      "4. Bosses sind tödlicher.",
+      "5. Heilung nach Bosskämpfen ist verringert.",
+      "6. Sei direkt am Beginn des Durchlaufes angeschlagen.",
+      "7. Normale Gegner halten mehr aus.",
+      "8. Eliten halten mehr aus.",
+      "9. Bosse halten mehr aus.",
+      "10. Parasit!",
+      "11. Tränke sind schwächer.",
+      "12. Verbesserte Karten erscheinen seltener.",
+      "13. Arme Bosse.",
+      "14. Niedrigere max TP.",
+      "15. Ungünstige Events."
+    ]
+  },
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "Kartenentfernungsdienst",
+      "AUSVERKAUF",
+      "Not for Sale",
+      "Ausverkauft",
+      "Oh nein!"
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "Aufstiegsmodus Level ",
+      " Freigeschaltet!"
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "Aufstiegsmodus Level ",
+      " Freigeschaltet!"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "Der Eiserne",
+      "Die Stille",
+      "",
+      "Zurück",
+      "Keine Run-Historie gefunden. NL Geh und Slay the Spire!",
+      "Aufstieg Level: ",
+      "Besiegt auf Ebene %1$d von %2$s",
+      "Abandoned Run on Floor %d",
+      "Sieg!",
+      "Karten",
+      "Relikte",
+      "Starter",
+      "Common",
+      "Uncommon",
+      "Rare",
+      "Special",
+      "Curse",
+      "Boss",
+      "Shop",
+      "Unknown",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Score: %d",
+      "All Characters",
+      "Wins and Losses",
+      "Wins",
+      "Losses"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "erneut klicken zum Verlassen"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "VOTE NOW: "
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Daily Challenge",
+      "Connecting to Time Server...",
+      "You have done today's challenge",
+      "Return",
+      "Embark",
+      "Today's character: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Time Left: ",
+      "#yFloor #yReached: NL  ",
+      " NL NL  #yDeck: NL ",
+      " NL NL  #yRelics: NL  ",
+      " NL Today's Challenge: NL TAB #yClass: NL TAB ",
+      " NL TAB #yMods: ",
+      "Modifiers: "
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Standard",
+      "",
+      "Embark on a quest to Slay the Spire.",
+      "Daily Climb",
+      "",
+      "A new challenge is availble once a day.\n\nCompete with other players for the highest score!",
+      "Ascension",
+      "",
+      "The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",
+      "Card Library",
+      "",
+      "View all of the cards you have encountered throughout the Spire.",
+      "Relic Collection",
+      "",
+      "Examine the various trinkets and artifacts obtained throughout your runs.",
+      "Bestiary",
+      "",
+      "This feature is not yet available.",
+      "Character Stats",
+      "",
+      "The progress and statistics for each character can be seen here.",
+      "Leaderboards",
+      "",
+      "View and compare your score with friends and other players.",
+      "Run History",
+      "",
+      "Revisit your past attempts at slaying the Spire.",
+      "Game Settings",
+      "",
+      "Change your resolution and toggle various options on/off.",
+      "Input Settings",
+      "",
+      "This feature is not yet available.",
+      "Credits",
+      "",
+      "See all of the people who contributed on Slay the Spire!",
+      "Unknown",
+      "",
+      "This feature is not yet available."
     ]
   }
 }

@@ -1,34 +1,152 @@
 {
-  "Credits": {
-    "UI": [
-      "종료하려면 클릭하시오"
-    ],
-    "THANKS_MSG": "...그리고 플레이 해 주셔서 감사합니다!",
+  "DEV": {
+    "HEADER": "개발 & 디자인",
     "NAMES": [
-      "개발 & 디자인",
       "Anthony Giovannetti",
-      "Casey Yano",
-      "음악 & 효과음",
-      "Clark Aboud",
-      "성우 연기",
-      "Michael Schwalbe",
-      "Tamara Ryan",
-      "카드 일러스트 & 이벤트 일러스트",
-      "Anailis Dorta",
-      "캐릭터 애니메이션",
-      "Jon Sandler",
-      "광고 & 배경 일러스트",
-      "Bruce Brenneise",
-      "유지 & 조정",
+      "Casey Yano"
+    ]
+  },
+  "OPS": {
+    "HEADER": "유지 & 조정",
+    "NAMES": [
       "Danielle Jenkins",
-      "플레이 테스트",
+      "Jake Rabinowitz"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "음악 & 효과음",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "VOICE": {
+    "HEADER": "성우 연기",
+    "NAMES": [
+      "Tamara Ryan",
+      "Michael Schwalbe"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "카드 일러스트 & 이벤트 일러스트",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "ANIMATION": {
+    "HEADER": "캐릭터 애니메이션",
+    "NAMES": [
+      "Julio Duque Montero",
+      "Jon Sandler"
+    ]
+  },
+  "ILLUSTRATION": {
+    "HEADER": "광고 & 배경 일러스트",
+    "NAMES": [
+      "Bruce Brenneise"
+    ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "중국어 (간체) 번역",
+    "NAMES": [
+      "Sound of Mystery"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "중국어 (번체) 번역",
+    "NAMES": []
+  },
+  "LOC_FRA": {
+    "HEADER": "프랑스어 번역",
+    "NAMES": [
+      "Xavier \"Blagatt\" Dupont",
+      "Malik \"Devexia\" Leonarski",
+      "Thomas \"Elgerine\" Ferry",
+      "Vincent \"Hénip\" Barthoux",
+      "Alexandre \"Judgy\" Gaubert",
+      "Vincent \"MissingNoShiny\" Larcin",
+      "Julien \"RoPeTTe\" Ropero",
+      "Hugo \"Tagadda\" Vurpillot",
+      "Corentin \"Tchus\" Monfort"
+    ]
+  },
+  "LOC_DEU": {
+    "HEADER": "독일어 번역",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand "
+    ]
+  },
+  "LOC_ITA": {
+    "HEADER": "이탈리아어 번역",
+    "NAMES": [
+      "Hob",
+      "Mero Marco",
+      "Luigi Squarzina"
+    ]
+  },
+  "LOC_JPN": {
+    "HEADER": "일본어 번역",
+    "NAMES": [
+      "Grezzz"
+    ]
+  },
+  "LOC_KOR": {
+    "HEADER": "한국어 번역",
+    "NAMES": [
+      "번역 매니저:",
+      "에테리니",
+      "번역:",
+      "심심한코딩",
+      "깨구리",
+      "insight",
+      "콘치킨집",
+      "히나",
+      "스팀 페이지 번역:",
+      "계략"
+    ]
+  },
+  "LOC_POL": {
+    "HEADER": "폴란드어 번역",
+    "NAMES": []
+  },
+  "LOC_RUS": {
+    "HEADER": "러시아어 번역",
+    "NAMES": [
+      "Translation and coordination:",
+      "Ivan \"Ingrett\" Khoroshunenko",
+      "Translation and repository:",
+      "Vladislav \"Vlad-00003\" Bolshakov",
+      "Suggestions and feedback:",
+      "Mikhail \"Outmind\" Dyuzhev",
+      "Bohdan \"DarkRosse\" Kalytiuk",
+      "Sergey \"lol10801lol\" K.",
+      "Ascimator",
+      "Kateryna \"Meds\" Belimenko-Bolger",
+      "Alexey \"Surrealistic Ganerson\" Popov",
+      "Alexandr \"LiaNdrY\" Mazistov"
+    ]
+  },
+  "LOC_TUR": {
+    "HEADER": "터키어 번역",
+    "NAMES": [
+      "Erdem Gürbüz"
+    ]
+  },
+  "LOC_ADDITIONAL": {
+    "HEADER": "추가 번역",
+    "NAMES": [
+      "MoGi Group"
+    ]
+  },
+  "TEST": {
+    "HEADER": "플레이 테스트",
+    "NAMES": [
       "Agari",
       "Daria Anderson",
       "Zac Bauermeister",
       "Nick Becker",
       "Esther Beckman",
       "Leo Chen",
-      "Brian Chow",
+      "Brian Chau",
       "Dan D'Argenio",
       "David Delorenzo",
       "Tim Erskine",
@@ -48,9 +166,12 @@
       "Alexander Toy",
       "Merijn van der Vliet",
       "David Von Derau",
-      "Conor Watson",
-      "특별 감사",
-      "Jake Rabinowitz",
+      "Conor Watson"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "특별 감사",
+    "NAMES": [
       "Harry Rabinowitz",
       "Kevin \"Billy\" Matheson",
       "Anthony Roybal",
@@ -58,7 +179,12 @@
       "Sam Welch",
       "feedbackbot",
       "Evan Howell",
-      "Justin Myhres"
+      "Justin Myhres",
+      "robojumper"
     ]
+  },
+  "THANKS_MSG": {
+    "HEADER": "...그리고 플레이 해 주셔서 감사합니다!",
+    "NAMES": []
   }
 }

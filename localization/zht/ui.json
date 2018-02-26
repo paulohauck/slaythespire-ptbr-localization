@@ -23,13 +23,20 @@
       "英語",
       "法語",
       "德語",
-      "意大利語",
+      "義大利語",
       "日語",
       "韓語",
       "波蘭語",
       "俄語",
       "西班牙語",
-      "希伯來語"
+      "希伯來語",
+      "土耳其語",
+      "瑞典語",
+      "Norwegian",
+      "Thai",
+      "Serbian",
+      "Ukrainian",
+      "Vietnamese"
     ]
   },
   "Proceed Button": {
@@ -92,16 +99,16 @@
       "一位神秘的商人在這些房間裡售賣他的貨物。 NL NL 賺到的 #y金幣 就花在這裡吧！",
       "財寶",
       "財寶房間",
-      "可以在這些房間裡找到 #y物品 和 #y金幣 。",
+      "可以在這些房間裡找到 #y遺物 和 #y金幣 。",
       "休息",
       "休息處",
-      "在這些房間停留，就可以 #g回覆 一些生命，或是 #y升級 一張牌。",
+      "在這些房間停留，就可以 #g回復 一些生命，或是 #y升級 一張牌。",
       "敵人",
       "敵人",
       "這些房間裡有敵人。",
       "精英",
       "精英",
-      "這些房間裡有強大的敵人。 NL NL 打敗他們可以得到一件物品。",
+      "這些房間裡有強大的敵人。 NL NL 打敗他們可以得到一件遺物。",
       "圖例"
     ]
   },
@@ -113,7 +120,7 @@
   "Dig Option": {
     "TEXT": [
       "挖掘",
-      "挖出一件隨機物品。"
+      "挖出一件隨機遺物。"
     ]
   },
   "Lift Option": {
@@ -125,9 +132,9 @@
   "Rest Option": {
     "TEXT": [
       "休息",
-      "回覆你最大生命的20%(",
+      "回復你最大生命的20%(",
       "生命來自",
-      "回覆你最大生命的30%("
+      "回復你最大生命的30%("
     ]
   },
   "Smith Option": {
@@ -188,31 +195,35 @@
     "TEXT": [
       "死亡",
       "格擋",
-      "最大生命+"
+      "最大生命+",
+      "擊暈！",
+      "打斷！"
     ]
   },
   "TopPanel": {
     "TEXT": [
-      "層"
+      "層",
+      " - 攫升模式 ",
+      " （最大等級）"
     ]
   },
   "UnlockCharacterScreen": {
     "TEXT": [
       "解鎖卡牌！",
       "",
-      "解鎖物品！",
+      "解鎖遺物！",
       "新角色",
       "註：解鎖的卡牌會在接下來的遊戲中出現。",
-      "註：解鎖的物品會在接下來的遊戲中出現。"
+      "註：解鎖的遺物會在接下來的遊戲中出現。"
     ]
   },
   "UnlockScreen": {
     "TEXT": [
       "解鎖卡牌！",
-      "解鎖物品！",
+      "解鎖遺物！",
       "新角色",
       "註：解鎖的卡牌會在接下來的遊戲中出現。",
-      "註：解鎖的物品會在接下來的遊戲中出現。"
+      "註：解鎖的遺物會在接下來的遊戲中出現。"
     ]
   },
   "StorePotion": {
@@ -237,9 +248,9 @@
       "魔法道具",
       "鎖定",
       "未知",
-      " 物品",
-      "這個物品還沒有解鎖。",
-      "這個物品你還沒有看過。"
+      " 遺物",
+      "這個遺物還沒有解鎖。",
+      "這個遺物你還沒有看過。"
     ]
   },
   "SingleCardViewPopup": {
@@ -378,26 +389,26 @@
       "生命值獎勵"
     ],
     "EXTRA_TEXT": [
-      "Exordium Elites Killed",
-      "City Elites Killed",
-      "Beyond Elites Killed",
-      "Speedster",
-      "Light Speed",
-      "Highlander",
-      "Collection",
-      "Full Set",
-      "Pauper",
-      "Librarian",
-      "Encyclopedia",
-      "Well Fed",
-      "Stuffed",
-      "Curses!",
-      "On My Own Terms",
+      "塔底 所殺精英 ",
+      "城市 所殺精英 ",
+      "深處 所殺精英 ",
+      "高速",
+      "光速",
+      "獨一無二",
+      "遺物收藏家",
+      "一副炸彈",
+      "平淡是真",
+      "圖書管理員",
+      "百科全書",
+      "飽餐",
+      "饕餮",
+      "詛咒！",
+      "不死於敵手",
       "",
-      "Perfect",
-      "Beyond Perfect",
-      "Overkill",
-      "C-c-c-combo",
+      "完勝",
+      "全面完勝",
+      "虐殺",
+      "連續技",
       ""
     ]
   },
@@ -407,7 +418,7 @@
       "跳過卡牌",
       "跳過金幣",
       "跳過藥水",
-      "跳過物品",
+      "跳過遺物",
       "跳過獎勵",
       "關閉",
       "財寶！",
@@ -426,15 +437,20 @@
   "CardRewardScreen": {
     "TEXT": [
       "跳過",
-      "選一張牌"
+      "選一張牌",
+      "+2 最大生命",
+      "VOTE NOW: ",
+      "s left."
     ]
   },
   "BossRelicSelectScreen": {
     "TEXT": [
       "確認",
       "確認你的選擇",
-      "選擇一樣物品",
-      "跳過"
+      "選擇一樣遺物",
+      "跳過",
+      "VOTE NOW: ",
+      "s left."
     ]
   },
   "GridCardSelectScreen": {
@@ -475,20 +491,20 @@
   },
   "OptionsPanel": {
     "TEXT": [
-      "註：紅色的內容尚未實裝。",
+      "",
       "遊戲選項",
       "畫面",
       "解析度： NL 最大幀數：",
       "全螢幕模式 NL 無邊框全螢幕（推薦） NL 螢幕震動",
       "聲音",
       "主音量 NL 音樂音量 NL 音效音量",
-      "背景音效",
+      "背景音效 NL 於背景執行時靜音",
       "戰鬥設定",
       "用金色數字顯示傷害的總和。 NL 用藍色數字顯示被格擋傷害的總和。 NL 在只選擇一張牌時，不需要確認。",
-      "常用提示 NL 卡牌提示",
-      "能力提示 NL 物品提示",
+      "加速模式",
+      "",
       "雜項",
-      "#r語言：",
+      "語言：",
       "上傳遊戲資料 #b(?)",
       "退出遊戲",
       "保存並退出",
@@ -547,7 +563,7 @@
       "卡片收集冊",
       "開始遊戲",
       "每日挑戰",
-      "物品收集",
+      "遺物收集",
       "繼續",
       "排行榜",
       "統計內容",
@@ -556,7 +572,9 @@
       "更新內容清單",
       "放棄當前遊戲",
       "放棄當前遊戲（請再次點擊來確認放棄）",
-      "Settings"
+      "設定",
+      "歷史記錄",
+      "Compendium"
     ]
   },
   "PatchNotesScreen": {
@@ -574,9 +592,9 @@
       "粗製品：",
       "較容易能在高塔內或是怪物與其他冒險者身上奪得。",
       "魔法道具：",
-      "強大也更少見的物品,一些經驗老道的怪物身上會攜帶,也許你也能在高塔中找到?。",
+      "強大也更少見的物品，一些經驗老道的怪物身上會攜帶，也許你也能在高塔中找到？",
       "久棄邪物：",
-      "這些物品通常具有特殊的效果,但也有其使用代價...。",
+      "這些物品通常具有特殊的效果，但也有其使用代價...。",
       "珍藏品：",
       "只在首領寶箱中出現的寶物。",
       "寶藏：",
@@ -606,7 +624,11 @@
       "鐵衛士",
       "寂靜獵手",
       "烏鴉機器人",
-      "返回"
+      "返回",
+      "攫升模式 （等級 ",
+      "）",
+      "攫升模式",
+      "隨著勝利次數增多，難度也會進一步提升……（不會影響連勝）"
     ]
   },
   "AbstractMonster": {
@@ -776,8 +798,8 @@
       "排名",
       "名字",
       "分數",
-      "正在獲取數據……",
-      "排行榜",
+      "正在獲取資料……",
+      "排行榜（注：將每週清空重置）",
       "沒有連接到Steam",
       "還沒有分數 \n 還不去爬個塔先！"
     ]
@@ -809,8 +831,150 @@
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "These cards were exhausted this combat.",
-      "Return"
+      "在這場戰鬥中被 消耗 的牌。",
+      "返回"
+    ]
+  },
+  "AscensionModeDescriptions": {
+    "TEXT": [
+      "1. 精英出現更加頻繁。",
+      "2. 普通敵人造成更多傷害。",
+      "3. 精英敵人造成更多傷害。",
+      "4. 首領造成更多傷害。",
+      "5. 首領戰後生命恢復減少。",
+      "6. 開始遊戲時受到傷害。",
+      "7. 普通敵人擁有更多生命。",
+      "8. 精英敵人擁有更多生命。",
+      "9. 首領擁有更多生命。",
+      "10. 寄生！",
+      "11. 藥水效果下降。",
+      "12. 升級過的牌出現頻率下降。",
+      "13. 首領變窮。",
+      "14. 最大生命值下降。",
+      "15. 部分事件變得更加不利。"
+    ]
+  },
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "卡牌移除服務",
+      "特價",
+      "非賣品",
+      "賣光了",
+      "哦不！"
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "攫升模式等級 ",
+      " 解鎖！"
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "攫升模式等級 ",
+      " 解鎖！"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "鐵衛士",
+      "寂靜獵手",
+      "",
+      "返回",
+      "沒有找到歷史記錄。 NL 還不去爬個塔先！",
+      "攫升等級： ",
+      "在 %1$d 層 死於 %2$s",
+      "在 %d 層 放棄",
+      "勝利！",
+      "牌組",
+      "遺物",
+      "起始",
+      "普通",
+      "罕見",
+      "稀有",
+      "特殊",
+      "詛咒",
+      "首領",
+      "商店",
+      "未知",
+      "%1$d%2$s",
+      "%1$s (%2$d)：",
+      "分數： %d",
+      "所有角色",
+      "勝利與失敗",
+      "勝利",
+      "失敗"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "再次點擊退出"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "VOTE NOW: "
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Daily Challenge",
+      "Connecting to Time Server...",
+      "You have done today's challenge",
+      "Return",
+      "Embark",
+      "Today's character: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Time Left: ",
+      "#yFloor #yReached: NL  ",
+      " NL NL  #yDeck: NL ",
+      " NL NL  #yRelics: NL  ",
+      " NL Today's Challenge: NL TAB #yClass: NL TAB ",
+      " NL TAB #yMods: ",
+      "Modifiers: "
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Standard",
+      "",
+      "Embark on a quest to Slay the Spire.",
+      "Daily Climb",
+      "",
+      "A new challenge is availble once a day.\n\nCompete with other players for the highest score!",
+      "Ascension",
+      "",
+      "The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",
+      "Card Library",
+      "",
+      "View all of the cards you have encountered throughout the Spire.",
+      "Relic Collection",
+      "",
+      "Examine the various trinkets and artifacts obtained throughout your runs.",
+      "Bestiary",
+      "",
+      "This feature is not yet available.",
+      "Character Stats",
+      "",
+      "The progress and statistics for each character can be seen here.",
+      "Leaderboards",
+      "",
+      "View and compare your score with friends and other players.",
+      "Run History",
+      "",
+      "Revisit your past attempts at slaying the Spire.",
+      "Game Settings",
+      "",
+      "Change your resolution and toggle various options on/off.",
+      "Input Settings",
+      "",
+      "This feature is not yet available.",
+      "Credits",
+      "",
+      "See all of the people who contributed on Slay the Spire!",
+      "Unknown",
+      "",
+      "This feature is not yet available."
     ]
   }
 }

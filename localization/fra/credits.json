@@ -1,34 +1,152 @@
 {
-  "Credits": {
-    "UI": [
-      "cliquez à nouveau pour quitter"
-    ],
-    "THANKS_MSG": "... et MERCI d'avoir joué !",
+  "DEV": {
+    "HEADER": "Développement et conception",
     "NAMES": [
-      "Développement et conception",
       "Anthony Giovannetti",
-      "Casey Yano",
-      "Musique et sons",
-      "Clark Aboud",
-      "Doublage",
-      "Michael Schwalbe",
-      "Tamara Ryan",
-      "Portraits de carte et dessins des événements",
-      "Anailis Dorta",
-      "Animation de personnages",
-      "Jon Sandler",
-      "Illustrations de l'arrière-plan et des promos",
-      "Bruce Brenneise",
-      "Opérations et indicateurs",
+      "Casey Yano"
+    ]
+  },
+  "OPS": {
+    "HEADER": "Opérations et métriques",
+    "NAMES": [
       "Danielle Jenkins",
-      "Testeurs",
+      "Jake Rabinowitz"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "Musique et sons",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "VOICE": {
+    "HEADER": "Doublage",
+    "NAMES": [
+      "Tamara Ryan",
+      "Michael Schwalbe"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "Portraits de cartes et dessins des événements",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "ANIMATION": {
+    "HEADER": "Animation des personnages",
+    "NAMES": [
+      "Julio Duque Montero",
+      "Jon Sandler"
+    ]
+  },
+  "ILLUSTRATION": {
+    "HEADER": "Illustrations de l'arrière-plan et des promos",
+    "NAMES": [
+      "Bruce Brenneise"
+    ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "Traduction en Chinois (Simplifié)",
+    "NAMES": [
+      "Sound of Mystery"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "Traduction en Chinois (Traditionnel)",
+    "NAMES": []
+  },
+  "LOC_FRA": {
+    "HEADER": "Traduction en Français",
+    "NAMES": [
+      "Xavier \"Blagatt\" Dupont",
+      "Malik \"Devexia\" Leonarski",
+      "Thomas \"Elgerine\" Ferry",
+      "Vincent \"Hénip\" Barthoux",
+      "Alexandre \"Judgy\" Gaubert",
+      "Vincent \"MissingNoShiny\" Larcin",
+      "Julien \"RoPeTTe\" Ropero",
+      "Hugo \"Tagadda\" Vurpillot",
+      "Corentin \"Tchus\" Monfort"
+    ]
+  },
+  "LOC_DEU": {
+    "HEADER": "Traduction en Allemand",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand "
+    ]
+  },
+  "LOC_ITA": {
+    "HEADER": "Traduction en Italien",
+    "NAMES": [
+      "Hob",
+      "Mero Marco",
+      "Luigi Squarzina"
+    ]
+  },
+  "LOC_JPN": {
+    "HEADER": "Traduction en Japonais",
+    "NAMES": [
+      "Grezzz"
+    ]
+  },
+  "LOC_KOR": {
+    "HEADER": "Traduction en Coréen",
+    "NAMES": [
+      "Translation Manager:",
+      "Eteriny",
+      "Translation:",
+      "Simcoding",
+      "DesFrog",
+      "insight",
+      "K4lium",
+      "hina",
+      "Steam Page Translation:",
+      "GyeRyak"
+    ]
+  },
+  "LOC_POL": {
+    "HEADER": "Traduction en Polonais",
+    "NAMES": []
+  },
+  "LOC_RUS": {
+    "HEADER": "Traduction en Russe",
+    "NAMES": [
+      "Traduction et Coordination:",
+      "Ivan \"Ingrett\" Khoroshunenko",
+      "Traduction et repository:",
+      "Vladislav \"Vlad-00003\" Bolshakov",
+      "Suggestions et retours:",
+      "Mikhail \"Outmind\" Dyuzhev",
+      "Bohdan \"DarkRosse\" Kalytiuk",
+      "Sergey \"lol10801lol\" K.",
+      "Ascimator",
+      "Kateryna \"Meds\" Belimenko-Bolger",
+      "Alexey \"Surrealistic Ganerson\" Popov",
+      "Alexandr \"LiaNdrY\" Mazistov"
+    ]
+  },
+  "LOC_TUR": {
+    "HEADER": "Traduction en Turc",
+    "NAMES": [
+      "Erdem Gürbüz"
+    ]
+  },
+  "LOC_ADDITIONAL": {
+    "HEADER": "Traductions additionnelles",
+    "NAMES": [
+      "MoGi Group"
+    ]
+  },
+  "TEST": {
+    "HEADER": "Testeurs",
+    "NAMES": [
       "Agari",
       "Daria Anderson",
       "Zac Bauermeister",
       "Nick Becker",
       "Esther Beckman",
       "Leo Chen",
-      "Brian Chow",
+      "Brian Chau",
       "Dan D'Argenio",
       "David Delorenzo",
       "Tim Erskine",
@@ -43,22 +161,30 @@
       "Jacob Morris",
       "Alex Rockwell",
       "Greg Scheopner",
-      "John \"Diapo20xl\" Smith",
+      "John \"Slide20xl\" Smith",
       "Aaron Taggart",
       "Alexander Toy",
       "Merijn van der Vliet",
       "David Von Derau",
-      "Conor Watson",
-      "Remerciements",
-      "Jake Rabinowitz",
+      "Conor Watson"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "Remerciements",
+    "NAMES": [
       "Harry Rabinowitz",
       "Kevin \"Billy\" Matheson",
       "Anthony Roybal",
       "Lee Beckman",
       "Sam Welch",
-      "bot à retours",
+      "feedbackbot",
       "Evan Howell",
-      "Justin Myhres"
+      "Justin Myhres",
+      "robojumper"
     ]
+  },
+  "THANKS_MSG": {
+    "HEADER": "...et merci à VOUS d'avoir joué!",
+    "NAMES": []
   }
 }

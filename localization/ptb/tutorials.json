@@ -1,219 +1,220 @@
 {
   "Main Tutorial": {
     "TEXT": [
-		"Defeat enemies by playing cards from your hand! NL NL Cards require #yEnergy to play. NL Once you are out, end your turn. NL NL At the start of your turn, new cards are drawn and your #yEnergy is replenished.",
-		"Play defensive cards to gain #yBlock when enemies are about to attack you. NL NL #yBlock reduces incoming attack damage but NL #rwears #roff at the start of your next turn.",
-		"During your turn, you can observe an enemy's #yIntent above them. NL NL If an enemy is intent on attacking you, be sure to gain some #yBlock!"
+		"Derrote os inimigos jogando cartas de sua mão! NL NL Cartas requerem #yEnergia para jogar. NL Assim que estiver sem, termine seu turno. NL NL No início do seu turno, novas cartas são compradas e sua #yEnergia enche novamente.",
+		"Jogue cartas defensivas para ganhar #yProteção quando os inimigos estão prestes a te atacar. NL NL #yProteção reduz o dano de ataques recebidos, mas NL #rdesaparece no início do seu próximo turno.",
+		"Durante seu turno, você pode observar a #yIntenção do inimigo acima deles. NL NL Se um inimigo tem a intenção de te atacar, certifique-se de ganhar alguma #Proteção!"
 	],
 	"LABEL": [
-		"Next",
-		"I'm Ready!",
+		"Próximo",
+		"Estou Pronto!",
 		"Tutorial",
-		"(Page ",
-		" of 3)"		
+		"(Página ",
+		" de 3)"
 	]
   },
   "FTUE Tips": {
     "TEXT": [
 	],
 	"LABEL": [
-		"Tip: ",
-		"Got It"
+		"Dica: ",
+		"Entendi"
 	]
-  },  
+  },
   "Potion Tip": {
     "TEXT": [
-		"Drink or throw potions during combat! NL Potions stay with you between rooms."
+		"Beba ou jogue poções durante o combate! NL As Poções permanecem com você entre salas."
 	],
 	"LABEL": [
-		"Potions"
+		"Poções"
 	]
-  },  
+  },
   "Energy Tip": {
     "TEXT": [
-		"Cards require energy to play! NL This orb on the bottom left indicates how much energy you have remaining for the turn."
+		"As cartas requerem energia para jogar! NL Este orbe no canto inferior esquerdo indica a quantidade de energia restante que você tem para o turno."
 	],
 	"LABEL": [
-		"Energy Cost"	
+		"Custo de Energia"
 	]
-  },  
+  },
   "Shuffle Tip": {
     "TEXT": [
-		"NL If there are no cards to draw, your discard pile is shuffled into the draw pile."
+		"NL Se não houver cartas para comprar, sua pilha de descarte será embaralhada na pilha de compra."
 	],
 	"LABEL": [
-		"No More Cards?"	
+		"Sem Cartas?"
 	]
-  },  
+  },
   "Player Tips": {
     "TEXT": [
-		"This card applies a Power to you when used. NL Powers are passive abilities that remain for the duration of the combat.",
-		"Cards require energy to play! NL This orb on the bottom left indicates how much energy you have remaining for the turn.",
-		"My #rHand #ris #rFull!"
+		"Esta carta aplica a você um Poder quando usada. NL Poderes são habilidades passivas que permanecem durante o combate.",
+		"As cartas requerem energia para jogar! NL Este orbe no canto inferior esquerdo indica a quantidade de energia restante que você tem para o turno.",
+		"Minha #rMão #rEstá #rCheia!"
 	],
 	"LABEL": [
-		"Power Cards",
-		"Energy Cost"
+		"Cartas de Poder",
+		"Custo de Energia"
 	]
-  },  
+  },
   "Relic Tip": {
     "TEXT": [
-		"Relics found throughout the Spire grant unique bonuses and remain throughout your run. NL They can be found by defeating powerful foes or within chests.",
-		"This relic remains to be seen."
+		"As relíquias encontradas ao longo do pináculo concedem bônus únicos e permanecem ao longo de sua jornada. NL Elas podem ser encontradas derrotando inimigos poderosos ou dentro de baús.",
+		"Essa relíquia ainda está para ser vista.",
+		"Seu poder está esgotado."
 	],
 	"LABEL": [
-		"Relics",
-		"Unknown",
-		"This relic has yet to be unlocked.",
-		"Locked"
+		"Relíquias",
+		"Desconhecida",
+		"Essa relíquia ainda deve ser desbloqueada.",
+		"Bloqueada"
 	]
-  },  
+  },
   "Rewards Tip": {
     "TEXT": [
-		"Don't forget your rewards! NL Just click on them to pick them up."
+		"Não esqueça suas recompensas! NL Basta clicar nelas para as pegar."
 	],
 	"LABEL": [
-		"Rewards"	
+		"Recompensas"
 	]
-  },  
+  },
   "Draw Tip": {
     "TEXT": [
-		"At the start of each turn, NL #b",
-		" cards are drawn from here. NL NL Click to view the cards in your draw pile (shuffled).",
-		" cards are drawn from here. NL NL Click to view the cards in your draw pile."
+		"No início de cada turno, NL #b",
+		" cartas são compradas daqui. NL NL Clique para ver as cartas na sua pilha de compra (embaralhadas).",
+		" cartas são compradas daqui. NL NL Clique para ver as cartas na sua pilha de compra."
 	],
 	"LABEL": [
-		"Draw Pile"	
+		"Pilha de Compra"
 	]
-  },  
+  },
   "Exhaust Tip": {
   	    "TEXT": [
-		"Click to view cards Exhausted this combat."
+		"Clique para ver as cartas Exauridas neste combate."
 	],
 	"LABEL": [
-		"Exhausted Cards"	
+		"Cartas Exauridas"
 	]
   },
   "Options Tip": {
     "TEXT": [
-		"Gameplay data and error logs are sent to Mega Crit for game balancing purposes. NL NL Personally identifying information is NOT collected.",
-		"Slay the Spire runs the fastest when running in true fullscreen. Recommended for OSX as the Dock and Menubar are hidden. NL NOTE: On PC, alt-tabbing back to Slay the Spire may not work with fullscreen.",
-		"As Slay the Spire isn't a demanding game, we recommend Borderless Fullscreen for fast alt-tab. Works best on PC.",
-		"Note: If VSync is on, the Max Framerate cannot go above your monitor refresh rate."
+		"Os dados de jogo e logs de erro são enviados para a Mega Crit para fins de balanceamento do jogo. NL NL Informação de identificação pessoal NÃO é coletada.",
+		"Slay the Spire roda o mais rápido quando está rodando em tela cheia verdadeira. Recomendado para OSX como o Dock e o Menubar são escondidos. NL NOTA: No PC, o alt-tab de volta para Slay the Spire pode não funcionar com tela cheia.",
+		"Como Slay the Spire não é um jogo exigente, recomendamos o modo Tela Cheia Sem Bordas para alt-tab rápido. Funciona melhor no PC.",
+		"Nota: Se o VSync estiver ligado, o Framerate Máximo não pode ultrapassar a taxa de atualização do seu monitor."
 	],
 	"LABEL": [
-		"Metrics",
-		"Fullscreen",
-		"Borderless Fullscreen",
-		"Max Framerate"
+		"Métricas",
+		"Tela Cheia",
+		"Tela Cheia Sem Bordas",
+		"Framerate Máximo"
 	]
-  },  
+  },
   "Shop Tip": {
     "TEXT": [
-		"Remove a card from your deck. The cost of this service increases by #b",
-		" for the rest of this run."
+		"Remova uma carta do seu baralho. O custo desse serviço aumenta em #b",
+		" pelo resto dessa jornada."
 	],
 	"LABEL": [
-		"Card Removal Service"	
+		"Serviço de Remoção de Carta"
 	]
-  },  
+  },
   "End Turn Tip": {
     "TEXT": [
-		"Pressing this button will end your turn. NL NL You will discard your hand, enemies will take their turn, you will draw ",
-		" cards, then it will be your turn again."
+		"Pressionar este botão terminará a seu turno. NL NL Você descartará sua mão, os inimigos tomarão seus turnos, você comprará",
+		" cartas, então será seu turno novamente."
 	],
 	"LABEL": [
-		"End Turn"	
+		"Terminar Turno"
 	]
   },
  "Discard Tip": {
     "TEXT": [
-		"If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL Click to view the cards in your discard pile."
+		"Se sua pilha de compra estiver vazia, a pilha de descarte será embaralhada na pilha de compra. NL NL Clique para ver as cartas na sua pilha de descarte."
 	],
 	"LABEL": [
-		"Discard Pile"	
+		"Pilha de Descarte"
 	]
   },
  "Energy Panel Tip": {
     "TEXT": [
-		"Your current energy count. Cards require energy to play."
+		"Sua contagem de energia atual. Cartas requerem energia para jogar."
 	],
 	"LABEL": [
-		"Energy"	
+		"Energia"
 	]
   },
  "Potion Panel Tip": {
     "TEXT": [
-		"Throws this potion at your enemy.",
-		"Consume this potion.",
-		"Discards this potion NL #r(cannot #rbe #rundone)"
+		"Jogue essa poção no seu inimigo.",
+		"Consuma essa poção.",
+		"Descarta essa poção NL #r(não #rpode #rser #rdesfeito)"
 	],
 	"LABEL": [
-		"Throw",
-		"Drink",
-		"Discard"
+		"Jogar",
+		"Beber",
+		"Descartar"
 	]
   },
  "Top Panel Tips": {
     "TEXT": [
-		"Opens the game menu. NL NL Change or update your graphics, audio, and gameplay preferences here.",
-		"View all of the cards in your deck.",
-		"View this current dungeon's map.",
-		"If you run out of HP, you die.",
-		"Shows how much gold you are carrying. Gold is the currency within the Spire.",
-		"Obtained whenever you defeat a #yBoss. NL What could this be for...?",
-		"Obtained whenever you defeat a #yBoss. NL Feed these to #yNeow to unlock items and earn bonuses for new runs."
+		"Abre o menu do jogo. NL NL Mude ou atualize suas preferências de gráficos, áudio e jogabilidade aqui.",
+		"Veja todas as cartas no seu baralho.",
+		"Veja o mapa atual deste calabouço.",
+		"Se você ficar sem PV, você morre.",
+		"Mostra o quanto de ouro você carrega. Ouro é a moeda dentro do Pináculo.",
+		"",
+		"",
+    "Tempo gasto nesta jornada."
 	],
 	"LABEL": [
-		"Settings",
-		"Deck",
-		"Map",
-		"Hit Points (HP)",
-		"Money Pouch"	
+		"Configurações",
+		"Baralho",
+		"Mapa",
+		"Pontos de Vida (PV)",
+		"Bolsa de Dinheiro",
+		"Cronômetro de Jornada"
 	]
   },
   "Random Tips": {
     "TEXT": [
-		"Engage with other players to discover new and effective strategies.",
-		"There is always a rest site before a boss.",
-		"Spend gold at shops! (Tip paid for by Merchant)",
-		"Take a break every now and then.",
-		"No enemy will use the same move 3 times in a row.",
-		"Percentage-based calculations always round down at the end.",
-		"During combat, you can view the contents of your draw and discard piles.",
-		"Useful information can be revealed by hovering over most objects.",
-		"Toggle tips on/off by clicking on the ? button in the top right corner.",
-		"Right click will release any cards you are dragging.",
-		"Hover over an enemy to see their name and Power information.",
-		"Use the scroll wheel or click and drag the screen to scroll.",
-		"If you can inspect an item, your cursor will become a magnifying glass.",
-		"There is no limit to how many relics you can carry.",
-		"Chests will always drop a relic.",
-		"Every path you take will always have at least 1 treasure room.",
-		"Use the scrollwheel or click and drag to scroll maps, card screens, and others.",
-		"Elite enemies will always drop a relic.",
-		"You will never see the same relic twice in one run.",
-		"Uncommon cards have a blue frame and banner.",
-		"Rare cards have a golden frame and banner.",
-		"The rarity of a card is visible on the card itself.",
-		"It is not always wise to add cards to your deck.",
-		"Cards exhausted during combat are not removed from your deck.",
-		"You can only have up to 10 cards in your hand.",
-		"Status cards go away at the end of combat.",
-		"Colorless cards always cost 0.",
-		"Colorless cards cannot be upgraded.",
-		"Curses cannot be upgraded. Why would you?",
-		"Upgraded cards may appear in rewards past Level 1.",
-		"Potions can only be used during combat.",
-		"Potions cannot be discarded during combat.",
-		"Unknown rooms may contain treasures, monsters, shops, or events.",
-		"The Merchant doesn't offer refunds. He is a jerk.",
-		"The card removal service increases in price whenever you use it.",
-		"The card removal service can only be used once at each shop.",
-		"Damage from potions, relics, and powers are not considered attack damage."
+		"Envolva-se com outros jogadores para descobrir estratégias novas e efetivas.",
+		"Há sempre um local de descanso antes de um chefe.",
+		"Gaste ouro nas lojas! (Dica paga pelo Vendedor)",
+		"Faça uma pausa de vez em quando.",
+		"Nenhum inimigo usará o mesmo movimento 3 vezes seguidas.",
+		"Cálculos baseados em percentagem sempre arredondam para baixo no fim.",
+		"Durante o combrate, você pode ver o conteúdo das suas pilhas de compra e descarte.",
+		"Informações úteis podem ser reveladas ao deslizar o mouse sobre a maioria dos objetos.",
+		"Ligue ou desligue as dicas clicando no botão ? no canto superior direito.",
+		"O botão direito vai soltar qualquer carta que você esteja arrastando.",
+		"Deslize o mouse sobre um inimigo para ver seu nome e Poder.",
+		"Use a roda do mouse ou clique e arraste a tela para rolar a página.",
+		"Se você puder inspecionar um item, seu cursor virará uma lupa.",
+		"Não há limites para quantas relíquias você pode carregar.",
+		"Baús sempre deixarão uma relíquia.",
+		"Todo caminho que você tomar sempre terá pelo menos 1 sala de tesouro.",
+		"Use a roda do mouse ou clique e arraste para rolar mapas, telas de carta, e outros.",
+		"Inimigos Elite sempre deixarão uma relíquia.",
+		"Você nunca verá a mesma relíquia duas vezes em uma jornada.",
+		"Cartas Incomuns tem quadro e insígnia azuis.",
+		"Cartas Raras tem quadro e insígnia dourados.",
+		"A raridade de uma carta é visível na carta em si.",
+		"Não é sempre sensato adicionar cartas ao seu deck.",
+		"Cartas exauridas durante o combate não são removidas do seu baralho.",
+		"Você só pode ter até 10 cartas na sua mão.",
+		"Cartas de condição desaparecem no fim do combate.",
+		"Maldições não podem ser aprimoradas. Por que você o faria?",
+		"Cartas aprimoradas podem aparecer em recompensas passado o Ato 1.",
+		"Poções só podem ser utilizadas durante combate.",
+		"Poções não podem ser descartadas durante combate.",
+		"Salas desconhecidas podem conter tesouros, monstros, lojas ou eventos.",
+		"O Vendedor não dá reembolsos. Ele é um babaca.",
+		"O serviço de remoção de carta aumenta em preço quando você o usa.",
+		"O serviço de remoção de carta só pode ser usado uma vez a cada loja.",
+		"Dano de poções, relíquias, e poderes não são considerados dano de ataque."
 	],
 	"LABEL": [
-		"You can discard potions to make room for others."	
+		"Você pode descartar poções para abrir espaço para outras."
 	]
   }
 }

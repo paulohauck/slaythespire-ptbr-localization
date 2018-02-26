@@ -1,0 +1,70 @@
+{
+  "Cursed Run": {
+    "NAME": "呪われし道程",
+    "DESCRIPTION": "ボスを倒すたび、呪われる。"
+  },
+  "Double Elites": {
+    "NAME": "ダブルエリート",
+    "DESCRIPTION": "エリートの出現数が2倍。"
+  },
+  "Fat Deck": {
+    "NAME": "肥満デッキ",
+    "DESCRIPTION": "報酬のカード選択をスキップできなくなる。"
+  },
+  "Growing Enemies": {
+    "NAME": "成長する敵",
+    "DESCRIPTION": "敵は毎ターン強化される。"
+  },
+  "Heirloom": {
+    "NAME": "先祖伝来の家宝",
+    "DESCRIPTION": "ランダムなレリック1つを所持してスタートする。"
+  },
+  "Lethal Enemies": {
+    "NAME": "致命的な敵",
+    "DESCRIPTION": "戦闘開始時、すべての敵は 筋力 3 を得る。"
+  },
+  "Night Terrors": {
+    "NAME": "夜の恐怖",
+    "DESCRIPTION": "たき火でのHP回復が30％から20％に低下する。"
+  },
+  "Restless Journey": {
+    "NAME": "休み無き旅路",
+    "DESCRIPTION": "次のレベルに到達してもHPが回復しない。"
+  },
+  "Slow Start": {
+    "NAME": "スロースタート",
+    "DESCRIPTION": "ストライクと防御を1枚ずつ獲得して攻略を開始する。"
+  },
+  "Tough Enemies": {
+    "NAME": "しぶとい敵",
+    "DESCRIPTION": "敵のHPが25％上昇。"
+  },
+  "Turtle": {
+    "NAME": "亀",
+    "DESCRIPTION": "ストライクを1枚削除し、防御を1枚獲得して攻略を開始する。"
+  },
+  "Vintage": {
+    "NAME": "ヴィンテージ",
+    "DESCRIPTION": "商人の販売価格が25％上昇する。"
+  },
+  "Shiny": {
+    "NAME": "Shiny",
+    "DESCRIPTION": "Start with 1 Rare card."
+  },
+  "Allstar": {
+    "NAME": "All Star",
+    "DESCRIPTION": "Start with 2 colorless cards."
+  },
+  "Elite Swarm": {
+    "NAME": "Elite Swarm",
+    "DESCRIPTION": "Elite enemies are swarming the Spire."
+  },
+  "Greed": {
+    "NAME": "Greed",
+    "DESCRIPTION": "You cannot skip combat rewards."
+  },
+  "Diverse": {
+    "NAME": "Diverse",
+    "DESCRIPTION": "Start with 2 cards from another class."
+  }
+}

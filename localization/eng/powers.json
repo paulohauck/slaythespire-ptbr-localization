@@ -132,7 +132,7 @@
     "NAME": "Curl Up",
     "DESCRIPTIONS": [
 	"On taking #yAttack damage, rolls up and gains ", 
-	" #yBlock."
+	" #yBlock. (Once per combat)"
     ]
   },
   "Dance Puppet": {
@@ -370,9 +370,7 @@
   "Intangible": {
     "NAME": "Intangible",
     "DESCRIPTIONS": [
-	"Reduce ALL damage taken and HP loss to #b1 for the next #b",
-	" turns.",
-	"Reduce ALL damage taken and HP loss to #b1 next turn."
+   "Reduce ALL damage taken and HP loss to #b1 this turn. Intangible is reapplied every other turn."
     ]
   },
   "Inverted": {
@@ -577,6 +575,13 @@
   " #yStrength."
     ]
   },
+  "GrowthPower": {
+    "NAME": "Growth",
+    "DESCRIPTIONS": [
+  "At the end of its turn, gains #b",
+  " #yStrength."
+    ]
+  },
   "Generic Strength Up Power": {
     "NAME": "",
     "DESCRIPTIONS": [
@@ -637,7 +642,8 @@
     "DESCRIPTIONS": [
 	"For each card played this turn, ",
 	" takes #b10% more damage from #yAttacks.", 
-	" (Take #b", "% more damage)"
+	" (Take #b",
+  "% more damage)"
     ]
   },
   "Split": {

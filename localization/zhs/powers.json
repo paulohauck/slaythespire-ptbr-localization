@@ -132,7 +132,7 @@
     "NAME": "蜷身",
     "DESCRIPTIONS": [
       "当受到 #y攻击 伤害时，蜷起身子并获得 ",
-      " 点 #y格挡 。"
+      " 点 #y格挡 。（每场战斗一次）"
     ]
   },
   "Dance Puppet": {
@@ -370,9 +370,7 @@
   "Intangible": {
     "NAME": "无实体",
     "DESCRIPTIONS": [
-      "将受到的所有伤害和生命减少效果降低为 #b1 ，持续 #b",
-      " 回合。",
-      "将受到的所有伤害和生命减少效果降低为 #b1 ，持续 #b1 回合。"
+      "将本回合受到的所有伤害和生命减少效果降低为 #b1 。 无实体将每隔一回合重新生效。"
     ]
   },
   "Inverted": {
@@ -771,6 +769,13 @@
     "NAME": "爪牙",
     "DESCRIPTIONS": [
       "爪牙会在他们的领导者死亡时放弃战斗。"
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "Growth",
+    "DESCRIPTIONS": [
+      "At the end of its turn, gains #b",
+      " #yStrength."
     ]
   }
 }

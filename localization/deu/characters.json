@@ -28,16 +28,17 @@
       "Neow"
     ],
     "TEXT": [
-      "~Sei~ ~gegrüßt …~ NL ~Ich …~ ~bin~ ~Neow …~",
-      "~Hallo …~ NL ~Noch mal …~",
-      "~Sei~ ~gegrüßt …~",
-      "~Noch~ ~ein~ NL ~Versuch …?~",
-      "~Erreiche~ ~den~ ~Boss …~ NL ~um~ ~meinen …~ ~Segen~ ~zu~ ~erhalten …~",
-      "~Stelle~ ~dich~ ~zumindest …~ NL ~dem~ ~ersten~ ~Boss …~",
-      "~Ich~ ~habe~ ~dich~ ~zurückgeholt …~",
-      "~Wähle …~",
-      "~Gewährt …~",
-      "~Risiko…~ NL ~… Belohnung …~"
+      "~Sei~ ~gegrüßt~ NL ~Ich~ ~bin~ ~Neow~ ~…~",
+      "~Hallo~ ~…~ NL ~Noch~ ~mal~ ~…~",
+      "~Sei~ ~gegrüßt~ ~…~",
+      "~Noch~ ~ein~ NL ~Versuch~ ~…?~",
+      "~Erreiche~ ~den~ ~Boss~ ~…~ NL ~um~ ~meinen~ ~…~ ~Segen~ ~zu~ ~erhalten~ ~…~",
+      "~Stelle~ ~dich~ ~zumindest~ ~…~ NL ~dem~ ~ersten~ ~Boss~ ~…~",
+      "~Ich~ ~habe~ ~dich~ ~zurückgeholt~ ~…~",
+      "~Wähle~ ~…~",
+      "~Gewährt~ ~…~",
+      "~Risiko~ ~…~ NL ~…Belohnung~ ~…~",
+      "~Time~ ~for~ ~a~ NL ~CHALLENGE...~"
     ],
     "OPTIONS": [
       "[Fortsetzen]",
@@ -54,7 +55,7 @@
       "[ #gEine #gKarte #gaus #gdeinem #gDeck #gentfernen ]",
       "[ #gEine #gKarte #gverbessern ]",
       "[ #gEine #gKarte #gtransformieren ]",
-      "[ #g3 #gTränke #gerhalten ]",
+      "[ #g3 #gzufällige #gTränke #gerhalten ]",
       "[ #gEin #gzufälliges #ggewöhnliches #gRelikt #gerhalten ]",
       "[ #gMax. #gTP #g+",
       "[ #gDu #gerhältst #g",
@@ -77,7 +78,7 @@
       "Eine Karte zum Transformieren wählen",
       "2 Karten zum Transformieren wählen",
       "Eine Karte zum Verbessern wählen",
-      "[ #gThe #gnext #g3 #genemies #ghave #g1 #gHP ]"
+      "[ #gDie #gnächsten #g3 #gGegner #ghaben #g1 #gTP ]"
     ],
     "UNIQUE_REWARDS": [
       "[ #rVerliere #rdein #rStartrelikt , um #gEin #gzufälliges #gBossrelikt #gzu #gerhalten ]"

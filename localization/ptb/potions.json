@@ -1,16 +1,23 @@
 {
-  "Block Potion": {
-	"NAME": "Block Potion",
+  "Ancient Potion": {
+	"NAME": "Poção Antiga",
     "DESCRIPTIONS": [
-			"Gain #b",
-			" #yBlock."
+			"Ganhe #b",
+			" de #yArtefato."
+	]
+  },
+  "Block Potion": {
+	"NAME": "Poção de Proteção",
+    "DESCRIPTIONS": [
+			"Ganhe #b",
+			" de #yProteção."
 	]
   },
   "Dexterity Potion": {
-	"NAME": "Dexterity Potion",
+	"NAME": "Poção de Destreza",
     "DESCRIPTIONS": [
-			"Gain #b",
-			" #yDexterity."
+			"Ganhe #b",
+			" de #yDestreza."
 	]
   },
   "Elixir": {
@@ -18,81 +25,81 @@
     "DESCRIPTIONS": [
 			"",
 			"",
-			"#yExhaust all #yStatus and #yCurse cards from your hand.",
+			"#yExaure todos as #yCondições e #yMaldições de sua mão.",
 			"",
-			"It had no effect..."
+			"Não teve efeito..."
 	]
   },
   "Energy Potion": {
-	"NAME": "Energy Potion",
+	"NAME": "Poção de Energia",
     "DESCRIPTIONS": [
-			"Gain #b",
-			" Energy."
+			"Ganhe #b",
+			" de Energia."
 	]
   },
   "Explosive Potion": {
-	"NAME": "Explosive Potion",
+	"NAME": "Poção de Explosão",
     "DESCRIPTIONS": [
-			"Deal #b",
-			" damage to ALL enemies."
+			"Dê #b",
+			" de dano a TODOS os inimigos."
 	]
   },
   "Fire Potion": {
-	"NAME": "Fire Potion",
+	"NAME": "Poção de Fogo",
     "DESCRIPTIONS": [
-			"Deal #b",
-			" damage."
+			"Dê #b",
+			" de dano."
 	]
   },
   "Health Potion": {
-	"NAME": "Health Potion",
+	"NAME": "Poção de Saúde",
     "DESCRIPTIONS": [
-			"Heal #b",
-			" HP."
+			"Cure #b",
+			" PV."
 	]
   },
   "Poison Potion": {
-	"NAME": "Poison Potion",
+	"NAME": "Poção de Veneno",
     "DESCRIPTIONS": [
-			"Apply #b",
-			" #yPoison."
+			"Aplique #b",
+			" de #yVeneno."
 	]
   },
   "Potion Slot": {
-	"NAME": "Potion Slot",
+	"NAME": "Espaço de Poções",
     "DESCRIPTIONS": [
-			"Use potions during combat to gain #gbonuses or #rhinder enemies.",
-			"Potion Slot"
+			"Use poções durante combates para receber #gbônus ou #rafetar seus inimigos.",
+			"Espaço de Poções"
 	]
   },
     "Regen Potion": {
-	"NAME": "Regen Potion",
+	"NAME": "Poção de Regeneração",
     "DESCRIPTIONS": [
-			"Heal #b",
-			" #yHP at the end of each turn for #b",
-			" turns."
+			"Cure #b",
+			" #yPV no fim de cada turno por #b",
+			" turnos."
 	]
   },
   "Strength Potion": {
-	"NAME": "Strength Potion",
+	"NAME": "Poção de Força",
     "DESCRIPTIONS": [
-			"Gain #b",
-			" #yStrength."
+			"Ganhe #b",
+			" de #yForça."
 	]
   },
   "Swift Potion": {
-	"NAME": "Swift Potion",
+	"NAME": "Poção de Velocidade",
     "DESCRIPTIONS": [
 			"",
-			"Draw #b",
-			" cards."
+			"Compre #b",
+			" cartas."
 	]
   },
     "Weak Potion": {
-	"NAME": "Weak Potion",
+	"NAME": "Poção de Fraqueza",
     "DESCRIPTIONS": [
-			"Apply #b",
-			" #yWeak."
+			"Aplique #b",
+			" de #yFraqueza."
 	]
   }
 }

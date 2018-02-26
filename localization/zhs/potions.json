@@ -94,5 +94,12 @@
       "给予 #b",
       " 层 #y虚弱 。"
     ]
+  },
+  "Ancient Potion": {
+    "NAME": "先古药水",
+    "DESCRIPTIONS": [
+      "获得 #b",
+      " 层 #y人工制品 。"
+    ]
   }
 }

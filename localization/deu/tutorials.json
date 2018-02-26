@@ -58,7 +58,8 @@
   "Relic Tip": {
     "TEXT": [
       "Relikte, die im Spire gefunden werden, gewähren einzigartige Boni und werden während des gesamten Durchlaufs behalten. NL Sie können durch das Besiegen von mächtigen Gegnern oder in Truhen gefunden werden.",
-      "Dieses Relikt muss noch entdeckt werden."
+      "Dieses Relikt muss noch entdeckt werden.",
+      "Its power is all used up."
     ],
     "LABEL": [
       "Relikte",
@@ -79,7 +80,7 @@
     "TEXT": [
       "Zu Beginn jedes Zuges werden hier NL #b",
       " Karten gezogen. NL NL Klicke, um die Karten in deinem Aufnahmestapel anzusehen (gemischt).",
-      " cards are drawn from here. NL NL Click to view the cards in your draw pile."
+      " Karten gezogen. NL NL Klicke, um die Karten in deinem Aufnahmestapel anzusehen."
     ],
     "LABEL": [
       "Aufnahmestapel"
@@ -114,7 +115,7 @@
       " Karten und dann bist du wieder am Zug."
     ],
     "LABEL": [
-      "Zug beenden (E)"
+      "Zug beenden "
     ]
   },
   "Discard Tip": {
@@ -153,14 +154,16 @@
       "Wenn dir die TP ausgehen, stirbst du.",
       "Zeigt, wie viel Gold du besitzt. Gold ist die anerkannte Währung im Spire.",
       "Du erhältst dies, wenn du einen #yBoss besiegst. NL Wofür könnte das sein …?",
-      "Du erhältst dies, wenn du einen #yBoss besiegst. NL Verfüttere diese an #yNeow, um Gegenstände freizuschalten und Boni für neue Durchläufe zu verdienen."
+      "Du erhältst dies, wenn du einen #yBoss besiegst. NL Verfüttere diese an #yNeow, um Gegenstände freizuschalten und Boni für neue Durchläufe zu verdienen.",
+      "Elapsed time for this run."
     ],
     "LABEL": [
-      "Einstellungen (ESC)",
-      "Deck (D)",
-      "Karte (M)",
+      "Einstellungen ",
+      "Deck ",
+      "Karte ",
       "Trefferpunkte (TP)",
-      "Geldkatze"
+      "Geldkatze",
+      "Run Timer"
     ]
   },
   "Random Tips": {
@@ -191,8 +194,6 @@
       "Karten, die während des Kampfes erschöpft wurden, werden nicht aus deinem Deck entfernt.",
       "Du kannst nur bis zu 10 Karten auf deiner Hand haben.",
       "Statuskarten verschwinden am Ende des Kampfes.",
-      "Farblose Karten kosten immer 0.",
-      "Farblose Karten können nicht verbessert werden.",
       "Flüche können nicht verbessert werden. Warum sollte man auch?",
       "Verbesserte Karten können in Belohnungen nach Level 1 erscheinen.",
       "Tränke können nur während des Kampfes eingesetzt werden.",
@@ -209,10 +210,10 @@
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Click to view cards Exhausted this combat."
+      "Klicke, um die in diesem Kampf erschöpften Karten anzusehen."
     ],
     "LABEL": [
-      "Exhausted Cards"
+      "Erschöpfte Karte"
     ]
   }
 }

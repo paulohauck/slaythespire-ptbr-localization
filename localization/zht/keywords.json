@@ -245,13 +245,13 @@
     },
     "ARTIFACT": {
       "NAMES": [
-        "artifact",
+        "人工製品",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE",
         "UNUSED_RESERVE"
       ],
-      "DESCRIPTION": "Negates the next debuff."
+      "DESCRIPTION": "免疫下一次負面效果。"
     }
   }
 }

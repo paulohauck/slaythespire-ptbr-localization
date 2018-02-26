@@ -17,7 +17,7 @@
     "NAME": "Nachbild",
     "DESCRIPTIONS": [
       "Immer wenn du eine Karte ausspielst, erhältst du #b",
-      " #yBlocken."
+      " #yBlock."
     ]
   },
   "Anger": {
@@ -62,8 +62,8 @@
   "Blur": {
     "NAME": "Schleier",
     "DESCRIPTIONS": [
-      "#yBlocken wird zu Beginn deines nächsten Zuges nicht entfernt.",
-      "#yBlocken wird zu Beginn deiner nächsten #b",
+      "#yBlock wird zu Beginn deines nächsten Zuges nicht entfernt.",
+      "#yBlock wird zu Beginn deiner nächsten #b",
       " Züge nicht entfernt."
     ]
   },
@@ -132,7 +132,7 @@
     "NAME": "Zusammenrollen",
     "DESCRIPTIONS": [
       "Rollt sich bei #yAngriffsschaden ein und erhält ",
-      " #yBlocken."
+      " #yBlock. (Einmalig pro Kampf)"
     ]
   },
   "Dance Puppet": {
@@ -168,8 +168,8 @@
   "Dexterity": {
     "NAME": "Geschicklichkeit",
     "DESCRIPTIONS": [
-      "Erhöht von Karten erhaltenes #yBlocken um #b",
-      "Verringert von Karten erhaltenes #yBlocken um #b"
+      "Erhöht von Karten erhaltenes #yBlock um #b",
+      "Verringert von Karten erhaltenes #yBlock um #b"
     ]
   },
   "Double Damage": {
@@ -235,7 +235,7 @@
     "DESCRIPTIONS": [
       "Du erhältst #b",
       " [G] zusätzlich im nächsten Zug.",
-      " additional [G] next turn.",
+      " zusätzliche [G] im nächsten Zug.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
@@ -271,7 +271,7 @@
     "NAME": "Fühle keinen Schmerz",
     "DESCRIPTIONS": [
       "Immer wenn eine Karte #yErschöpft, erhältst du #b",
-      " #yBlocken."
+      " #yBlock."
     ]
   },
   "Fire Breathing": {
@@ -303,7 +303,7 @@
   "Frail": {
     "NAME": "Gebrechlich",
     "DESCRIPTIONS": [
-      "Du erhältst #b25% weniger #yBlocken von Karten – für #b",
+      "Du erhältst #b25% weniger #yBlock von Karten – für #b",
       " Zug.",
       " Züge."
     ]
@@ -335,7 +335,7 @@
     "NAME": "Verfluchen",
     "DESCRIPTIONS": [
       "Immer wenn du eine Nicht-Angriffskarte ausspielst, mischst du #b",
-      " #yBenommen in dein Deck."
+      " #yBenommen in deinen Aufnahmestapel."
     ]
   },
   "Hide": {
@@ -370,21 +370,19 @@
   "Intangible": {
     "NAME": "Ungreifbar",
     "DESCRIPTIONS": [
-      "Du reduzierst JEGLICHEN erlittenen Schaden und TP-Verlust auf #b1.",
-      " turn.",
-      " turns."
+      "Du reduzierst JEGLICHEN erlittenen Schaden und TP-Verlust auf #b1 für diesen Zug. Ungreifbar wird jeden zweiten Zug neu angewendet."
     ]
   },
   "Inverted": {
     "NAME": "Umgekehrt",
     "DESCRIPTIONS": [
-      "Immun gegen Schaden. Immer wenn du #yBlocken erhältst, wird dieselbe Menge an TP erhalten."
+      "Immun gegen Schaden. Immer wenn du #yBlock erhältst, wird dieselbe Menge an TP erhalten."
     ]
   },
   "Juggernaut": {
     "NAME": "Verwüster",
     "DESCRIPTIONS": [
-      "Immer wenn du #yBlocken erhältst, verursachst du an einem zufälligen Gegner #b",
+      "Immer wenn du #yBlock erhältst, verursachst du an einem zufälligen Gegner #b",
       " Schaden."
     ]
   },
@@ -406,7 +404,7 @@
     "NAME": "Formbar",
     "DESCRIPTIONS": [
       "Erhält bei #yAngriffsschaden #b",
-      " #yBlocken. #yBlocken-Zuwachs erhöht sich, wenn ",
+      " #yBlock. #yBlock-Zuwachs erhöht sich, wenn ",
       " ausgelöst wird. Setzt sich zu Beginn deines Zuges auf #b",
       " zurück."
     ]
@@ -415,9 +413,9 @@
     "NAME": "Metallisieren",
     "DESCRIPTIONS": [
       "Du erhältst #b",
-      " #yBlocken am Ende deines Zuges.",
+      " #yBlock am Ende deines Zuges.",
       "Erhält #b",
-      " #yBlocken am Ende des eigenen Zuges."
+      " #yBlock am Ende des eigenen Zuges."
     ]
   },
   "Mode Shift": {
@@ -431,7 +429,7 @@
     "NAME": "Blocken im nächsten Zug",
     "DESCRIPTIONS": [
       "Zu Beginn deines nächsten Zuges erhältst du #b",
-      " #yBlocken."
+      " #yBlock."
     ]
   },
   "No Draw": {
@@ -474,9 +472,9 @@
     "NAME": "Panzerrüstung",
     "DESCRIPTIONS": [
       "Du erhältst #b",
-      " #yBlocken am Ende deines Zuges. Der Verlust von TP durch einen Angriff reduziert #yPanzerrüstung um #b1.",
+      " #yBlock am Ende deines Zuges. Der Verlust von TP durch einen Angriff reduziert #yPanzerrüstung um #b1.",
       "Erhält #b",
-      " #yBlocken am Ende des eigenen Zuges. Der Verlust von TP durch einen Angriff reduziert #yPanzerrüstung um #b1."
+      " #yBlock am Ende des eigenen Zuges. Der Verlust von TP durch einen Angriff reduziert #yPanzerrüstung um #b1."
     ]
   },
   "Poison": {
@@ -491,7 +489,7 @@
     "NAME": "Wut",
     "DESCRIPTIONS": [
       "Immer wenn du in diesem Zug einen Angriff ausspielst, erhältst du #b",
-      " #yBlocken."
+      " #yBlock."
     ]
   },
   "Reduce Damage": {
@@ -688,7 +686,7 @@
   "Berserk": {
     "NAME": "Berserker",
     "DESCRIPTIONS": [
-      "Wenn deine TP unter #b50% betragen, erhältst du ",
+      "Wenn deine TP unter oder genau #b50% sind, erhältst du ",
       " zu Beginn deines Zuges."
     ]
   },
@@ -768,9 +766,16 @@
     ]
   },
   "Minion": {
-    "NAME": "Minion",
+    "NAME": "Untertan",
     "DESCRIPTIONS": [
       "Untertanen fliehen aus dem Kampf, wenn ihr Anführer stirbt."
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "Growth",
+    "DESCRIPTIONS": [
+      "At the end of its turn, gains #b",
+      " #yStrength."
     ]
   }
 }

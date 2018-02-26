@@ -47,7 +47,7 @@
   "Health Potion": {
     "NAME": "生命藥水",
     "DESCRIPTIONS": [
-      "回覆 #b",
+      "回復 #b",
       " 點生命。"
     ]
   },
@@ -68,7 +68,7 @@
   "Regen Potion": {
     "NAME": "再生藥水",
     "DESCRIPTIONS": [
-      "在你的回合結束時回覆 #b",
+      "在你的回合結束時回復 #b",
       " 點 #y生命 ，效果持續 #b",
       " 回合。"
     ]
@@ -93,6 +93,13 @@
     "DESCRIPTIONS": [
       "給予 #b",
       " 層 #y虛弱 。"
+    ]
+  },
+  "Ancient Potion": {
+    "NAME": "先古藥水",
+    "DESCRIPTIONS": [
+      "獲得 #b",
+      " 層 #y人工製品 。"
     ]
   }
 }

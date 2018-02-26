@@ -12,7 +12,7 @@
   "End Turn Button": {
     "TEXT": [
       "턴 종료",
-      "상대 턴"
+      "적 턴"
     ]
   },
   "LeaderboardsScreen": {
@@ -27,9 +27,9 @@
       "이름",
       "점수",
       "데이터 로딩중...",
-      "리더보드",
+      "리더보드 (주의: 매 주 초기화됩니다.)",
       "스팀 서버에 연결되어 있지 않습니다.",
-      "No Scores Available \n Go Slay the Spire!"
+      "등록된 점수 없음 \n Slay the Spire를 플레이 하세요!"
     ]
   },
   "LanguageDropdown": {
@@ -46,7 +46,14 @@
       "폴란드어",
       "러시아어",
       "스페인어",
-      "Hebrew"
+      "히브리어",
+      "터키어",
+      "스웨덴어",
+      "Norwegian",
+      "Thai",
+      "Serbian",
+      "Ukrainian",
+      "Vietnamese"
     ]
   },
   "Proceed Button": {
@@ -76,22 +83,22 @@
   },
   "ShopRoom": {
     "TEXT": [
-      "상인 스킵"
+      "상인 넘기기"
     ]
   },
   "TreasureRoom": {
     "TEXT": [
-      "상자 스킵"
+      "상자 넘기기"
     ]
   },
   "TreasureRoomBoss": {
     "TEXT": [
-      "상자 스킵"
+      "상자 넘기기"
     ]
   },
   "SetupAction": {
     "TEXT": [
-      "드로우 덱의 가장 위에 놓습니다."
+      "뽑을 카드 더미의 가장 위에 놓습니다."
     ]
   },
   "SkillFromDeckToHandAction": {
@@ -142,15 +149,15 @@
   "Rest Option": {
     "TEXT": [
       "휴식",
-      "최대 체력의 20%를 회복 (",
-      " HP from ",
-      "최대 체력의 30%를 회복 ("
+      "최대 체력의 20%를 회복합니다. (",
+      " 체력을 다음으로부터 추가로 회복 : ",
+      "최대 체력의 30%를 회복합니다. ("
     ]
   },
   "Smith Option": {
     "TEXT": [
-      "제련",
-      "덱에 있는 카드를 1개 임의로 강화합니다.",
+      "재련",
+      "덱에 있는 카드를 1개 강화합니다.",
       "강화할 수 있는 카드가 없습니다."
     ]
   },
@@ -162,12 +169,12 @@
   },
   "DiscardPilePanel": {
     "TEXT": [
-      "My Discard Pile is #rempty."
+      "버린 카드 더미가 #r비어있다."
     ]
   },
   "DrawPilePanel": {
     "TEXT": [
-      "My Draw Pile is #rempty."
+      "뽑을 카드 더미가 #r비어있다."
     ]
   },
   "PotionPopUp": {
@@ -196,21 +203,25 @@
   "AbstractPlayer": {
     "TEXT": [
       "방어됨",
-      "the Ironclad",
-      "the Silent",
-      "the Gunner"
+      "아이언클래드",
+      "사일런트",
+      "거너"
     ]
   },
   "AbstractCreature": {
     "TEXT": [
-      "사망",
+      "죽음",
       "방어됨",
-      "최대 체력 +"
+      "최대 체력 +",
+      "기절 시킴!",
+      "방해함!"
     ]
   },
   "TopPanel": {
     "TEXT": [
-      " 층"
+      " 층",
+      " - 승천",
+      " (최고 단계)"
     ]
   },
   "UnlockCharacterScreen": {
@@ -219,8 +230,8 @@
       "",
       "새로운 유물이 해금되었습니다!",
       "새로운 캐릭터",
-      "Note: 앞으로 해금된 카드를 발견할 수 있습니다.",
-      "Note: 앞으로 해금된 유물을 발견할 수 있습니다."
+      "알림: 앞으로 해금된 카드를 발견할 수 있습니다.",
+      "알림: 앞으로 해금된 유물을 발견할 수 있습니다."
     ]
   },
   "UnlockScreen": {
@@ -228,8 +239,8 @@
       "새로운 카드가 해금되었습니다!",
       "새로운 유물이 해금되었습니다!",
       "새로운 캐릭터",
-      "Note: 앞으로 해금된 카드를 발견할 수 있습니다.",
-      "Note: 앞으로 해금된 유물을 발견할 수 있습니다."
+      "알림: 앞으로 해금된 카드를 발견할 수 있습니다.",
+      "알림: 앞으로 해금된 유물을 발견할 수 있습니다."
     ]
   },
   "StorePotion": {
@@ -246,12 +257,12 @@
     "TEXT": [
       "보스",
       "일반",
-      "Deprecated",
+      "설명이 없습니다.",
       "희귀",
       "상점",
       "이벤트",
       "시작",
-      "특별",
+      "고급",
       "잠김",
       "미지",
       " 유물",
@@ -269,11 +280,11 @@
       "미지",
       "강화 상태 보기",
       "상태이상",
-      "Ammo",
+      "탄약",
       "내 턴에만 카드를 사용할 수 있다.",
-      "I'm #rEntangled! NL Can't play Attacks",
+      "#r속박 되었다! NL 공격 카드를 사용할 수 없어.",
       "#r에너지 가 부족해.",
-      "Not enough #rCharge.",
+      "#r충전 이 충분하지 않아.",
       "이 카드는 NL 사용할 수 없어."
     ]
   },
@@ -288,12 +299,12 @@
       "튜토리얼",
       "게임을 진행하며 게임 진행 힌트를 받으시겠습니까?",
       "1 단계",
-      "Exordium",
+      "태초",
       "2 단계",
-      "The City",
+      "도시",
       "3 단계",
-      "The Beyond",
-      "Level ?",
+      "저편",
+      "? 단계",
       "???",
       "아무 곳이나 클릭하십시오"
     ]
@@ -309,14 +320,14 @@
       "자신의 턴이 시작될 때 이 곳에서 카드를 가져옵니다.",
       "(카드는 희귀도 순으로 정렬되어 있습니다.)",
       "돌아가기",
-      "드로우 덱"
+      "뽑을 카드 더미"
     ]
   },
   "DiscardPileViewScreen": {
     "TEXT": [
-      "가져올 카드가 남아있지 않으면 이 카드들을 섞어 드로우 덱으로 가져옵니다.",
+      "가져올 카드가 남아있지 않으면 이 카드들을 섞어 뽑을 카드 더미로 가져옵니다.",
       "돌아가기",
-      "디스카드 덱"
+      "버린 카드 더미"
     ]
   },
   "CopyAction": {
@@ -353,30 +364,30 @@
       "플레이 시간",
       "플레이 시간",
       "점수",
-      "Conquered",
-      "Death...",
-      "Defeat",
-      "Defeated!",
-      "Desecrated",
-      "Devastation",
-      "Vanquished",
-      "You are Slain!",
-      "A familiar feeling.",
-      "A nap sounds good.",
-      "As you sow, so you shall reap.",
-      "Went the wrong way.",
-      "I wasn't prepared for this.",
-      "I'll try again tomorrow.",
-      "I'm going to need a new map.",
-      "Inadequately prepared.",
-      "Inconceivable!",
-      "Is this my true potential?",
-      "Just my luck...",
-      "Not like this...",
-      "Not quite the top.",
-      "The Spire consumes another...",
-      "Your consciousness fades...",
-      "Defeat",
+      "굴복",
+      "죽음...",
+      "패배",
+      "격파됨!",
+      "더럽혀짐",
+      "초토화",
+      "완패",
+      "당신은 죽었습니다!",
+      "친숙한 느낌이군요.",
+      "낮잠이나 자는 게 좋겠네요.",
+      "뿌린 대로 거두어 들일 것입니다.",
+      "잘 안 풀렸어.",
+      "이런 것을 대비하진 못했어.",
+      "내일 다시 오겠다.",
+      "새로운 지도가 필요해지겠군.",
+      "준비가 부족했어.",
+      "생각도 못했어!",
+      "내 가능성은 이 정도 뿐인 건가?",
+      "운이 나빴어...",
+      "이건 아니야...",
+      "아직 꼭대기가 아니야.",
+      "첨탑이 또 한 명을 흡수합니다...",
+      "당신의 의식이 희미해집니다...",
+      "패배",
       "승인",
       "계속",
       "재도전",
@@ -395,37 +406,37 @@
       "체력 보너스"
     ],
     "EXTRA_TEXT": [
-      "Exordium Elites Killed",
-      "City Elites Killed",
-      "Beyond Elites Killed",
-      "Speedster",
-      "Light Speed",
-      "Highlander",
-      "Collection",
-      "Full Set",
-      "Pauper",
-      "Librarian",
-      "Encyclopedia",
-      "Well Fed",
-      "Stuffed",
-      "Curses!",
-      "On My Own Terms",
-      "",
-      "Perfect",
-      "Beyond Perfect",
-      "Overkill",
-      "C-c-c-combo",
+      "태초 엘리트 처치",
+      "도시 엘리트 처치",
+      "저편 엘리트 처치",
+      "속도광",
+      "광속",
+      "하이랜더",
+      "수집품",
+      "완전무장",
+      "거지",
+      "사서",
+      "백과사전",
+      "포식",
+      "과식",
+      "저주 받을!",
+      "내 뜻으로",
+      "영웅",
+      "완벽함",
+      "완벽조차 넘어섬",
+      "오버킬",
+      "코-코-코-콤보",
       ""
     ]
   },
   "CombatRewardScreen": {
     "TEXT": [
       "진행",
-      "카드 스킵",
-      "골드 스킵",
-      "포션 스킵",
-      "유물 스킵",
-      "보상 스킵",
+      "카드 넘기기",
+      "골드 넘기기",
+      "포션 넘기기",
+      "유물 넘기기",
+      "보상 넘기기",
       "닫기",
       "보물이다!",
       "안에 무엇이 있을까?",
@@ -442,8 +453,11 @@
   },
   "CardRewardScreen": {
     "TEXT": [
-      "스킵",
-      "카드를 선택하십시오"
+      "넘기기",
+      "카드를 선택하십시오",
+      "최대 체력 +2",
+      "투표하십시오: ",
+      "초 남았습니다."
     ]
   },
   "BossRelicSelectScreen": {
@@ -451,7 +465,9 @@
       "확인",
       "선택한 것을 확인하십시오",
       "유물을 선택하십시오",
-      "넘기기"
+      "넘기기",
+      "투표하십시오: ",
+      "초 남았습니다."
     ]
   },
   "GridCardSelectScreen": {
@@ -464,12 +480,12 @@
   },
   "HandCardSelectScreen": {
     "TEXT": [
-      "Confirm Card to ",
-      "Confirm Cards to ",
-      "Choose ",
-      " Cards to ",
-      "Choose Any Number of Cards to ",
-      "Choose a Card to "
+      "카드 확인 : ",
+      "카드들 확인 : ",
+      "카드 ",
+      " 장 선택 : ",
+      "임의의 장 수만큼 카드들 선택 : ",
+      "카드 선택 : "
     ]
   },
   "AbandonRunButton": {
@@ -496,21 +512,21 @@
       "게임 메뉴",
       "그래픽",
       "해상도: NL 최대 프레임:",
-      "풀스크린 NL 경계선 없는 풀스크린 (추천) NL 화면 흔들림",
-      "사운드",
-      "전체 사운드 NL 배경음 NL 효과음",
-      "백그라운드에서 소리 재생",
+      "전체화면 NL 경계선 없는 전체화면 (추천) NL 화면 흔들림",
+      "음량",
+      "전체 음량 NL 배경음 NL 효과음",
+      "백그라운드 소리 효과 NL 백그라운드에서 음소거",
       "편의 사항",
-      "합산 데미지를 노란색으로 표시 NL 방어된 피해량을 파란색으로 표시 NL 카드 획득 시 확인 단계를 건너뜀",
-      "일반 팁 NL 카드 팁",
-      "파워 팁 NL 유물 팁",
+      "합산 피해량을 #y노란색 으로 표시 NL 방어된 피해량을 #b파란색 으로 표시 NL 카드 획득 시 확인 단계를 건너뜀",
+      "빠른 전투",
+      "",
       "기타",
       "언어:",
       "게임 플레이 정보를 업로드 #b(?)",
       "게임 종료",
       "저장 후 종료",
       "NL NL VSync",
-      "Playtester Art Mode"
+      "플레이 테스터용 아트모드"
     ]
   },
   "SettingsScreen": {
@@ -547,7 +563,7 @@
       "얼리 엑세스란?",
       "오픈 베타란?",
       "Slay the Spire는 아직 개발 중 입니다! NL 많은 특성들, 카드들, 그리고 적들은  수정 중입니다. NL NL 만약 실행 중에 문제가 발생하거나 의견이 있으시면 #b스팀 #b논의 페이지에 알려주시기 바랍니다. NL NL 다 읽으셨다면 이제 첨탑을 등반해 주시길 바랍니다!",
-      "Slay the Spire is still in active development! NL On top of this, you are playing the Beta version of the game. NL NL Please let us know of any issues you have while playing, but don't be surprised by placeholder art for upcoming content. NL NL That's enough reading, you have a spire to climb!",
+      "Slay the Spire는 아직 개발 중 입니다! NL 위에 적힌 것 처럼, 당신은 베타 버전을 플레이하고 있습니다. NL NL 만약 실행 중에 문제가 발생했다면 당황하지 마시고 그 문제를 보관하여 알려주시기 바랍니다.  NL NL 다 읽으셨다면 이제 첨탑을 등반해 주시길 바랍니다!",
       "아무 곳이나 클릭하십시오"
     ]
   },
@@ -566,14 +582,16 @@
       "일일 도전",
       "유물 모음집",
       "계속",
-      "리더보드 (베타)",
+      "리더보드",
       "통계",
       "크레딧",
       "종료",
       "패치 노트",
       "전투를 포기",
       "전투를 포기 (재확인)",
-      "Settings"
+      "설정",
+      "도전 이력",
+      "Compendium"
     ]
   },
   "PatchNotesScreen": {
@@ -590,7 +608,7 @@
       "각 캐릭터가 처음부터 갖고 시작하는 유물입니다.",
       "일반:",
       "쉽게 찾을 수 있는 평범한 유물입니다.",
-      "특별:",
+      "고급:",
       "일반적으로 쉽게 찾을 수 없는 강력한 유물입니다.",
       "희귀:",
       "발견하기 어렵고 매우 강력한 유물입니다.",
@@ -620,44 +638,48 @@
     "TEXT": [
       "캐릭터를 선택하십시오",
       "출정",
-      "The Ironclad",
-      "The Silent",
-      "Crowbot",
-      "뒤로"
+      "아이언클래드",
+      "사일런트",
+      "크로우봇",
+      "뒤로",
+      "승천 모드 ( ",
+      "단계)",
+      "승천 모드",
+      "당신이 승리할수록 도전은 어려워질 것입니다... (연승 기록에 영향을 주지 않습니다.)"
     ]
   },
   "AbstractMonster": {
     "TEXT": [
       "공격",
-      "This enemy intends to NL #yAttack for #b",
-      " damage #b",
-      " times.",
-      "This enemy intends to NL #yAttack for #b",
-      " damage.",
+      "이 적은 #b",
+      " 의 피해로 #b",
+      " 번 #y공격 하려고 합니다.",
+      "이 적은 #b",
+      " 의 피해로 #y공격 하려고 합니다.",
       "공격",
-      "This enemy intends to use a #yBuff and #yAttack for #b",
-      " times.",
-      "This enemy intends to use a #yBuff and #yAttack for #b",
+      "이 적은 #y이로운 #y효과 를 사용하고, #b",
+      " 번 #y공격 하려고 합니다.",
+      "이 적은 #y이로운 #y효과 를 사용하고, #b",
       "복합",
-      "This enemy intends to inflict a #yNegative #yEffect on you and #yAttack for #b",
-      "This enemy intends to #yBlock and #yAttack for #b",
+      "이 적은 당신에게 #y해로운 #y효과 를 사용하고, #b",
+      "이 적은 #y방어도 를 얻고, #b",
       "방어",
       "도망",
       "마법",
       "수면",
       "기절",
       "미지",
-      "이 적은 #y이로운 효과를 사용하려고 합니다. ",
-      "이 적은 당신에게 #y해로운 #y효과를 사용하려고 합니다. ",
-      "This enemy intends to inflict a powerful #yNegative #yEffect on you.",
+      "이 적은 #y이로운 #y효과 를 사용하려고 합니다. ",
+      "이 적은 당신에게 #y해로운 #y효과 를 사용하려고 합니다. ",
+      "이 적은 당신에게 강력한 #y해로운 #y효과 를 사용하려고 합니다. ",
       "이 적은 #y방어도 를 얻으려고 합니다. ",
-      "This enemy intends to #yBlock and inflict a #yNegative #yEffect on you.",
-      "This enemy intends to #yBlock and use a #yBuff.",
-      "이 적은 #y도망갈 생각입니다. ",
-      "This enemy intends to use mysterious #yMagic on its turn.",
-      "이 적은 잠들어 있습니다.",
+      "이 적은 #y방어도 를 얻고, 당신에게 #y해로운 #y효과 를 사용하려고 합니다.",
+      "이 적은 #y방어도 를 얻고, #y이로운 #y효과 를 사용하려고 합니다.",
+      "이 적은 #y도망 갈 생각입니다. ",
+      "이 적은 신비한 #y마법 을 사용하려고 합니다.",
+      "이 적은 #y수면 중에 있습니다.",
       "이 적은 #y기절 중 입니다. ",
-      "This enemy's intentions are #yUnknown (not attacking).",
+      "이 적의 의도를 #y알 #y수 #y없습니다 (공격은 아님).",
       "방어됨"
     ]
   },
@@ -668,7 +690,7 @@
   },
   "Exordium": {
     "TEXT": [
-      "서론"
+      "태초"
     ]
   },
   "TheCity": {
@@ -685,7 +707,7 @@
     "TEXT": [
       "전투 시작",
       "내 턴",
-      "상대 턴",
+      "적 턴",
       " 턴"
     ]
   },
@@ -700,13 +722,13 @@
   },
   "CampfireUI": {
     "TEXT": [
-      "What to do?",
+      "무엇을 해야 할까?",
       "흠...",
-      "What shall I do?",
-      "Time for a break",
-      "So many options...",
-      "I should rest",
-      "So tired..."
+      "어떻게 할까?",
+      "쉴 때가 됐군.",
+      "선택지가 정말 많군...",
+      "쉬어야겠어.",
+      "피곤하군..."
     ]
   },
   "CampfireSmithEffect": {
@@ -726,12 +748,12 @@
   },
   "UnlockTextEffect": {
     "TEXT": [
-      "New Unlock!"
+      "새로운 해금!"
     ]
   },
   "AbstractPotion": {
     "TEXT": [
-      "포션은 더 들 수 없다."
+      "포션은 더 들 수 없어."
     ]
   },
   "TipHelper": {
@@ -761,20 +783,20 @@
   },
   "OpeningAction": {
     "TEXT": [
-      "이 적은 공격할 생각이 없는 것 같습니다!"
+      "이 적은 공격할 생각이 없어 보입니다!"
     ]
   },
   "ApplyPowerAction": {
     "TEXT": [
-      "Negated",
+      "무효화",
       "면역",
-      "Nullified",
+      "무효",
       "\n 감소"
     ]
   },
   "PutOnDeckAction": {
     "TEXT": [
-      "put on top of your draw pile"
+      "뽑을 카드 더미 맨 위에 놓습니다"
     ]
   },
   "ImmolateAction": {
@@ -784,33 +806,175 @@
   },
   "TheBeyond": {
     "TEXT": [
-      "The Beyond"
+      "저편"
     ]
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile."
+      "뽑을 카드 더미 맨 위로 올릴 카드를 선택하세요."
     ]
   },
   "LeaderboardFilters": {
     "TEXT": [
-      "Ironclad",
-      "The Silent",
+      "아이언클래드",
+      "사일런트",
       "3rd Char. DO NOT TRANSLATE",
-      "Average Floor Reached (Last 20 Attempts)",
-      "Average Score (Last 20 Attempts)",
-      "Best Win Streak",
-      "Fastest Victory",
-      "High Score",
+      "평균 층 도달 (최근 20회 시도)",
+      "평균 점수 (최근 20회 시도)",
+      "최고 연승",
+      "가장 빠른 승리",
+      "최고 점수",
       "Option 6. DO NOT TRANSLATE",
-      "Friends",
-      "Global"
+      "친구들",
+      "글로벌"
     ]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "These cards were exhausted this combat.",
-      "Return"
+      "이 카드들은 전투 중에 소멸되었습니다.",
+      "돌아가기"
+    ]
+  },
+  "AscensionModeDescriptions": {
+    "TEXT": [
+      "1. 엘리트가 더 많이 발생합니다.",
+      "2. 일반적인 적들이 더 많은 피해를 줍니다.",
+      "3. 엘리트들이 더 많은 피해를 줍니다.",
+      "4. 보스들이 더 많은 피해를 줍니다.",
+      "5. 보스 전투 이후에 회복량이 감소합니다.",
+      "6. 매 도전은 피해를 입은 채로 시작합니다.",
+      "7. 일반적인 적들이 더 많은 체력을 가집니다.",
+      "8. 엘리트들이 더 많은 체력을 가집니다.",
+      "9. 보스들이 더 많은 체력을 가집니다.",
+      "10. 저주 한 장을 가지고 시작합니다.",
+      "11. 포션의 효과가 감소합니다.",
+      "12. 강화 상태의 카드를 얻을 확률이 줄어듭니다.",
+      "13. 보스가 가진 골드가 감소합니다.",
+      "14. 보다 적은 최대 체력으로 시작합니다.",
+      "15. 부정적인 이벤트를 마주칠 확률이 높아집니다."
+    ]
+  },
+  "MerchantImageTextNotInGame": {
+    "TEXT": [
+      "카드 제거 서비스",
+      "판매",
+      "비매품",
+      "매진",
+      "오 안돼!"
+    ]
+  },
+  "DeathScreenUi": {
+    "TEXT": [
+      "승천 모드 ",
+      " 단계 해금!"
+    ]
+  },
+  "AscensionTextEffect": {
+    "TEXT": [
+      "승천 모드 ",
+      " 단계 해금!"
+    ]
+  },
+  "RunHistoryScreen": {
+    "TEXT": [
+      "아이언클래드",
+      "사일런트",
+      "",
+      "돌아가기",
+      "도전 이력을 찾을 수 없습니다. NL 첨탑을 등반하세요!",
+      "승천 단계 : ",
+      "Slain on Floor %1$d by %2$s",
+      "Abandoned Run on Floor %d",
+      "Victory!",
+      "Cards",
+      "Relics",
+      "Starter",
+      "Common",
+      "Uncommon",
+      "Rare",
+      "Special",
+      "저주",
+      "보스",
+      "상점",
+      "미지",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Score: %d",
+      "All Characters",
+      "Wins and Losses",
+      "Wins",
+      "Losses"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "종료하기 위해 한번 더 클릭하십시오"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "투표하십시오: "
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Daily Challenge",
+      "Connecting to Time Server...",
+      "You have done today's challenge",
+      "Return",
+      "Embark",
+      "Today's character: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Time Left: ",
+      "#yFloor #yReached: NL  ",
+      " NL NL  #yDeck: NL ",
+      " NL NL  #yRelics: NL  ",
+      " NL Today's Challenge: NL TAB #yClass: NL TAB ",
+      " NL TAB #yMods: ",
+      "Modifiers: "
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Standard",
+      "",
+      "Embark on a quest to Slay the Spire.",
+      "Daily Climb",
+      "",
+      "A new challenge is availble once a day.\n\nCompete with other players for the highest score!",
+      "Ascension",
+      "",
+      "The Spire grows stronger with each victory.\n\nTest the limits of your mightiest strategies.",
+      "Card Library",
+      "",
+      "View all of the cards you have encountered throughout the Spire.",
+      "Relic Collection",
+      "",
+      "Examine the various trinkets and artifacts obtained throughout your runs.",
+      "Bestiary",
+      "",
+      "This feature is not yet available.",
+      "Character Stats",
+      "",
+      "The progress and statistics for each character can be seen here.",
+      "Leaderboards",
+      "",
+      "View and compare your score with friends and other players.",
+      "Run History",
+      "",
+      "Revisit your past attempts at slaying the Spire.",
+      "Game Settings",
+      "",
+      "Change your resolution and toggle various options on/off.",
+      "Input Settings",
+      "",
+      "This feature is not yet available.",
+      "Credits",
+      "",
+      "See all of the people who contributed on Slay the Spire!",
+      "Unknown",
+      "",
+      "This feature is not yet available."
     ]
   }
 }

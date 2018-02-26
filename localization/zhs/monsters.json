@@ -405,7 +405,9 @@
       ""
     ],
     "NAME": "带壳寄生怪",
-    "DIALOG": []
+    "DIALOG": [
+      ""
+    ]
   },
   "BronzeOrb": {
     "MOVES": [

@@ -172,7 +172,7 @@
 	"NAME": "Chameleon Ring",
 	"FLAVOR": "Deprecated",
     "DESCRIPTIONS": [
-	"You can now #yBrew at campfires."
+	"You can now #yBrew at Rest Sites."
 	]
   },
   "Champion Belt": {
@@ -240,8 +240,9 @@
 	"NAME": "Runic Dodecahedron",
 	"FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
-	"If your HP is full, gain ", "[R] at the start of each turn.",
-	"[G] at the start of each turn.", 
+	"If your HP is full, gain ",
+	"[R] at the start of each turn.",
+	"[G] at the start of each turn.",
 	"[B] at the start of each turn."
 	]
   },
@@ -273,11 +274,32 @@
 	"Gain [B] at the start of each turn."
 	]
   },
+  "Frozen Egg 2": {
+	"NAME": "Frozen Egg",
+	"FLAVOR": "The egg lies inert and frozen, never to hatch.",
+    "DESCRIPTIONS": [
+	"Whenever you add a #yPower card to your deck, it is #yUpgraded."
+	]
+  },
+  "Molten Egg 2": {
+	"NAME": "Molten Egg",
+	"FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
+    "DESCRIPTIONS": [
+	"Whenever you add an #yAttack card to your deck, it is #yUpgraded."
+	]
+  },
+  "Toxic Egg 2": {
+	"NAME": "Toxic Egg",
+	"FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
+    "DESCRIPTIONS": [
+	"Whenever you add a #ySkill card to your deck, it is #yUpgraded."
+	]
+  },
   "Enchiridion": {
 	"NAME": "Enchiridion",
 	"FLAVOR": "The legendary journal of an ancient lich.",
     "DESCRIPTIONS": [
-	"Start each combat with a random #yPower card in your hand. It costs #b0 until the end of turn."
+	"At the start of each combat, add a random #yPower card to your hand. It costs #b0 until the end of turn."
 	]
   },
   "Eternal Feather": {
@@ -286,7 +308,7 @@
     "DESCRIPTIONS": [
 	"For every #b", 
 	" cards in your deck, heal #b",
-	" HP whenever you enter a campfire." 
+	" HP whenever you enter a Rest Site." 
 	]
   },
   "Frozen Egg": {
@@ -315,7 +337,7 @@
 	"NAME": "Girya",
 	"FLAVOR": "This Girya is unfathomably heavy. You could train with this to get significantly stronger.",
     "DESCRIPTIONS": [
-	"You can now gain #yStrength at campfires. (3 times max)"
+	"You can now gain #yStrength at Rest Sites. (3 times max)"
 	]
   },
   "Golden Idol": {
@@ -450,7 +472,7 @@
 	"NAME": "Membership Card",
 	"FLAVOR": "\"Bonus membership offer for my most valuable customers!\"",
     "DESCRIPTIONS": [
-	"In future levels, shops appear #b50% more often. #yBONUS: #b20% discount on all products!"
+	"In future acts, shops appear #b50% more often. #yBONUS: #b20% discount on all products!"
 	]
   },
   "Mercury Hourglass": {
@@ -613,7 +635,7 @@
 	"NAME": "Peace Pipe",
 	"FLAVOR": "Clears the mind and cleanses the soul.",
     "DESCRIPTIONS": [
-	"You can now remove cards from your deck at campfires."
+	"You can now remove cards from your deck at Rest Sites."
 	]
   },
   "Pear": {
@@ -695,9 +717,9 @@
 	"NAME": "Runic Cube",
 	"FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
-	"Max HP is lowered by #b", 
-	"%. Whenever you lose HP, draw #b",
-	" card."
+	"Whenever you lose HP, draw #b",
+	" card.",
+	""
 	]
   },
   "Runic Dome": {
@@ -730,7 +752,7 @@
 	"NAME": "Shovel",
 	"FLAVOR": "The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up!",
     "DESCRIPTIONS": [
-	 "You can now #yDig for loot at campfires."
+	 "You can now #yDig for loot at Rest Sites."
 	]
   },
   "Shuriken": {
@@ -746,7 +768,7 @@
 	"NAME": "Singing Bowl",
 	"FLAVOR": "This well-used artifact rings out with a beautiful melody when struck.",
     "DESCRIPTIONS": [
-	"Whenever you skip a card reward, increase your Max HP by #b"
+	"When adding cards to your deck, you may gain #b+2 Max HP instead."
 	]
   },
   "Smiling Mask": {
@@ -784,7 +806,7 @@
 	"NAME": "Sozu",
 	"FLAVOR": "You notice that magical liquids seem to lose their properties when near this relic.",
     "DESCRIPTIONS": [
-	" You can no longer use potions. ",
+	" You can no longer obtain potions. ",
 	"Gain [R] at the start of each turn.", 
 	"Gain [G] at the start of each turn.",
 	"Gain [B] at the start of each turn."
@@ -825,9 +847,9 @@
 	"NAME": "Ancient Tea Set",
 	"FLAVOR": "The key to a refreshing night's rest.",
     "DESCRIPTIONS": [
-	"Whenever you get to a rest site, start the next combat with [R] [R] .",
-	"Whenever you get to a rest site, start the next combat with [G] [G] .",
-	"Whenever you get to a rest site, start the next combat with [B] [B] ."
+	"Whenever you enter a Rest Site, start the next combat with [R] [R] .",
+	"Whenever you enter a Rest Site, start the next combat with [G] [G] .",
+	"Whenever you enter a Rest Site, start the next combat with [B] [B] ."
 	]
   },
   "War Paint": {
@@ -952,7 +974,7 @@
     "DESCRIPTIONS": [
 	"Obtain #b1 potion. NL Gain #b",
 	" #yGold. NL Raise your Max HP by #b", 
-	". NL Obtain #b1 card.",
+	". NL Obtain #b1 card. NL Upgrade #b1 random card.",
 	"Tiny House!"
 	]
   },
@@ -1004,7 +1026,7 @@
   },
   "Vajra": {
 	"NAME": "Vajra",
-	"FLAVOR": "A ornamental relic given to warriors displaying glory in battle.",
+	"FLAVOR": "An ornamental relic given to warriors displaying glory in battle.",
     "DESCRIPTIONS": [
 	"At the start of each combat, gain #b", 
 	" #yStrength."

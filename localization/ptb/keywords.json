@@ -2,233 +2,233 @@
   "Game Dictionary": {
   	"ARTIFACT": {
 		"NAMES":[
-			"artifact",
+			"artefato",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Negates the next debuff."
+		"DESCRIPTION": "Nega o próximo efeito negativo."
 	},
 	"BLOCK": {
 		"NAMES":[
-			"block",
-			"blocks",
+			"proteção",
+			"proteções",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Until next turn, prevents damage."
+		"DESCRIPTION": "Até o próximo turno, previne dano."
 	},
 	"CURSE": {
 		"NAMES":[
-			"curse",
+			"maldição",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Curse cards are negative cards that stay in your deck."
+		"DESCRIPTION": "Cartas de maldição são cartas negativas que permanecem no seu baralho."
 	},
 	"DEXTERITY": {
 		"NAMES":[
-			"dexterity",
+			"destreza",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Dexterity improves Block gained from cards."
+		"DESCRIPTION": "Destreza melhora a Proteção ganha de Cartas."
 	},
 	"ETHEREAL": {
 		"NAMES":[
-			"ethereal",
+			"etérea",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "If this card is in your hand at the end of turn, it is exhausted. Exhausted cards are removed from your deck until the end of combat."
+		"DESCRIPTION": "Se esta carta estiver em sua mão no fim do turno, ela será exaurida. Cartas exauridas são removidas do seu baralho até o fim do combate."
 	},
 	"EXHAUST": {
 		"NAMES":[
-			"exhaust",
-			"exhausted",
+			"exaurir",
+			"exaurida",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Removed until end of combat."
+		"DESCRIPTION": "Removida até o fim do combate."
 	},
 	"INNATE": {
 		"NAMES":[
-			"innate",
+			"inata",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Start each combat with this card in your hand."
+		"DESCRIPTION": "Comece cada combate com esta carta em sua mão."
 	},
 	"LOCKED": {
 		"NAMES":[
-			"locked",
+			"bloqueada",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "This card has yet to be unlocked."
+		"DESCRIPTION": "Esta carta ainda deve ser desbloqueada."
 	},
 	"POISON": {
 		"NAMES":[
-			"poison",
-			"poisoned",
+			"veneno",
+			"envenenado",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Poisoned creatures lose HP at the start of their turn. Each turn, Poison is reduced by #b1."
+		"DESCRIPTION": "Criaturas envenenadas perdem PV no início de seus turnos. A cada turno, o Veneno é reduzido em #b1."
 	},
 	"RETAIN": {
 		"NAMES":[
-			"retain",
+			"manter",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Retained cards are not discarded at the end of turn."
+		"DESCRIPTION": "Cartas mantidas não são descartadas no fim do turno."
 	},
 	"SHIV": {
 		"NAMES":[
-			"shiv",
-			"shivs",
+			"estoque",
+			"estoques",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Shivs are #b0 cost Attack cards which Exhaust."
+		"DESCRIPTION": "Estoques são cartas de Ataque com custo #b0 com Exaurir."
 	},
 	"STATUS": {
 		"NAMES":[
-			"status",
+			"condição",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Status cards are removed at the end of combat."
+		"DESCRIPTION": "Cartas de condição são removidas no fim do combate."
 	},
 	"STRENGTH": {
 		"NAMES":[
-			"strength",
+			"força",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Strength adds additional damage to attacks."
+		"DESCRIPTION": "Força adiciona dano adicional a Ataques."
 	},
 	"TRANSFORM": {
 		"NAMES":[
-			"transform",
+			"transformar",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Transformed cards become a random card of any rarity."
+		"DESCRIPTION": "Cartas transformadas se tornam cartas aleatórias de qualquer raridade."
 	},
 	"UNKNOWN": {
 		"NAMES":[
-			"unknown",
+			"desconhecida",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "This card has yet to be encountered."
+		"DESCRIPTION": "Essa carta ainda não foi encontrada."
 	},
 	"UNPLAYABLE": {
 		"NAMES":[
-			"unplayable",
+			"injogável",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Unplayable cards cannot be played from your hand."
+		"DESCRIPTION": "Cartas injogáveis não podem ser jogadas da sua mão."
 	},
 	"UPGRADE": {
 		"NAMES":[
-			"upgrade",
-			"UNUSED_RESERVE",
+			"aprimorar",
+			"aprimorada",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Upgrading cards makes them more powerful. Cards can only be upgraded once."
+		"DESCRIPTION": "Aprimorar cartas as fazem mais poderosas. Cartas só podem ser aprimoradas uma vez."
 	},
 	"VULNERABLE": {
 		"NAMES":[
-			"vulnerable",
+			"vulnerável",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Vulnerable creatures take #b50% more damage from Attacks."
+		"DESCRIPTION": "Criaturas vulneráveis recebem #b50% a mais de dano de Ataques."
 	},
 	"WEAK": {
 		"NAMES":[
-			"weak",
-			"weaken",
-			"weakened",
-			"weakens",
+			"fraqueza",
+			"enfraquecer",
+			"enfraquecido",
+			"enfraquece",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Weakened creatures deal #b25% less damage with Attacks."
+		"DESCRIPTION": "Criaturas enfraquecidas causam #b25% a menos de dano em Ataques."
 	},
 	"WOUND": {
 		"NAMES":[
-			"wound",
-			"wounds",
+			"ferida",
+			"feridas",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Wounds are unplayable status cards."
+		"DESCRIPTION": "Feridas são cartas de condição injogáveis."
 	},
 	"FRAIL": {
 		"NAMES":[
-			"frail",
+			"fragilizado",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "While Frail, gain #b25% less #yBlock from cards."
+		"DESCRIPTION": "Enquanto Fragilizado, ganhe #b25% menos #yProteção de cartas."
 	},
 	"STRIKE": {
 		"NAMES":[
-			"strike",
+			"golpe",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Any card with the word \"Strike\" in its name."
+		"DESCRIPTION": "Qualquer carta que contenha \"Golpe\" em seu nome."
 	},
 	"CONFUSED": {
 		"NAMES":[
-			"confused",
+			"confuso",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE",
 			"UNUSED_RESERVE"
 		],
-		"DESCRIPTION": "Whenever you draw a card, randomize its cost."
+		"DESCRIPTION": "Sempre que você comprar uma carta, aleatorize seu custo."
 	},
 	"FIRE": {
 		"NAMES":[
@@ -251,7 +251,7 @@
 		"DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
 	},
     "TEXT": [
-		"Energy is used to play cards from your hand."
+		"Energia é utilizada para jogar cartas da sua mão."
 	]
   }
 }

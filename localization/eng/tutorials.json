@@ -59,7 +59,8 @@
   "Relic Tip": {
     "TEXT": [
 		"Relics found throughout the Spire grant unique bonuses and remain throughout your run. NL They can be found by defeating powerful foes or within chests.",
-		"This relic remains to be seen."
+		"This relic remains to be seen.",
+		"Its power is all used up."
 	],
 	"LABEL": [
 		"Relics",
@@ -161,15 +162,17 @@
 		"View this current dungeon's map.",
 		"If you run out of HP, you die.",
 		"Shows how much gold you are carrying. Gold is the currency within the Spire.",
-		"Obtained whenever you defeat a #yBoss. NL What could this be for...?",
-		"Obtained whenever you defeat a #yBoss. NL Feed these to #yNeow to unlock items and earn bonuses for new runs."
+		"",
+		"",
+		"Elapsed time for this run."
 	],
 	"LABEL": [
 		"Settings",
 		"Deck",
 		"Map",
 		"Hit Points (HP)",
-		"Money Pouch"	
+		"Money Pouch",
+		"Run Timer"
 	]
   },
   "Random Tips": {
@@ -200,10 +203,8 @@
 		"Cards exhausted during combat are not removed from your deck.",
 		"You can only have up to 10 cards in your hand.",
 		"Status cards go away at the end of combat.",
-		"Colorless cards always cost 0.",
-		"Colorless cards cannot be upgraded.",
 		"Curses cannot be upgraded. Why would you?",
-		"Upgraded cards may appear in rewards past Level 1.",
+		"Upgraded cards may appear in rewards past Act 1.",
 		"Potions can only be used during combat.",
 		"Potions cannot be discarded during combat.",
 		"Unknown rooms may contain treasures, monsters, shops, or events.",

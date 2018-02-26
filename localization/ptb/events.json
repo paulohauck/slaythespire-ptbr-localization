@@ -1,727 +1,733 @@
 {
   "Proceed Screen": {
     "DESCRIPTIONS": [
-			"[Leave]"
+			"[Sair]"
 	]
   },
   "Accursed Blacksmith": {
-	"NAME": "Ominous Forge",
+	"NAME": "Forja Sinistra",
     "DESCRIPTIONS": [
-			"You duck into a small hut. Inside, you find what appears to be a forge. The smithing tools are covered with dust, yet a fire roars inside the furnace. You feel on edge...",
-			"You decide to put the forge to use and... NL #y@CLANG@ #y@CLAAANG@ #y@CLANG!@ NL ...improve your arsenal!",
-			"You decide to see if you can find anything of use. After uncovering tarps, looking through boxes, and checking nooks and crannies, you find a dust covered #y~relic!~ ",
-			"As you go through the finishing touches, the flames of the forge jump out at you, #r@burning@ #r@and@ #r@scarring@ your arms..",
-			"You can't shake this #r~ugly~ #r~feeling~ as you exit the hut. Maybe you disturbed some sort of spirit?",
-			"There doesn't seem to be anything of use. You exit the way you came, the flames of the furnace casting #p~eerie~ #p~shadows~ on the walls inside the hut..."
+			"Você se esgueira para dentro de uma pequena cabana. Lá dentro, você encontra o que parece ser uma forja. As ferramentas de metalurgia estão cobertas de poeira, mas o fogo crepita dentro da fornalha. Você se sente no limite...",
+			"Você decide usar a forja e... NL #y@CLANG@ #y@CLAAANG@ #y@CLANG!@ NL ...melhora seu arsenal!",
+			"Você decide ver se consegue achar algo útil. Após arrastar lonas, vasculhar caixas, e verificar cantos e frestas, você encontra uma #y~relíquia!~ coberta de poeira. ",
+			"Conforme você dá os toques finais, as chamas da forja pulam em você, #r@queimando@ #r@e@ #r@deixando@ #r@cicatrizes@ em seus braços..",
+			"Você não consegue se livrar deste #r~sentimento~ #r~desagradável~ conforme você deixa a cabana. Talvez você pertubou algum tipo de espírito?",
+			"Aparentemente, não há nada de útil. Você sai da mesma forma que entrou, as chamas da fornalha lançando #p~sombras~ #p~sinistras~ nas paredes dentro da cabana..."
 	],
     "OPTIONS": [
-			"[Forge] #gUpgrade #ga #gcard. #r25%: #rBecome #rCursed #r- #rInjury.",
-			"[Rummage] #gObtain #ga #gRelic. #r75%: #rBecome #rCursed #r- #rNormality.",
-			"[Leave]",
-			"Choose a Card to Upgrade",
-			"[Locked] Requires: Upgradeable Cards"
-			
+			"[Forjar] #gAprimore #guma #gcarta. #r25%: #rSeja #rAmaldiçoado #r- #rFerimento.",
+			"[Remexer] #gObtenha #guma #gRelíquia. #r75%: #rSeja #rAmaldiçoado #r- #rMediocridade.",
+			"[Sair]",
+			"Escolha uma Carta para Aprimorar",
+			"[Bloqueado] Requer: Cartas Aprimoráveis"
     ]
   },
   "Bonfire Elementals": {
-	"NAME": "Bonfire Spirits",
+	"NAME": "Espíritos da Fogueira",
     "DESCRIPTIONS": [
-			"You happen upon a group of what look like #ppurple #pfire #pspirits ~dancing~ around a large bonfire. NL ",
-			"The spirits toss small bones and fragments into the fire, which ~brilliantly~ ~erupts~ each time. NL As you approach, the spirits all turn to you, expectantly...",
-			"You toss an offering into the bonfire. NL NL ",
-			"However, the spirits aren't happy that you offered a #pCurse... The card fizzles a meek black smoke. You receive a... #p~something~ in return.",
-			"Nothing happens... NL The spirits seem to be ignoring you now. Disappointing...",
-			"The flames grow slightly brighter. NL The spirits continue dancing. You feel slightly warmer from their presence.. NL You #gheal #b5 HP.",
-			"The flames erupt, growing significantly stronger! NL The spirits dance around you excitedly, filling you with a ~sense~ ~of~ ~warmth.~ NL You are #ghealed to full HP.",
-			"The flames @burst,@ nearly knocking you off your feet, as the fire @doubles@ in strength. NL The spirits dance around you excitedly before ~merging~ ~into~ ~your~ ~form,~ filling you with warmth and strength. NL Your Max HP increases by #b10 and you are #ghealed to full HP."
+			"Você se depara com um grupo do que parece ser #pespíritos #pde #pfogo #proxo ~dançando~ ao redor de uma grande fogueira. NL ",
+			"Os espíritos arremessam pequenos ossos e fragmentos nas chamas, que ~brilhantemente~ ~irrompem~ a cada vez. NL Conforme você se aproxima, todos os espirítos se voltam para você, com expectativas...",
+			"Você arremessa uma oferenda nas chamas. NL NL ",
+			"Entretanto, os espíritos não ficaram felizes que você ofereceu uma #pMaldição... A carta emite um chiado e solta uma branda fumaça negra. Você recebe... #p~algo~ em troca.",
+			"Nada acontece... NL Os espíritos parecem estar te ignorando agora. Que decepção...",
+			"As chamas brilham um pouco mais. NL Os espíritos continuam dançando. Você se sente ligeiramente mais confortável na presença deles.. NL Você #gcura #b5 PV.",
+			"As chamas crescem repentinamente, se tornando mais intensas! NL Os espíritos dançam animadamente ao seu redor, preenchendo-o com uma ~sensação~ ~agradável.~ NL Você é #gcurado para PV cheio.",
+			"As chamas @explodem,@ quase o derrubando para trás, conforme o fogo @dobra@ em intensidade. NL Os espíritos dançam animadamente ao seu redor antes de se ~fundirem~ ~a~ ~sua~ ~forma,~ o preenchendo com vivacidade e força. NL Seu PV Máximo aumenta em #b10 e você é #gcurado para PV cheio."
 	],
     "OPTIONS": [
-			"[Continue]",
-			"[Leave]",
-			"[Offer] Receive a reward based on the offer.",
-			"Select a Card to Offer."
+			"[Continuar]",
+			"[Sair]",
+			"[Oferecer] Receba uma recompensa baseada na oferenda.",
+			"Selecione uma Carta para Oferecer."
     ]
   },
   "Match and Keep!": {
-	"NAME": "Match and Keep!",
+	"NAME": "Combine e Mantenha!",
     "DESCRIPTIONS": [
-			"\" #bTwelve cards! Match them to keep them! #bFive tries, no do-overs. NL Are you ready? Let's start!\"",
-			"You complete the gremlin's game and look up. NL He disappeared?",
-			"A gremlin is madly shuffling cards on a table. This monster seems to be a harmless one. You approach him out of curiosity."
+			"\" #bDoze cartas! Combine-as para as mater! #bCinco tentativas, sem outra chance. NL Você está pronto? Vamos lá!\"",
+			"Você concluiu o jogo do gremlin e levantou os olhos. NL Ele desapareceu?",
+			"Um gremlin está embaralhando cartas loucamente em uma mesa. Este monstro parece ser inofensivo. Você se aproxima dele por curiosidade."
 	],
     "OPTIONS": [
-			"[Continue]",
-			"[Leave]",
-			"[Play]",
-			"Remaining Attempts: #y"
+			"[Continuar]",
+			"[Sair]",
+			"[Jogar]",
+			"Tentativas Restantes: #y"
     ]
   },
   "Duplicator": {
-	"NAME": "Duplicator",
+	"NAME": "Duplicador",
     "DESCRIPTIONS": [
-			"Before you lies a decorated altar to some ancient entity.",
-			"You kneel respectfully. A ghastly mirror image appears from the shrine and collides into you.",
-			"You ignore the shrine, confident in your choice."
+			"À sua frente está posto um altar decorado para alguma entidade anciã.",
+			"Você se ajoelha respeitosamente. Uma assombrosa imagem de espelho aparece do templo e colide em você.",
+			"Você ignora o templo, confiante em sua escolha."
 	],
     "OPTIONS": [
-			"[Pray] #gDuplicate #ga #gcard #gin #gyour #gdeck.",
-			"[Leave]",
-			"Select a Card to Duplicate."
+			"[Orar] #gDuplica #guma #gcarta #gem #gseu #gbaralho.",
+			"[Sair]",
+			"Selecione uma Carta para Duplicar."
     ]
   },
   "Fountain of Cleansing": {
-	"NAME": "The Divine Fountain",
+	"NAME": "A Fonte Divina",
     "DESCRIPTIONS": [
-			"You come across #b~shimmering~ #b~water~ flowing endlessly from a fountain on a nearby wall.",
-			"As you drink the #b~water,~ you feel a #pdark #pgrasp loosen.",
-			"Unsure of the nature of this water, you continue on your way, parched."
+			"Você se depara com #b~águas~ #b~cintilantes~ jorrando sem fim de uma fonte em um muro próximo.",
+			"Conforme você bebe da #b~água,~ você sente um #paperto #psombrio se esvair.",
+			"Sem certeza da natureza desta água, você continua em seu caminho, sedento."
 	],
     "OPTIONS": [
-			"[Drink] #gRemove #gall #gCurses #gfrom #gyour #gdeck.",
-			"[Leave]"
+			"[Beber] #gRemove #gtodas #gas #gMaldições #gdo #gseu #gbaralho.",
+			"[Sair]"
     ]
   },
   "Golden Shrine": {
-	"NAME": "Golden Shrine",
+	"NAME": "Santuário Dourado",
     "DESCRIPTIONS": [
-			"Before you lies an elaborate shrine to an ancient spirit. ",
-			"As your hand touches the shrine, #ygold rains from the ceiling ~showering~ ~you~ ~in~ ~riches.~ ",
-			"Each time you strike the shrine, #ygold pours forth again and again! NL NL As you pocket the riches, something #rweighs #rheavily #ron #ryou.",
-			"You ignore the shrine."
+			"À sua frente se encontra um elaborado santuário a um espírito ancião. ",
+			"Conforme suas mãos tocam o santuário, #youro chove do teto ~banhando~ ~você~ ~em~ ~riquezas.~ ",
+			"A cada golpe no santuário, #youro se derrama de novo e de novo! NL NL Conforme você enche os bolsos, algo #rpesa #rem #rsua #rconsciência.",
+			"Você ignora o santuário."
 	],
     "OPTIONS": [
-			"[Pray] #gGain #g100 #gGold.",
-			"[Desecrate] #gGain #g250 #gGold. #rBecome #rCursed #r- #rRegret.",
-			"[Leave]"
+      "[Orar] #gGanhe #g",
+			" #gOuro.",
+			"[Profanar] #gGanhe #g250 #gde #gOuro. #rSeja #rAmaldiçoado #r- #rArrependimento.",
+			"[Sair]"
     ]
   },
   "Lab": {
-	"NAME": "Lab",
+	"NAME": "Laboratório",
     "DESCRIPTIONS": [
-			"You find yourself in a room filled with racks of test tubes, beakers, flasks, forceps, pinch clamps, stirring rods, tongs, goggles, funnels, pipets, cylinders, condensers, and even a rare spiral tube of glass. NL NL Why do you know the name of all these tools? It doesn't matter, you take a look around."
+			"Você se encontra em uma sala cheia de prateleiras com tubos de ensaio, béqueres, frascos, fórceps, pinças, misturadores, pegadores, óculos de proteção, funis, pipetas, cilindros, condensadores, e até mesmo um raro tubo em espiral de vidro. NL NL Por quê você sabe o nome de todas estas ferramentas? Não importa, você dá uma olhada ao redor."
 	],
     "OPTIONS": [
-			"[Search] #gFind #gsome #gPotions!"
+			"[Procurar] #gEncontre #galgumas #gPoções!"
     ]
   },
   "Purifier": {
-	"NAME": "Purifier",
+	"NAME": "Purificador",
     "DESCRIPTIONS": [
-			"Before you lies an elaborate shrine to a forgotten spirit.",
-			"As you kneel in reverence, you feel a weight lifted off your shoulders.",
-			"You ignore the shrine."
+			"À sua frente se encontra um elaborado santuário a um espírito esquecido.",
+			"Conforme você se ajoelha em reverência, você sente um peso retirado de seus ombros.",
+			"Você ignora o santuário."
 	],
     "OPTIONS": [
-			"[Pray] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-			"[Leave]",
-			"Select a Card to Remove."
+			"[Orar] #gRemova #guma #gcarta #gdo #gseu #gbaralho.",
+			"[Sair]",
+			"Selecione uma Carta para Remover."
     ]
   },
   "Transmorgrifier": {
-	"NAME": "Transmogrifier",
+	"NAME": "Transmogrificador",
     "DESCRIPTIONS": [
-			"Before you lies an elaborate shrine to a forgotten spirit.",
-			"As the power of the shrine flows through you, your mind feels altered.",
-			"You ignore the shrine."
+			"À sua frente se encontra um elaborado santurário a um espírito esquecido.",
+			"Conforme o poder do santuário flui através de você, sua mente parece alterada.",
+			"Você ignora o santuário."
 	],
     "OPTIONS": [
-			"[Pray] #gTransform #ga #gcard.",
-			"[Leave]",
-			"Select a Card to Transform."
+			"[Pray] #gTransforme #guma #gcarta.",
+			"[Sair]",
+			"Escolha uma Carta para Transformar."
     ]
   },
   "Upgrade Shrine": {
-	"NAME": "Upgrade Shrine",
+	"NAME": "Santuário do Aprimoramento",
     "DESCRIPTIONS": [
-			"Before you lies an elaborate shrine to a forgotten spirit.",
-			"The shrine's energy flows into you, making you stronger.",
-			"You ignore the shrine."
+			"À sua frente se encontra um elaborado santuário a um espírito esquecido.",
+			"A energia do santuário flui para dentro de você, fazendo-o mais forte.",
+			"Você ignora o santuário."
 	],
     "OPTIONS": [
-			"[Pray] #gUpgrade #ga #gcard.",
-			"[Leave]",
-			"Select a Card to Upgrade.",
-			"[Locked] Requires: Upgradeable Cards"
+			"[Orar] #gAprimore #guma #gcarta.",
+			"[Sair]",
+			"Selecione uma Carta para Aprimorar.",
+			"[Bloqueado] Requer: Cartas Aprimoráveis"
     ]
   },
   "Wheel of Change": {
-	"NAME": "Wheel of Change",
+	"NAME": "Roda da Mudança",
     "DESCRIPTIONS": [
-			"You come upon a dapper looking, cheery gremlin. NL \"It's time to spin the wheel! Are you ~R~ ~E~ ~A~ ~D~ ~Y~ ~?~ Of course you are!\"",
-			"\"You win some #yGOLD! NL YAY!!!!\"",
-			"\"Ah, a #ggift! NL Enjoy!\"",
-			"\"Oooh, a free #gHeal for you!\"",
-			"\"Looks like you won a #pCurse! NL That's not good. NL Oh well! Better luck next time!\"",
-			"\"Ohh, the power of #r~darkness...~ NL Choose a card to remove from your deck!\"",
-			"\"Uh oh! NL You lose!\" NL You spot him readying a shiv...",
-			"You slash at the crazy gremlin but he's simply too quick! NL He gets you a few times with a crude shiv. NL \"The price has been paid!!\" NL and with that, both the gremlin and its wheel disappear in a puff of smoke."
+			"Você se depara com um elegante e alegre gremlin. NL \"É hora de girar a roda! Você está ~P~ ~R~ ~O~ ~N~ ~T~ ~O~ ~?~ É claro que está!\"",
+			"\"Você ganhou algum #yOURO! NL EEEE!!!!\"",
+			"\"Ah, um #gpresente! NL Aproveite!\"",
+			"\"Ohhh, uma #gCura de graça para você!\"",
+			"\"Parece que você ganhou uma #pMaldição! NL Isso não é bom. NL Fazer o quê! Boa sorte na próxima!\"",
+			"\"Ohh, O poder das #r~trevas...~ NL Escolha uma carta para remover do seu baralho!\"",
+			"\"Ih! NL Você perdeu!\" NL Você o vê preparando um estoque...",
+			"Você golpeia o gremlin louco mas ele é simplesmente rápido demais! NL Ele acerta algumas vezes com um estoque tosco. NL \"O preço foi pago!!\" NL e com isso, ambos o gremlin e sua roda desaparecem em uma nuvem de fumaça."
 	],
     "OPTIONS": [
-			"[Play]",
-			"[Prize!] YAY!!!!",
-			"[Prize!] #gGain #ga #gRelic.",
-			"[Prize!] #gHeal #gto #gfull #ghealth.",
-			"[Prize?] #rCurse #r- #rDecay.",
-			"[Prize!] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-			"[Prize?] #rLose #r",
-			" #rHP.",
-			"[Leave]",
-			"Select a Card to Remove."
+			"[Jogar]",
+			"[Prêmio!] EEEE!!!!",
+			"[Prêmio!] #gGanhe #guma #gRelíquia.",
+			"[Prêmio!] #gCure #gpara #gvida #gcheia.",
+			"[Prêmio?] #rMaldição #r- #rApodrecer.",
+			"[Prêmio!] #Remova #guma #gcarta #gdo #gseu #gbaralho.",
+			"[Prêmio?] #rPerca #r",
+			" #rPV.",
+			"[Sair]",
+			"Selecione uma Carta para Remover."
     ]
   },
   "Falling": {
-	"NAME": "Falling",
+	"NAME": "Caindo",
     "DESCRIPTIONS": [
-			"As you head upwards hopping from one floating shape to another, you slip. NL NL You begin to fall.",
-			"While in free fall you consider your options: NL Land safely with your greatest techniques. NL Channel a Power to survive the fall. NL Strike at the wall to hang on to it.",
-			"You land with extreme grace before continuing on.",
-			"Harnessing and expending some of your raw power, you manage to land unhurt.",
-			"You are able to latch on to the wall, and manage to make a short hop onto another stable platform."
+			"Conforme você segue para cima pulando de uma forma flutuante para outra, você escorrega. NL NL Você começa a cair.",
+			"Enquanto em queda livre você considera suas opções: NL Aterrissar em segurança fazendo uso de suas melhores técnicas. NL Canalizar um Poder para sobreviver a queda. NL Golpear a parede para se agarrar a ela.",
+			"Você aterrissa graciosamente antes de prosseguir seu caminho.",
+			"Aproveitando e gastando parte de seu poder bruto, você consegue aterrissar sem se machucar.",
+			"Você consegue se agarrar à parede, e consegue dar um curto pulo para outra plataforma estável."
 	],
     "OPTIONS": [
-			"[Continue]",
-			"[Land] #rLose ",
-			"[Locked] Requires: Skill Card",
-			"[Channel] #rLose ",
-			"[Locked] Requires: Power Card",
-			"[Strike] #rLose ",
-			"[Locked] Requires: Attack Card",
-			"[Leave]"
+			"[Continuar]",
+			"[Aterrissar] #rPerca ",
+			"[Bloqueado] Requer: Carta de Técnica",
+			"[Canalizar] #rPerca ",
+			"[Bloqueado] Requer: Carta de Poder",
+			"[Golpear] #rPerca ",
+			"[Bloqueado] Requer: Carta de Ataque",
+			"[Sair]"
     ]
   },
   "The Moai Head": {
-	"NAME": "The Moai Head",
+	"NAME": "A Cabeça de Moai",
     "DESCRIPTIONS": [
-			"You stumble across something that feels *very* out of place. Before you, an enormous stony head emerges from a large wall segment that does not shift and change like the rest of this area. NL The head's mouth is wide open, and it reveals large intimidating teeth stained red with blood. The surface of the statue is riddled with pictographs that seem to indicate people throwing themselves into the mouth of this head and being devoured. Why would anyone do that?",
-			"At first when you step up into the mouth of the statue, nothing happens. As you start to feel more than a little foolish, the huge molars slam down from above, crushing you whole. NL @Darkness.@ NL Sometime later from within the dark, you see a sliver of light, and hear what you now realize is the sound of stony teeth slowly rising upwards. NL NL NL You leave confused.",
-			"You jump back a little as the gigantic molars smash down on the idol, smashing it into dust. As the teeth start to rise up again, #ygold pours forth in a torrent from the opening, flooding you with riches.",
-			"You leave, wondering what could have been."
+			"Você tropeça em algo que parece *muito* deslocado. À sua frente, uma enorme cabeça de pedra emerge de um largo segmento de parede que não se alterna e muda como o resto deste local. NL A boca da cabeça está bem aberta, e revela grandes e intimidadores dentes manchados de vermelho com sangue. A superfície da estátua está repleta de pictogramas que parecem indicar pessoas se jogando na boca desta cabeça e sendo devoradas. Por que alguém faria isso?",
+			"A princípio quando você entra na boca da estátua, nada acontece. Conforme você começa a se sentir mais do que um pouco bobo, os enormes molares descem repentinamente sobre você, esmagando-o por completo. NL @Escuridão.@ NL Algum tempo depois do interior da escuridão, você vê um raio de luz, e escuta o que você agora percebe ser o som de dentes rochosos subindo vagarosamente. NL NL NL Você sai confuso.",
+			"Você dá um salto para trás conforme os enormes molares da estátua esmagam o ídolo, esmagado-o até virar pó. Conforme os dentes começam a subir, #youro vaza como uma torrente pela abertura, te inundando de riquezas.",
+			"Você sai, imaginando o que poderia ser aquilo."
 	],
     "OPTIONS": [
-			"[Jump Inside] #gHeal #gto #gfull #gHP. #rLose #r10 #rMax #rHP.",
-			"[Offer: Golden Idol] #gReceive #g333 #gGold. #rLose #rGolden #rIdol.",
-			"[Locked] Requires: Golden Idol.",
-			"[Leave]"
+			"[Pular Dentro] #gCure #gpara #gPV #gcheio. #rPerca #r",
+      " #rPV #Máximo.",
+			"[Oferecer: Ídolo Dourado] #gReceba #g333 #gde #gOuro. #rPerca #ro #rÍdolo #rDourado.",
+			"[Bloqueado] Requer: Ídolo Dourado.",
+			"[Sair]"
     ]
   },
   "Mysterious Sphere": {
-	"NAME": "Mysterious Sphere",
+	"NAME": "Esfera Misteriosa",
     "DESCRIPTIONS": [
-			"Jutting from the chaotic terrain around you, a bony sphere surrounds a mysterious glowing object within. NL While you are curious what lies inside, you notice some sentries keeping an eye on it.",
-			"As soon as you strike the sphere, the sentries spring to life around you!",
-			"No need to be greedy."
+			"Sobressaindo do terreno caótico ao seu redor, uma esfera óssea envolve um brilhante objeto misterioso dentro. NL Enquanto você está curioso sobre o que está dentro, você nota algumas sentinelas de olho nela.",
+			"Assim que você golpeia a esfera, as sentinelas ganham vida ao seu redor!",
+			"Não há motivos para ser ganancioso."
 	],
     "OPTIONS": [
-			"[Open Sphere] #rFight. #gReward: #gRelic.",
-			"[Leave]",
-			"[Fight]"
+			"[Abrir Esfera] #rLutar. #gRecompensa: #gRelíquia.",
+			"[Sair]",
+			"[Lutar]"
     ]
   },
   "Thinking with Puddles": {
-	"NAME": "Thinking with Puddles",
+	"NAME": "Pensando com Poças",
     "DESCRIPTIONS": [
-			"You walk into a shimmering puddle... and you drop out of the ceiling right above it! NL While in freefall, you consider your options.",
-			"You flail your arms in panic and unleash all of your hidden tricks to prevent yourself from injury. Instead, you fall into the puddle again... and again... and again. Days pass before you realize how to get out. Truly miserable.",
-			"You brace yourself for the landing but there is simply no good way to land when ejected from such a bizarre contraption. @THUD@ NL NL ...you lay there for a while, cursing the existence of puddles, both liquid and magical."
+			"Você entra em uma poça cintilante... e cai do teto logo acima dela! NL Em queda livre, você considera suas opções.",
+			"Você chacoalha seus braços em pânico e libera todos seus truques escondidos para não se ferir. Ao invés disso, você cai na poça de novo... e de novo... e de novo. Dias se passam antes de você descobrir como sair. Uma verdadeira desgraça.",
+			"Você se prepara para a aterrissagem mas simplesmente não há nenhuma maneira segura de aterrissar quando se é ejetado de uma engenhoca tão bizarra. @BAM@ NL NL ...você fica deitado ali por um tempo, amaldiçoando a existência de poças, ambas líquidas e mágicas."
 	],
     "OPTIONS": [
-			"[Gooped] #rLose #ra #rrandom #rRare #rcard.",
-			"[Land Face First] #rTake #r",
-			" #rdamage. #rBecome #rCursed #r- #rInjury.",
-			"[Leave]"
+			"[Melecado] #rPerca #ruma #rcarta #rRara #raleatória.",
+			"[Aterrissar de Cara] #rReceba #r",
+			" #rde #rdano. #rSeja #rAmaldiçoado #r- #rFerimento.",
+			"[Sair]"
     ]
   },
   "Tomb of Lord Red Mask": {
-	"NAME": "Tomb of Lord Red Mask",
+	"NAME": "Tumba do Lorde Máscara Vermelha",
     "DESCRIPTIONS": [
-			"A highly ornamented tomb can be seen on the other side of a floating path. Upon reaching the tomb, you notice a slot for #ygold coins with a scratched out inscription above it.",
-			"You don the mask and the tomb starts to ~flake~ ~away...~ a secret passage! NL NL The passage is lined with countless stolen goods and mounds of #ygold!",
-			"An opening appears in the tomb and out slides a small red mask with a note attached. \"Take from others as I have taken from you!\""
+			"Uma tumba altamente ornamentada pode ser vista do outro lado de um caminho flutuante. Ao alcançar a tumba, você nota um espaço para moedas de #youro com uma inscrição rabiscada acima dele.",
+			"Você veste a máscara e a tumba começa a ~esvaziar...~ uma passagem secreta! NL NL A passagem é rodeada de incontáveis bens roubados e montes de #youro!",
+			"Uma abertura aparece na tumba e de dentro desliza uma pequena máscara vermelha com uma nota anexada. \"Tome dos outros assim como eu tomei de você!\""
 	],
     "OPTIONS": [
-			"[Don the Red Mask] #gGain #g222 #gGold.",
-			"[Locked] Requires: Red Mask.",
-			"[Offer: ",
-			" Gold] #rLose #rall #rGold. #gGain #ga #gRelic.",
-			"[Leave]"
+			"[Vestir a Máscara Vermelha] #gGanhe #g222 #gde #gOuro.",
+			"[Bloqueado] Requer: Máscara Vermelha.",
+			"[Oferecer: ",
+			" Ouro] #rPerca #rtodo #rseu #rOuro. #gGanhe #guma #gRelíquia.",
+			"[Sair]"
     ]
-  },  
+  },
   "Winding Halls": {
-	"NAME": "Winding Halls",
+	"NAME": "Corredores Sinuosos",
     "DESCRIPTIONS": [
-			"As you slowly make your way up the twisting pathways, you constantly find yourself losing your way as the walls and ground seem to inexplicably shift before your eyes. The constant whispering voices in the back of your head aren't helping things either.",
-			"Passing by a structure you are certain you have previously seen you start to question if you are going insane, or if the impossible geography of this place is starting to get to you. You need to change something, and soon. That's what the voices say anyway, and why would they lie?",
-			"Something in you cracks. Only the truly mad can understand a place like this, so you give into the chattering voices and continue on with a \"new\" perspective. Things do seem to make so much more sense now.",
-			"As you take a moment to stop and carefully observe the undulating landscape around you, the hint of a pattern starts to emerge from within the randomness. Whenever the demented noises begin to interrupt your thoughts, you struggle through the mental pain and ignore it. NL NL Eventually you successfully map out a path forward, and continue on, now resistant to the nefarious nature of this alien place."
+			"Conforme você continua subindo vagarosamente nas vias contorcidas, você constantemente se encontra perdendo o caminho já que as paredes e o chão parecem inexplicavelmente se moverem diante dos seus olhos. As vozes que constantemente sussuram no seu ouvido também não estão ajudando.",
+			"Ao passar por uma estrutura que você tem certeza de já ter visto você começa a se questionar se você está enloquecendo, ou se é possível que a geografia deste lugar está começando a te afetar. Você precisa mudar algo, e rápido. Isso é o que as vozes dizem de quaquer forma, e por que elas mentiriam?",
+			"Algo em você se parte. Somente os verdadeiros loucos poderiam entender um lugar como esse, então você se entrega às vozes tagarelando e continua com uma \"nova\" perspectiva. As coisas parecem fazer muito mais sentido agora.",
+			"Conforme você toma um momento para observar cuidadosamente o cenário ondulado ao seu redor, o vestígio de um padrão começa a surgir de dentro da aleatoriedade. Sempre que os barulhos dementes começam a atrapalhar seus pensamentos, você lida com a dor mental e a ignora. NL NL Eventualmente você consegue traçar um caminho adiante, e continuar, agora resistente à nefasta natureza desse lugar estranho."
 	],
     "OPTIONS": [
 			"...",
-			"[Embrace Madness] #gReceive #g2 #gMadness. #rLose #r10 #rHP.",
-			"[Focus] #rBecome #rCursed #r- #rWrithe. #gHeal #g",
-			"[Leave]",
-			" #gHP."
+			"[Abraçar Loucura] #gReceba #g2 #gLoucura. #rPerca #r",
+      " #rPV.",
+			"[Focar] #rSeja #rAmaldiçoado #r- #rTorção. #gCure #g",
+			"[Sair]",
+			" #gPV."
     ]
   },
   "Big Fish": {
-	"NAME": "Big Fish",
+	"NAME": "Peixe Grande",
     "DESCRIPTIONS": [
-			"As you make your way down a long corridor you see a #ybanana, a #ydonut, and a #ybox ~floating~ about. No... upon closer inspection they are tied to strings coming from holes in the ceiling. There is a quiet @cackling@ from above as you approach the objects. NL What do you do?",
-			"You eat the #ybanana. It is nutritious and slightly #bmagical, healing you.",
-			"You eat the #ydonut. It really hits the spot! Your Max HP increases.",
+			"Conforme você desce por um longo corredor, você vê uma #ybanana, uma #yrosquinha, e uma #ycaixa ~pairando~ ~no~ ~ar~. Não... mediante análise mais atenta elas estão amarradas à linhas vindas de buracos no teto. Há uma quieta @gargalhada@ vinda de cima conforme você se aproxima dos objetos. NL O que você faz?",
+			"Você come a #ybanana. Ela é nutritiva e um pouco #bmágica, te curando.",
+			"Você come a #yrosquinha. Exatamente o que você queria! Seu PV Máximo aumenta.",
 			"",
-			"You grab the box. Inside you find a #yrelic!",
-			" NL However, you really craved the donut... NL You are filled with ~sadness,~ but mostly #rregret."
+			"Você pega a caixa. Dentro você encontra uma #yrelíquia!",
+			" NL Entretanto, você queria mesmo a rosquinha... NL Você está cheio de ~tristeza,~ mas principalmente #rarrependimento."
 	],
     "OPTIONS": [
-			"[Banana] #gHeal #g",
-			" #gHP.",
-			"[Donut] #gMax #gHP #g+",
+			"[Banana] #gCure #g",
+			" #gPV.",
+			"[Rosquinha] #gPV #gMáximo #g+",
 			".",
-			"[Box] #gReceive #ga #gRelic. #rBecome #rCursed #r- #rRegret.",
-			"[Leave]"
+			"[Caixa] #gReceba #guma #gRelíquia. #rSeja #rAmaldiçoado #r- #rArrependimento.",
+			"[Sair]"
     ]
   },
   "The Cleric": {
-	"NAME": "The Cleric",
+	"NAME": "O Clérigo",
     "DESCRIPTIONS": [
-			"A strange blue humanoid with a golden helm(?) approaches you with a huge smile. NL @\"Hello@ @friend!@ I am #bCleric! Are you interested in my services?!\" the creature shouts, loudly.",
-			"A warm golden light envelops your body and dissipates. NL The creature grins. \"Cleric best healer. @Have@ @a@ @good@ @day!\"@",
-			"A cold blue flame envelops your body and dissipates. NL The creature grins. \"Cleric talented. @Have@ @a@ @good@ @day!\"@",
-			"You don't trust this #b\"Cleric\", so you leave."
+			"Um estranho humanóide azul com um elmo dourado(?) se aproxima de você com um enorme sorriso. NL @\"Olá@ @amigo!@ Eu sou #bClérigo! Você estaria interessado nos meus serviços?!\" a criatura anuncia, bem alto.",
+			"Uma quente luz dourada envolve seu corpo e se dissipa. NL A criatura sorri. \"Clérigo melhor curandeiro. @Tenha@ @um@ @bom@ @dia!\"@",
+			"Uma fria chama azul envolve seu corpo e se dissipa. NL A criatura sorri. \"Clérigo talentoso. @Tenha@ @um@ @bom@ @dia!\"@",
+			"Você não confia nesse #b\"Clérigo\", então você sai."
 	],
     "OPTIONS": [
-			"[Heal] #y35 #yGold: #gHeal #g",
-			"[Locked] Requires: ",
-			" Gold.",
-			"[Purify] #y50 #yGold: #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-			"[Locked] Requires: 50 Gold.",
-			"[Leave]",
-			"Select a Card to Remove."
+			"[Curar] #y35 #yde #yOuro: #gCura #g",
+			"[Bloqueado] Requer: ",
+			" de Ouro.",
+			"[Purificar] #y",
+      " #yde #yOuro: #gRemove #guma #gcarta #gdo #gseu #gbaralho.",
+			"[Bloqueado] Requer: 50 de Ouro.",
+			"[Sair]",
+			"Selecione uma Carta para Remover.",
+      "."
     ]
   },
   "Dead Adventurer": {
-	"NAME": "Dead Adventurer",
+	"NAME": "Aventureiro Morto",
     "DESCRIPTIONS": [
-			"While searching the adventurer you are caught off guard!",
-			"You exit without a sound.",
-			"You come across a #rdead #radventurer on the floor. NL His #bpants have been stolen! Also, ",
-			"the armor and face appear to be #r@scoured@ #r@by@ #r@flames.@ ",
-			"it looks as though he's been #r@gouged@ #r@and@ #r@trampled@ by a horned beast. ",
-			"he looks to have been #r@eviscerated@ #r@and@ #r@chopped@ by giant claws. ",
-			"NL Though his #ypossessions #yare #ystill #yintact, you're in no mind to find out what happened here...",
-			"You found some #ygold! NL Continue searching?",
-			"Hmm, couldn't find anything... NL Continue searching?",
-			"You found a #yrelic! Continue searching?",
-			"Looks like you searched all his belongings without a hitch!"
+			"Enquanto vasculhava o aventureiro, você foi pego com a guarda baixa!",
+			"Você sai sem barulho.",
+			"Você se depara com um #raventureiro #rmorto no chão. NL Suas #bcalças foram roubadas! E também, ",
+			"sua armadura e face parecem ter sido #r@dizimados@ #r@por@ #r@chamas.@ ",
+			"parece que ele foi #r@perfurado@ #r@e@ #r@pisoteado@ por uma besta com chifres. ",
+			"ele parece ter sido #r@eviscerado@ #r@e@ #r@retalhado@ por garras gigantes. ",
+			"NL Mesmo suas #yposses #yestando #yintactas, você não quer tentar descobrir o que houve aqui...",
+			"Você encontrou um pouco de #youro! NL Continuar vasculhando?",
+			"Hmm, você não encontrou mais nada... NL Continuar vasculhando?",
+			"Você encontrou uma #yrelíquia! Continuar vasculhando?",
+			"Parece que você vasculhou todos os pertences dele sem nenhum problema!"
 	],
     "OPTIONS": [
-			"[Search] #gFind #gLoot. #r",
-			"[Leave]",
-			"[Fight]",
-			"[Continue] #gFind #gLoot. #r",
-			"%: #rmonster #rreturns."
+			"[Vasculhar] #gEncontre #gPilhagem. #r",
+			"[Sair]",
+			"[Lutar]",
+			"[Continuar] #gEncontre #gPilhagem. #r",
+			"%: #rmonstro #rretorna."
     ]
   },
   "Golden Idol": {
-	"NAME": "Golden Idol",
+	"NAME": "Ídolo Dourado",
     "DESCRIPTIONS": [
-			"You come across an inconspicuous pedestal with a #yshining #ygold #yidol sitting peacefully atop. It looks incredibly valuable. NL NL You sure don't see any traps nearby.",
-			"As you grab the Idol and stow it away, a giant boulder smashes through the ceiling into the ground next to you. NL You realize that the floor is slanted downwards as the boulder starts to roll towards you.",
-			"@RUUUUUUUUUUN!@ NL You barely leap into a side passageway as the boulder rushes by. Unfortunately it feels like you sprained something however.",
-			"You throw yourself at the boulder with everything you have. When the dust clears, you can make a safe way out.",
-			"@SQUISH!@ NL The boulder flattens you a little as it passes by, but otherwise you can get out of here.",
-			"If there was ever an obvious trap, this would be it. NL You decide not to interfere with objects placed upon pedestals."
+			"Você se depara com um pedestal discreto com um #ybrilhante #yídolo #ydourado repousando pacificamente ao topo. Ele parece ser incrivelmente valioso. NL NL Você com certeza não vê armadilhas por perto.",
+			"Conforme você pega o ídolo e o guarda, uma pedra gigante arrebenta o teto e cai no chão do seu lado. NL Você percebe que o chão é levemente inclinado conforme a pedra começa a rolar em sua direção.",
+			"@COOOOOOOORRA!@ NL Você mal salta para uma passagem lateral conforme a pedra passa rolando. Infelizmente parece que você torceu algo entretanto.",
+			"Você se joga contra a pedra com toda a sua força. Quando a poeira abaixa, você pode sair a salvo.",
+			"@PLAFT!@ NL A pedra lhe achata de leve conforme ela passa, mas de qualquer forma você consegue sair.",
+			"Se já existu uma armadilha óbvia, esta seria uma. NL Você decide não interferir com objetos colocados em pedestais."
 	],
     "OPTIONS": [
-			"[Take] #gReceive #gGolden #gIdol. #rTrigger #ra #rtrap.",
-			"[Leave]",
-			"[Outrun] #rBecome #rCursed #r- #rInjury.",
-			"[Smash] #rTake #r",
-			" #rDamage.",
-			"[Hide] #rLose #r",
-			" #rMax #rHP."
+			"[Pegar] #gReceba #go #gÍdolo #gDourado. #rAtive #ruma #rarmadilha.",
+			"[Sair]",
+			"[Correr] #rSeja #rAmaldiçoado #r- #rFerimento.",
+			"[Arrebentar] #rReceba #r",
+			" #rde #rDano.",
+			"[Enconder] #rPerca #r",
+			" #rPV #rMáximo."
     ]
   },
   "Golden Wing": {
-	"NAME": "Wing Statue",
+	"NAME": "Estátua de Asa",
     "DESCRIPTIONS": [
-			"Among the stone and boulders, you notice an intricate large blue statue resembling a wing. NL You find #ygold spilling from its cracks. Maybe there is more inside...",
-			"Someone once told you of a cult that worshipped a giant bird. As you kneel in prayer, you begin to ~feel~ ... ~lightheaded~ . NL NL You wake up some time later, feeling strangely fleet of foot.",
-			"With all your might, you hack away at the statue. NL It soon @crumbles,@ revealing a #ypile #yof #ygold. You grab as much as you can and continue onwards.",
-			"The statue makes you feel ~uneasy.~ You walk past and continue onward."
+			"Em meio a pedras e rochas, você nota uma intrigante estátua grande azul que lembra uma asa. NL Você encontra #youro vazando de suas rachaduras. Talvez tenha mais lá dentro...",
+			"Alguém uma vez lhe contou sobre uma seita que adorava um gigantesco pássaro. Conforme você se ajoelha para orar, você começa a se ~sentir~ ... ~zonzo~ . NL NL Você acorda um tempo depois, se sentindo estranhamente mais ágil.",
+			"Com toda a sua força, você golpeia a estátua. NL Ela logo @desmorona,@ revelando uma #ypilha #yde #youro. Você pega o quanto pode e segue seu caminho.",
+			"A estátua faz você se sentir ~desconfortável.~ Você passa sobre ela e continua seu caminho."
 	],
     "OPTIONS": [
-			"[Pray] #gRemove #ga #gcard #gfrom #gyour #gdeck. #rLose #r",
-			" #rHP.",
-			"[Destroy] #gGain #g",
+			"[Orar] #gRemova #guma #gcarta #gdo #gseu #gbaralho. #rPerca #r",
+			" #rPV.",
+			"[Destruir] #gObtenha #g",
 			" #g- #g",
-			" #gGold.",
-			"[Locked] Requires: Card with ",
-			" or more damage.",
-			"[Leave]",
-			"[Continue]",
-			"Select a Card to Remove."
+			" #gde #gOuro.",
+			"[Bloqueado] Requer: Carta com ",
+			" ou mais de dano.",
+			"[Sair]",
+			"[Continuar]",
+			"Seleciona uma Carta para Remover."
     ]
   },
   "World of Goop": {
-	"NAME": "World of Goop",
+	"NAME": "Mundo de Gosma",
     "DESCRIPTIONS": [
-			"You fall into a puddle. NL @IT'S@ @MADE@ @OF@ #g@SLIME@ #g@GOOP!!@ NL Frantically, you claw yourself out over several minutes as you feel the goop starting to burn. NL You can feel goop in your ears, goop in your nose, goop everywhere. NL NL Climbing out, you notice that some of your #ygold is missing. Looking back to the puddle you see your missing coins combined with #ygold from unfortunate adventurers mixed together in the puddle.",
-			"Feeling the sting of the goop as the prolonged exposure starts to melt away at your skin, you manage to fish out the #ygold.",
-			"You decide that mess is not worth it."
+			"Você cai em uma poça. NL @ELA@ @É@ @FEITA@ @DE@ #g@GOSMA@!!@ NL Frenéticamente, você se arranha por muitos minutos conforme você sente a gosma começar a queimar. NL Você consegue sentir gosma em seus ouvidos, gosma em seu nariz, gosma em todo lugar. NL NL Saindo de lá, você nota que parte do seu #youro está faltando. Olhando novamente para a poça você vê suas moedas perdidas combinadas com #youro de outros aventureiros infelizes misturadas juntas dentro da poça.",
+			"Sentindo a ardência da gosma conforme o contato prolongado começa a derreter na sua pede, você consegue pescar o #youro.",
+			"Você decide que aquela bagunça não vale a pena."
 	],
     "OPTIONS": [
-			"[Gather Gold] #gGain #g",
-			" #gGold. #rLose #r",
-			" #rHP.",
-			"[Leave It] #rLose #r",
-			" #rGold.",
-			"[Leave]"	
+			"[Coletar Ouro] #gObtenha #g",
+			" #gde #gOuro. #rPerca #r",
+			" #rPV.",
+			"[Deixar] #rPerca #r",
+			" #rde #rOuro.",
+			"[Sair]"
     ]
   },
   "Liars Game": {
-	"NAME": "The Ssssserpent",
+	"NAME": "A Ssssserpente",
     "DESCRIPTIONS": [
-			"You walk into a room to find a large hole in the ground. As you approach the hole, an enormous serpent creature appears from within. NL NL ~\"Ho~ ~hooo!~ ~Hello~ ~hello!~ ~what~ ~have~ ~we~ ~got~ ~here?~ Hello adventurer, I ask a simple question. NL The most fulfilling of lives is that in which you can #y~buy~ #y~anything!~ NL Do you agree?\"",
-			"~\"Yeeeeeeessssssssssessss!~ NL ~Thisss~ ~will~ ~all~ ~be~ ~worthhh~ ~it.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
-			"The serpent stares at you with a look of extreme disappointment.",
-			"The serpent rears its head and blasts a stream of #ygold upwards! NL It is amazing and terrifying simultaneously. NL You gather all the #ygold, thank the snake, and get going."
+			"Você entra em uma sala e encontra um grande buraco no chão. Conforme você se aproxima do buraco, uma enorme criatura em forma de serpente aparece de dentro. NL NL ~\"Ho~ ~hooo!~ ~Olá~ ~olá!~ ~o~ ~que~ ~temos~ ~aqui?~ Olá aventureiro, eu tenho uma simples pergunta. NL A mais gratificante das vidas é aquela em que você pode #y~comprar~ #y~qualquer~ ~#ycoisa!~ NL Você concorda?\"",
+			"~\"Sssssssssssssssiiiiiiim!~ NL ~Tudo~ ~isssssso~ ~valerá~ ~a~ ~pena.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
+			"A serpente te observa com um olhar de extremo desapontamento.",
+			"A serpente ergue a cabeça e começa a jorrar #youro para cima! NL É incrível e arrepilante ao mesmo tempo. NL Você recolhe todo o #youro, agradece a cobra, e segue seu caminho."
 	],
     "OPTIONS": [
-			"[Agree] #gReceive #g",
-			" #gGold. #rBecome #rCursed #r- #rDoubt.",
-			"[Disagree]",
-			"[Continue]",
-			"[Leave]"
+			"[Concordar] #gReceba #g",
+			" #gde #gOuro. #rSeja #rAmaldiçoado #r- #rDúvida.",
+			"[Discordar]",
+			"[Continuar]",
+			"[Sair]"
     ]
-  },  
+  },
   "Living Wall": {
-	"NAME": "Living Wall",
+	"NAME": "Parede Viva",
     "DESCRIPTIONS": [
-			"As you come to a dead-end and begin to turn around, walls @slam@ @down@ from the ceiling, trapping you! NL NL Three faces materialize from the walls and speak. NL #b\"Forget #bwhat #byou #bknow, #band #bI'll #blet #byou #bgo.\" NL #p\"I #prequire #pchange #pto #psee #pa #pnew #pspace.\" NL #y\"If #yyou #ywant #yto #ypass #yme, #ythen #yyou #ymust #ygrow.\"",
-			"Satisfied, the walls in front of you merge back into the ceiling, leaving a path forward."
+			"Conforme você chega em um caminho sem saída e começa e virar, paredes @descem@ @violentamente@ do teto, te encurralando! NL NL Três faces se materializam das paredes e falam. NL #b\"Esqueça #bo #bque #bvocê #bsabe, #be #beu #bo #bdeixarei #bir.\" NL #p\"Eu #prequiro #pmudança #ppara #pver #pum #pnovo #plugar.\" NL #y\"Se #yvocê #yquiser #ypassar #ypor #ymim, #yentão #yvocê #yprecisa #ycrescer.\"",
+			"Satisfeitas, as paredes a sua frente se misturam novamente ao teto, liberando um caminho adiante."
 	],
     "OPTIONS": [
-			"[Forget] #gRemove #ga #gcard #gin #gyour #gdeck.",
-			"[Change] #gTransform #ga #gcard #gin #gyour #gdeck.",
-			"[Grow] #gUpgrade #ga #gcard #gin #gyour #gdeck.",
-			"Select a Card to Remove.",
-			"Choose a Card to Transform.",
-			"Choose a Card to Upgrade.",
-			"[Leave]",
-			"[Locked] Requires: Upgradeable Cards"
+			"[Esquecer] #gRemova #guma #gcarta #gdo #gseu #gbaralho.",
+			"[Mudar] #gTransforme #guma #gcarta #gdo #gseu #gbaralho.",
+			"[Crescer] #gAprimore #guma #gcarta #gdo #gseu #gbaralho.",
+			"Selecione uma Carta para Remover.",
+			"Escolha uma Carta para Transformar.",
+			"Escolha uma Carta para Aprimorar.",
+			"[Sair]",
+			"[Bloqueado] Requer: Cartas Aprimoráveis"
     ]
   },
   "Mushrooms": {
-	"NAME": "Mushrooms",
+	"NAME": "Cogumelos",
     "DESCRIPTIONS": [
-			"You give in to the unnatural desire to eat. As you consume mushroom after mushroom, you feel yourself entering into a daze and pass out. As you awake, you feel very odd. NL You #gHeal #b25% of your HP, but you also get #rinfected.",
-			"#r@Ambushed!!@ NL Rodents infested by the mushrooms appear out of nowhere!",
-			"You enter a corridor full of #b~hypnotizing~ #b~colored~ #b~mushrooms.~ NL Due to your lack of specialization in mycology you are unable to identify the specimens. NL You want to escape, but feel oddly compelled to eat a #b~mushroom...~"
+			"Você sucumbe a um desejo sobrenatural de comer. Conforme você come cogumelo atrás de cogumelo, você a se sente entrando em torpor e apaga. Conforme você acorda, você se sente muito estranho. NL #gCure #b25% do seu PV, mas você também se torna #rinfectado.",
+			"#r@Emboscado!!@ NL Roedores infestados pelos cogumelos aparecem do nada!",
+			"Você entra em um corredor cheio de #b~hipnotizantes~ #b~cogumelos~ #b~coloridos.~ NL Devido à sua falta de especialização em micologia você não é capaz de identificar as espécimes. NL Você quer fugir, mas se sente estranhamento compelido a comer #b~cogumelos...~"
 	],
     "OPTIONS": [
-			"[Stomp] #rAnger #rthe #rMushrooms.",
-			"[Eat] #gHeal #g",
-			" #gHP. #rBecome #rCursed #r- #rParasite.",
-			"[Fight]",
-			"[Leave]"
+			"[Pisotear] #rEnfureça #ros #rCogumelos.",
+			"[Comer] #gCure #g",
+			" #gPV. #rSeja #rAmaldiçoado #r- #rParasita.",
+			"[Lutar]",
+			"[Sair]"
     ]
   },
   "N'loth": {
 	"NAME": "N'loth",
     "DESCRIPTIONS": [
-			"An odd creature with a hunched back sprouting several tentacles is scrounging through a pile of trash and debris in front of you. As you approach, he shuffles towards you in a non-threatening manner. NL \"N'loth hungry. Feed N'loth.\"",
-			"Holding the #yrelic out towards him, N’loth snatches it out of your hand with his tentacles, dislocates his jaw, and slurps down your offer in one quick gulp. NL He gives you a large, toothy grin as more tentacles appear from behind his cloak, these ones brandishing an impossibly neat looking box. He pushes it towards you until you take it.",
-			"You shake your head. N'loth hunches even further and sighs, then scuttles away."
+			"Uma estranha criatura com a costa curvada de onde brotam vários tentáculos está vasculhando uma pilha de lixo e escombros na sua frente. Conforme você se aproxima, ele se move em sua direção de maneira inofensiva. NL \"N'loth faminto. Alimente N'loth.\"",
+			"Estendendo a #yrelíquia na direção dele, N’loth a toma de suas mãos com seus tentaculos, desloca sua mandíbula, e sorve sua oferenda em um rápido nhac. NL Ele te dá um largo, e dentoso sorriso conforme mais tentáculos surgem através de seu manto, estes brandindo uma caixa impossivelmente bacana. Ele a empura em sua direção até que você a pegue.",
+			"Você balança sua cabeça. N'loth se curva ainda mais e suspira, e então foge."
 	],
     "OPTIONS": [
-			"[Offer: ",
-			"] #rLose #rthis #rrelic. #gGain #ga #gnew #gspecial #grelic.",
-			"[Leave]"
+			"[Oferecer: ",
+			"] #rPerca #resta #rrelíquia. #gObtenha #guma #gnova #grelíquia #gespecial.",
+			"[Sair]"
     ]
   },
   "Scrap Ooze": {
-	"NAME": "Scrap Ooze",
+	"NAME": "Gosma de Sucata",
     "DESCRIPTIONS": [
-			"As you walk into the room you hear a ~gurgling~ and the @grinding@ of metals. Before you is a slime-like creature that ate too much scrap for its own good. From the center of the creature you see glints of strange light, perhaps something magical? It looks like you can get some #ytreasure if you just reach inside its... opening. However, the acid and sharp objects may #rhurt.",
-			"#r@Ouch!@ NL All you find is corroded metal and a bit of #r@burning@ #r@pain.@ NL However, you're still convinced there's a #yrelic...",
-			"#gSuccess! NL After rummaging through the metal and burning acid, you finally grab hold of a #yrelic and yank it out. NL You pull your way out of the ooze #rdamaged but rewarded.",
-			"You decide to leave the area. NL The slime pays no attention, content with its meal."
+			"Conforme você entra na sala você escuta um ~murmúrio~ e um @ranger@ de metais. A sua frente está uma criatura semelhante a uma gosma que comeu muita sucata, mais do que o necessário. Do centro da criatura você vê relances de uma estranha luz, talvez algo mágico? Aparentemente você pode conseguir algum #ytesouro se apenas você alcançar sua... abertura. Entretanto, o ácido e objetos afiados podem #rmachucar.",
+			"#r@Ouch!@ NL Tudo que você encontra é um pouco de metal corroído e algumas #r@queimaduras@ #r@dolorosas.@ NL Entretanto, você ainda está convicto que há uma #yrelíquia...",
+			"#gSucesso! NL Depois de remexer pelo metal e ácido ardente, você finalmente agarra uma #yrelíquia e a arranca para você. NL Você sai de dentro da gosma #rferido porém recompensado.",
+			"Você decide ir embora. NL A gosma nem o percebe, ainda feliz com sua refeição."
 	],
     "OPTIONS": [
-			"[Reach Inside] #rLose #r",
-			" #rHP. #g",
-			"%: #gFind #ga #gRelic.",
-			"[Leave]",
-			"[Deeper] #rLose #r"
+			"[Adentrar] #rPerca #r",
+			" #rPV. #g",
+			"%: #gEncontre #guma #gRelíquia.",
+			"[Sair]",
+			"[Mais Fundo] #rPerca #r"
     ]
   },
   "Shining Light": {
-	"NAME": "Shining Light",
+	"NAME": "Luz Brilhante",
     "DESCRIPTIONS": [
-			"You find a shimmering #ymass #yof #ylight encompassing the center of the room. NL NL Its ~warm~ ~glow~ and ~enchanting~ ~patterns~ invite you in.",
-			"As you walk through the light, you notice that the light is absorbed into you. NL It's #r@scorching@ #r@hot@ ! However, the pain quickly recedes. NL You feel #binvigorated, as though you received a well deserved slap.",
-			"You walk around it, wondering what could have been."
+			"Você encontra uma brilhante #yredoma #yde #yluz englobando o centro da sala. NL NL Seu ~brilho~ ~quente~ e ~padrões~ ~encantadores~ o convidam a entrar.",
+			"Conforme você anda através da luz, você nota que a luz é absorvida em você. NL É #r@escaldante@ ! Entretanto, a dor retrocede rapidamente. NL Você se sente #brevigorado, como se você tivesse recebido um merecido tapa.",
+			"Você dá a volta, imaginando o que poderia ser aquilo."
 	],
     "OPTIONS": [
-			"[Enter] #gUpgrade #g2 #grandom #gcards. #rLose #r",
-			" #rHP.",
-			"[Leave]",
-			"[Locked] Requires: Upgradeable Cards"
+			"[Entrar] #gAprimore #g2 #gcartas #galeatórias. #rPerca #r",
+			" #rPV.",
+			"[Sair]",
+			"[Bloqueado] Requer: Cartas Aprimoráveis"
     ]
   },
   "Addict": {
-	"NAME": "Addicted",
+	"NAME": "Viciado",
     "DESCRIPTIONS": [
-			"As you attempt to sneak past a group of shrouded figures, a naked, red-skinned man approaches you. NL \"Got any #yJ.A.X., friend? I got the @shakes@ bad! Please... maybe some #yCoin?\" NL He seems delusional, but harmless.",
-			"\"Oh yes, ~yes!~ Here here, a fair trade!\"",
-			"The addict throws a loud tantrum, screaming and cursing at you. NL You escape before drawing unwanted attention."
+			"Conforme você tentar se esgueirar por um grupo de figuras encapuzadas, um homem nú de pele avermelhada se aproxima de você. NL \"Tem alguma #yB.O.M.B.A., camarada? Eu estou @tremendo@! Por favor... talvez algumas #yMoedas?\" NL Ele parece delirante, mas inofensivo.",
+			"\"Ah sim, ~sim!~ Aqui aqui, um acordo justo!\"",
+			"O viciado faz um chilique alto, gritando e o mal dizendo. NL Você foge antes de atrair atenção indesejada."
 	],
     "OPTIONS": [
-			"[Offer Gold] #y",
-			" #yGold: #gReceive #ga #gRelic.",
-			"[Locked] Requires: ",
-			" Gold.",
-			"[Give JAX] #gReceive #ga #gRelic. #rLose #rJ.A.X.",
-			"[Locked] Requires: J.A.X.",
-			"[Leave] Ignore the addict.",
-			"[Leave]"
+			"[Oferecer Ouro] #y",
+			" #yde #yOuro: #gReceba #guma #gRelíquia.",
+			"[Bloqueado] Requer: ",
+			" de Ouro.",
+			"[Dar BOMBA] #gReceba #guma #gRelíquia. #rPerca #rB.O.M.B.A.",
+			"[Bloqueado] Requer: B.O.M.B.A.",
+			"[Sair] Ignorar o viciado.",
+			"[Sair]"
     ]
   },
   "Back to Basics": {
-	"NAME": "Ancient Writing",
+	"NAME": "Inscrição Ancestral",
     "DESCRIPTIONS": [
-			"Scaling the city, you notice a wall covered in the writing of #y~Ancients.~ As you try to wrap your head around what the puzzling symbols and glyphs could mean, the writing begins to #b~glow.~ NL Suddenly, the message becomes clear...",
-			"The answer was elegance. NL Of course.",
-			"The truth is always simple."
+			"Escalando a cidade, você nota um muro coberto de inscrições de #y~Anciões.~ Conforme você tenta entender o que os enigmáticos símbolos e glifos significam, a inscrição começa a #b~brilhar.~ NL Repentinamente, a mensagem se torna clara...",
+			"A resposta era elegância. NL Claro.",
+			"A verdade é sempre simples."
 	],
     "OPTIONS": [
-			"[Elegance] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-			"[Simplicity] #gUpgrade #gall #gStrikes #gand #gDefends.",
-			"Select a Card to Remove.",
-			"[Leave]"
+			"[Elegância] #gRemova #guma #gcarta #gdo #gseu #gbaralho.",
+			"[Simplicidade] #gAprimore #gtodos #gos #gGolpes #ge #gDefender.",
+			"Escolha uma Carta para Remover.",
+			"[Sair]"
     ]
   },
   "Beggar": {
-	"NAME": "Old Beggar",
+	"NAME": "Velho Mendigo",
     "DESCRIPTIONS": [
-			"An old beggar cloaked in fur reaches his hands out towards you as you pass. \"Spare some coin, child?\"",
-			"The beggar looks to the floor as you pass. NL \"You will never make a difference... You never do.\"",
-			"The beggar takes off its cloak to reveal that he is #bCleric! NL @\"You@ @are@ @a@ @kind@ @soul.@ @Receive@ @my@ @purification!\"@ he screams. NL You are unsure if he is grateful or mad.",
-			"@\"I@ @hope@ @you@ @do@ @better@ @this@ @time,@ @friend!\"@ he shouts. NL Wondering what was implied by this, you push forward."
+			"Um velho mendigo sob um manto de pele estende as mãos em sua direção conforme você passa. \"Uma esmola, meu jovem?\"",
+			"O mendigo olha para o chão conforme você passa. NL \"Você nunca fará a diferença... Você nunca faz.\"",
+			"O mendigo retira o manto para relevar que ele é #bClérigo! NL @\"Você@ @é@ @uma@ @alma@ @gentil.@ @Receba@ @minha@ @purificação!\"@ ele proclama. NL Você fica em dúvida se ele está grato ou louco.",
+			"@\"Eu@ @espero@ @que@ @você@ @se@ @dê@ @bem@ @dessa@ @vez,@ @amigo!\"@ ele grita. NL Imaginando o que foi implicado com isso, você continua seu caminho."
 	],
     "OPTIONS": [
-			"[Offer Gold] #y",
-			" #yGold: #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-			"[Locked] Requires: ",
-			" Gold.",
-			"[Continue]",
-			"[Leave]",
-			"Select a Card to Remove."
+			"[Oferecer Ouro] #y",
+			" #yde #yOuro: #gRemova #guma #gcarta #gdo #gseu #gbaralho.",
+			"[Bloqueado] Requer: ",
+			" de Ouro.",
+			"[Continuar]",
+			"[Sair]",
+			"Selecione uma Carta para Remover."
     ]
-  },  
+  },
   "Cursed Tome": {
-	"NAME": "Cursed Tome",
+	"NAME": "Tomo Amaldiçoado",
     "DESCRIPTIONS": [
-			"In an abandoned temple, you find a giant book, open, riddled with #p@cryptic@ #p@writings.@ NL NL As you try to interpret the elaborate script, it begins to #b~shift~ and #b~morph~ into writing you are familiar with.",
-			"Odd. The book seems to be about an #yAncient named #yNeow. NL NL This piques your interest, but you have a general feeling of #p~malaise.~",
-			"The Ancient of Resurrection, #yNeow, was exiled to the bottom of the Spire. NL NL You feel compelled to read more, but your body begins to #r~ache.~",
-			"Seeking vengeance, #yNeow blesses outsiders, using them for his own purposes. NL NL You are starting to feel very #r~weak~ #r~and~ #r~tired...~",
-			"Those resurrected by #yNeow remember only fragments of their past selves, cursed to fight for eternity. NL NL As you near the final page, your #r@old@ #r@wounds@ #r@begin@ #r@to@ #r@reopen!@",
-			"Upon finishing the tome, you decide to take it with you. With proof in hand, will you retain your memories?",
-			"You exit, feeling a #p~dark~ #p~energy~ #p~emanating~ from the book on the pedestal.",
-			"With incredible strain and willpower, you resist the trance of the tome and @SLAM@ it shut. NL You turn and exit the temple, feeling #b~drained...~"
+			"Em um templo abandonado, você encontra um livro gigante, aberto, cheio de #p@inscrições@ #p@enigmáticas.@ NL NL Conforme você tenta interpretar esses elaborados escritos, eles começam a se #b~alterar~ e #b~moldar~ em uma escrita com a qual você é familiar.",
+			"Estranho. O livro parece ser a respeito de um #yAncião chamado #yNeow. NL NL Isso atrai seu interesse, mas você sente um #p~mal-estar~ generalizado.",
+			"O Ancião da Ressurreição, #yNeow, foi exilado para a base do Pináculo. NL NL Você se sente compelido a continuar lendo, mas seu corpo começa a #r~doer.~",
+			"Procurando por vingança, #yNeow abençoa estrangeiros, usando-os para seus próprios fins. NL NL Você começa a se sentir muito #r~fraco~ #r~e~ #r~cansado...~",
+			"Aqueles ressuscitados por #yNeow se lembram apenas de fragmentos de seus egos passados, amaldiçoado a lutar pela eternidade. NL NL Conforme você se aproxima das últimas páginas, suas #r@antigas@ #r@feridas@ #r@começam@ #r@a@ #r@reabrir!@",
+			"Ao terminar o tomo, você resolve levá-lo com você. Com a prova em mãos, você irá reter suas memórias?",
+			"Você sai, sentindo uma #p~energia~ #p~sombria~ #p~emanando~ do livro no pedestal.",
+			"Com um incrível esforço e força de vontade, você resiste ao êxtase do tomo e @SLAM@ o fecha. NL Você se vira e sai do tempo, se sentindo #b~drenado...~"
 	],
     "OPTIONS": [
-			"[Read]",
-			"[Continue] #rLose #r1 #rHP.",
-			"[Continue] #rLose #r2 #rHP.",
-			"[Continue] #rLose #r3 #rHP.",
-			"[Stop] #rLose #r3 #rHP.",
-			"[Take] #gObtain #gthe #gBook. #rLose #r10 #rHP.",
-			"[Leave]"
+			"[Ler]",
+			"[Continuar] #rPerca #r1 #rPV.",
+			"[Continuar] #rPerca #r2 #rPV.",
+			"[Continuar] #rPerca #r3 #rPV.",
+			"[Parar] #rPerca #r3 #rPV.",
+			"[Pegar] #gObtenha #go #gLivro. #rPerca #r",
+			" #rPV.",
+			"[Sair]"
     ]
   },
   "Drug Dealer": {
-	"NAME": "J.A.X. Dealer",
+	"NAME": "Traficante de B.O.M.B.A.",
     "DESCRIPTIONS": [
-			"A man with an eyepatch and a devilish grin casually strides up to you. NL \"Hey there stranger. Interested in some #yJ.A.X.? It'll make you stronger than any training or blessing. You're gonna need it if you're one of those heroes with a death wish. NL Whad'ya say? Wanna get #yJAXXED?\" NL ",
-			"~\"Excellent.\"~ NL The man hands over a dangerous looking syringe filled with glowing liquid before skulking off into a shadowy alleyway.",
-			"\"No matter, there's always the next one...\" NL The man saunters away."
+			"Um homem com um tapa olho e sorriso malicioso casualmente vem em sua direção. NL \"E aí, estranho. Interessado em um poco de #yB.O.M.B.A.? Ela o fará mais forte do que qualquer treinamento ou benção. Você vai precisar disso se for um daqueles heróis com um desejo de morte. NL O que me diz? Quer ficar #yBOMBADO?\" NL ",
+			"~\"Excelente.\"~ NL O homem lhe entrega uma seringa que parece perigosa cheia de um líquido brilhante antes de se esconder em um beco escuro.",
+			"\"Não importa, sempre haverá um próximo...\" NL O homem vagueia para longe."
 	],
     "OPTIONS": [
-			"[Pay] #y",
-			" #yGold: #gGet #gJAXXED.",
-			"[Locked] Requires: ",
-			" Gold.",
-			"[Leave]",
-			"[Decline]"
+			"[Pagar] #y",
+			" #yde #yOuro: #gFique #gBOMBADO.",
+			"[Bloqueado] Requer: ",
+			" de Ouro.",
+			"[Sair]",
+			"[Recusar]"
     ]
   },
   "Forgotten Altar": {
-	"NAME": "Forgotten Altar",
+	"NAME": "Altar Esquecido",
     "DESCRIPTIONS": [
-			"In front of you sits an altar to a forgotten god. NL Atop the altar sits an ornate female statue with arms outstretched. NL She calls out to you, demanding sacrifice.",
-			"As you gently set the idol onto the altar a #bcold wind swirls throughout the room. NL The arms of the statue begin to discolor and crumble. NL NL Your #ygolden #yidol begins to dull in color and begins bleeding from its eyes. NL The bleeding never ceases.",
-			"You stand on the altar and cut your wrists. NL As the #rblood spills out in sacrifice, the arms of the statue reach out and close around your eyes. NL Everything goes dark. NL You wake up a short time later feeling a new potential surging through you.",
-			"You lash out and smash the statue in front of you, breaking the magical hold the room had placed upon you. NL A dark wail echoes all around you, and you can feel the #p~cursed~ #p~magic~ seep into your bones."
+			"À sua frente repousa um altar de um deus esquecido. NL Ao topo do altar repousa uma ornamentada estátua feminina com os braços estendidos. NL Ela the chama, solicitando sacrifício.",
+			"Conforme você coloca gentilmente o ídolo no altar um #bfrio vento circula pela sala. NL Os braços da estátua começam a se descolorir e se desfazer. NL NL O seu #yídolo #ydourado começa a esmaecer e a sangrar pelos olhos. NL O sangramento nunca para.",
+			"Você se põe perante o altar e corta seus pulsos. NL Conforme o #rsangue jorra em sacrifício, os braços da estátua o alcançam e fecham envolta de seus olhos. NL Fica tudo escuro. NL Você acorda um tempo depois sentindo um novo potencial surgindo através de você.",
+			"Você ataca e esmaga a estátua na sua frente, quebrando a posse mágica que a sala havia colocado sobre você. NL Um lamúrio sombrio ecoa ao seu redor, e você pode sentir a #p~magia~ #p~amaldiçoada~ infiltrando em seus ossos."
 	],
     "OPTIONS": [
-			"[Offer: Golden Idol] #gReceive #ga #gspecial #gRelic. #rLose #rGolden #rIdol.",
-			"[Locked] Requires: Golden Idol.",
-			"[Sacrifice] #gGain #g",
-			" #gMax #gHP. #rLose #r",
-			" #rHP.",
-			"[Locked] Requires: Humanity.",
-			"[Desecrate] #rBecome #rCursed #r- #rDecay."
+			"[Oferecer: Ídolo Dourado] #gReceba #guma #gRelíquia #gespecial. #Perca #ro #rÍdolo #rDourado.",
+			"[Bloqueado] Requer: Ídolo Dourado.",
+			"[Sacrificar] #gGanhe #g",
+			" #gPV #gMáximo. #rPerca #r",
+			" #rPV.",
+			"[Bloqueado] Requer: Humanidade.",
+			"[Profanar] #rSeja #rAmaldiçoado #r- #rApodrecer."
     ]
   },
   "Knowing Skull": {
-	"NAME": "Knowing Skull",
+	"NAME": "Crânio Conhecedor",
     "DESCRIPTIONS": [
-		"You find yourself in an old, decorated chamber. In the center of the room, a large skull sits atop an ornate pedestal. As you approach, the skull #g@bursts@ #g@into@ #g@flames@ and turns to face you.",
-			"\"WHAT IS IT YOU SEEK? WHAT IS IT YOU OFFER?\" NL In sync with its final words, the door behind you @slams@ @shut.@",
-			" NL NL \"ANYTHING ELSE?\"",
+		"Você se encontra em uma velha câmara decorada. No centro da sala, um grande crânio repousa no topo de um pedestral ornamentado. Conforme você se aproxima, o crânio #g@explode@ #g@em@ #g@chamas@ e se vira para te encarar.",
+			"\"O QUE VOCÊ PROCURA? E O QUE VOCÊ OFERECE?\" NL Em sincronia com suas últimas palavras, a porta atrás de você se @fecha@ @violentamente.@",
+			" NL NL \"MAIS ALGUMA COISA?\"",
 			" ",
-			"\"DRINK UP!\" NL You obtain a potion.",
-			"\"PERHAPS THIS WILL HELP?\" NL You obtain a card.",
-			"\"YOU MORTALS NEVER CHANGE. IT IS DONE.\" NL #yGold rains down on you!",
-			"\"BEHIND YOU, MORTAL.\" NL You peek behind the skull. Surely enough, there is a door."	
+			"\"BEBA!\" NL Você obtém uma poção.",
+			"\"TALVEZ ISSO AJUDE?\" NL Você obtém uma carta.",
+			"\"VOCÊS MORTAIS NUNCA MUDAM. ESTÁ FEITO.\" NL #yOuro chove sobre você!",
+			"\"ATRÁS DE VOCÊ, MORTAL.\" NL Você espia atrás do crânio. Certamente, existe uma porta."
 	],
     "OPTIONS": [
-			"[Continue]",
-			" #rHP.",
-			"[Information?] #gReveal #gthe #gBoss. #rLose #r",
-			"[Success?] #gGet #ga #gColorless #gCard. #rLose #r",
-			"[A Pick Me Up?] #gGet #ga #gPotion. #rLose #r",
-			"[Riches?] #gGain #g",
-			" #gGold. #rLose #r",
-			"[How do I leave?] #rLose #r",
-			"[Leave]"
+			"[Continuar]",
+			" #rPV.",
+			"[Informação?] #gRevelar #go #gChefe. #rPerca #r",
+			"[Successo?] #gGanhe #guma #gCarta #gIncolor. #rPerca #r",
+			"[Uma Ajuda?] #gGanhe #guma #gPoção. #rPerca #r",
+			"[Riquezas?] #gGanhe #g",
+			" #gde #gOuro. #rPerca #r",
+			"[Como eu saio?] #rPerca #r",
+			"[Sair]"
     ]
   },
   "Masked Bandits": {
-	"NAME": "Masked Bandits",
-    "DESCRIPTIONS": [
-			"Hehehe.. Thanks for the #ygold! NL Oh, I love #ygold. It's so nice. NL #y~shiny~ #y~shiny~ chits they are!",
-			"Hey #bBear, hey! NL This guy gave us all his #ygold! What a sucker, right? NL Get this, I just had to ask nicely. Who knew?! NL I certainly didn't! What a chump!",
-			"Gang, let's all have a laugh for this wondrous occasion! NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
-			"Oh? You're still here? NL Did you overhear something? Didn't think so. NL #r@*snerk*@ ~...loser....~ @Hahaha@ ~haaah~",
-			"You encounter a group of bandits wearing large #rred #rmasks. NL \"Hello, pay up to pass... a reasonable fee of @ALL@ your #ygold will do! Heh heh!\""
-	],
-    "OPTIONS": [
-			"[Pay] #rLose #rALL of your #yGold.",
-			"[Fight!]",
-			"[Continue]",
-			"[Leave]"
-    ]
-  },
-  "Spire Heart": {
-	"NAME": "Spire Heart",
-    "DESCRIPTIONS": [
-			"@tu-thump@ ... @tu-thump@ ... @tu-thump@ ... NL A deep pulsing dread can be felt throughout the room... NL Is this the #r~heart~ of the Spire? The source of this evil?",
-			"You deal #b",
-			" damage! NL The heart #r@squirms@ and #r~bleeds~ ...but is ultimately still pounding. NL Are your mightiest attacks not enough?",
-			"You ask yourself, ~\"Have~ ~I~ ~been~ ~here~ ~before?\"~ NL You feel that you have dealt a total of #b",
-			" damage to the heart.",
-			" NL A total of #b",
-			" damage has been dealt by all who have challenged it.",
-			" NL The heart pulses louder and louder as your #y~consciousness~ #y~fades...~",
-			"NL You ready your blade...",
-			"NL You prepare your daggers...",
-			"NL You charge your core to its maximum..."
-	],
-	"OPTIONS": [
-			"[Continue]",
-			"[Attack] #b???",
-			"[Sleep]"
-    ]
-  },
-  "The Joust": {
-	"NAME": "The Joust",
-    "DESCRIPTIONS": [
-			"As you make your way through the large buildings you come across a long narrow bridge and spot knights on either side, facing one another. You approach... NL @\"Halt!\"@ NL NL A knight forcefully gestures you to stop with its giant lance.",
-			"\"Today is the day I must settle the score with the #rmurderer of my beloved pet, #yNoodles. Until then, you may not pass. NL NL Fellow witness, why don't you #bbet on who you think will emerge victorious?\"",
-			"\"I can't believe you're betting against #yNoodles!\" NL NL Furious, he clamps down his helmet and rushes towards his nemesis.",
-			"\"Give me strength, #yNoodles!\" NL NL Clamping down his helmet, the knight charges forward.",
-			"NL #y@*CRASH!!!*@ #r@*KLAAAANG!*@ NL NL #g@*POW!*@",
-			"The nemesis was slain. NL NL ",
-			"The owner died. NL NL ",
-			"You #gwin the bet. Unsure what to think, you grab your winnings and leave.",
-			"You #rlost the bet, but at least you weren't gouged by a lance."
-	],
-    "OPTIONS": [
-			"[Continue]",
-			"[Murderer] #yBet #y",
-			" #yGold - #g70%: #gwin #g",
-			" #gGold.",
-			"[Owner] #yBet #y",
-			" #yGold - #g30%: #gwin #g",
-			"[Watch]",
-			"[Leave]"
-    ]
-  },
-  "The Library": {
-	"NAME": "The Library",
-    "DESCRIPTIONS": [
-			"You come across an ornate building which appears abandoned. NL A plaque that has been torn free from a wall is on the floor. It reads, #b\"THE #bLIBRARY\". NL Inside, you find countless rows of scrolls, manuscripts, and books. NL You pick one and cozy yourself into a chair for some quiet time.",
-			"Reading is for chumps. NL You doze off in a comfy chair instead. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL You wake up feeling refreshed.",
-			"The story is about an insect-controlling teenage girl who aspires to become a hero. The book is filled with creative uses of powers, combat strategies, and varying perspectives. NL Satisfying.",
-			"The story is about a man who journeyed beyond the stars and found himself stuck on a desolate foreign planet. Ingenuity, luck, perseverance, and humor to retain his sanity were his tools to return home. NL Fascinating.",
-			"The story takes place in a giant isolated building underground as the outside conditions have become unbearable. The novel is mired with conspiracies, propaganda, and injustice. You ponder if similar dynamics are at play within the Spire. NL Unsettling."
-	],
-    "OPTIONS": [
-		"[Read] #gChoose #g1 #gof #g20 #gcards #gto #gadd #gto #gyour #gdeck.",
-			"[Sleep] #gHeal #g",
-			" #gHP.",
-			"[Leave]",
-			"Add a card to your deck."	
-    ]
-  },
-  "The Mausoleum": {
-	"NAME": "The Mausoleum",
-    "DESCRIPTIONS": [
-			"Venturing through a series of tombs, you are faced with a large sarcophagus ~studded~ ~with~ ~gems~ in the center of a circular room. NL You cannot make out the writing on the coffin, however, you do notice #p~black~ #p~fog~ seeping out from the sides.",
-			"You push open the coffin. As you do, #p~black~ #p~fog~ spews forth and covers the entire room! Inside, you find no body, only a #y~relic.~ You take it and move onwards, #r@coughing@ #r@violently.@",
-			"You push open the coffin. The fog dissipates harmlessly. Inside, you find the mortal remains of a decorated soldier grasping an old #yrelic. You pilfer it and move on.",
-			"You continue along your way, leaving the forgotten dead undisturbed."
-	],
-    "OPTIONS": [
-			"[Open Coffin] #gReceive #ga #gRelic. #r50%: #rBecome #rCursed #r- #rWrithe.",
-			"[Leave]"
-    ]
-  },  
-  "Vampires": {
-	"NAME": "Vampires(?)",
-    "DESCRIPTIONS": [
-			"Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~brother,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~",
-			"Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~sister,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~",
-			"The tall figure grabs your arm, pulls you forward, and sinks his fangs into your neck. You feel a @dark@ @force@ pour into your neck and @course@ through your body. NL ... NL You wake up some time later, alone. An intense ~hunger~ passes through your belly. You #rmust #rfeed...",
-			"You step back and raise your weapon in defiance. The tall figure sighs. \"Very well.\" The entire group of hooded figures morph into a thick black fog that flows away from you. NL You are alone once more.",
-			"The pale figures gasp as you take out the #yBlood #yVial. NL ~\"The~ ~master's~ ~blood...~ ~the~ ~master's~ ~blood!~ @THE@ @MASTER'S@ @BLOOD!\"@ NL They all chant fervently as the tall one bows before you. \" Drink from His blood, and become one with #y~Him.\"~ NL The chant growing louder, you consume the contents of the vial. Your vision immediately ~warps~ and fades to darkness. NL NL You wake up some time later, alone. An intense ~hunger~ passes through your belly. You #rmust #rfeed."
-	],
-    "OPTIONS": [
-			"[Accept] #gRemove #gall #gStrikes. #gObtain #g5 #gBites. #rLose #r",
-			"% #rMax #rHP.",
-			"[Refuse]",
-			"[Lose ",
-			"] #gRemove #gall #gStrikes. #gObtain #g5 #gBites.",
-			"[Leave]"
-    ]
-  },
-  "The Woman in Blue": {
-	"NAME": "The Woman in Blue",
-    "DESCRIPTIONS": [
-			"From the darkness, an arm pulls you into a small shop. As your eyes adjust, you see a pale woman in sharp clothes gesturing towards a wall of potions. NL \"Buy a potion. Now!\" she states.",
-			"\"Good. Now leave.\" NL You exit the shop cautiously.",
-			"#r@WHAM@ NL Her gloved fist collides with your face, nearly knocking you off your feet. NL \"Get out before I litter the floor with your guts.\" You take her word and exit with your guts still safely in your body."
-	],
-    "OPTIONS": [
-			"[Buy 1 Potion] #y",
-			"[Buy 2 Potions] #y",
-			"[Buy 3 Potions] #y",
-			" #yGold",
-			"[Leave]"
-    ]
+  	"NAME": "Bandidos Mascarados",
+      "DESCRIPTIONS": [
+  			"Hehehe.. Obrigado pelo #youro! NL Oh, eu amo #youro. É tão bom. NL fichas #y~brilhantes~ #y~brilhantes~ são!",
+  			"Ei #bBear, ei! NL Esse cara nos deu todo seu #youro! Que idiota, né? NL Só ouve isso, eu só tive que pedir educatamente. Quem diria?! NL Eu certamente não! Que otário!",
+  			"Gangue, vamos todos rir dessa incrível ocasião! NL @Hahaah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Hoh!~",
+  			"Oh? Você ainda está aqui? NL Você ouviu alguma coisa? Acho que não. NL #r@*grunhido*@ ~...perdedor....~ @Hahaha@ ~haaah~",
+  			"Você encontra um grupo de bandidos vestindo #rmáscaras #rvermelhas. NL \"Olá, paga pra passar... uma quantia razoável de @TODO@ seu #youro é suficiente! Heh heh!\""
+  	],
+      "OPTIONS": [
+  			"[Pagar] #rPerca #rTODO o seu #yOuro.",
+  			"[Lutar!]",
+  			"[Continuar]",
+  			"[Sair]"
+      ]
+    },
+    "Spire Heart": {
+  	"NAME": "O Coração do Pináculo",
+      "DESCRIPTIONS": [
+  			"@tu-thump@ ... @tu-thump@ ... @tu-thump@ ... NL Um profundo pavor pulsante pode ser sentido pela sala... NL Esse é o #r~coração~ do Pináculo? A origem de todo esse mal?",
+  			"Você causa #b",
+  			" de dano! NL O coração #r@retorce@ e #r~sangra~ ...mas no final ainda está batendo. NL Seus mais fortes ataques não são o suficiente?",
+  			"Você se pergunta, ~\"Eu~ ~já~ ~estive~ ~aqui~ ~antes?\"~ NL Você sente que já causou um total de #b",
+  			" de dano ao coração.",
+  			" NL Um total de #b",
+  			" de dano foi causado por todos que o desafiaram.",
+  			" NL O coração pulsa cada vez mais alto enquanto sua #y~conciência~ #y~esvai...~",
+  			"NL Você prepara sua lâmina...",
+  			"NL Você prepara suas adagas...",
+  			"NL Você carrega seu núcleo ao seu máximo..."
+  	],
+  	"OPTIONS": [
+  			"[Continuar]",
+  			"[Atacar] #b???",
+  			"[Dormir]"
+      ]
+    },
+    "The Joust": {
+  	"NAME": "A Justa",
+      "DESCRIPTIONS": [
+  			"Conforme você anda através dos grandes edifícios você se depara com uma ponte longa e estreita e percebe cavaleiros em ambos os lados, se encarando. Você se aproxima... NL @\"Pare!\"@ NL NL Um cavaleiro faz um vigorosamente gesticula para você parar com sua lança gigante.",
+  			"\"Hoje é o dia que eu devo acertas as contas com o #rassassino de meu amado animal de estimação, #yPaçoca. Até que isso aconteça, você não irá passar. NL NL Caras testemunhas, por que vocês não #bapostam em quem acham que sairá vitorioso?\"",
+  			"\"Eu não consigo acreditar que você está apostando contra #yPaçoca!\" NL NL Furioso, ele fecha seu capacete bruscamente e corre em direção ao seu nêmesis.",
+  			"\"Dê-me forças, #yPaçoca!\" NL NL Fechando seu capacete bruscamente, o caveleiro avança correndo.",
+  			"NL #y@*PAFT!!!*@ #r@*KLAAAANG!*@ NL NL #g@*POW!*@",
+  			"O nêmesis foi morto. NL NL ",
+  			"O dono morreu. NL NL ",
+  			"Você #gganha a aposta. Sem ter certeza do que pensar, você pega seus ganhos e sai.",
+  			"Você #rperdeu a aposta, mas pelo menos você não foi perfurado por uma lança."
+  	],
+      "OPTIONS": [
+  			"[Continuar]",
+  			"[Assassino] #yAposte #y",
+  			" #yOuro - #g70%: #gvitória #g",
+  			" #gOuro.",
+  			"[Dono] #yAposte #y",
+  			" #yOuro - #g30%: #gvitória #g",
+  			"[Assistir]",
+  			"[Sair]"
+      ]
+    },
+    "The Library": {
+  	"NAME": "A Biblioteca",
+      "DESCRIPTIONS": [
+  			"Você se depara com um edifício ornamentado que aparenta estar abandonado. NL Uma plaqueta que caiu da parede está no chão. Lê-se, #b\"A #bBIBLIOTECA\". NL Dentro, você encontra incontáveis fileiras de pergaminhos, manuscritos e livros. NL Você escolhe um e se aconchega em uma cadeira para um momento de silêncio.",
+  			"Ler é para otários. NL Você dorme em uma cadeira confortável ao invés disso. NL ~Zzz...~ ~zzz...~ ~..Zz....~ NL Você acorda se sentindo renovado.",
+  			"A história é sobre uma garota adolescente controladora de insetos que deseja se tornar uma heroína. O livro é cheio de uso criativo de poderes, estratégias de combate e perspectivas variadas. NL Satisfatório.",
+  			"A história é sobre um homem que viajou através das estrelas e se encontrou preso em uma planeta estranho e desolado. Ingenuidade, sorte, perserverança e humor para manter sua sanidade foram suas ferramentas para voltar pra casa. NL Fascinante.",
+  			"A história ocorre em uma gigante construção isolada embaixo da terra devido às condições do exterior terem se tornado insuportáveis. O romance é cheio de conspirações, propaganda, e injustiça. Você imagina se algo similar está acontecendo dentro do Pináculo. NL Perturbador."
+  	],
+      "OPTIONS": [
+  			"[Ler] #gEscolha #g1 #gdentre #g20 #gcartas #gpara #gadicionar #gao #gseu #gbaralho.",
+  			"[Dormir] #gCure #g",
+  			" #gPV.",
+  			"[Sair]",
+  			"Adicione uma carta ao seu baralho."
+      ]
+    },
+    "The Mausoleum": {
+  	"NAME": "O Mausoléu",
+      "DESCRIPTIONS": [
+  			"Se aventurando por uma série de tumbas, você se depara com um grande sarcófago ~tachado~ ~de~ ~gemas~ no centro de uma sala circular. NL Você não consegue enteder o que está escrito no caixão, entretanto, você nota a #p~névoa~ #p~negra~ escapando pelos lados.",
+  			"Você abre o caixão. Conforme você o faz, a #p~névoa~ #p~negra~ é cuspida para fora e enche a sala inteira! Dentro, você não encontra nenhum corpo, apenas uma #y~relíquia.~ Você a pega e segue em frente, #r@tossindo@ #r@violentamente.@",
+  			"Você abre o caixão. A névoa se dissipa inofensivamente. Dentro, você encontra os restos mortais de um cavaleiro decorado segurando uma velha #yrelíquia. Você a rouba e segue em frente.",
+  			"Você continua em seu caminho, deixando os mortos esquecidos imperturbados."
+  	],
+      "OPTIONS": [
+  			"[Abrir Caixão] #gReceba #guma #gRelíquia. #r",
+  			"%: #rSeja #rAmaldiçoado #r- #rTorção.",
+  			"[Sair]"
+      ]
+    },
+    "Vampires": {
+  	"NAME": "Vampiros(?)",
+      "DESCRIPTIONS": [
+  			"Navegando uma rua sem iluminação, você se depara com várias figuras encapuzadas no meio de algum ritual sombrio. Conforme você se aproxima, eles viram para você em uma sinistra harmonia. O mais alto deles tem dentes afiados e extende uma longa e pálida mão em sua direção. NL ~\"Junte-se~ ~a~ ~nós~ ~irmão,~ ~e~ ~sinta~ ~o~ ~calor~ ~do~ ~Pináculo.\"~",
+  			"Navegando uma rua sem iluminação, você se depara com várias figuras encapuzadas no meio de algum ritual sombrio. Conforme você se aproxima, eles viram para você em uma sinistra harmonia. O mais alto deles tem dentes afiados e extende uma longa e pálida mão em sua direção. NL ~\"Junte-se~ ~a~ ~nós~ ~irmã,~ ~e~ ~sinta~ ~o~ ~calor~ ~do~ ~Pináculo.\"~",
+  			"A figura alta agarra seu braço, te puxa para frente, e afunda seus dentes em seu pescoço. Você sente uma @força@ @sombria@ se despejar em seu pescoço e @percorrer@ pelo seu corpo. NL ... NL Você acorda algum tempo depois, só. Uma ~fome~ intensa passa pela sua barriga. Você #rdeve #rse #ralimentar...",
+  			"Você dá um passo para trás e levanta sua arma em desafio. A figura alta suspira. \"Muito bem.\" Todo o grupo de figuras encapuzadas se transforma em uma grossa e negra neblina que flutua para longe de você. NL Você está só novamente.",
+  			"As figuras pálidas arquejam enquanto você pega o #yFrasco #yde #ySangue. NL ~\"O~ ~sangue~ ~do~ ~mestre...~ ~o~ ~sangue~ ~do~ ~mestre!~ @O@ @SANGUE@ @DO@ @MESTRE!\"@ NL Todos eles entoam fervorosamente enquanto o alto faz se inclina a sua frente. \" Tome do sangue Dele, e vire um com  #y~Ele.\"~ A entoação crescendo em volume, você consome o conteúdo do frasco. Sua visão imediatamente ~distorce~ e se esvai em escuridão. NL NL Você acorda algum tempo depois, só. Uma ~fome~ intensa passa pela sua barriga. Você #rdeve #rse #ralimentar."
+  	],
+      "OPTIONS": [
+  			"[Aceitar] #gRemova #gtodos #gos #gGolpes. #gObtenha #g5 #gMorder. #rPerca #r",
+  			"% #rPV #rMáximo.",
+  			"[Recusar]",
+  			"[Perca ",
+  			"] #gRemova #gtodos #gos #gGolpes. #gObtenha #g5 #gMorder.",
+  			"[Sair]"
+      ]
+    },
+    "The Woman in Blue": {
+  	"NAME": "A Mulher de Azul",
+      "DESCRIPTIONS": [
+  			"Da escuridão, um braço te puxa para uma pequena loja. Conforme seus olhos se ajustam, você vê uma mulher pálida em belas roupas gesticulando em direção a uma parede de poções. NL \"Compre uma poção. Agora!\" ela diz.",
+  			"\"Bom. Agora saia.\" NL Você sai da loja cautelosamente.",
+  			"#r@WHAM@ NL O punho enluvado dela se choca com seu rosto, quase te levando ao chão. NL \"Saia antes que eu suje o chão com suas tripas.\" Você aceita as palavras dela e sai com suas tripas ainda seguras dentro do seu corpo."
+  	],
+      "OPTIONS": [
+  			"[Compre 1 Poção] #y",
+  			"[Compre 2 Poções] #y",
+  			"[Compre 3 Poções] #y",
+  			" #yOuro",
+  			"[Sair]"
+      ]
+    }
   }
-}

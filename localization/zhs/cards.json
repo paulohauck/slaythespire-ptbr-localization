@@ -59,7 +59,7 @@
   "Storm of Steel": {
     "NAME": "钢铁风暴",
     "DESCRIPTION": "丢弃所有手牌。 NL 每丢弃一张牌，在你的手牌中增加一张 小刀 。",
-    "UPGRADE_DESCRIPTION": "Discard your hand. NL Add 1 upgraded Shiv to your hand for each card discarded."
+    "UPGRADE_DESCRIPTION": "丢弃所有手牌。 NL 每丢弃一张牌，在你的手牌中增加一张升过级的 小刀 。"
   },
   "Cleave": {
     "NAME": "顺劈斩",
@@ -382,23 +382,12 @@
   },
   "Warcry": {
     "NAME": "战吼",
-    "DESCRIPTION": "抽2张牌。 NL 将手牌中的一张牌放到你的抽牌堆顶部。 NL 消耗 。"
+    "DESCRIPTION": "抽 !M! 张牌。 NL 将手牌中的一张牌放到你的抽牌堆顶部。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "抽 !M! 张牌。 NL 将手牌中的一张牌放到你的抽牌堆顶部。 NL 消耗 。"
   },
   "PiercingWail": {
     "NAME": "尖啸",
     "DESCRIPTION": "所有敌人失去 !M! 力量 1回合。 NL 消耗 。"
-  },
-  "Bite_R": {
-    "NAME": "噬咬",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 回复 !M! 点生命。"
-  },
-  "Bite_G": {
-    "NAME": "噬咬",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 回复 !M! 点生命。"
-  },
-  "Bite_B": {
-    "NAME": "噬咬",
-    "DESCRIPTION": "造成 !D! 点伤害。 NL 回复 !M! 点生命。"
   },
   "Secret Technique": {
     "NAME": "秘密技法",
@@ -628,8 +617,8 @@
   },
   "Enlightenment": {
     "NAME": "开悟",
-    "DESCRIPTION": "在这个回合，你的所有手牌耗能降低到1。",
-    "UPGRADE_DESCRIPTION": "在本场战斗，你的所有手牌耗能降低到1。"
+    "DESCRIPTION": "在这个回合，你当前手牌中所有牌的耗能降低到1。",
+    "UPGRADE_DESCRIPTION": "在本场战斗，你当前手牌中所有牌的耗能降低到1。"
   },
   "Purity": {
     "NAME": "净化",
@@ -646,7 +635,7 @@
   "Transmutation": {
     "NAME": "转化",
     "DESCRIPTION": "在你的手牌中加入 X 张随机无色牌。 NL 消耗 。",
-    "UPGRADE_DESCRIPTION": "在你的手牌中加入 X 张随机升级过的无色牌。 NL 消耗 。"
+    "UPGRADE_DESCRIPTION": "在你的手牌中加入 X 张升级过的随机无色牌。 NL 消耗 。"
   },
   "Backstab": {
     "NAME": "背刺",
@@ -796,7 +785,10 @@
   "Mind Blast": {
     "NAME": "心灵震慑",
     "DESCRIPTION": "造成你抽牌堆中剩余牌数的伤害。",
-    "UPGRADE_DESCRIPTION": " 固有 。 NL 造成你抽牌堆中剩余牌数的伤害。"
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 造成你抽牌堆中剩余牌数的伤害。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （造成 !D! 点伤害。）"
+    ]
   },
   "Neutralize": {
     "NAME": "中和",
@@ -868,6 +860,10 @@
   },
   "Expertise": {
     "NAME": "独门技术",
-    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 能被多次 升级 。"
+    "DESCRIPTION": "抽牌直到你的手牌有 !M! 张牌。"
+  },
+  "Bite": {
+    "NAME": "噬咬",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 回复 !M! 点生命。"
   }
 }
