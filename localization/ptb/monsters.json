@@ -1,7 +1,6 @@
 {
   "Apology Slime": {
-    "MOVES": [
-    ],
+    "MOVES": [],
     "NAME": "Gosma de Desculpas",
     "DIALOG": [
       ""
@@ -80,8 +79,8 @@
   },
   "Orb Walker": {
     "MOVES": [
-	  "Subir Força"
-	],
+      "Subir Força"
+    ],
     "NAME": "Orbe Caminhante",
     "DIALOG": [
       "Iniciando NL escudos."
@@ -218,8 +217,7 @@
     ]
   },
   "SpikeSlime_S": {
-    "MOVES": [
-    ],
+    "MOVES": [],
     "NAME": "Gosma Espinho (P)",
     "DIALOG": [
       ""
@@ -275,8 +273,7 @@
     ]
   },
   "AcidSlime_S": {
-    "MOVES": [
-    ],
+    "MOVES": [],
     "NAME": "Gosma Ácida (P)",
     "DIALOG": [
       ""
