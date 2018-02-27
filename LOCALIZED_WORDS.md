@@ -216,7 +216,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Bouncing Flask    | Frasco Saltitante    |        |
 | Calculated Gamble | Aposta Calculada     |        |
 | Caltrops          | Estrepes             | <sup>1</sup> |
-| Catalyst          | Catalizador          |        |
+| Catalyst          | Catalisador          |        |
 | Choke             | Estrangular          |        |
 | Concentrate       | Concentrar           |        |
 | Crippling Poison  | Veneno Incapacitante |        |
