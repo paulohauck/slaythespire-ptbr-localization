@@ -25,7 +25,7 @@
   },
   "Night Terrors": {
     "NAME": "Terrores Noturnos",
-    "DESCRIPTION": "Descansar em fogueiras cura 20% do seu PV, ao invés de 30%."
+    "DESCRIPTION": "Descansar em Locais de Descanso cura 20% do seu PV, ao invés de 30%."
   },
   "Restless Journey": {
     "NAME": "Jornada sem Descanso",
@@ -50,6 +50,18 @@
   "Diverse": {
     "NAME": "Diverso",
     "DESCRIPTION": "Comece com 2 cartas de outra classe."
+  },
+  "Uncertain Future": {
+    "NAME": "Futuro Incerto",
+    "DESCRIPTION": "O mapa mostra apenas ?."
+  },
+  "Binary": {
+    "NAME": "Binário",
+    "DESCRIPTION": "Recompensas de carta contém apenas 2 cartas."
+  },
+  "Midas": {
+    "NAME": "Midas",
+    "DESCRIPTION": "Inimigos deixam 200% a mais de ouro, mas você não pode aprimorar cartas em Locais de Descanso."
   },
   "Vintage": {
     "NAME": "Vintage",
