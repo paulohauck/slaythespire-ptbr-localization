@@ -162,7 +162,7 @@
       "[Prêmio!] #gGanhe #guma #gRelíquia.",
       "[Prêmio!] #gCure #gpara #gvida #gcheia.",
       "[Prêmio?] #rMaldição #r- #rApodrecer.",
-      "[Prêmio!] #Remova #guma #gcarta #gdo #gseu #gbaralho.",
+      "[Prêmio!] #gRemova #guma #gcarta #gdo #gseu #gbaralho.",
       "[Prêmio?] #rPerca #r",
       " #rPV.",
       "[Sair]",
@@ -199,7 +199,7 @@
     ],
     "OPTIONS": [
       "[Pular Dentro] #gCure #gpara #gPV #gcheio. #rPerca #r",
-      " #rPV #Máximo.",
+      " #rPV #rMáximo.",
       "[Oferecer: Ídolo Dourado] #gReceba #g333 #gde #gOuro. #rPerca #ro #rÍdolo #rDourado.",
       "[Bloqueado] Requer: Ídolo Dourado.",
       "[Sair]"
@@ -572,7 +572,7 @@
       "Você ataca e esmaga a estátua na sua frente, quebrando a posse mágica que a sala havia colocado sobre você. NL Um lamúrio sombrio ecoa ao seu redor, e você pode sentir a #p~magia~ #p~amaldiçoada~ infiltrando em seus ossos."
     ],
     "OPTIONS": [
-      "[Oferecer: Ídolo Dourado] #gReceba #guma #gRelíquia #gespecial. #Perca #ro #rÍdolo #rDourado.",
+      "[Oferecer: Ídolo Dourado] #gReceba #guma #gRelíquia #gespecial. #rPerca #ro #rÍdolo #rDourado.",
       "[Bloqueado] Requer: Ídolo Dourado.",
       "[Sacrificar] #gGanhe #g",
       " #gPV #gMáximo. #rPerca #r",
