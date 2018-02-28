@@ -1,10 +1,10 @@
 {
   "Ironclad": {
     "NAMES": [
-      "Ironclad"
+      "Pancernik"
     ],
     "TEXT": [
-      "Ostatni żołnierz z klanu Ironclad. NL Sprzedał swoją duszę by wykorzystywać demoniczną energię."
+      "Ostatni żołnierz klanu Pancerników. NL Sprzedał duszę, aby posiąść mroczne moce."
     ]
   },
   "Crowbot": {
@@ -17,10 +17,10 @@
   },
   "Silent": {
     "NAMES": [
-      "Silent"
+      "Cień"
     ],
     "TEXT": [
-      "Mordercza łowczyni z kraju pokrytego mgłą. NL Eliminuje wrogów używając sztyletów i trucizny."
+      "Zabójcza łowczyni z okolic mgliszczy. NL Rozprawia się z przeciwnikami przy użyciu sztyletów i trucizny."
     ]
   },
   "Neow Event": {
@@ -28,59 +28,60 @@
       "Neow"
     ],
     "TEXT": [
-      "~Pozdrowienia...~ NL ~Jestem..~ ~Neow...~",
-      "~Witaj...~ NL ~Ponownie..~",
-      "~Pozdrowienia...~",
-      "~Kolejna~ NL ~próba...?~",
-      "~Pokonaj~ ~bossa...~ NL ~aby~ ~otrzymać~ ~moje..~ ~błogosławieństwo...~",
-      "~Przynajmniej...~ ~skonfrontuj~ NL ~się~ ~z~ ~pierwszym~ ~bossem...~",
-      "~Przywróciłem~ ~Cię~ ~spowrotem...~",
+      "~Witaj...~ NL ~Jestem...~ ~Neow...~",
+      "~Witaj...~ NL ~Ponownie...~",
+      "~Witaj...~",
+      "~Jeszcze~ NL ~raz...?~",
+      "~Dotrzyj~ ~do~ ~bossa,~ NL ~aby~ ~otrzymać~ ~moje...~ ~błogosławieństwo...~",
+      "~Zmierz~ ~się~ ~chociaż...~ NL ~z~ ~pierwszym~ ~bossem...~",
+      "~Przywróciłem~ ~cię~ ~do~ ~życia...~",
       "~Wybierz...~",
-      "~Zgoda...~",
-      "~Ryzyko...~ NL ~..nagroda....~"
+      "~Jak~ ~sobie~ ~życzysz...~",
+      "~Odważna...~ NL ~decyzja....~",
+      "~Czas~ ~na~ ~małe~ NL ~WYZWANIE...~"
     ],
     "OPTIONS": [
       "[Kontynuuj]",
       "[Rozmawiaj]",
       "[Pomiń]",
-      "[Wyjdź]"
+      "[Odejdź]"
     ]
   },
   "Neow Reward": {
     "NAMES": [],
     "TEXT": [
-      "[ #gWybierz #gkartę #gktórą #gchcesz #gotrzymać ]",
+      "[ #gWybierz #gkartę #gdo #gdodania ]",
       "[ #gOtrzymaj #glosową #grzadką #gkartę ]",
-      "[ #gUsuń #gkartę #gz #gtwojej #gtalii #gkart ]",
+      "[ #gUsuń #gkartę #gz #gtwojej #gtalii ]",
       "[ #gUlepsz #gkartę ]",
-      "[ #gTransformuj #gkartę ]",
+      "[ #gPodmień #gkartę ]",
       "[ #gOtrzymaj #g3 #glosowe #gmikstury ]",
       "[ #gOtrzymaj #glosowy #gzwykły #gartefakt ]",
-      "[ #gMaks #gPŻ #g+",
+      "[ #gmaks. #gPŻ #g+ #g",
       "[ #gOtrzymaj #g",
-      " #gZłota ]",
-      "#gUsuń #g2 #gKarty ]",
+      " #gszt. #gzłota ]",
+      "#gUsuń #g2 #gkarty ]",
       "#gOtrzymaj #glosowy #grzadki #gartefakt ]",
-      "#gWybierz #grzadką #gkartę #gktórą #gotrzymasz ]",
+      "#gOtrzymaj #grzadką #gkartę ]",
       "#gZyskaj #g",
-      " #gZłota ]",
-      "#gTransformuj #g2 #gkarty ]",
-      "#gMaks #gPŻ #g+",
-      "[ #rStrać #r",
-      " #rMaks #rPŻ ",
-      "[ #rStrać #rcałe #rzłoto ",
+      " #gszt. #gzłota ]",
+      "#gPodmień #g2 #gkarty ]",
+      "#g+ #gdo #gmaks. #gPŻ",
+      "[ #rUtrać #r",
+      " #rmaks. #rPŻ ",
+      "[ #rUtrać #rcałe #rzłoto ",
       "[ #rOtrzymaj #rKlątwę ",
-      "[ #rStrać #r50% #rtwoich #aktualnych #rPŻ ",
+      "[ #rUtrać #r50% #raktualnych #rPŻ ",
       "Wybierz kartę",
       "Wybierz kartę do usunięcia",
       "Wybierz 2 karty do usunięcia",
-      "Wybierz kartę do transformacji",
-      "Wybierz 2 karty do transformacji",
+      "Wybierz kartę do podmiany",
+      "Wybierz 2 karty do podmiany",
       "Wybierz kartę do ulepszenia",
-      "[ #gPrzeciwnicy #gw #gtwoich #gnastępnych #gtrzech #gwalkach #gmają #g1 #gPŻ ]"
+      "[ #gPrzeciwnicy #gw #gnastępnych #gtrzech #gwalkach #gmają #g1 #gPŻ ]"
     ],
     "UNIQUE_REWARDS": [
-      "[ #rStrać #rswój #rstartowy #rartefakt #gOtrzymaj #glosowy #gartefakt #gz #gbossa ]"
+      "[ #rUtrać #rswój #rstartowy #rartefakt #gOtrzymaj #glosowy #glegendarny #gartefakt ]"
     ]
   },
   "Merchant": {
@@ -89,19 +90,19 @@
       "~Witaj!~"
     ],
     "TEXT": [
-      "Hej! NL Kup coś! NL Kup kup kup!",
+      "Hej! NL Kup coś! NL No dalej!",
       "Podoba mi się twoja fryzura",
       "Masz czas?",
-      "Lubisz psy czy koty?",
+      "Wolisz psy czy koty?",
       "Wyglądasz ~niebezpiecznie,~ NL hehe...",
-      "Nie spiesz się... NL ..... NL ... albo śpiesz",
-      "Podoba Ci się ten koc? NL Nie jest na sprzedaż!",
-      "Wspieraj małe przedsiębiorstwa!",
+      "Nie śpiesz się... NL ..... NL ... ale zrób to dzisiaj",
+      "Podoba ci się ten koc? NL Nie jest na sprzedaż!",
+      "Wspieraj lokalne przedsiębiorstwa!",
       "Maski są świetne, znam się!",
       "Hmm... NL ...hmm... NL Och!",
-      "Usiądź na chwilę i posłuchaj!",
-      "To niebezpieczne podróżować samemu! Dawaj całe złoto!",
-      "Kup no coś'",
+      "Usiądź na chwilę NL i posłuchaj!",
+      "Niebezpiecznie jest podróżować samemu! Złoto zostaw u mnie!",
+      "Kupże coś!",
       "~*ZIEW*~",
       "Lubię złoto.",
       "Mój ulubiony kolor to niebieski. NL A twój?"
@@ -109,15 +110,15 @@
   },
   "Shop Screen": {
     "NAMES": [
-      "~Witaj~ NL ~Witaj!~",
-      "Teraz tylko, NL potrzebujesz NL więcej #rzłota.",
+      "~Witam~ NL ~Witam!~",
+      "Potrzebujesz NL więcej NL #rzłota, przyjacielu.",
       "Hej kolego, nie masz #rzłota!",
-      "Spłukany?",
+      "Nie masz kasy.",
       "Nie masz wystarczającej ilości #rzłota.",
-      "Nie stać Cię na to.",
-      "To nie fundacja charytatywna.",
+      "Nie stać cię na to.",
+      "To nie żaden Caritas.",
       "~Dziękiiii~",
-      "Kolejna sprzedaż... NL hohoho! NL Cha - @Ching!@",
+      "Kolejna pomyślna transakcja... NL hohoho! NL Cha - @Ching!@",
       "@SPRZEDANE!@",
       "Nie przyjmuję zwrotów.",
       "Miłego dnia.",
@@ -125,19 +126,19 @@
       "Wybierz kartę do usunięcia."
     ],
     "TEXT": [
-      "Hej! NL Kup coś! NL Kup kup kup!",
+      "Hej! NL Kup coś! NL No dalej!",
       "Podoba mi się twoja fryzura",
       "Masz czas?",
-      "Lubisz psy czy koty?",
+      "Wolisz psy czy koty?",
       "Wyglądasz ~niebezpiecznie,~ NL hehe...",
-      "Nie spiesz się... NL ..... NL ... albo śpiesz",
-      "Podoba Ci się ten koc? NL Nie jest na sprzedaż!",
-      "Wspieraj małe przedsiębiorstwa!",
+      "Nie śpiesz się... NL ..... NL ... ale zrób to dzisiaj",
+      "Podoba ci się ten koc? NL Nie jest na sprzedaż!",
+      "Wspieraj lokalne przedsiębiorstwa!",
       "Maski są świetne, znam się!",
-      "Hmm... NL ...hmm... NL Och!",
+      "Był gdzieś tam mój kurier?",
       "Usiądź na chwilę i posłuchaj!",
-      "To niebezpieczne podróżować samemu! Dawaj całe złoto!",
-      "Kup no coś'",
+      "Niebezpiecznie jest podróżować samemu! Złoto zostaw u mnie!",
+      "Kup no coś",
       "~*ZIEW*~",
       "Lubię złoto.",
       "Mój ulubiony kolor to niebieski. NL A twój?"

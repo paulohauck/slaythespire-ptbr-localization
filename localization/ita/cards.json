@@ -458,7 +458,7 @@
     "DESCRIPTION": "Ottieni !B! Blocco."
   },
   "Seeing Red": {
-    "NAME": "Vedere Rosso",
+    "NAME": "Vedi Rosso",
     "DESCRIPTION": "Ottieni [R] [R]. NL Esaurisci."
   },
   "Disarm": {
@@ -577,7 +577,7 @@
   },
   "Survivor": {
     "NAME": "Sopravvissuto",
-    "DESCRIPTION": "Ottieni !B!B Blocco. NL Scarta una carta."
+    "DESCRIPTION": "Ottieni !B! Blocco. NL Scarta una carta."
   },
   "Wild Strike": {
     "NAME": "Colpo Selvaggio",
@@ -768,7 +768,8 @@
   },
   "Jack Of All Trades": {
     "NAME": "Jack Tuttofare",
-    "DESCRIPTION": "Aggiungi !M! carta incolore casuale alla tua mano. NL Esaurisci."
+    "DESCRIPTION": "Aggiungi !M! carta incolore casuale alla tua mano. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Add !M! random colorless cards to your hand. NL Exhaust."
   },
   "Demon Form": {
     "NAME": "Forma Demoniaca",

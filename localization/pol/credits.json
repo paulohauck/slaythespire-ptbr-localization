@@ -65,7 +65,9 @@
       "Alexandre \"Judgy\" Gaubert",
       "Vincent \"MissingNoShiny\" Larcin",
       "Julien \"RoPeTTe\" Ropero",
-      "Corentin \"Tchus\" Monfort"
+      "Corentin \"Tchus\" Monfort",
+      "Corentin \"Tchus\" Monfort",
+      "Nicky \"Qazahar\" Dehout"
     ]
   },
   "LOC_DEU": {
@@ -76,7 +78,11 @@
   },
   "LOC_ITA": {
     "HEADER": "Italian Localization",
-    "NAMES": []
+    "NAMES": [
+      "Hob",
+      "Mero Marco",
+      "Luigi Squarzina"
+    ]
   },
   "LOC_JPN": {
     "HEADER": "Japanese Localization",
@@ -95,22 +101,54 @@
       "insight",
       "K4lium",
       "hina",
-      "Steam Page Translation",
+      "Steam Page Translation:",
       "GyeRyak"
+    ]
+  },
+  "LOC_NOR": {
+    "HEADER": "Norsk Oversettelse",
+    "NAMES": [
+      "Eystein Jarp"
     ]
   },
   "LOC_POL": {
     "HEADER": "Polish Localization",
-    "NAMES": []
+    "NAMES": [
+      "Translation and Coordination:",
+      "Stanis³aw \"ST4H\" Borkowski",
+      "Oskar \"volf3n\" Nowak",
+      "Additional Translations:",
+      "Adrian \"xeros\" Rolka",
+      "Proofreading:",
+      "Oskar \"volf3n\" Nowak",
+      "Suggestions and Feedback:",
+      "Kasper \"Awokado\" Beræ",
+      "Pawe³ \"BASTIL\" Kaleta",
+      "Grzegorz \"GregPL\" Bogus³awski",
+      "Erwin \"mateusz3010\" Matys",
+      "Mettie",
+      "Rafa³ \"SponTon83\" Szyszko"
+    ]
+  },
+  "LOC_PTB": {
+    "HEADER": "Localização - Português do Brasil",
+    "NAMES": [
+      "Guilherme \"GPerego\" Perego",
+      "Gustavo \"KomKlave\" Duarte",
+      "José \"Maneimax\" Vasconcelos",
+      "Leonardo \"Iikat\" Takii",
+      "Nathan \"NoxShadow\" Cervieri",
+      "Paulo \"SilverTape\" Hauck"
+    ]
   },
   "LOC_RUS": {
     "HEADER": "Russian Localization",
     "NAMES": [
-      "Translation and coordination:",
+      "Translation and Coordination:",
       "Ivan \"Ingrett\" Khoroshunenko",
-      "Translation and repository:",
+      "Translation and Repository:",
       "Vladislav \"Vlad-00003\" Bolshakov",
-      "Suggestions and feedback:",
+      "Suggestions and Feedback:",
       "Mikhail \"Outmind\" Dyuzhev",
       "Bohdan \"DarkRosse\" Kalytiuk",
       "Sergey \"lol10801lol\" K.",

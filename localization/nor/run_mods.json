@@ -1,0 +1,58 @@
+{
+  "Cursed Run": {
+    "NAME": "En forbannet oppstigning",
+    "DESCRIPTION": "Hver gang du slår en høvding får du et Forbannelseskort."
+  },
+  "Elite Swarm": {
+    "NAME": "Elitesvermer",
+    "DESCRIPTION": "Elitefiender svermer rundt i tårnet."
+  },
+  "Greed": {
+    "NAME": "Grådighet",
+    "DESCRIPTION": "Du kan ikke hoppe over belønninger du får etter kamper."
+  },
+  "Growing Enemies": {
+    "NAME": "Sterkere fiender",
+    "DESCRIPTION": "Fiender blir sterkere for hver runde."
+  },
+  "Heirloom": {
+    "NAME": "Arv",
+    "DESCRIPTION": "Start med en tilfeldig Relikvie."
+  },
+  "Lethal Enemies": {
+    "NAME": "Dødelige fiender",
+    "DESCRIPTION": "Alle fiender starter med +3 i Styrke."
+  },
+  "Night Terrors": {
+    "NAME": "Fryktens natt",
+    "DESCRIPTION": "Hvis du hviler ved Leirbål, helbreder du bare 20% av max HP isteden for 30%."
+  },
+  "Restless Journey": {
+    "NAME": "Restless Journey",
+    "DESCRIPTION": "You no longer heal when entering new levels."
+  },
+  "Slow Start": {
+    "NAME": "Slow Start",
+    "DESCRIPTION": "Start with 1 additional Strike and Defend."
+  },
+  "Tough Enemies": {
+    "NAME": "Tough Enemies",
+    "DESCRIPTION": "Enemies have 25% more HP."
+  },
+  "Shiny": {
+    "NAME": "Shiny",
+    "DESCRIPTION": "Start with 1 random Rare card."
+  },
+  "Allstar": {
+    "NAME": "All Star",
+    "DESCRIPTION": "Start with 2 random colorless cards."
+  },
+  "Diverse": {
+    "NAME": "Diverse",
+    "DESCRIPTION": "Start with 2 random cards from another class."
+  },
+  "Vintage": {
+    "NAME": "Vintage",
+    "DESCRIPTION": "The Merchant's prices are increased by 25%."
+  }
+}

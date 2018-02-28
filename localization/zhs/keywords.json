@@ -245,11 +245,7 @@
     },
     "ARTIFACT": {
       "NAMES": [
-        "人工制品",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "人工制品"
       ],
       "DESCRIPTION": "免疫下一次受到的负面效果。"
     }

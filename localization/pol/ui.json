@@ -1,496 +1,507 @@
 {
   "MerchantImageTextNotInGame": {
     "TEXT": [
-      "Card Removal Service",
-      "SALE",
-      "Not for Sale",
-      "Sold Out",
-      "Oh no!"
+      "Usługa usuwania kart",
+      "WYPRZEDAŻ",
+      "Nie na sprzedaż",
+      "Wyprzedane",
+      "O nie!"
     ]
   },
   "Cancel Button": {
     "TEXT": [
-      "Delete Save"
+      "Usuń zapis"
     ]
   },
   "Confirm Button": {
     "TEXT": [
-      "Confirm"
+      "Potwierdź"
     ]
   },
   "End Turn Button": {
     "TEXT": [
-      "End Turn",
-      "Enemy Turn"
+      "Koniec tury",
+      "Tura wroga"
     ]
   },
   "RunHistoryScreen": {
     "TEXT": [
-      "The Ironclad",
-      "The Silent",
+      "Pancernik",
+      "Cień",
       "",
-      "Return",
-      "No run histories found. NL Go Slay the Spire!",
-      "Ascension Level: ",
-      "Slain on Floor %1$d by %2$s",
-      "Abandoned Run on Floor %d",
-      "Victory!",
-      "Cards",
-      "Relics",
-      "Starter",
-      "Common",
-      "Uncommon",
-      "Rare",
-      "Special",
-      "Curse",
-      "Boss",
-      "Shop",
-      "Unknown",
-      "%1$d %2$s",
+      "Wróć",
+      "Nie znaleziono poprzednich rozgrywek. NL No dalej, zdobądź Iglicę!",
+      "Poziom Wyniesienia: ",
+      "Śmierć na %1$d. piętrze z ręki %2$s",
+      "Porzucono wyprawę na %d. piętrze",
+      "Zwycięstwo!",
+      "Karty",
+      "Artefakty",
+      "Początkowe",
+      "Pospolite",
+      "Niepospolite",
+      "Rzadkie",
+      "Specjalne",
+      "Klątwy",
+      "Legendarne",
+      "Od Handlarza",
+      "Nieznane",
+      "%2$s – %1$d",
       "%1$s (%2$d):",
-      "Score: %d",
-      "All Characters",
-      "Wins and Losses",
-      "Wins",
-      "Losses"
+      "Wynik: %d",
+      "Wszystkie postacie",
+      "Zwycięstwa i porażki",
+      "Zwycięstwa",
+      "Porażki",
+      "Daily",
+      "Any Game Type",
+      "Only Normal",
+      "Only Ascension",
+      "Only Daily Challenge"
     ]
   },
   "LeaderboardsScreen": {
     "TEXT": [
-      "Return",
-      "Filters",
-      "Character",
+      "Wróć",
+      "Filtry",
+      "Postać",
       "Region",
-      "Type",
-      "View My Score",
-      "Rank",
-      "Name",
-      "Score",
-      "Retrieving Data...",
-      "Leaderboards (NOTE: Will be reset weekly)",
-      "Not Connected to Steam",
-      "No Scores Available \n Go Slay the Spire!"
+      "Typ",
+      "Pokaż mój wynik",
+      "Miejsce",
+      "Nazwa",
+      "Wynik",
+      "Odbieranie danych...",
+      "Tablice wyników (UWAGA: będą resetowane co tydzień)",
+      "Brak połączenia z serwerami Steam",
+      "Brak wyników \n No dalej, zdobądź Iglicę!"
     ]
   },
   "LeaderboardFilters": {
     "TEXT": [
-      "Ironclad",
-      "The Silent",
+      "Pancernik",
+      "Cień",
       "3rd Char. DO NOT TRANSLATE",
-      "Average Floor Reached (Last 20 Attempts)",
-      "Average Score (Last 20 Attempts)",
-      "Best Win Streak",
-      "Fastest Victory",
-      "High Score",
+      "Średnio osiągane piętro (20 ostatnich prób)",
+      "Średni wynik (20 ostatnich prób)",
+      "Najdłuższa seria wygranych",
+      "Najszybsza wygrana",
+      "Najwyższy wynik",
       "Option 6. DO NOT TRANSLATE",
-      "Friends",
-      "Global"
+      "Znajomi",
+      "Globalnie"
     ]
   },
   "LanguageDropdown": {
     "TEXT": [
-      "Brazilian Portugese",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "English",
-      "French",
-      "German",
-      "Italian",
-      "Japanese",
-      "Korean",
-      "Polish",
-      "Russian",
-      "Spanish",
-      "Hebrew",
-      "Turkish",
-      "Swedish"
+      "Portugalski Brazylijski",
+      "Chiński (uproszczony)",
+      "Chiński (tradycyjny)",
+      "Angielski",
+      "Francuski",
+      "Niemiecki",
+      "Włoski",
+      "Japoński",
+      "Koreański",
+      "Polski",
+      "Rosyjski",
+      "Hiszpański",
+      "Hebrajski",
+      "Turecki",
+      "Szwedzki",
+      "Norweski",
+      "Tajski",
+      "Serbski",
+      "Ukraiński",
+      "Wietnamski",
+      "Hungarian"
     ]
   },
   "Proceed Button": {
     "TEXT": [
-      "Proceed"
+      "Dalej"
     ]
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Replace (Gambling Chip)"
+      "podmiany (żeton pokerowy)"
     ]
   },
   "RetainCardsAction": {
     "TEXT": [
-      "Retain"
+      "zachowania"
     ]
   },
   "AbstractChest": {
     "TEXT": [
-      "Proceed"
+      "Dalej"
     ]
   },
   "BossChest": {
     "TEXT": [
-      "Proceed"
+      "Dalej"
     ]
   },
   "ShopRoom": {
     "TEXT": [
-      "Skip Merchant"
+      "Pomiń handlarza"
     ]
   },
   "TreasureRoom": {
     "TEXT": [
-      "Skip Chest"
+      "Pomiń skrzynię"
     ]
   },
   "TreasureRoomBoss": {
     "TEXT": [
-      "Skip Chest"
+      "Pomiń skrzynię"
     ]
   },
   "SetupAction": {
     "TEXT": [
-      "put on top of your draw pile."
+      "wrzuć na górę stosu."
     ]
   },
   "SkillFromDeckToHandAction": {
     "TEXT": [
-      "Choose a Skill to Add to Your Hand"
+      "Wybierz kartę umiejętności jaką chcesz dodać do ręki"
     ]
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile."
+      "Wybierz kartę jaką chcesz położyć na górze stosu."
     ]
   },
   "Legend": {
     "TEXT": [
-      "Unknown",
+      "Nieznane",
       "???",
-      "An unknown room. NL NL You may encounter monsters, treasures, shops, or something entirely different.",
-      "Merchant",
-      "Shops",
-      "A mysterious merchant sells his wares in these rooms. NL NL Spend your well earned #yGold here!",
-      "Treasure",
-      "Treasure Rooms",
-      "#yRelics and #yGold can be found in these coveted rooms.",
-      "Rest",
-      "Rest Sites",
-      "Stop by these rooms to #gHeal some HP or #yUpgrade a card.",
-      "Enemy",
-      "Enemies",
-      "Hostile enemies reside in these rooms.",
-      "Elite",
-      "Elites",
-      "Powerful foes are in these rooms. NL NL Defeating them will reward you a Relic.",
-      "Legend"
+      "Tajemnicze pomieszczenie. NL NL Możesz w nim spotkać potwory, skarby, sklepy lub coś zupełnie innego.",
+      "Handlarz",
+      "Handlarz",
+      "W tych pomieszczeniach znajdziesz Handlarza sprzedającego różnorodny asortyment. NL NL Możesz tutaj wydać całe ciężko zarobione #yZłoto!",
+      "Skarb",
+      "Skarb",
+      "W tych pomieszczeniach znajdziesz #yArtefakty oraz #yZłoto.",
+      "Obozowisko",
+      "Obozowiska",
+      "Zatrzymaj się w nich, aby #gprzywrócić część PŻ lub #yulepszyć kartę.",
+      "Przeciwnik",
+      "Wrogowie",
+      "Wrogo nastawione stworzenia okupują te pomieszczenia.",
+      "Elitarny",
+      "Elitarni wrogowie",
+      "Potężne stworzenia zamieszkują te pomieszczenia. NL NL Za ich pokonanie otrzymasz artefakt.",
+      "Legenda"
     ]
   },
   "Unlock Confirm Button": {
     "TEXT": [
-      "Continue"
+      "Kontynuuj"
     ]
   },
   "Dig Option": {
     "TEXT": [
-      "Dig",
-      "Dig up a random relic."
+      "Kop",
+      "Wykop losowy artefakt."
     ]
   },
   "Lift Option": {
     "TEXT": [
-      "Lift",
-      "Start battles with +1 Strength. (Up to 3)"
+      "Ćwicz",
+      "Zaczynaj potyczkę z +1 do Siły (maks. 3 razy)"
     ]
   },
   "Rest Option": {
     "TEXT": [
-      "Rest",
-      "Heal for 20% of your Max HP (",
-      " HP from ",
-      "Heal for 30% of your Max HP ("
+      "Odpocznij",
+      "Przywróć 20% maks. PŻ (",
+      " PŻ z ",
+      "Przywróć 30% maks. PŻ ("
     ]
   },
   "Smith Option": {
     "TEXT": [
-      "Smith",
-      "Upgrade a card in your deck.",
-      "No upgradeable cards."
+      "Kuźnia",
+      "Ulepsz jedną z kart w talii.",
+      "Brak odpowiednich kart."
     ]
   },
   "Toke Option": {
     "TEXT": [
-      "Toke",
-      "Remove a card from your deck."
+      "Odpłyń",
+      "Usuń wybraną kartę z talii."
     ]
   },
   "DiscardPilePanel": {
     "TEXT": [
-      "My Discard Pile is #rempty."
+      "Mój stos odrzuconych jest #rpusty."
     ]
   },
   "DrawPilePanel": {
     "TEXT": [
-      "My Draw Pile is #rempty."
+      "Mój stos rozgrywający jest #rpusty."
     ]
   },
   "PotionPopUp": {
     "TEXT": [
-      "Throw",
-      "Drink",
-      "Discard",
-      "I cannot use potions!",
-      "I can't do that in combat!"
+      "Rzuć",
+      "Wypij",
+      "Wyrzuć",
+      "Nie mogę korzystać z mikstur!",
+      "Nie mogę tego zrobić w walce!"
     ]
   },
   "RenamePanel": {
     "TEXT": [
-      "<no name>",
-      "Enter  Your  Name",
-      "Confirm",
-      "Cancel"
+      "<brak nazwy>",
+      "Wprowadź swoje imię",
+      "Potwierdź",
+      "Anuluj"
     ]
   },
   "AbstractCard": {
     "TEXT": [
-      "Locked",
-      "Unknown"
+      "Zablokowane",
+      "Nieznane"
     ]
   },
   "AbstractPlayer": {
     "TEXT": [
-      "Blocked",
-      "the Ironclad",
-      "the Silent",
-      "the Gunner"
+      "Zablokowany",
+      "Pancernik",
+      "Cień",
+      "Strzelec"
     ]
   },
   "AbstractCreature": {
     "TEXT": [
-      "Dead",
-      "Blocked",
-      "Max HP +",
-      "Stunned!",
-      "Interrupted!"
+      "Nie żyje",
+      "Zablokowano",
+      "maks. PŻ +",
+      "Ogłuszenie!",
+      "Zakłócenie!"
     ]
   },
   "TopPanel": {
     "TEXT": [
-      " Floor",
-      " - Ascension ",
-      " (Max Level)"
+      ". piętro",
+      " - Wyniesienie ",
+      " (najwyż. poziom)"
     ]
   },
   "UnlockCharacterScreen": {
     "TEXT": [
-      "Cards Unlocked!",
+      "Karty odblokowane!",
       "",
-      "Relics Unlocked!",
-      "New Character",
-      "Note: Unlocked cards show up in future runs.",
-      "Note: Unlocked relics show up in future runs."
+      "Artefakty odblokowane!",
+      "Nowa postać",
+      "Uwaga: Odblokowane karty będą dostępne w przyszłych wyprawach.",
+      "Uwaga: Odblokowane artefakty będą dostępne w przyszłych wyprawach."
     ]
   },
   "UnlockScreen": {
     "TEXT": [
-      "Cards Unlocked!",
-      "Relics Unlocked!",
-      "New Character",
-      "Note: Unlocked cards show up in future runs.",
-      "Note: Unlocked relics show up in future runs."
+      "Nowe karty!",
+      "Nowe artefakty!",
+      "Nowa postać!",
+      "Uwaga: Odblokowane karty będą dostępne w przyszłych wyprawach.",
+      "Uwaga: Odblokowane artefakty będą dostępne w przyszłych wyprawach."
     ]
   },
   "StorePotion": {
     "TEXT": [
-      "You have no space for this"
+      "Brak wolnego miejsca"
     ]
   },
   "AbstractRoom": {
     "TEXT": [
-      "Mugged..."
+      "Okradziono..."
     ]
   },
   "SingleViewRelicPopup": {
     "TEXT": [
-      "Boss",
-      "Common",
-      "Deprecated",
-      "Rare",
-      "Shop",
-      "Event",
-      "Starter",
-      "Uncommon",
-      "Locked",
-      "Unknown",
-      " Relic",
-      "This relic has yet to be unlocked.",
-      "This relic remains to be seen."
+      "Legendarny",
+      "Pospolity",
+      "Nieaktualny",
+      "Rzadki",
+      "Sklepowy",
+      "Znaleziony",
+      "Początkowy",
+      "Niepospolity",
+      "Zablokowany",
+      "Nieznany",
+      " artefakt",
+      "Ten artefakt należy wcześniej odblokować.",
+      "Ten artefakt należy wcześniej znaleźć."
     ]
   },
   "SingleCardViewPopup": {
     "TEXT": [
-      "Attack",
-      "Skill",
-      "Power",
-      "Curse",
-      "Locked",
-      "Unknown",
-      "View Upgrade",
-      "Status",
-      "Ammo",
-      "I can only play cards on my turn.",
-      "I'm #rEntangled! NL Can't play Attacks",
-      "Not enough #rEnergy.",
-      "Not enough #rCharge.",
-      "I can't play NL this card"
+      "Atak",
+      "Umiejętność",
+      "Moc",
+      "Klątwa",
+      "Zablokowane",
+      "Nieznane",
+      "Pokaż ulepszenie",
+      "Stan",
+      "Amunicja",
+      "Mogę tylko rzucać karty.",
+      "Moje kończyny są #rzwiązane! NL Nie mogę rzucać kart #rAtaku.",
+      "Brak wystarczającej #rEnergii.",
+      "Brak wystarczającej ilości #rŁadunków.",
+      "Nie mogę zagrać NL tej karty."
     ]
   },
   "MasterDeckViewScreen": {
     "TEXT": [
-      "You start each combat with all the cards in here.",
-      "Return"
+      "Każdą walkę rozpoczynasz z tymi kartami.",
+      "Wróć"
     ]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "These cards were exhausted this combat.",
-      "Return"
+      "Te karty zostały wykluczone podczas walki.",
+      "Wróć"
     ]
   },
   "DungeonTransitionScreen": {
     "TEXT": [
-      "Tutorials",
-      "Do you wish to see gameplay hints as you play the game?",
-      "Act 1",
+      "Samouczki",
+      "Włączyć wyświetlanie porad w ciągu rozgrywki?",
+      "Akt 1",
       "Exordium",
-      "Act 2",
-      "The City",
-      "Act 3",
-      "The Beyond",
-      "Act ?",
+      "Akt 2",
+      "Miasto",
+      "Akt 3",
+      "Pogranicza",
+      "Akt ?",
       "???",
-      "Click Anywhere to Continue"
+      "Kliknij w dowolnym miejscu, aby kontynuować"
     ]
   },
   "DungeonMapScreen": {
     "TEXT": [
-      "Select a Starting Room",
-      "Return"
+      "Wybierz pomieszczenie startowe",
+      "Wróć"
     ]
   },
   "DrawPileViewScreen": {
     "TEXT": [
-      "Cards are drawn from here at the start of each turn.",
-      "(Cards shown are sorted by rarity)",
-      "Return",
-      "Draw Pile"
+      "Karty są stąd pobierane na początku każdej tury.",
+      "(widoczne karty są posortowane według rzadkości)",
+      "Wróć",
+      "Stos rozgrywający"
     ]
   },
   "DiscardPileViewScreen": {
     "TEXT": [
-      "Cards here are shuffled into your draw pile when it runs out of cards.",
-      "Return",
-      "Discard Pile"
+      "Karty stąd są tasowane i przenoszone do stosu rozgrywającego kiedy ten stanie się pusty.",
+      "Wróć",
+      "Stos odrzuconych"
     ]
   },
   "CopyAction": {
     "TEXT": [
-      "Copy"
+      "skopiowania"
     ]
   },
   "DiscardAction": {
     "TEXT": [
-      "Discard"
+      "odrzucenia"
     ]
   },
   "ArmamentsAction": {
     "TEXT": [
-      "Upgrade"
+      "ulepszenia"
     ]
   },
   "DualWieldAction": {
     "TEXT": [
-      "Duplicate"
+      "duplikacji"
     ]
   },
   "HiddenChamberAction": {
     "TEXT": [
-      "Duplicate"
+      "duplikacji"
     ]
   },
   "DeathScreenUi": {
     "TEXT": [
-      "Ascension Mode Level ",
-      " Unlocked!"
+      "Tryb Wyniesienia – poziom ",
+      " – odblokowany!"
     ]
   },
   "DeathScreen": {
     "TEXT": [
-      "Continue",
-      "Victory?",
-      "Floors Climbed",
-      "Bosses Defeated",
-      "Play Time",
-      "Play Time",
-      "Score",
-      "Conquered",
-      "Death...",
-      "Defeat",
-      "Defeated!",
-      "Desecrated",
-      "Devastation",
-      "Vanquished",
-      "You are Slain!",
-      "A familiar feeling.",
-      "A nap sounds good.",
-      "As you sow, so you shall reap.",
-      "Went the wrong way.",
-      "I wasn't prepared for this.",
-      "I'll try again tomorrow.",
-      "I'm going to need a new map.",
-      "Inadequately prepared.",
-      "Inconceivable!",
-      "Is this my true potential?",
-      "Just my luck...",
-      "Not like this...",
-      "Not quite the top.",
-      "The Spire consumes another...",
-      "Your consciousness fades...",
-      "Defeat",
-      "Acceptance",
-      "Continue",
-      "Retry",
-      "Main Menu",
-      "Proceed",
-      "Unlock",
-      "Main Menu",
-      "Retry",
-      "Proceed",
-      "Unlock",
-      "Unlocks Remaining: ",
-      "Unlock Remaining: ",
-      "Enemies Slain",
-      "Elites Killed",
-      "Unspent Gold",
-      "HP Bonus"
+      "Kontynuuj",
+      "Zwycięstwo?",
+      "Pokonane piętra",
+      "Pokonani bossowie",
+      "Czas gry",
+      "Czas gry",
+      "Wynik",
+      "Przegrana",
+      "Śmierć...",
+      "Porażka",
+      "Przegrano!",
+      "Zbezczeszczono",
+      "Dewastacja",
+      "Rozgromiono",
+      "Pokonano cię!",
+      "Znajome uczucie.",
+      "Drzemka to nie taki zły pomysł.",
+      "Jak sobie wyposażysz, tak sobie umrzesz.",
+      "Ślepa uliczka.",
+      "To nie tak miało być.",
+      "Może jutro się uda.",
+      "Chyba potrzebuję nowej mapy.",
+      "Przygotowanie się to klucz.",
+      "To niepojęte!",
+      "Tylko na tyle mnie stać?",
+      "Takie moje szczęście...",
+      "Tylko nie w ten sposób...",
+      "To jeszcze nie szczyt.",
+      "Kolejna osoba pada ofiarą Iglicy...",
+      "Twoja świadomość zanika...",
+      "Porażka",
+      "Akceptacja",
+      "Kontynuuj",
+      "Spróbuj ponownie",
+      "Menu główne",
+      "Dalej",
+      "Odblokuj",
+      "Menu główne",
+      "Spróbuj ponownie",
+      "Dalej",
+      "Odblokuj",
+      "Pozostałe ulepszenia – ",
+      "Pozostałe ulepszenia – ",
+      "Pokonani wrogowie",
+      "Pokonane elitarne jednostki",
+      "Niewydane złoto",
+      "Bonus PŻ"
     ],
     "EXTRA_TEXT": [
-      "Exordium Elites Killed",
-      "City Elites Killed",
-      "Beyond Elites Killed",
-      "Speedster",
-      "Light Speed",
-      "Highlander",
-      "Collection",
-      "Full Set",
-      "Pauper",
-      "Librarian",
-      "Encyclopedia",
-      "Well Fed",
-      "Stuffed",
-      "Curses!",
-      "On My Own Terms",
-      "Champion",
-      "Perfect",
-      "Beyond Perfect",
+      "Pokonani elitarni – Exordium",
+      "Pokonani elitarni – Miasto",
+      "Pokonani elitarni – Pogranicza",
+      "Maniak prędkości",
+      "Z prędkością światła",
+      "Góral",
+      "Kolekcja",
+      "Komplet",
+      "Nędznik",
+      "Biblioteka",
+      "Encyklopedia",
+      "Pełny brzuch",
+      "Wypchany",
+      "A niech to!",
+      "Na moich zasadach",
+      "Czempion",
+      "Nie próbuj, tylko mnie traf",
+      "Flash, mówisz i masz",
       "Overkill",
       "C-c-c-combo",
       ""
@@ -498,289 +509,308 @@
   },
   "CombatRewardScreen": {
     "TEXT": [
-      "Proceed",
-      "Skip Card",
-      "Skip Gold",
-      "Skip Potion",
-      "Skip Relic",
-      "Skip Rewards",
-      "Close",
-      "Treasure!",
-      "What's  Inside?",
-      "Rewards!",
-      "Spoils!",
-      "Loot!",
-      "Tip: "
+      "Kontynuuj",
+      "Pomiń kartę",
+      "Pomiń złoto",
+      "Pomiń miksturę",
+      "Pomiń relikwię",
+      "Pomiń łupy",
+      "Zamknij",
+      "Skarb!",
+      "Co jest w środku?",
+      "Skarby!",
+      "Łupy!",
+      "Znajdźki!",
+      "Porada: "
     ]
   },
   "ChooseOneScreen": {
     "TEXT": [
-      "Choose One"
+      "Wybierz jedno"
     ]
   },
   "TwitchVoter": {
     "TEXT": [
-      "VOTE NOW: "
+      "GŁOSUJ TERAZ: "
     ]
   },
   "CardRewardScreen": {
     "TEXT": [
-      "Skip",
-      "Choose a Card",
-      "+2 Max HP",
-      "VOTE NOW: ",
-      "s left."
+      "Wróć",
+      "Wybierz kartę",
+      "+2 do maks. PŻ",
+      "GŁOSUJ TERAZ: Pozostało ",
+      "."
     ]
   },
   "BossRelicSelectScreen": {
     "TEXT": [
-      "Confirm",
-      "Confirm Your Selection",
-      "Choose a Relic",
-      "Skip",
-      "VOTE NOW: ",
-      "s left."
+      "Potwierdź",
+      "Potwierdź wybór",
+      "Wybierz artefakt",
+      "Pomiń",
+      "GŁOSUJ TERAZ: ",
+      "s pozostało."
     ]
   },
   "GridCardSelectScreen": {
     "TEXT": [
-      "Confirm",
-      "Cancel",
-      "Confirm Your Selection",
-      "Leave"
+      "Potwierdź",
+      "Anuluj",
+      "Potwierdź wybór",
+      "Odejdź"
     ]
   },
   "HandCardSelectScreen": {
     "TEXT": [
-      "Confirm Card to ",
-      "Confirm Cards to ",
-      "Choose ",
-      " Cards to ",
-      "Choose Any Number of Cards to ",
-      "Choose a Card to "
+      "Zatwierdź kartę do ",
+      "Zatwierdź karty do ",
+      "Wybierz ",
+      " kart do ",
+      "Wybierz dowolną liczbę kart do ",
+      "Wybierz kartę do "
     ]
   },
   "AbandonRunButton": {
     "TEXT": [
-      "Abandon Run"
+      "Porzuć wyprawę"
     ]
   },
   "ConfirmPopup": {
     "TEXT": [
-      "Return",
-      "Delete Save",
-      "Yes",
-      "No"
+      "Wróć",
+      "Usuń zapis",
+      "Tak",
+      "Nie"
     ]
   },
   "ExitGameButton": {
     "TEXT": [
-      "Exit Game"
+      "Wyjdź z gry"
     ]
   },
   "OptionsPanel": {
     "TEXT": [
       "",
-      "Game Menu",
-      "Graphics",
-      "Resolution: NL Max Framerate:",
-      "Fullscreen NL Borderless Fullscreen (recommended) NL Screenshake",
-      "Sound",
-      "Master Volume NL Music Volume NL Effects Volume",
-      "Ambient Sound Effects",
-      "Preferences",
-      "Display summed up damage in gold NL Display blocked damage in blue NL Disable confirmation when choosing 1 card",
-      "Fast Mode",
+      "Menu gry",
+      "Grafika",
+      "Rozdzielczość: NL Limit klatek na sekundę:",
+      "Pełny ekran NL Okno bez ramek (zalecane) NL Wstrząsy ekranu",
+      "Dźwięk",
+      "Główny NL Muzyka NL Efekty",
+      "Efekty tła NL Wycisz dźwięk, gdy okno jest nieaktywne",
+      "Preferencje",
+      "Wyświetlaj sumę obrażeń na złoto NL Wyświetlaj sumę zablok. obrażeń na niebiesko NL Wyłącz powiadomienie przy wyborze 1 karty",
+      "Tryb „speedrun”",
       "",
-      "Miscellaneous",
-      "Language:",
-      "Upload gameplay data #b(?)",
-      "Exit Game",
-      "Save & Quit",
-      "NL NL VSync",
+      "Inne",
+      "Język:",
+      "Wysyłaj dane z rozgrywki #b(?)",
+      "Wyjdź z gry",
+      "Zapisz i wyjdź",
+      "NL NL Synchronizacja pionowa",
       "Playtester Art Mode"
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Wyzwanie Dnia",
+      "Łączenie z serwerem...",
+      "Ukończono dzisiejsze wyzwanie",
+      "Powrót",
+      "W drogę",
+      "Dzisiejsza postać: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Pozostały czas: ",
+      "#yPokonane #ypiętro: NL  ",
+      " NL NL  #yTalia: NL ",
+      " NL NL  #yArtefakty: NL  ",
+      " NL Wyzwanie Dnia: NL TAB #yPostać: NL TAB ",
+      " NL TAB #yModyfikacje: ",
+      "Modyfikacje: "
     ]
   },
   "SettingsScreen": {
     "TEXT": [
-      "Are you sure?",
-      "Your progress is automatically saved.",
-      "Abandoning the game will result in a loss.",
-      "WARNING:\nProgress NOT saved.\n\nReach the next floor to save this current run.",
-      "Return",
-      "Progress is NOT saved for daily runs."
+      "Czy aby na pewno?",
+      "Twój postęp jest automatycznie zapisywany.",
+      "Opuszczenie gry jest równy z przegraną.",
+      "Uwaga:\nPostęp nie jest zapisywany.\n\nDotrzyj do kolejnego piętra, aby zapisać.",
+      "Wróć",
+      "Postęp dla Wyzwań Dnia nie jest zapisywany."
     ]
   },
   "CardLibraryScreen": {
     "TEXT": [
-      "Return",
-      "Red",
-      "Green",
-      "Blue",
-      "Colorless",
-      "Curses",
-      "Statuses",
-      "View Upgrade"
+      "Wróć",
+      "Czerwone",
+      "Zielone",
+      "Niebieskie",
+      "Bezbarwne",
+      "Przeklęte",
+      "Stanu",
+      "Pokaż ulepszenie"
     ]
   },
   "CardLibSortHeader": {
     "TEXT": [
-      "Rarity",
-      "Type",
+      "Rzadk.",
+      "Typ",
       "A-Z"
     ]
   },
   "EarlyAccessPopup": {
     "TEXT": [
-      "What's Early Access?",
-      "What's an Open Beta?",
-      "Slay the Spire is still in active development! NL Many features, cards, and enemies are still undergoing changes. NL NL If you run into issues or have any feedback, please let us know at our #bSteam #bDiscussions page. NL NL That's enough reading, you have a spire to climb!",
-      "Slay the Spire is still in active development! NL On top of this, you are playing the Beta version of the game. NL NL Please let us know of any issues you have while playing, but don't be surprised by placeholder art for upcoming content. NL NL That's enough reading, you have a spire to climb!",
-      "Click anywhere to Start"
+      "Dlaczego Wczesny Dostęp?",
+      "Czym jest Otwarta Beta?",
+      "Gra Slay the Spire jest wciąż rozwijana! NL Wiele mechanik, kart oraz przeciwników jest w trakcie balansowania. NL NL Jeśli napotkasz jakieś problemy, napisz na stronie #bDyskusji #bSteam. NL NL Okej, wystarczy tego czytania, masz przecież Iglicę do zdobycia!",
+      "Gra Slay the Spire jest wciąż rozwijana! NL Na dodatek, grasz w wersję beta naszej produkcji. NL NL Jeśli napotkasz jakieś problemy, napisz do nas, ale oczekuj, że w trakcie rozgrywki może pojawiać się zawartość tymczasowa, która zostanie zastąpiona właściwą w późniejszym czasie. NL NL Okej, wystarczy tego czytania, masz przecież Iglicę do zdobycia!",
+      "Kliknij w dowolnym miejscu, aby rozpocząć."
     ]
   },
   "MainMenuScreen": {
     "TEXT": [
-      "#yBuild: ",
-      "Embark",
-      "Return",
-      "click to edit"
+      "#ywersja: ",
+      "W drogę",
+      "Wróć",
+      "kliknij, aby edytować"
     ]
   },
   "MenuButton": {
     "TEXT": [
-      "Card Library",
-      "Play",
-      "Daily Challenge",
-      "Relic Collection",
-      "Continue",
-      "Leaderboards",
-      "Statistics",
-      "Credits",
-      "Quit",
-      "Patch Notes",
-      "Abandon Run",
-      "Abandon Run (click again to confirm)",
-      "Settings",
-      "Run History"
+      "",
+      "Graj",
+      "",
+      "",
+      "Kontynuuj",
+      "",
+      "Statystyki",
+      "",
+      "Wyjdź",
+      "Lista zmian",
+      "Porzuć wyprawę",
+      "",
+      "Ustawienia",
+      "",
+      "Kompendium"
     ]
   },
   "CreditsScreen": {
     "TEXT": [
-      "click again to exit"
+      "kliknij ponownie, aby wyjść"
     ]
   },
   "PatchNotesScreen": {
     "TEXT": [
-      "Return",
-      "#yPatch #yNotes",
+      "Wróć",
+      "#Lista #yzmian",
       " NL (TEMPORARY: Use arrow keys to navigate through older logs)"
     ]
   },
   "RelicViewScreen": {
     "TEXT": [
-      "Return",
-      "Starter:",
-      "Characters can start with these relics.",
-      "Common:",
-      "Weak relics that are found commonly.",
-      "Uncommon:",
-      "Stronger relics which appear less often than common relics.",
-      "Rare:",
-      "Unique and powerful relics which are rarely seen.",
-      "Boss:",
-      "Relics found only within Boss chests.",
-      "Event:",
-      "Relics which can only be obtained through events.",
-      "Shop:",
-      "Relics which can only be purchased from the Merchant."
+      "Wróć",
+      "Początkowe:",
+      "Postać może zacząć grę z tymi artefaktami.",
+      "Pospolite:",
+      "Słabe artefakty, które znaleźć można wszędzie.",
+      "Niepospolite:",
+      "Potężniejsze artefakty, które pojawiają się rzadziej od pospolitych.",
+      "Rzadkie:",
+      "Bardzo potężne i zarazem unikalne przedmioty, które wypadają bardzo sporadycznie.",
+      "Legendarne:",
+      "Artefakty występujące jedynie w skrzyniach bossów.",
+      "Ze zdarzeń:",
+      "Te artefakty można uzyskać tylko podczas wydarzeń.",
+      "Od Handlarza:",
+      "Artefakty, które można zakupić u handlarza."
     ]
   },
   "CharacterOption": {
     "TEXT": [
-      "Locked",
-      "This character is unlocked by completing a single run.",
-      "This character is still unavailable in Early Access.",
-      "This character is unlocked by reaching the top of the Spire.",
-      "HP: ",
-      "Gold: ",
-      " Unlocks Remaining",
-      "Unknown",
+      "Zablokowane",
+      "Ta postać będzie dostępna po ukończeniu pierwszej wyprawy.",
+      "Ta postać jest niedostępna we Wczesnym Dostępie.",
+      "Ta postać będzie dostępna po dotarciu na szczyt Iglicy.",
+      "PŻ: ",
+      "Złoto: ",
+      " – pozostałe ulepszenia",
+      "Nieznane",
       "???",
-      " To Next Unlock"
+      " do następnego ulepszenia"
     ]
   },
   "CharacterSelectScreen": {
     "TEXT": [
-      "Choose Your Character",
-      "Embark",
-      "The Ironclad",
-      "The Silent",
+      "Wybierz postać",
+      "W drogę",
+      "Pancernik",
+      "Cień",
       "Crowbot",
-      "Back",
-      "Ascension",
-      "Level ",
-      "Ascension Mode",
-      "Runs get harder as you win... (Winstreaks are unaffected)"
+      "Wróć",
+      "Tryb Wyniesienia – poziom: ",
+      "",
+      "Tryb Wyniesienia",
+      "Wyprawy stają się trudniejsze po każdej wygranej... (nie wpływa na serię zwycięstw)"
     ]
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "Elites spawn more often.",
-      "Normal enemies are deadlier.",
-      "Elites are deadlier.",
-      "Bosses are deadlier.",
-      "Heal less after Boss battles.",
-      "Start each run damaged.",
-      "Normal enemies are tougher.",
-      "Elites are tougher.",
-      "Bosses are tougher.",
-      "Parasite!",
-      "Potions are less potent.",
-      "Upgraded cards appear less often.",
-      "Poor bosses.",
-      "Lower Max HP.",
-      "(Max Level) Unfavorable Events."
+      "Jednostki elitarne pojawiają się częściej.",
+      "Zwyczajni wrogowie są bardziej zabójczy.",
+      "Jednostki elitarne są groźniejsze.",
+      "Bossowie są groźniejsi.",
+      "Przywracasz mniejszą ilość PŻ po pokonaniu Bossa.",
+      "Zaczynasz każdą wyprawę z obrażeniami.",
+      "Zwyczajni wrogowie są wytrzymalsi.",
+      "Jednostki elitarne są wytrzymalsze.",
+      "Bossowie są wytrzymalsi.",
+      "Pasożyt!",
+      "Mikstury są mniej skuteczne.",
+      "Karty ulepszeń są rzadsze.",
+      "Spłukani bossowie.",
+      "Niższe maks. liczba PŻ.",
+      "(maks. poziom) Pechowe zdarzenia."
     ]
   },
   "AbstractMonster": {
     "TEXT": [
-      "Aggressive",
-      "This enemy intends to NL #yAttack for #b",
-      " damage #b",
-      " times.",
-      "This enemy intends to NL #yAttack for #b",
-      " damage.",
-      "Aggressive",
-      "This enemy intends to use a #yBuff and #yAttack for #b",
-      " times.",
-      "This enemy intends to use a #yBuff and #yAttack for #b",
-      "Strategic",
-      "This enemy intends to inflict a #yNegative #yEffect on you and #yAttack for #b",
-      "This enemy intends to #yBlock and #yAttack for #b",
-      "Defensive",
-      "Cowardly",
-      "Magical",
-      "Sleeping",
-      "Stunned",
-      "Unknown",
-      "This enemy intends to use a #yBuff.",
-      "This enemy intends to inflict a #yNegative #yEffect on you.",
-      "This enemy intends to inflict a powerful #yNegative #yEffect on you.",
-      "This enemy intends to #yBlock on its turn.",
-      "This enemy intends to #yBlock and inflict a #yNegative #yEffect on you.",
-      "This enemy intends to #yBlock and use a #yBuff.",
-      "This enemy intends to #yEscape.",
-      "This enemy intends to use mysterious #yMagic on its turn.",
-      "This enemy is asleep.",
-      "This enemy is #yStunned on its turn.",
-      "This enemy's intentions are #yUnknown (not attacking).",
-      "Blocked"
+      "Atak",
+      "Ten przeciwnik zamierza NL #yzadać #b",
+      " pkt. obrażeń #b",
+      " razy.",
+      "Ten przeciwnik zamierza NL #yzadać #b",
+      " pkt. obrażeń.",
+      "Atak",
+      "Ten przeciwnik zamierza użyć #yWzmocnienia i #yzadać #b",
+      " razy.",
+      "Ten przeciwnik zamierza użyć #yWzmocnienia i #yzadać #b",
+      "Taktyka",
+      "Ten przeciwnik zamierza rzucić na ciebie #ynegatywny #yefekt NL i #yzadać #b",
+      "Ten przeciwnik zamierza NL się #ybronić i #yzadać #b",
+      "Obrona",
+      "Ucieczka",
+      "Zaklinanie",
+      "Sen",
+      "Ogłuszenie",
+      "Nieznany",
+      "Ten przeciwnik zamierza użyć #yWzmocnienia.",
+      "Ten przeciwnik zamierza rzucić na ciebie #ynegatywny #yefekt.",
+      "Ten przeciwnik zamierza rzucić na ciebie potężny #ynegatywny #yefekt.",
+      "Ten przeciwnik zamierza #ysię #ybronić.",
+      "Ten przeciwnik zamierza NL się #ybronić i rzucić na ciebie #ynegatywny #yefekt.",
+      "Ten przeciwnik zamierza NL się #ybronić i użyć #yWzmocnienia.",
+      "Ten przeciwnik zamierza #yuciec.",
+      "Ten przeciwnik zamierza użyć na tobie tajemniczego #Zaklęcia.",
+      "Ten przeciwnik smacznie sobie śpi.",
+      "Ten przeciwnik został #yOgłuszony.",
+      "Zamiary tego przeciwnika NL #ynie #ysą #yznane (nie będzie to atak).",
+      "Zablokowano"
     ]
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Proceed"
+      "Dalej"
     ]
   },
   "Exordium": {
@@ -790,124 +820,167 @@
   },
   "TheCity": {
     "TEXT": [
-      "The City"
+      "Miasto"
     ]
   },
   "GameSavedEffect": {
     "TEXT": [
-      "#y~Game~ #y~Saved~"
+      "#y~Gra~ #y~zapisana~"
     ]
   },
   "BattleStartEffect": {
     "TEXT": [
-      "Battle Start",
-      "Player Turn",
-      "Enemy Turn",
-      " turn"
+      "Szykuj się do walki",
+      "Tura gracza",
+      "Tura wroga",
+      ". tura"
     ]
   },
   "RewardItem": {
     "TEXT": [
-      " Gold (Stolen Back)",
-      " Gold",
-      "Add a card to your deck",
+      " szt. złota (odzyskano)",
+      " szt. złota",
+      "Dodaj kartę do talii",
       "",
-      "Choose a Card"
+      "Wybierz kartę"
     ]
   },
   "CampfireUI": {
     "TEXT": [
-      "What to do?",
+      "Co by tu zrobić?",
       "Hmm...",
-      "What shall I do?",
-      "Time for a break",
-      "So many options...",
-      "I should rest",
-      "So tired..."
+      "Co mam zrobić?",
+      "Czas na przerwę",
+      "Tyle różnych opcji...",
+      "Potrzebuję odpoczynku",
+      "Padam ze zmęczenia..."
     ]
   },
   "CampfireSmithEffect": {
     "TEXT": [
-      "Select a Card to Upgrade"
+      "Wybierz kartę do ulepszenia"
     ]
   },
   "CampfireSleepEffect": {
     "TEXT": [
-      "Dreaming?"
+      "Czy ja śnię?"
     ]
   },
   "CampfireTokeEffect": {
     "TEXT": [
-      "Select a Card to Remove."
+      "Wybierz kartę do usunięcia."
     ]
   },
   "UnlockTextEffect": {
     "TEXT": [
-      "New Unlock!"
+      "Nowa zawartość!"
     ]
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "Ascension Mode Level ",
-      " Unlocked!"
+      "Tryb Wyniesienia – poziom ",
+      " – odblokowany!"
     ]
   },
   "AbstractPotion": {
     "TEXT": [
-      "I can't carry NL any more Potions."
+      "Nie uniosę większej NL ilości mikstur."
     ]
   },
   "TipHelper": {
     "TEXT": [
-      "Energy"
+      "Energia"
     ]
   },
   "ExhaustAction": {
     "TEXT": [
-      "Exhaust"
+      "wykluczenia"
     ]
   },
   "ExhumeAction": {
     "TEXT": [
-      "Select a Card to Return to your Hand"
+      "Wybierz kartę, która zostanie w ręce"
     ]
   },
   "PowerExpireTextEffect": {
     "TEXT": [
-      "Wears Off"
+      "efekt zanika"
     ]
   },
   "RestartForChangesEffect": {
     "TEXT": [
-      "Restart the game for display changes to take effect."
+      "Zrestartuj grę, aby wprowadzić zmiany."
     ]
   },
   "OpeningAction": {
     "TEXT": [
-      "That enemy does not intend to attack!"
+      "Ten przeciwnik nie zamierza atakować!"
     ]
   },
   "ApplyPowerAction": {
     "TEXT": [
-      "Negated",
-      "Immune",
-      "Nullified",
-      "\n Down"
+      "Kontra",
+      "Niewrażliwość",
+      "Skontrowano",
+      "\n w dół"
     ]
   },
   "PutOnDeckAction": {
     "TEXT": [
-      "put on top of your draw pile"
+      "wrzuć na górę stosu"
     ]
   },
   "ImmolateAction": {
     "TEXT": [
-      "Exhaust"
+      "wykluczenia"
     ]
   },
   "TheBeyond": {
     "TEXT": [
-      "The Beyond"
+      "Rubieże"
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Wyprawa",
+      "",
+      "Wyrusz na misję zdobycia Iglicy.",
+      "Wyzwanie Dnia",
+      "",
+      "Codziennie nowe wyzwanie.\n\nRywalizuj z innymi graczami o najwyższy wynik!",
+      "Wyniesienie",
+      "",
+      "Iglica rośnie w siłę z każdą wygraną.\n\nPoddaj próbie swoje najlepsze taktyki.",
+      "Kartoteka",
+      "",
+      "Wyświetl wszystkie karty napotkane w Iglicy.",
+      "Artefakty",
+      "",
+      "Wyświetl wszystkie artefakty napotkane \nw Iglicy.",
+      "Bestiariusz",
+      "",
+      "This feature is not yet available.",
+      "Statystyki",
+      "",
+      "Możesz tu zobaczyć postęp i statystyki wszystkich postaci.",
+      "Tablice wyników",
+      "",
+      "Wyświetl i porównaj swoje wyniki ze znajomymi \ni innymi graczami.",
+      "Historia rozgrywek",
+      "",
+      "Wyświetl poprzednie próby pokonania Iglicy.",
+      "Ustawienia gry",
+      "",
+      "Zmień rozdzielczość ekranu oraz inne opcje.",
+      "Sterowanie",
+      "",
+      "This feature is not yet available.",
+      "Autorzy",
+      "",
+      "Wyświetl listę osób, które przyczyniły się do powstania Slay the Spire!",
+      "Unknown",
+      "",
+      "This feature is not yet available."
     ]
   }
 }

@@ -52,7 +52,12 @@
 		"All Characters",
 		"Wins and Losses",
 		"Wins",
-		"Losses"
+		"Losses",
+		"Daily",
+		"Any Game Type",
+		"Only Normal",
+		"Only Ascension",
+		"Only Daily Challenge"
     ]
   },
   "LeaderboardsScreen": {
@@ -89,7 +94,7 @@
   },
   "LanguageDropdown": {
     "TEXT": [
-		"Brazilian Portugese",
+		"Brazilian Portuguese",
 		"Chinese (Simplified)",
 		"Chinese (Traditional)",
 		"English",
@@ -108,7 +113,8 @@
 		"Thai",
 		"Serbian",
 		"Ukrainian",
-		"Vietnamese"
+		"Vietnamese",
+		"Hungarian"
 	]
   },
   "Proceed Button": {

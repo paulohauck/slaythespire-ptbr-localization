@@ -1,174 +1,174 @@
 {
   "Ascension": {
-    "NAME": "Ascension",
+    "NAME": "Wyniesienie",
     "DESCRIPTIONS": [
-      "+5% score per Ascension Level."
+      "+5% do wyniku za każdy poziom Wyniesienia."
     ]
   },
   "Beyond Elites Killed": {
-    "NAME": "Beyond Elites Killed",
+    "NAME": "Pokonani elitarni – Pogranicza",
     "DESCRIPTIONS": []
   },
   "Bosses Slain": {
-    "NAME": "Bosses Slain",
+    "NAME": "Pokonani bossowie",
     "DESCRIPTIONS": []
   },
   "City Elites Killed": {
-    "NAME": "City Elites Killed",
+    "NAME": "Pokonani elitarni – Miasto",
     "DESCRIPTIONS": []
   },
   "Exordium Elites Killed": {
-    "NAME": "Exordium Elites Killed",
+    "NAME": "Pokonani elitarni – Exordium",
     "DESCRIPTIONS": []
   },
   "Champion": {
-    "NAME": "Champion",
+    "NAME": "Czempion",
     "DESCRIPTIONS": [
-      "Defeat an Elite without taking damage."
+      "Pokonano jednostkę elitarną bez odnoszenia obrażeń."
     ]
   },
   "Perfect": {
-    "NAME": "Perfect",
+    "NAME": "Nie próbuj, tylko mnie traf",
     "DESCRIPTIONS": [
-      "Defeat a Boss without taking damage."
+      "Pokonaj bossa bez odnoszenia żadnych obrażeń."
     ]
   },
   "Beyond Perfect": {
-    "NAME": "Beyond Perfect",
+    "NAME": "Flash, mówisz i masz",
     "DESCRIPTIONS": [
-      "Defeat 3 bosses without taking damage."
+      "Pokonaj 3 bossów bez odnoszenia żadnych obrażeń."
     ]
   },
   "Overkill": {
     "NAME": "Overkill",
     "DESCRIPTIONS": [
-      "Deal 99 damage with a single attack."
+      "Zadaj 99 pkt. obrażeń jednym ruchem."
     ]
   },
   "Combo": {
     "NAME": "C-c-c-combo",
     "DESCRIPTIONS": [
-      "Play 20 cards in a single turn."
+      "Zagraj 20 kart w jednej turze."
     ]
   },
   "Poopy": {
-    "NAME": "Poopy",
+    "NAME": "Łajnot",
     "DESCRIPTIONS": [
-      "Received the Spirit Poop."
+      "Otrzymaj artefakt „Dusze odchody”."
     ]
   },
   "Cheater": {
-    "NAME": "Cheater",
+    "NAME": "Oszust",
     "DESCRIPTIONS": [
-      "Caught cheating. If caught twice, your score will never upload to the Leaderboards."
+      "Przyłapano cię na oszukiwaniu. Ponowne wykroczenie wykluczy twoje wyniki z Tablicy dożywotnio."
     ]
   },
   "Speedster": {
-    "NAME": "Speedster",
+    "NAME": "Maniak prędkości",
     "DESCRIPTIONS": [
-      "Victory in under 60 minutes."
+      "Pokonaj Iglicę w ciągu 60 minut."
     ]
   },
   "Light Speed": {
-    "NAME": "Light Speed",
+    "NAME": "Z prędkością światła",
     "DESCRIPTIONS": [
-      "Victory in under 45 minutes."
+      "Pokonaj Iglicę w ciągu 45 minut."
     ]
   },
   "Money Money": {
-    "NAME": "Money Money",
+    "NAME": "Kasa wszędzie",
     "DESCRIPTIONS": [
-      "Accrued 1,000 gold."
+      "Zgromadzono 1000 szt. złota."
     ]
   },
   "Raining Money": {
-    "NAME": "Raining Money",
+    "NAME": "Deszcz pieniądza",
     "DESCRIPTIONS": [
-      "Accrued 2,000 gold."
+      "Zgromadzono 2000 szt. złota."
     ]
   },
   "I Like Gold": {
-    "NAME": "I Like Gold",
+    "NAME": "Moje ty złotko",
     "DESCRIPTIONS": [
-      "Accrued 3,000 gold."
+      "Zgromadzono 3000 szt. złota."
     ]
   },
   "Minimalist": {
-    "NAME": "Minimalist",
+    "NAME": "Minimalizm",
     "DESCRIPTIONS": [
-      "Removed 5+ cards from your deck."
+      "Usunięto z talii co najmniej 5 kart."
     ]
   },
   "Highlander": {
-    "NAME": "Highlander",
+    "NAME": "Może być tylko jeden",
     "DESCRIPTIONS": [
-      "Your deck contains no duplicates (excluding starter cards)."
+      "Talia nie zawiera duplikatów (pomijając karty startowe)."
     ]
   },
   "Shiny": {
-    "NAME": "I Like Shiny",
+    "NAME": "Mój ssskarbie",
     "DESCRIPTIONS": [
-      "Have 25+ relics."
+      "Posiadaj co najmniej 25 artefaktów."
     ]
   },
   "Collector": {
-    "NAME": "Collector",
+    "NAME": "Kolekcja",
     "DESCRIPTIONS": [
-      "Have 4 copies of any non-starter card."
+      "Posiadaj 4 kopie jednej karty (poza startową)."
     ]
   },
   "Pauper": {
-    "NAME": "Pauper",
+    "NAME": "Nędznik",
     "DESCRIPTIONS": [
-      "Have 0 rare cards."
+      "Nie posiadaj żadnej rzadkiej karty."
     ]
   },
   "Librarian": {
-    "NAME": "Librarian",
+    "NAME": "Biblioteka",
     "DESCRIPTIONS": [
-      "Deck size greater than 35 cards."
+      "Talia zawiera co najmniej 35 kart."
     ]
   },
   "Encyclopedian": {
-    "NAME": "Encyclopedian",
+    "NAME": "Encyklopedia",
     "DESCRIPTIONS": [
-      "Deck size greater than 50 cards."
+      "Talia zawiera co najmniej 35 kart."
     ]
   },
   "Well Fed": {
-    "NAME": "Well Fed",
+    "NAME": "Pełny brzuch",
     "DESCRIPTIONS": [
-      "Increased your Max HP by 15+."
+      "Zwiększy maks. liczbę PŻ o 15."
     ]
   },
   "Stuffed": {
-    "NAME": "Stuffed",
+    "NAME": "Wypchany",
     "DESCRIPTIONS": [
-      "Increased your Max HP by 30+."
+      "Zwiększy maks. liczbę PŻ o 30."
     ]
   },
   "Curses": {
-    "NAME": "Curses!",
+    "NAME": "Opętani",
     "DESCRIPTIONS": [
-      "Your deck contains 5 curses."
+      "Twoja talia zawiera 5 Klątw."
     ]
   },
   "Alchemist": {
-    "NAME": "Alchemist",
+    "NAME": "Zestaw małego alchemika",
     "DESCRIPTIONS": [
-      "Bought 5 potions."
+      "Kup 5 mikstur."
     ]
   },
   "Mystery Machine": {
-    "NAME": "Mystery Machine",
+    "NAME": "Wehikuł Tajemnic",
     "DESCRIPTIONS": [
-      "Traveled to 15+ ? rooms."
+      "Zwiedź co najmniej 15 „?” pokoi."
     ]
   },
   "On My Own Terms": {
-    "NAME": "On My Own Terms",
+    "NAME": "Na moich zasadach",
     "DESCRIPTIONS": [
-      "Killed yourself."
+      "Samobójstwo."
     ]
   }
 }

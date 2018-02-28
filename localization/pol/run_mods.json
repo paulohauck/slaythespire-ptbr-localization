@@ -1,0 +1,58 @@
+{
+  "Cursed Run": {
+    "NAME": "Przeklęta próba",
+    "DESCRIPTION": "Za każdym razem, gdy pokonasz bossa, otrzymujesz #rKlątwę."
+  },
+  "Elite Swarm": {
+    "NAME": "Rój Elitarnych",
+    "DESCRIPTION": "Elitarne jednostki są absolutnie wszędzie."
+  },
+  "Greed": {
+    "NAME": "Chciwość",
+    "DESCRIPTION": "Nie możesz pominąć łupów."
+  },
+  "Growing Enemies": {
+    "NAME": "Nieustanny rozwój",
+    "DESCRIPTION": "Z każdą kolejną turą, przeciwnicy stają się silniejsi."
+  },
+  "Heirloom": {
+    "NAME": "Dziedzictwo",
+    "DESCRIPTION": "Zaczynasz grę z 1 artefaktem."
+  },
+  "Lethal Enemies": {
+    "NAME": "Zabójczy przeciwnicy",
+    "DESCRIPTION": "Wszyscy przeciwnicy zaczynają z 3 dodatkowymi pkt. Siły."
+  },
+  "Night Terrors": {
+    "NAME": "Koszmary",
+    "DESCRIPTION": "Odpoczywając odzyskujesz 20% PŻ, zamiast 30%."
+  },
+  "Restless Journey": {
+    "NAME": "Bezsenna wędrówka",
+    "DESCRIPTION": "Nie odzyskujesz PŻ zaczynając nowy akt."
+  },
+  "Slow Start": {
+    "NAME": "Powolny start",
+    "DESCRIPTION": "Startujesz z dodatkowym Uderzeniem i Obroną."
+  },
+  "Tough Enemies": {
+    "NAME": "Wytrzymali przeciwnicy",
+    "DESCRIPTION": "Przeciwnicy mają 25% więcej PŻ."
+  },
+  "Shiny": {
+    "NAME": "Świecidełko",
+    "DESCRIPTION": "Rozpoczynasz z 1 rzadką kartą."
+  },
+  "Allstar": {
+    "NAME": "Gwiazdor",
+    "DESCRIPTION": "Rozpoczynasz z 2 bezbarwnymi kartami."
+  },
+  "Diverse": {
+    "NAME": "Różnorodność",
+    "DESCRIPTION": "Rozpoczynasz z 2 kartami innej klasy postaci."
+  },
+  "Vintage": {
+    "NAME": "Antyk",
+    "DESCRIPTION": "Ceny u Handlarza są zwiększone o 25%."
+  }
+}

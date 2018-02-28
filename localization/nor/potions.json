@@ -1,0 +1,105 @@
+{
+  "Block Potion": {
+    "NAME": "Forsvarsdrikk",
+    "DESCRIPTIONS": [
+      "Øk #ySkadeblokkeringen med #b",
+      "."
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "Smidighetsdrikk",
+    "DESCRIPTIONS": [
+      "Øk #ySmidigheten med #b",
+      "."
+    ]
+  },
+  "Elixir": {
+    "NAME": "Eliksir",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "#yVrak alle #yStatus- og #yForbannelseskort fra hånda di.",
+      "",
+      "Ingenting skjedde..."
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "Energidrikk",
+    "DESCRIPTIONS": [
+      "Få #b",
+      " Energi."
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "Eksplosiv trylledrikk",
+    "DESCRIPTIONS": [
+      "Påfør ALLE fiender #b",
+      " Skade."
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "Brennende trylledrikk",
+    "DESCRIPTIONS": [
+      "Påfør en fiende #b",
+      " Skade."
+    ]
+  },
+  "Health Potion": {
+    "NAME": "Helsedrikk",
+    "DESCRIPTIONS": [
+      "Helbred #b",
+      " HP."
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "Gift",
+    "DESCRIPTIONS": [
+      "Påfør en fiende #b",
+      " #yForgiftning."
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "Celle for trylledrikker",
+    "DESCRIPTIONS": [
+      "Bruk trylledrikker under kamp for å få #gbonuser eller #rhindre fiender.",
+      "Celle for trylledrikker"
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "Regenereringsdrikk",
+    "DESCRIPTIONS": [
+      "Helbred #b",
+      " #yHP på slutten av hver runde i #b",
+      " runder."
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "Styrkedrikk",
+    "DESCRIPTIONS": [
+      "Øk #yStyrken med #b",
+      "."
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "Hurtighetsdrikk",
+    "DESCRIPTIONS": [
+      "",
+      "Trekk #b",
+      " kort."
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "Svekkelsesdrikk",
+    "DESCRIPTIONS": [
+      "#ySvekk en fiende med #b",
+      "."
+    ]
+  },
+  "Ancient Potion": {
+    "NAME": "Motsandsdrikk",
+    "DESCRIPTIONS": [
+      "Få #b",
+      " #yMagimotstand."
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 {
   "Apology Slime": {
     "MOVES": [],
-    "NAME": "Apology Slime",
+    "NAME": "Nie-maź-się",
     "DIALOG": [
       ""
     ]
@@ -10,7 +10,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Corrupt Heart",
+    "NAME": "Spaczone Serce",
     "DIALOG": [
       ""
     ]
@@ -19,7 +19,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Nemesis",
+    "NAME": "Nemezis",
     "DIALOG": [
       ""
     ]
@@ -28,80 +28,80 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Chosen",
+    "NAME": "Wybraniec",
     "DIALOG": [
-      "~Suffer...~"
+      "~Giń...~"
     ]
   },
   "Byrd": {
     "MOVES": [
       ""
     ],
-    "NAME": "Byrd",
+    "NAME": "Ptok",
     "DIALOG": [
-      "@CAW!@ NL @CAAAW@",
+      "@KAA!@ NL @KAAA@",
       ""
     ]
   },
   "Snecko": {
     "MOVES": [
-      "Perplexing Glare",
-      "Tail Whip",
-      "Bite"
+      "Hipnotyzujący blask",
+      "Trzaśnięcie ogonem",
+      "Ugryzienie"
     ],
-    "NAME": "Snecko",
+    "NAME": "Wonsz",
     "DIALOG": [
       ""
     ]
   },
   "GremlinWizard": {
     "MOVES": [
-      "Charging",
-      "Ultimate Blast"
+      "Ładowanie",
+      "Pustoszący cios"
     ],
-    "NAME": "Gremlin Wizard",
+    "NAME": "Gremlin Znachor",
     "DIALOG": [
       "",
-      "Charging up!",
-      "~Here~ ~it~ ~comes!!~",
-      "@I...@ @get...@ NL @help...!@",
-      "~too...~ NL ~dangerous...~ NL ~bye...~"
+      "Ładuję!",
+      "~Szykuj~ ~się~ ~na~ ~śmierć!~",
+      "@Ja...@ @pomóż...@ NL @mi...!@",
+      "~zbyt...~ NL ~potężne...~ NL ~żegnaj...~"
     ]
   },
   "BanditChild": {
     "MOVES": [
       ""
     ],
-    "NAME": "Pointy",
+    "NAME": "Zadzior",
     "DIALOG": [
-      "Beeeaaar!!!!"
+      "Nieeeedźwiedź!"
     ]
   },
   "Orb Walker": {
     "MOVES": [
-      "Strength Up"
+      "Wzmocnienie"
     ],
-    "NAME": "Orb Walker",
+    "NAME": "Kulminator",
     "DIALOG": [
-      "Initiating NL shields."
+      "Tarcze NL w gotowości."
     ]
   },
   "TheGuardian": {
     "MOVES": [
-      "Defensive Mode",
-      "Fierce Bash",
-      "Roll",
-      "Twin Slam",
-      "Whirlwind",
-      "Charging Up",
-      "Vent Steam"
+      "Tryb obronny",
+      "Wściekłe uderzenie",
+      "Skulenie",
+      "Podwójny cios",
+      "Wir",
+      "Ładowanie",
+      "Chłodzenie"
     ],
-    "NAME": "The Guardian",
+    "NAME": "Strażnik",
     "DIALOG": [
-      "#b~..COOLING...~ NL #b~...DOWN...~",
-      "Defending...",
-      "#r@DESTROY@ NL #r@DESTROY@ NL #r@DESTROY@",
-      "#r@DANGER@ NL #r@DANGER@ NL #r@DANGER@"
+      "#b~..CHŁODZENIE...~ NL #b~...RDZENIA...~",
+      "Tryb obronny...",
+      "#r@RANIĆ@ NL #r@PALIĆ@ NL #r@ZDESTABILIZOWAĆ@",
+      "#r@ZAGROŻENIE@ NL #r@ZAGROŻENIE@ NL #r@ZAGROŻENIE@"
     ]
   },
   "TheGuardianOrb": {
@@ -111,66 +111,66 @@
   },
   "GremlinWarrior": {
     "MOVES": [
-      "Claw"
+      "Zadrapanie"
     ],
-    "NAME": "Mad Gremlin",
+    "NAME": "Szalony Gremlin",
     "DIALOG": [
       "",
-      "@Gonna@ @go@ NL @get@ @help!@",
-      "I'm outta here!"
+      "@Pójdę@ @tylko@ NL @po@ @wsparcie!@",
+      "No to cześć!"
     ]
   },
   "GremlinThief": {
     "MOVES": [
       ""
     ],
-    "NAME": "Sneaky Gremlin",
+    "NAME": "Przebiegły Gremlin",
     "DIALOG": [
       "",
-      "@I'll@ @go@ NL @get@ @help!@ ",
-      "@What@ @the!?@"
+      "@Pójdę@ @tylko@ NL @po@ @wsparcie!@ ",
+      "@Co@ @do!?@"
     ]
   },
   "Cultist": {
     "MOVES": [
       "",
       "",
-      "Incantation"
+      "Zaklinanie"
     ],
-    "NAME": "Cultist",
+    "NAME": "Kultysta",
     "DIALOG": [
-      "@MY@ @POWER@ @IS@ NL @UNMATCHED!@",
-      "@YOU@ @DO@ @NOT@ NL @BELONG@ @HERE!@",
-      "~My~ ~powers~ NL ~were~ ~matched...~"
+      "@MOJA@ @MOC@ @JEST@ NL @NIEZWRÓWNANA!@",
+      "@TO@ @NIE@ @TWOJE@ NL @MIEJSCE,@ @PRZYBYSZU!@",
+      "~Moja~ ~moc,~ NL ~zrównana~ ~z~ ~ziemią...~"
     ]
   },
   "FlameBruiser": {
     "MOVES": [
       ""
     ],
-    "NAME": "Flame Bruiser",
+    "NAME": "Ognisty Mięśniak",
     "DIALOG": [
       ""
     ]
   },
   "GremlinLeader": {
     "MOVES": [
-      "Rally!"
+      "Do mnie!"
     ],
-    "NAME": "Gremlin Leader",
+    "NAME": "Gremlin Przywódca",
     "DIALOG": [
-      "Don't ever give up!",
-      "We're not done yet!",
-      "Get em boys!",
-      "@Retreat@ NL @Retreaaat!@",
-      "@Ruuuuuuun!@"
+      "Nie poddwać się!",
+      "To jeszcze nie koniec!",
+      "Do boju!",
+      "@Odwrót@ NL @Odwróót!@",
+      "@W@ @noogii!@"
     ]
   },
   "Centurion": {
     "MOVES": [
       ""
     ],
-    "NAME": "Centurion",
+    "NAME": "Setnik",
     "DIALOG": [
       ""
     ]
@@ -179,19 +179,19 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Giant Head",
+    "NAME": "Tęgi Łeb",
     "DIALOG": [
-      "~It~ ~is~ ~time~",
-      "~Good~ ~Bye~",
-      "~Tick~ ~Tock~ NL ~Tick~ ~Tock~",
-      "~Why~ ~are~ ~you~ NL ~still~ ~here?~"
+      "~Nadszedł~ ~czas~",
+      "~Żegnaj,~ ~przybyszu~",
+      "~Tik~ ~Tak~ NL ~Tik~ ~Tak~",
+      "~Wciąż~ ~tu~ ~jesteś~"
     ]
   },
   "BanditBear": {
     "MOVES": [
       ""
     ],
-    "NAME": "Bear",
+    "NAME": "Niedźwiedź",
     "DIALOG": [
       ""
     ]
@@ -202,124 +202,124 @@
     ],
     "NAME": "Romeo",
     "DIALOG": [
-      "Grab em' Bear!!",
-      "You will pay for this!!",
-      "Nooooooo, Bear!"
+      "Bierz ich, misiu!",
+      "Zapłacisz mi za to!",
+      "Misiu, niee!"
     ]
   },
   "SpikeSlime_M": {
     "MOVES": [
-      "Lick"
+      "Liźnięcie"
     ],
-    "NAME": "Spike Slime (M)",
+    "NAME": "Kolcośluz (M)",
     "DIALOG": [
       ""
     ]
   },
   "SpikeSlime_S": {
     "MOVES": [],
-    "NAME": "Spike Slime (S)",
+    "NAME": "Kolcośluz (S)",
     "DIALOG": [
       ""
     ]
   },
   "Mugger": {
     "MOVES": [
-      "Lunge",
-      "Mug"
+      "Natarcie",
+      "Ograbienie"
     ],
-    "NAME": "Mugger",
+    "NAME": "Kieszonkowiec",
     "DIALOG": [
-      "Hand it over!",
-      "I'm outta here!"
+      "Dawaj mi to!",
+      "Spadam stąd!"
     ]
   },
   "TimeEater": {
     "MOVES": [
       ""
     ],
-    "NAME": "Time Eater",
+    "NAME": "Pożeracz Czasu",
     "DIALOG": [
-      "~Ah...~ NL ~..company...~",
-      "~Foolish..~ NL @FOOOLISH!@"
+      "~Najwyższy...~ NL ~..czas...~",
+      "~Głupcy..~ NL @GŁUPCY!@"
     ]
   },
   "TheCollector": {
     "MOVES": [
       ""
     ],
-    "NAME": "The Collector",
+    "NAME": "Kolekcjoner",
     "DIALOG": [
-      "@You@ @are@ @mine!@"
+      "@Należysz@ @do@ @mnie!@"
     ]
   },
   "TorchHead": {
     "MOVES": [
       ""
     ],
-    "NAME": "Torch Head",
+    "NAME": "Pochodnik",
     "DIALOG": [
       ""
     ]
   },
   "AcidSlime_M": {
     "MOVES": [
-      "Corrosive Spit",
-      "Lick"
+      "Żrąca ślina",
+      "Liźnięcie"
     ],
-    "NAME": "Acid Slime (M)",
+    "NAME": "Toksyglut (M)",
     "DIALOG": [
       ""
     ]
   },
   "AcidSlime_S": {
     "MOVES": [],
-    "NAME": "Acid Slime (S)",
+    "NAME": "Toksyglut (S)",
     "DIALOG": [
       ""
     ]
   },
   "SnakePlant": {
     "MOVES": [
-      "Enfeebling Spores"
+      "Pasożytnicze zarodniki"
     ],
-    "NAME": "Snake Plant",
+    "NAME": "Wężołówka",
     "DIALOG": [
       ""
     ]
   },
   "Champ": {
     "MOVES": [
-      "Defensive Stance",
-      "Execute",
-      "Face Slap"
+      "Postawa obronna",
+      "Wykończenie",
+      "Z liścia"
     ],
-    "NAME": "The Champ",
+    "NAME": "Czempion",
     "DIALOG": [
-      "You call that a weapon?",
-      "Come at me!",
-      "Do your worst! NL @HAHAHA!@",
-      "Have a free shot! NL Futile weakling!",
-      "~You've~ ~done~ ~it~ ~now...~",
-      "@DEFEAT??@ NL @IMPOSSIBLE!!@",
-      "~DIE~ ~.~ ~.~ ~.~",
-      "Face my wrath!"
+      "Nazywasz to bronią?",
+      "No dawaj!",
+      "Pokaż na co cię stać! NL @HA@ @HA@ @HA!@",
+      "Dam ci fory! NL Nędzny kmiocie!",
+      "~Teraz~ ~to~ ~już~ ~przegięcie...~",
+      "@PORAŻKA!?@ NL @NIEMOŻLIWE!@",
+      "~GIŃ~ ~.~ ~.~ ~.~",
+      "Poczuj mój gniew!"
     ]
   },
   "Exploder": {
     "MOVES": [
       ""
     ],
-    "NAME": "Exploder",
+    "NAME": "Bombowiec",
     "DIALOG": [
       ""
     ]
   },
   "FungiBeast": {
     "MOVES": [
-      "Grow"
+      "Przyrost"
     ],
-    "NAME": "Fungi Beast",
+    "NAME": "Grzybozwierz",
     "DIALOG": [
       ""
     ]
@@ -328,7 +328,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Spiker",
+    "NAME": "Cierń",
     "DIALOG": [
       ""
     ]
@@ -337,7 +337,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Taskmaster",
+    "NAME": "Nadzorca",
     "DIALOG": [
       ""
     ]
@@ -353,40 +353,40 @@
   },
   "Looter": {
     "MOVES": [
-      "Lunge",
-      "Mug"
+      "Natarcie",
+      "Ograbienie"
     ],
-    "NAME": "Looter",
+    "NAME": "Kieszonkowiec",
     "DIALOG": [
-      "Give me your gold!",
-      "@NOOOoooo!@",
-      "Where's my smoke bomb... Let's see here...",
-      "Thanks for the money, hehe"
+      "Oddawaj złoto!",
+      "@Nieee!@",
+      "Gdzie moja zasłona dymna... Może tutaj?",
+      "Dzięki za hajs, he he."
     ]
   },
   "Sentry": {
     "MOVES": [
-      "Disintegrate"
+      "Rozczłonkowanie"
     ],
-    "NAME": "Sentry",
+    "NAME": "Strażnik",
     "DIALOG": [
       ""
     ]
   },
   "FuzzyLouseDefensive": {
     "MOVES": [
-      "Spit Web"
+      "Sieć"
     ],
-    "NAME": "Louse",
+    "NAME": "Gnida",
     "DIALOG": [
       ""
     ]
   },
   "FuzzyLouseNormal": {
     "MOVES": [
-      "Grow"
+      "Przyrost"
     ],
-    "NAME": "Louse",
+    "NAME": "Gnida",
     "DIALOG": [
       ""
     ]
@@ -395,7 +395,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Puppeteer",
+    "NAME": "Pacynkarz",
     "DIALOG": [
       ""
     ]
@@ -404,7 +404,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Shelled Parasite",
+    "NAME": "Panceżyt",
     "DIALOG": [
       ""
     ]
@@ -413,18 +413,18 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Orb",
+    "NAME": "Sfera",
     "DIALOG": [
       ""
     ]
   },
   "Hexaghost": {
     "MOVES": [
-      "Inflame",
-      "Sear",
+      "Rozpalenie",
+      "Spopielenie",
       "Inferno"
     ],
-    "NAME": "Hexaghost",
+    "NAME": "Heksaduch",
     "DIALOG": []
   },
   "HexaghostBody": {
@@ -439,62 +439,62 @@
   },
   "SlaverRed": {
     "MOVES": [
-      "Scrape",
-      "Entangle"
+      "Zadrapanie",
+      "Spętanie"
     ],
-    "NAME": "Slaver",
+    "NAME": "Poganiacz",
     "DIALOG": [
       ""
     ]
   },
   "SlaverBlue": {
     "MOVES": [
-      "Rake"
+      "Zadrapanie"
     ],
-    "NAME": "Slaver",
+    "NAME": "Poganiacz",
     "DIALOG": [
       ""
     ]
   },
   "SlimeBoss": {
     "MOVES": [
-      "Slam",
-      "Preparing",
-      "Split",
-      "Goop Spray"
+      "Miażdżenie",
+      "Przygotowywanie",
+      "Podział",
+      "Z gluta"
     ],
-    "NAME": "Slime Boss",
+    "NAME": "Masterszlam",
     "DIALOG": [
-      "~Slime...~ NL #r~CRUSH!!!~",
+      "~Szlam...~ NL #r~MIAŻDŻYĆ!~",
       ""
     ]
   },
   "AcidSlime_L": {
     "MOVES": [
-      "Corrosive Spit",
-      "Split",
-      "Lick"
+      "Mocny kwas",
+      "Podział",
+      "Liźnięcie"
     ],
-    "NAME": "Acid Slime (L)",
+    "NAME": "Toksyglut (L)",
     "DIALOG": [
-      ""
+      "Zakłócono!"
     ]
   },
   "GremlinTsundere": {
     "MOVES": [
-      "Protect",
-      "Shield Bash"
+      "Obrona",
+      "Z tarczy"
     ],
-    "NAME": "Shield Gremlin",
+    "NAME": "Tarczownik",
     "DIALOG": [
       "",
-      "~Good~ ~bye...~",
-      "This is no good..."
+      "~Żegnaj...~",
+      "Niedobrze..."
     ]
   },
   "Lagavulin": {
     "MOVES": [
-      "Siphon Soul"
+      "Pożarcie duszy"
     ],
     "NAME": "Lagavulin",
     "DIALOG": [
@@ -506,19 +506,19 @@
   },
   "JawWorm": {
     "MOVES": [
-      "Bellow",
-      "Thrash"
+      "Ryk",
+      "Zgryz"
     ],
-    "NAME": "Jaw Worm",
+    "NAME": "Szczękościsk",
     "DIALOG": [
       ""
     ]
   },
   "Donu": {
     "MOVES": [
-      "Circle of Power"
+      "Krąg mocy"
     ],
-    "NAME": "Donu",
+    "NAME": "Donutan",
     "DIALOG": [
       ""
     ]
@@ -527,45 +527,45 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Serpent",
+    "NAME": "Wąż",
     "DIALOG": [
       ""
     ]
   },
   "BronzeAutomaton": {
     "MOVES": [
-      "HYPER BEAM"
+      "HIPER PROMIEŃ"
     ],
-    "NAME": "Bronze Automaton",
+    "NAME": "Automaton z Brązu",
     "DIALOG": [
-      ""
+      "Ogłuszono!"
     ]
   },
   "Healer": {
     "MOVES": [
       ""
     ],
-    "NAME": "Mystic",
+    "NAME": "Mistyk",
     "DIALOG": [
       ""
     ]
   },
   "GremlinFat": {
     "MOVES": [
-      "Smash"
+      "Uderzenie"
     ],
-    "NAME": "Fat Gremlin",
+    "NAME": "Grublin",
     "DIALOG": [
       "",
       "",
-      "@Oh@ @no,@ NL @oh@ @no,@ NL @oH@ @NO!@"
+      "@O@ @nie,@ NL @o@ @nie,@ NL @o@ @NIE!@"
     ]
   },
   "Deca": {
     "MOVES": [
       ""
     ],
-    "NAME": "Deca",
+    "NAME": "Cleo",
     "DIALOG": [
       ""
     ]
@@ -574,30 +574,30 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Book of Stabbing",
+    "NAME": "Sztyletom",
     "DIALOG": [
       ""
     ]
   },
   "AwakenedOne": {
     "MOVES": [
-      "Soul Strike",
-      "Dark Echo",
-      "Cleanse",
-      "Sludge"
+      "Astralne uderzenie",
+      "Mroczna pustka",
+      "Wyzwolenie",
+      "Zamulenie"
     ],
-    "NAME": "Awakened One",
+    "NAME": "Przebudzony",
     "DIALOG": [
       "~Grr~ ~.~ ~.~ ~.~",
-      "~No~ ~.~ ~.~ ~.~ ~no~ ~.~ ~.~ NL ~.~ ~.~ ~no~ ~.~ ~.~ ~.~"
+      "~Nie~ ~.~ ~.~ ~.~ ~nie~ ~.~ ~.~ NL ~.~ ~.~ ~nie~ ~.~ ~.~ ~.~"
     ]
   },
   "SpikeSlime_L": {
     "MOVES": [
-      "Lick",
-      "Split"
+      "Liźnięcie",
+      "Podział"
     ],
-    "NAME": "Spike Slime (L)",
+    "NAME": "Kolcoglut (L)",
     "DIALOG": [
       ""
     ]
@@ -606,7 +606,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Fire Orb",
+    "NAME": "Ogniosfera",
     "DIALOG": [
       ""
     ]
@@ -615,35 +615,35 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Spheric Guardian",
+    "NAME": "Sferyczny Strażnik",
     "DIALOG": [
-      "~Outsider~ NL ~Detected~"
+      "~Wykryto~ NL ~Intruza~"
     ]
   },
   "Darkling": {
     "MOVES": [
-      "Chomp! Chomp!"
+      "Chrup! Chrup!"
     ],
-    "NAME": "Darkling",
+    "NAME": "Cichociemny",
     "DIALOG": [
-      "Regrowing..."
+      "Odrastanie..."
     ]
   },
   "Maw": {
     "MOVES": [
       ""
     ],
-    "NAME": "The Maw",
+    "NAME": "Paszczur",
     "DIALOG": [
       "@RRrrohrrRGHhh!!@"
     ]
   },
   "GremlinNob": {
     "MOVES": [
-      "Skull Bash",
-      "Bull Rush"
+      "Z czachy",
+      "Szarża"
     ],
-    "NAME": "Gremlin Nob",
+    "NAME": "Herszt Goblinów",
     "DIALOG": [
       "@RRrroohrrRGHHhhh!!@"
     ]
