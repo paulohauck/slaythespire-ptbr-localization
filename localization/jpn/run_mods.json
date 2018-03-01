@@ -17,7 +17,7 @@
   },
   "Heirloom": {
     "NAME": "先祖伝来の家宝",
-    "DESCRIPTION": "ランダムなレリック1つを所持してスタートする。"
+    "DESCRIPTION": "ランダムなレアレリック1つを所持してスタートする。"
   },
   "Lethal Enemies": {
     "NAME": "致命的な敵",
@@ -50,6 +50,18 @@
   "Diverse": {
     "NAME": "多様性",
     "DESCRIPTION": "他のクラスのカード2枚を所持してスタートする。"
+  },
+  "Uncertain Future": {
+    "NAME": "五里霧中",
+    "DESCRIPTION": "地図のマーカーがすべて？になる。"
+  },
+  "Binary": {
+    "NAME": "二択",
+    "DESCRIPTION": "カード報酬が2枚に減る。"
+  },
+  "Midas": {
+    "NAME": "ミダス",
+    "DESCRIPTION": "敵が落とすゴールドが2倍になるが、休憩場所でカードのアップグレードができなくなる。"
   },
   "Vintage": {
     "NAME": "ヴィンテージ",

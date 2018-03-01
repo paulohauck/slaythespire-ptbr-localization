@@ -2,7 +2,8 @@
   "Game Dictionary": {
     "ARTIFACT": {
       "NAMES": [
-        "dokunulmaz"
+        "dokunulmaz",
+        "dokunulmazlık"
       ],
       "DESCRIPTION": "Sıradaki debuff etki etmez."
     },
@@ -15,7 +16,8 @@
     },
     "CURSE": {
       "NAMES": [
-        "lanet"
+        "lanet",
+        "lanetlenmiş"
       ],
       "DESCRIPTION": "Lanet kartları destende kalan negatif etkili kartlardır."
     },
@@ -96,7 +98,8 @@
     },
     "UNPLAYABLE": {
       "NAMES": [
-        "oynanamaz"
+        "oynanamaz",
+        "oynanmaz"
       ],
       "DESCRIPTION": "Oynanamaz kartlar elinizde kalır, oynanmazlar."
     },
@@ -109,7 +112,8 @@
     },
     "VULNERABLE": {
       "NAMES": [
-        "yarala"
+        "yarala",
+        "yaralan"
       ],
       "DESCRIPTION": "Yaralanmış yaratıklar ataklardan #b%50 daha fazla hasar alırlar."
     },
@@ -143,7 +147,8 @@
     },
     "CONFUSED": {
       "NAMES": [
-        "kafası karışık"
+        "kafası karışık",
+        "kafası karışmış"
       ],
       "DESCRIPTION": "Ne zaman kart çekersen enerjisini rastgele belirler."
     },
