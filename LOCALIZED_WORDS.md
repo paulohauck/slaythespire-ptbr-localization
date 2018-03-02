@@ -83,15 +83,15 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Clash            | Colidir                 |        |
 | Cleave           | Fender                  |        |
 | Clothesline      | Clothesline             | Nome de um golpe de luta profissional. Não existe uma tradução exata para o português.<sup>1</sup> |
-| Dual Wield       | Empunhadura Dupla       |        |
+| Dual Wield       | Manejar Duplo       | "Empunhadura Dupla" é muito grande. |
 | Flex             | Flexionar               |        |
-| Ghostly Armor    | Armadura Fantasmagórica |        |
+| Ghostly Armor    | Armadura Fantasma       | "Armadura Fantasmagórica" é muito grande. |
 | Havoc            | Devastar                |        |
 | Headbutt         | Cabeçada                |        |
 | Heavy Blade      | Lâmina Pesada           |        |
 | Iron Wave        | Onda de Ferro           |        |
 | Perfected Strike | Golpe Aperfeiçoado      |        |
-| Pommel Strike    | Golpe de Empunhadura    |        |
+| Pommel Strike    | Golpe de Pomo           |        |
 | Shrug It Off     | Nem Ligar               | A ideia da expressão "Shrug It Off" é menosprezar ou minimizar uma situação. Em português, quando não nos importamos com algo, é comum dizer a expressão "eu nem ligo". |
 | Sword Boomerang  | Espada Bumerangue       |        |
 | Thunderclap      | Trovoada                |        |
@@ -137,7 +137,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Sentinel        | Sentinela             |        |
 | Sever Soul      | Romper a Alma         |        |
 | Shockwave       | Onda de Choque        |        |
-| Spot Weakness   | Encontrar Ponto Fraco |        |
+| Spot Weakness   | Encontrar Fraqueza    | "Encontrar Ponto Fraco" é muito grande. |
 | Uppercut        | Gancho                |        |
 | Whirlwind       | Redemoínho            |        |
 
@@ -151,7 +151,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Bludgeon     | Cacetada             |        |
 | Berserk      | Enfurecer            |        |
 | Brutality    | Brutalidade          |        |
-| Dark Embrace | Abraçar as Trevas    |        |
+| Dark Embrace | Enlace Sombrio       |        |
 | Demon Form   | Forma Demoníaca      |        |
 | Double Tap   | Tiro Duplo           |        |
 | Exhume       | Exumar               | <sup>1</sup> |
@@ -219,7 +219,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Catalyst          | Catalisador          |        |
 | Choke             | Estrangular          |        |
 | Concentrate       | Concentrar           |        |
-| Crippling Poison  | Veneno Incapacitante |        |
+| Crippling Poison  | Veneno Debilitante   |        |
 | Dash              | Arranque             |        |
 | Distraction       | Distração            |        |
 | Endless Agony     | Agonia Sem Fim       |        |
@@ -259,7 +259,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Alchemize          | Alquimizar               |        |
 | Bullet Time        | Câmera Lenta             |        |
 | Burst              | Explosão                 |        |
-| Corpse Explosion   | Explosão de Corpos       |        |
+| Corpse Explosion   | Explosão de Cadáveres    |        |
 | Die Die Die        | Morram Morram Morram     | Referência ao personagem Reaper de Overwatch.<sup>2</sup> Na localização pt-br, essa é sua fala.<sup>3</sup> |
 | Doppelganger       | Doppelganger             | Monstro de lendas germânicas.<sup>4</sup> Não há uma tradução. |
 | Envenom            | Envenenar                |        |
