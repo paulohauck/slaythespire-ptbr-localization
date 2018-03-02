@@ -708,91 +708,92 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 
 ## General Terms | Termos Gerais
 
-| English                | Brazilian Portuguese    | Reason |
-| ---------------------- | ----------------------- | ------ |
-| Achievement            | Conquista               |        |
-| Act                    | Ato                     |        |
-| Ammo                   | Munição                 |        |
-| Apply                  | Aplique                 |        |
-| Artifact               | Artefato                |        |
-| Ascension              | Ascensão                |        |
-| Battle                 | Batalha                 |        |
-| Bestiary               | Bestiário               |        |
-| Block                  | Proteção                | Block é literalmente "bloqueio". Porém, no jogo, as fontes de Block são diversas: poções, esquivas, armaduras, etc. "Proteção" é um termo mais amplo. |
-| Boss                   | Chefe                   |        |
-| Buff                   | Efeito Positivo         |        |
-| Card                   | Carta                   |        |
-| Charge                 | Carga                   |        |
-| Chest                  | Baú                     |        |
-| Climb                  | Escalar                 |        |
-| Combat                 | Combate                 |        |
-| Compendium             | Compêndio               |        |
-| Continue               | Continuar               |        |
-| Damage                 | Dano                    |        |
-| Deal (damage)          | Cause (dano)            |        |
-| Debuff                 | Efeito Negativo         |        |
-| Deck                   | Baralho                 |        |
-| Dexterity              | Destreza                |        |
-| Dig                    | Cavar                   |        |
-| Discard (Pile)         | (Pilha de) Descarte     |        |
-| Draw (Pile)            | (Pilha de) Compra       | Em muitos jogos de cartas, "draw" é localizado como "compra". Exemplos: Hearthstone, Magic: The Gathering, Yu-Gi-Oh!, Pokémon TCG |
-| Drop                   | Deixar                  |        |
-| Elite                  | Elite                   |        |
-| Enemy                  | Inimigo                 |        |
-| Energy                 | Energia                 |        |
-| Escape                 | Escapar                 |        |
-| Entangle               | Prender                 | O mais correto seria "entrelaçar" ou "enredar", mas "entangled" ainda dá a ideia de "preso" |
-| Fight                  | Lutar                   |        |
-| Floor                  | Andar                   |        |
-| Gain                   | Ganhe                   |        |
-| Gold                   | Ouro                    |        |
-| Hand                   | Mão                     |        |
-| HP                     | PV                      | HP é a abreviação de "HitPoints". Em português, é comum encontrarmos este termo localizado para "Pontos de Vida", ou PV |
-| Intends                | Tem intenção de         |        |
-| Intent                 | Intenção                |        |
-| Interrupted            | Interrompido            |        |
-| Leave                  | Sair                    |        |
-| Level                  | Nível                   |        |
-| Locked                 | Bloqueado               |        |
-| Loot                   | Pilhagem                |        |
-| Magical                | Mágico                  |        |
-| Minion                 | Lacaio                  |        |
-| Mugged                 | Roubado                 |        |
-| Plated Armor           | Armadura Chapeada       |        |
-| Play                   | Jogar                   |        |
-| Poison                 | Veneno                  |        |
-| Potion                 | Poção                   |        |
-| Quest                  | Missão                  |        |
-| Relic                  | Relíquia                |        |
-| Rest                   | Descansar               |        |
-| Remove                 | Remover                 |        |
-| Retain                 | Manter                  |        |
-| Room                   | Sala                    |        |
-| Run                    | Jornada                 |        |
-| Save                   | Save                    |        |
-| Score                  | Pontuação               |        |
-| Shop                   | Loja                    |        |
-| Shrine                 | Santuário               |        |
-| Shuffle                | Embaralhar              |        |
-| Slain/Killed           | Morto                   |        |
-| Slay                   | Matar                   |        |
-| Smith                  | Forjar                  |        |
-| Special                | Especial                |        |
-| Spire                  | Pináculo                |        |
-| Spireblight            | Pragapinacular          | Spire ("Pináculo") + Blight ("Praga") |
-| Spoils                 | Espólios                |        |
-| Standard               | Padrão                  |        |
-| Strength               | Força                   |        |
-| Stunned                | Atordoado               |        |
-| Take (damage)          | Receber (dano)          |        |
-| Tip                    | Dica                    |        |
-| Toke                   | Pitar                   | Gíria  |
-| Transform              | Transformar             |        |
-| Treasure               | Tesouro                 |        |
-| Turn                   | Turno                   |        |
-| Unlocked               | Desbloqueada            |        |
-| Unknow                 | Desconhecida            |        |
-| Upgrade                | Aprimorar               |        |
-| Vanquished             | Vencido                 |        |
-| Vulnerable             | Vulnerável              |        |
-| Weak                   | Fraqueza                |        |
+| English                | Brazilian Portuguese     | Reason |
+| ---------------------- | ------------------------ | ------ |
+| Achievement            | Conquista                |        |
+| Act                    | Ato                      |        |
+| Ammo                   | Munição                  |        |
+| Apply                  | Aplique                  |        |
+| Artifact               | Artefato                 |        |
+| Ascension              | Ascensão                 |        |
+| Battle                 | Batalha                  |        |
+| Bestiary               | Bestiário                |        |
+| Block                  | Proteção                 | Block é literalmente "bloqueio". Porém, no jogo, as fontes de Block são diversas: poções, esquivas, armaduras, etc. "Proteção" é um termo mais amplo. |
+| Boss                   | Chefe                    |        |
+| Buff                   | Efeito Positivo          |        |
+| Card                   | Carta                    |        |
+| Charge                 | Carga                    |        |
+| Chest                  | Baú                      |        |
+| Climb                  | Escalar                  |        |
+| Combat                 | Combate                  |        |
+| Compendium             | Compêndio                |        |
+| Continue               | Continuar                |        |
+| Damage                 | Dano                     |        |
+| Deal (damage)          | Cause (dano)             |        |
+| Debuff                 | Efeito Negativo          |        |
+| Deck                   | Baralho                  |        |
+| Dexterity              | Destreza                 |        |
+| Dig                    | Cavar                    |        |
+| Discard (Pile)         | (Pilha de) Descarte      |        |
+| Draw (Pile)            | (Pilha de) Compra        | Em muitos jogos de cartas, "draw" é localizado como "compra". Exemplos: Hearthstone, Magic: The Gathering, Yu-Gi-Oh!, Pokémon TCG |
+| Drop                   | Deixar                   |        |
+| Elite                  | Elite                    |        |
+| Enemy                  | Inimigo                  |        |
+| Energy                 | Energia                  |        |
+| Escape                 | Escapar                  |        |
+| Entangle               | Prender                  | O mais correto seria "entrelaçar" ou "enredar", mas "entangled" ainda dá a ideia de "preso" |
+| Fight                  | Lutar                    |        |
+| Floor                  | Andar                    |        |
+| Gain                   | Ganhe                    |        |
+| Gold                   | Ouro                     |        |
+| Hand                   | Mão                      |        |
+| HP                     | PV                       | HP é a abreviação de "HitPoints". Em português, é comum encontrarmos este termo localizado para "Pontos de Vida", ou PV |
+| Intends                | Tem intenção de          |        |
+| Intent                 | Intenção                 |        |
+| Interrupted            | Interrompido             |        |
+| Leaderboards           | Tabelas de Classificação |        |
+| Leave                  | Sair                     |        |
+| Level                  | Nível                    |        |
+| Locked                 | Bloqueado                |        |
+| Loot                   | Pilhagem                 |        |
+| Magical                | Mágico                   |        |
+| Minion                 | Lacaio                   |        |
+| Mugged                 | Roubado                  |        |
+| Plated Armor           | Armadura Chapeada        |        |
+| Play                   | Jogar                    |        |
+| Poison                 | Veneno                   |        |
+| Potion                 | Poção                    |        |
+| Quest                  | Missão                   |        |
+| Relic                  | Relíquia                 |        |
+| Rest                   | Descansar                |        |
+| Remove                 | Remover                  |        |
+| Retain                 | Manter                   |        |
+| Room                   | Sala                     |        |
+| Run                    | Jornada                  |        |
+| Save                   | Save                     |        |
+| Score                  | Pontuação                |        |
+| Shop                   | Loja                     |        |
+| Shrine                 | Santuário                |        |
+| Shuffle                | Embaralhar               |        |
+| Slain/Killed           | Morto                    |        |
+| Slay                   | Matar                    |        |
+| Smith                  | Forjar                   |        |
+| Special                | Especial                 |        |
+| Spire                  | Pináculo                 |        |
+| Spireblight            | Pragapinacular           | Spire ("Pináculo") + Blight ("Praga") |
+| Spoils                 | Espólios                 |        |
+| Standard               | Padrão                   |        |
+| Strength               | Força                    |        |
+| Stunned                | Atordoado                |        |
+| Take (damage)          | Receber (dano)           |        |
+| Tip                    | Dica                     |        |
+| Toke                   | Pitar                    | Gíria  |
+| Transform              | Transformar              |        |
+| Treasure               | Tesouro                  |        |
+| Turn                   | Turno                    |        |
+| Unlocked               | Desbloqueada             |        |
+| Unknow                 | Desconhecida             |        |
+| Upgrade                | Aprimorar                |        |
+| Vanquished             | Vencido                  |        |
+| Vulnerable             | Vulnerável               |        |
+| Weak                   | Fraqueza                 |        |
