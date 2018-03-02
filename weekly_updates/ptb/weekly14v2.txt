@@ -1,0 +1,56 @@
+[img]http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/29087962/af767ee73324c80ec858186e35aadbb803177c23.jpg[/img]
+
+Patch 14 está aqui!
+
+[h1]Escalada Diária[/h1]
+Uma vez por dia, um difícil desafio é criado pela combinação de vários modificadores que quebram as regras. O mesmo seed é utilizado por todos então a Escalada Diária permite jogadores verem o quão bem se comparam com as mesmas escolhas.
+Este é um trabalho em progresso e modificadores serão adicionados e ajustados, aleatorização será reduzida, e tabelas de classificação serão eventualmente adicionadas também.
+
+[img]http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/29087962/9e0fc991105fda50530a91acd233814cbb8226be.jpg[/img]
+[i]O que estes fazem?[/i]
+
+[h1]Localização[/h1]
+Traduções para Português do Brasil, Norueguês, Polonês, e Tailandês agora estão disponíveis.
+Slay the Spire agora é traduzido para 15 linguagens, isso é Loucura/Безумие/疯狂!
+Para os 75% de vocês que não estão jogando em Inglês, dêem a eles o seu obrigado.
+
+[h1]Mais Música[/h1]
+Nova música de plano de fundo de Clark Aboud! Cada Ato agora tem uma trilha alternativa, estas são aleatorizadas por jornada.
+
+[h1]Férias[/h1]
+Um dos nossos desenvolvedores (Dica: Sou eu) está indo de férias para uma terra distante. Devido a isto, NÃO haverá um patch na próxima semana. Desculpe! Todos nós precisamos de uma pausa às vezes.
+
+[b]Notas do Patch:[/b]
+
+[h1]UI e Efeitos[/h1]
+[list]
+[*]Melhorias no texto do Evento Clérigo.
+[*]Compressas várias imagens da UI para reduzir o uso de espaço de disco.
+[*]Diárias adicionadas ao Histórico de Jornadas. Ainda tem alguns problemas.
+[*]Amuleto de Pedra Negra e Pintura de Guerra agora têm descrições.
+[*]Diminuído o espaçamento de linhas em cartas (permite descrições de cartas com 6 linhas- ajuda algumas linguagens).
+[*]Se o título MenuPanel é muito longo, o tamanho da fonte é reduzido e muda para uma nova linha.
+[*]No Modo Rápido, os lacaios do Gremlin Líder são gerados muito mais rápido.
+[*]Cabeçalhos da tela Tabelas de Classificação agora usam a mesma fonte que outras telas.
+[*]Unida uma fonte duplicada, reduzindo requisitos de memória.
+[*]Novas animações para O Despertado.
+[*]Novas animações para Donu & Deca.
+[*]Novas animações para o Gremlin Líder.
+[*]Removidos vários recursos e animações não utilizados.
+[*]Tela Histórico de Jornadas agora pode filtrar jornadas por Tipo de Jogo.
+[*]Tela Histórico de Jornadas agora mostra uma linha do tempo de salas entradas.
+[*]Mudadas as posições de Donu & Deca para que a ordem de ataque seja esquerda -> direita.
+[/list]
+
+[h1]Correções de Bug[/h1]
+[list]
+[*]Galho Seco agora utiliza um RNG adequado (resultados não diferenciam ao salvar/carregar).
+[*]Consertado problema onde a recompensa de carta rara do Neow retornava a carta fonte ao invés de uma cópia.
+[*]Consertado problema onde algumas bolhas de fala estavam sendo dispensadas instantaneamente para alguns monstros.
+[*]Consertado problemas de centralização de texto para as descrições do painel do menu principal.
+[*]Pau Para Toda Obra tem texto correto quando aprimorada.
+[*]RNG de PV de monstros, ia, embaralhamento, aleatoriedade de carta, e misc agora são criados com seeds diferentes por andar (havia alguma previsibilidade).
+[*]Utilizando BufferedOutputStream quando salvando arquivos para melhorar estabilidade.
+[/list]
+
+Vejo vocês na próxima próxima semana!
