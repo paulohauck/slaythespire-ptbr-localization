@@ -1,0 +1,56 @@
+[img]http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/29087962/af767ee73324c80ec858186e35aadbb803177c23.jpg[/img]
+
+Patch 14 is here!
+
+[h1]Daily Climb[/h1]
+Once a day, a difficult challenge is created by combining several rule bending modifiers. The same seed is utilized by everyone so the Daily Climb allows players to see how well they stack up with the same choices.
+This a work in progress and modifiers will be added and tweaked, randomization will be reduced, and leaderboards will eventually be added as well.
+
+[img]http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/29087962/9e0fc991105fda50530a91acd233814cbb8226be.jpg[/img]
+[i]What do these do?[/i]
+
+[h1]Localization[/h1]
+Brazilian Portuguese, Norwegian, Polish, and Thai translations are now available.
+Slay the Spire is now translated into 15 languages, that's Madness/Безумие/疯狂!
+To the 75% of you who aren't playing it in English, be sure to give them your thanks.
+
+[h1]More Music[/h1]
+New background music from Clark Aboud! Each Act now has an alternative track, these are randomized per run.
+
+[h1]Vacation[/h1]
+One of our developers (Hint: It's me) is going on vacation to a faraway land. Due to this, there will NOT be a patch next week. Sorry! We all need a break sometimes.
+
+[b]Patch Notes:[/b]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Cleric Event text improvements.
+[*]Compressed various UI images to reduce disk space usage.
+[*]Dailies added to Run History. Still has some issues.
+[*]Darkstone Periapt and War Paint now have flavor descriptions.
+[*]Decreased line spacing on cards (allows for card descriptions with 6 lines- helps some languages).
+[*]If a MenuPanel title is too long, the font size is reduced in size and wraps to a new line.
+[*]In Fast Mode, Gremlin Leader's minions spawn a lot faster.
+[*]Leaderboard screen's headers now use same font as the other screens.
+[*]Merged a duplicate font, reducing memory requirements.
+[*]New animations for Awakened One.
+[*]New animations for Donu & Deca.
+[*]New animations for the Gremlin Leader.
+[*]Removed a several unused assets and animations.
+[*]Run History screen can now filter runs by Game Type.
+[*]Run History screen now shows a timeline of rooms entered.
+[*]Swapped Donu & Deca's positions so the attack order is left -> right.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Dead Branch now utilizes a proper RNG (results don't differ on save/load).
+[*]Fixed issue where Neow's random rare card reward returned the source card rather than a copy.
+[*]Fixed issue where some speech bubbles were being dismissed instantly for some monsters.
+[*]Fixed text centering issues for main menu panel descriptions.
+[*]Jack of All Trades has correct wording when upgraded.
+[*]monsterHp, ai, shuffle, cardRnadom, and misc RNG are now created with different seeds per floor (there was some predictability).
+[*]Utilizing BufferedOutputStream when saving files to improve stability.
+[/list]
+
+See you next next week!
