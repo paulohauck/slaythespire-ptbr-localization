@@ -751,6 +751,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Intends                | Tem intenção de         |        |
 | Intent                 | Intenção                |        |
 | Interrupted            | Interrompido            |        |
+| Leaderboards           | Tabelas de Classificação |        |
 | Leave                  | Sair                    |        |
 | Level                  | Nível                   |        |
 | Locked                 | Bloqueado               |        |
