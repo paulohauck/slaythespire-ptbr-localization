@@ -528,7 +528,7 @@
     "NAME": "Pergaminho Ninja",
     "FLAVOR": "Contém os segredos de assassinato.",
     "DESCRIPTIONS": [
-      "Comece cada turno com #b",
+      "Comece cada combate com #b",
       " #yEstoques na sua mão."
     ]
   },
