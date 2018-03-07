@@ -1,54 +1,62 @@
 {
-	"Cursed Run": {
-		"NAME": "Jornada Amaldiçoada",
-		"DESCRIPTION": "Sempre que você derrotar um Chefe, seja Amaldiçoado. Sua relíquia inicial é trocada por Chave Amaldiçoada, Amuleto de Pedra Negra, e Boneco Du-Vu."
-	},
-	"Elite Swarm": {
-		"NAME": "Caçador de Grandes Presas",
-		"DESCRIPTION": "Inimigos de elite agora estão infestando o Pináculo e deixam recompensas melhores."
-	},
-	"Heirloom": {
-		"NAME": "Herança",
-		"DESCRIPTION": "Comece com 1 relíquia Rara."
-	},
-	"Lethality": {
-		"NAME": "Letalidade",
-		"DESCRIPTION": "Você começa cada combate com +3 de Força. Todos os inimigos começam o combate com +3 de Força."
-	},
-	"Night Terrors": {
-		"NAME": "Terrores Noturnos",
-		"DESCRIPTION": "Descansar em Locais de Descanso cura 100% do seu PV, mas custa 5 PV máximo."
-	},
-	"Insanity": {
-		"NAME": "Insanidade",
-		"DESCRIPTION": "Comece com um baralho aleatório de 50 cartas."
-	},
-	"Shiny": {
-		"NAME": "Cintilante",
-		"DESCRIPTION": "Comece com 1 carta Rara."
-	},
-	"Allstar": {
-		"NAME": "Profissional",
-		"DESCRIPTION": "Comece com 2 cartas incolores."
-	},
-	"Diverse": {
-		"NAME": "Diverso",
-		"DESCRIPTION": "Comece com 2 cartas de outra classe."
-	},
-	"Uncertain Future": {
-		"NAME": "Futuro Certo",
-		"DESCRIPTION": "O mapa contém apenas um caminho."
-	},
-	"Binary": {
-		"NAME": "Binário",
-		"DESCRIPTION": "Recompensas de carta contém apenas 2 cartas."
-	},
-	"Midas": {
-		"NAME": "Midas",
-		"DESCRIPTION": "Inimigos deixam 200% a mais de ouro, mas você não pode aprimorar cartas em Locais de Descanso."
-	},
-	"Vintage": {
-		"NAME": "Vintage",
-		"DESCRIPTION": "Inimigos normais deixam relíquias ao invés de cartas."
-	}
+  "Cursed Run": {
+    "NAME": "Jornada Amaldiçoada",
+    "DESCRIPTION": "Sempre que você derrotar um Chefe, seja Amaldiçoado. Sua relíquia inicial é trocada por Chave Amaldiçoada, Amuleto de Pedra Negra, e Boneco Du-Vu."
+  },
+  "Elite Swarm": {
+    "NAME": "Caçador de Grandes Presas",
+    "DESCRIPTION": "Inimigos de elite agora estão infestando o Pináculo e deixam recompensas melhores."
+  },
+  "Heirloom": {
+    "NAME": "Herança",
+    "DESCRIPTION": "Comece com 1 relíquia Rara."
+  },
+  "Lethality": {
+    "NAME": "Letalidade",
+    "DESCRIPTION": "Você começa cada combate com +3 de Força. Todos os inimigos começam o combate com +3 de Força."
+  },
+  "Night Terrors": {
+    "NAME": "Terrores Noturnos",
+    "DESCRIPTION": "Descansar em Locais de Descanso cura 100% do seu PV, mas custa 5 PV máximo."
+  },
+  "Insanity": {
+    "NAME": "Insanidade",
+    "DESCRIPTION": "Comece com um baralho aleatório de 50 cartas."
+  },
+  "Shiny": {
+    "NAME": "Cintilante",
+    "DESCRIPTION": "Comece com 1 carta Rara."
+  },
+  "Allstar": {
+    "NAME": "Profissional",
+    "DESCRIPTION": "Comece com 2 cartas incolores."
+  },
+  "Diverse": {
+    "NAME": "Diverso",
+    "DESCRIPTION": "Comece com 2 cartas de outra classe."
+  },
+  "Uncertain Future": {
+    "NAME": "Futuro Certo",
+    "DESCRIPTION": "O mapa contém apenas um caminho."
+  },
+  "Binary": {
+    "NAME": "Binário",
+    "DESCRIPTION": "Recompensas de carta contém apenas 2 cartas."
+  },
+  "Midas": {
+    "NAME": "Midas",
+    "DESCRIPTION": "Inimigos deixam 200% a mais de ouro, mas você não pode aprimorar cartas em Locais de Descanso."
+  },
+  "Terminal": {
+    "NAME": "Terminal",
+    "DESCRIPTION": "Sempre que você entra em uma nova sala, perca 1 PV Máximo. Comece cada combate com 5 Armadura Chapeada."
+  },  
+  "Time Dilation": {
+    "NAME": "Dilatação do Tempo",
+    "DESCRIPTION": "Todos os inimigos ficam Lentos."
+  },
+  "Vintage": {
+    "NAME": "Vintage",
+    "DESCRIPTION": "Inimigos normais deixam relíquias ao invés de cartas."
+  }
 }
