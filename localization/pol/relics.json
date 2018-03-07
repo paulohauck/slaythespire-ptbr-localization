@@ -84,7 +84,7 @@
     "NAME": "Niebieska świeca",
     "FLAVOR": "Im większy mrok, tym jaśniejszy świecy jest blask.",
     "DESCRIPTIONS": [
-      "Możesz grać kartami #yKlątw. NL NL Zagrywając #yKlątwę utracisz #b",
+      "Możesz grać kartami #yKlątw. NL Zagrywając #yKlątwę utracisz #b",
       " PŻ, a zagrana karta zostanie #ywykluczona."
     ]
   },
@@ -321,7 +321,7 @@
   },
   "Gambling Chip": {
     "NAME": "Żeton pokerowy",
-    "FLAVOR": "Dostrzegasz na nim małą inskrypcję, która mówi „Szczęśliwy żeton niedźwiedzia!”",
+    "FLAVOR": "Dostrzegasz na nim małą inskrypcję, która mówi: „Szczęśliwy żeton niedźwiedzia!”",
     "DESCRIPTIONS": [
       "Na początku każdej walki, odrzuć dowolną liczbę kart i dobierz tyle samo."
     ]
@@ -337,7 +337,7 @@
     "NAME": "Giria",
     "FLAVOR": "Ta giria jest niesamowicie ciężka. Gdyby użyć jej jako ciężarka, twoja postać stałaby się o wiele silniejsza.",
     "DESCRIPTIONS": [
-      "Możesz teraz zyskać #ySiłę w obozowiskach (maks. 3 razy)."
+      "Możesz teraz zyskać #ySiłę w obozowiskach (maksymalnie 3 razy)."
     ]
   },
   "Golden Idol": {
@@ -420,7 +420,7 @@
     "NAME": "Jaszczurzy ogon",
     "FLAVOR": "Sztuczny ogon, służący do zmylenia przeciwników.",
     "DESCRIPTIONS": [
-      "W przypadku śmierci otrzymujesz #b50% maks. PŻ (jednorazowo)."
+      "W przypadku śmierci odzyskujesz #b50% maksymalnych PŻ (jednorazowo)."
     ]
   },
   "Magic Flower": {
@@ -642,7 +642,7 @@
     "NAME": "Gruszka",
     "FLAVOR": "Zwyczajny owoc sprzed plagi.",
     "DESCRIPTIONS": [
-      "Podnosi maks. liczbę PŻ o #b"
+      "Podnosi maksymalną liczbę PŻ o #b"
     ]
   },
   "Pen Nib": {
@@ -673,7 +673,7 @@
     "NAME": "Karta pytań",
     "FLAVOR": "„Ci, którzy mają większy wybór, minimalizują chaos.” - Kublai Wielki",
     "DESCRIPTIONS": [
-      "Na ekranie wyboru nowej karty, dobieraj z #b4 kart zamiast #b3."
+      "Na ekranie wyboru nowej karty, wybieraj z puli o #y1 #ykartę #ywiększej."
     ]
   },
   "Red Circlet": {
@@ -710,7 +710,7 @@
   "Ring of the Serpent": {
     "NAME": "Pierścień wyższego węża",
     "DESCRIPTIONS": [
-      "Podmienia #gPierścień #gwęża. Kiedy pokonasz #yelitarną #jednostkę, zwiększ maks. liczbę PŻ o #b"
+      "Podmienia #gPierścień #gwęża. Kiedy pokonasz #yelitarną #jednostkę, zwiększ maksymalną liczbę PŻ o #b"
     ]
   },
   "Runic Cube": {
@@ -768,7 +768,7 @@
     "NAME": "Rozbrzmiewająca miska",
     "FLAVOR": "Ten mocno wyeksploatowany artefakt wydaje piękny dźwięk przy stuknięciu w niego.",
     "DESCRIPTIONS": [
-      "Za każdym razem, gdy pominiesz dodanie karty, zwiększ maks. liczbę PŻ o #b+2."
+      "Za każdym razem, gdy pominiesz dodanie karty, zwiększ maksymalną liczbę PŻ o #b+2."
     ]
   },
   "Smiling Mask": {
@@ -830,7 +830,7 @@
     "NAME": "Truskawka",
     "FLAVOR": "„Pyszna! Nie widziałem ich wiele od czasu zarazy.”- Ranwid",
     "DESCRIPTIONS": [
-      "Podnosi maks. liczbę PŻ o #b"
+      "Podnosi makssymalną liczbę PŻ o #b"
     ]
   },
   "Sundial": {
@@ -854,7 +854,7 @@
   },
   "War Paint": {
     "NAME": "Barwy wojenne",
-    "FLAVOR": "Brakuje opisu.",
+    "FLAVOR": "Niegdyś, przed ruszeniem do ataku, klan Pancerników oznaczał wojowników specjalną farbą, która miała wspomagać ich w walce.",
     "DESCRIPTIONS": [
       "Przy podniesieniu, #yulepsz #b",
       " losowe #yUmiejętności."
@@ -862,9 +862,9 @@
   },
   "Darkstone Periapt": {
     "NAME": "Kamienny amulet",
-    "FLAVOR": "Brakuje opisu.",
+    "FLAVOR": "Amulet czerpie moc z mrocznej energii, wzmacniając siły witalne noszącego.",
     "DESCRIPTIONS": [
-      "Kiedykolwiek otrzymasz #yKlątwę, liczba maks. PŻ zostaje zwiększona o #b"
+      "Kiedykolwiek otrzymasz #yKlątwę, liczba maksymalnych PŻ zostaje zwiększona o #b"
     ]
   },
   "Test 1": {
@@ -973,7 +973,7 @@
     "FLAVOR": "„Niemal perfekcyjny przykład miniaturyzacji. Moja najlepsza praca do tej pory, ale wciąż nieskończona.” - Architekt",
     "DESCRIPTIONS": [
       "Otrzymaj #b1 miksturę. NL Otrzymaj #b",
-      " szt. #yzłota. NL Zwiększ liczbę maks. PŻ o #b",
+      " szt. #yzłota. NL Zwiększ liczbę maksymalnych PŻ o #b",
       ". NL Otrzymaj #b1 kartę. NL Ulepsz #b1 losową kartę.",
       "Tyci domek!"
     ]
@@ -1048,7 +1048,7 @@
     "NAME": "Gofry od Lee",
     "FLAVOR": "„Najlepszy przysmak w całej Iglicy! Upieczony dzisiaj specjalnie dla ciebie.”",
     "DESCRIPTIONS": [
-      "Podnieś maks. liczbę PŻ o #b",
+      "Podnieś maksymalną liczbę PŻ o #b",
       " i przywróć utracone PŻ."
     ]
   },

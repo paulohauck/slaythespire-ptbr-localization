@@ -1,70 +1,62 @@
 {
   "Cursed Run": {
     "NAME": "Partita Maledetta",
-    "DESCRIPTION": "Quando sconfiggi un Boss vieni Maledetto."
+    "DESCRIPTION": "Quando sconfiggi un Boss vieni Maledetto. La tua reliquia iniziale viene sostituita da: Chiave Maledetta, Amuleto Pietrascura e Bambola Du-Vu."
   },
   "Elite Swarm": {
     "NAME": "Sciame di Elite",
-    "DESCRIPTION": "La Guglia brulica di Elite."
-  },
-  "Greed": {
-    "NAME": "Avidità",
-    "DESCRIPTION": "Non puoi ignorare le ricompense."
-  },
-  "Growing Enemies": {
-    "NAME": "Nemici in Crescita",
-    "DESCRIPTION": "I nemici diventano più forti ogni turno."
+    "DESCRIPTION": "La Guglia brulica di Elite che una volta sconfitti offrono ricompense migliori."
   },
   "Heirloom": {
     "NAME": "Eredità",
-    "DESCRIPTION": "Cominci con una reliquia casuale."
+    "DESCRIPTION": "Cominci con una reliquia Rara."
   },
-  "Lethal Enemies": {
+  "Lethality": {
     "NAME": "Nemici Mortali",
-    "DESCRIPTION": "Tutti i nemici partono con 3 di Forza."
+    "DESCRIPTION": "Cominci ogni combattimento con 3 di Forza in più. Tutti i nemici partono con 3 di Forza."
   },
   "Night Terrors": {
     "NAME": "Incubi",
-    "DESCRIPTION": "Riposare ti cura del 20% dei tuoi PV, invece che del 30%."
+    "DESCRIPTION": "Riposare ti cura del 100% dei tuoi PV, ma costa 5 PV massimi."
   },
-  "Restless Journey": {
-    "NAME": "Viaggio Estenuante",
-    "DESCRIPTION": "Non ti curi una volta raggiunto il nuovo atto."
-  },
-  "Slow Start": {
-    "NAME": "Partenza Lenta",
-    "DESCRIPTION": "Cominci con un Colpo ed un Difendi in più."
-  },
-  "Tough Enemies": {
-    "NAME": "Nemici Resistenti",
-    "DESCRIPTION": "I nemici hanno il 25% di PV in più."
+  "Insanity": {
+    "NAME": "Pazzia",
+    "DESCRIPTION": "Cominci con un mazzo di 50 carte casuali."
   },
   "Shiny": {
-    "NAME": "Sbrillucicante",
+    "NAME": "Luccichio",
     "DESCRIPTION": "Cominci con 1 carta Rara casuale."
   },
   "Allstar": {
-    "NAME": "All Star",
+    "NAME": "I Migliori",
     "DESCRIPTION": "Cominci con 2 carte incolore casuali."
   },
   "Diverse": {
     "NAME": "Differente",
     "DESCRIPTION": "Cominci con 2 carte di un altra classe."
   },
-  "Vintage": {
-    "NAME": "Vintage",
-    "DESCRIPTION": "I prezzi del mercante sono aumentati del 25%."
+  "Uncertain Future": {
+    "NAME": "Futuro Certo",
+    "DESCRIPTION": "C'è solo una strada percorribile sulla mappa."
   },
   "Binary": {
-    "NAME": "Binary",
-    "DESCRIPTION": "Card rewards contain only 2 cards."
-  },
-  "Uncertain Future": {
-    "NAME": "Uncertain Future",
-    "DESCRIPTION": "The map shows only ?."
+    "NAME": "Binario",
+    "DESCRIPTION": "Quando ottieni una carta, scegli fra 2 invece che 3."
   },
   "Midas": {
-    "NAME": "Midas",
-    "DESCRIPTION": "Enemies drop 200% more gold, but you cannot upgrade cards at Rest Sites."
+    "NAME": "Re Mida",
+    "DESCRIPTION": "I nemici garantiscono il #b200% #yd'Oro in più ma non puoi più Potenziare carte ai Falò."
+  },
+  "Vintage": {
+    "NAME": "Vintage",
+    "DESCRIPTION": "I nemici Normali offrono reliquie invece che carte."
+  },
+  "Terminal": {
+    "NAME": "Terminal",
+    "DESCRIPTION": "Whenever you enter a new room, lose 1 Max HP. Start each combat with 5 Plated Armor."
+  },
+  "Time Dilation": {
+    "NAME": "Time Dilation",
+    "DESCRIPTION": "All enemies become Slow."
   }
 }

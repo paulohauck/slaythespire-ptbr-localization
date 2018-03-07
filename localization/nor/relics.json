@@ -29,8 +29,8 @@
     "NAME": "Klinkekuler",
     "FLAVOR": "Var en gang et populært leketøy i byen. Er svært nyttig til å få fiender til å miste balansen.",
     "DESCRIPTIONS": [
-      "I starten av hver kamp, #ySvekk ALLE fiender med #b",
-      "."
+      "I starten av hver kamp, gjør ALLE fiender #b",
+      " #ySårbare."
     ]
   },
   "Bag of Preparation": {
@@ -384,7 +384,7 @@
     "NAME": "Brevåpner",
     "FLAVOR": "Unaturlig skarp.",
     "DESCRIPTIONS": [
-      "Hver gang du spiller #b3 #yEgenskapskor på en enkelt runde, påfører du ALLE fiender #b",
+      "Hver gang du spiller #b3 #yEgenskapskort i en enkelt runde, påfører du ALLE fiender #b",
       " Skade."
     ]
   },
@@ -444,7 +444,7 @@
     "NAME": "Medisinskrin",
     "FLAVOR": "\"Har alt du trenger! Anti-klø, anti-gift, og mer!!\"",
     "DESCRIPTIONS": [
-      "#yStatuskort kan nå spilles. Spiller du et #yStatuskort #yVrakes kortet."
+      "#yStatuskort kan nå spilles. Spiller du et #yStatuskort, #yVrakes kortet."
     ]
   },
   "Membership Card": {
@@ -455,7 +455,7 @@
     ]
   },
   "Mercury Hourglass": {
-    "NAME": "Timeglass fylt med kvikksølv",
+    "NAME": "Timeglass med kvikksølv",
     "FLAVOR": "Et forhekset timeglass som drypper evig.",
     "DESCRIPTIONS": [
       "I starten av runden påfører du ALLE fiender #b",
@@ -642,7 +642,7 @@
     ]
   },
   "Prayer Wheel": {
-    "NAME": "Bedehjul",
+    "NAME": "Bønnehjul",
     "FLAVOR": "Hjulet slutter aldri å snurre.",
     "DESCRIPTIONS": [
       "Kister som ikke er Høvdingkister inneholder nå også kort."
@@ -652,7 +652,7 @@
     "NAME": "Ukjent kort",
     "FLAVOR": "\"De som har flere valg minimaliserer ulempene ved kaos.\" - Kublai den Store.",
     "DESCRIPTIONS": [
-      "Når du får kortbelønninger, kan du velge mellom #b4 kort isteden for #b3."
+      "Når du får kort som belønning, vil du kunne velge mellom #y1 #yekstra #ykort."
     ]
   },
   "Red Circlet": {
@@ -833,7 +833,7 @@
   },
   "War Paint": {
     "NAME": "Krigsmaling",
-    "FLAVOR": "\"Hvis man skal ut i kamp, må man ikle seg rollen ordentlig.\" - Ranwid.",
+    "FLAVOR": "I gamle dager brukte de Jernkledde å beskytte seg mot det onde ved å bruke forhekset krigsmaling før de gikk i kamp.",
     "DESCRIPTIONS": [
       "Når du plukker opp denne, får du #yOppgradere #b",
       " tilfeldige #yEgenskapskort."
@@ -841,7 +841,7 @@
   },
   "Darkstone Periapt": {
     "NAME": "Et smykke av mørkestein",
-    "FLAVOR": "Mangler beskrivelse.",
+    "FLAVOR": "Steinen får sin kraft fra mørk energi, og gjør det om til styrke for den som bærer smykket.",
     "DESCRIPTIONS": [
       "Når du får et #yForbannelseskort, øker du Max HP med #b"
     ]
@@ -916,8 +916,8 @@
     ]
   },
   "The Specimen": {
-    "NAME": "Testprøven",
-    "FLAVOR": "\"Fasinerende! Jeg fant en mutert skapning som viste utrolige giftige egenskaper. Jeg tar med meg en prøve for å se nærmere på den senere.\" - Ranwid",
+    "NAME": "Eksemplaret",
+    "FLAVOR": "\"Fasinerende! Jeg fant en mutert skapning som viste utrolige giftige egenskaper. Jeg tar med meg et eksemplar for å se nærmere på den senere.\" - Ranwid",
     "DESCRIPTIONS": [
       "Når en fiende dør kan du overføre all #yGiften den er påført til en tilfeldig fiende."
     ]
@@ -989,7 +989,7 @@
     ]
   },
   "Toy Ornithopter": {
-    "NAME": "Lekehelikopter",
+    "NAME": "Lekefly",
     "FLAVOR": "\"Denne lille leken er den perfekte følgesvenn for en ensom eventyrer!\"",
     "DESCRIPTIONS": [
       "Når du bruker en trylledrikk helbreder du #b",
@@ -1024,7 +1024,7 @@
     ]
   },
   "Lee's Waffle": {
-    "NAME": "Lees vaffel",
+    "NAME": "Lee sin vaffel",
     "FLAVOR": "\"Den mest smakfulle av desserter i hele Tårnet. Bakt i dag, kun for deg!\"",
     "DESCRIPTIONS": [
       "Øk Max HP med #b",
