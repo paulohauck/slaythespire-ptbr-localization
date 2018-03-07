@@ -727,7 +727,9 @@
       "[Compre 2 Poções] #y",
       "[Compre 3 Poções] #y",
       " #yOuro",
-      "[Sair]"
+      "[Sair]",
+      "[Sair] #rReceba #r",
+      " #rde #rDano."
     ]
   }
 }
