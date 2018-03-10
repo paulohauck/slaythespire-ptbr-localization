@@ -797,3 +797,4 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Vanquished             | Vencido                  |        |
 | Vulnerable             | Vulnerável               |        |
 | Weak                   | Fraqueza                 |        |
+| Winstreak              | Sequência de Vitórias    |        |

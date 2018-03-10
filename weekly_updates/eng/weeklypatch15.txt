@@ -1,0 +1,60 @@
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/853eb991194ceaea9d3d36171fa3fce26b2b8c88.jpg[/img]
+
+Casey is still enjoying his vacation till later next week. Although originally we did not plan on a patch this week, I decided to release a small update focusing on improvements to the daily climbs! 
+
+[h1]Daily Climb Changes[/h1]
+The Daily Climb has been heavily altered based on your feedback!
+
+There are now only 3 mods total for each day instead of 4. Additionally, the seed that chooses the mods will now only very rarely pick the same mod two days in a row (and never more than two in a row). This means you will not get stuck facing down the same modifiers day after day. 
+
+Additionally, many of the mods were altered or reworked to focus more on creating interesting situations instead of being straight difficulty raisers. 
+
+Finally, the Daily now has it's own leaderboard that can be seen on the Daily screen itself. 
+
+The Daily Climb is still a work in progress, so please continue to provide feedback and suggestions, but these changes should make the overall daily experience more enjoyable to play. 
+
+[b]Patch Notes:[/b]
+
+[h1]Gameplay[/h1]
+[list]
+[*]Dailies should no longer have the previous day's mods.
+[*]Hexaghost AI is much less random. (No more occasional difficulty spikes based on how often he strength buffs)
+[*]Bosses now give +50 more score per Act. (Act 2 Boss is worth 100, Act 3 Boss is worth 150).
+[*]Fastest victory is not updated/uploaded on victory if Daily Climb.
+[*]Winstreaks are no longer updated/uploaded on victory if Daily Climb.
+[/list]
+
+[h1]Daily[/h1]
+[list]
+[*]New Daily mod: Time Dilation.
+[*]New Daily mod: Terminal.
+[*]Dailies now use 3 mods instead of 4.
+[*]Several daily mods are reworked or altered.
+[*]Daily Climbs now have leaderboards (global only at the moment).
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Fixed issue where Gremlin Thief stopped using Ascension 2 damage after first hit.
+[*]Night Terrors now only decrements Max HP when you rest.
+[*]Fix for Bronze Orb AI getting stuck in an incorrect state.
+[*]Daily Runs now appear in Run History (again!)
+[*]Cleric now shows and uses correct gold costs on Ascension 15.
+[*]Woman in Blue event now correctly describes what happens on Ascension 15.
+[*][Lose 50% of Current HP] option now deals the correct amount of damage in all situation.
+[*]Enchiridion cost should only set for one turn.
+[*]Beggar Event now correctly displays the tip for what you are choosing for the card selection screen.
+[*]Question Card wording now accurately reflects what it does when accounting for other effects like Binary.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Updates for POL, ZHT, ITA, JPN, PTB, ZHS, NOR
+[/list]
+
+[h1]Performance[/h1]
+[list]
+[*]Increase time lookup retry limit.
+[/list]
+
+See you next week!

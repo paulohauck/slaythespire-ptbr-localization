@@ -1,0 +1,60 @@
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/853eb991194ceaea9d3d36171fa3fce26b2b8c88.jpg[/img]
+
+Casey ainda está aproveitando suas férias até mais tarde da próxima semana. Embora originalmente nós não planejássemos um patch nesta semana, eu decidi lançar uma pequena atualização focando em melhorias às escaladas diárias!
+
+[h1]Mudanças da Escalada Diária[/h1]
+A Escalada Diária foi fortemente alterada se baseando no seu feedback!
+
+Agora só se tem 3 modificadores no total para cada dia ao invés de 4. Adicionalmente, a seed que escolhe os modificadores agora vai apenas muito raramente escolher o mesmo modificador dois dias em sequência (e nunca mais do que dois em sequência). Isto significa que você não vai ficar preso enfrentando os mesmos modificadores dia após dia. 
+
+Adicionalmente, muitos dos modificadores foram alterados ou retrabalhados para focar mais em criar situações interessantes ao invés de serem diretamente um aumentador de dificuldade. 
+
+Finalmente, a Diária agora tem sua própria tabela de classificação que pode ser vista na própria tela da Diária. 
+
+A Escalada Diária ainda é um trabalho em progresso, então por favor continuem a mandar feedback e sugestões, mas estas mudanças devem fazer a experiência diária geral mais agradável para jogar. 
+
+[b]Notas do Patch:[/b]
+
+[h1]Jogabilidade[/h1]
+[list]
+[*]Diárias não devem mais ter os modificadores do dia anterior.
+[*]IA do Hexafantasma é muito menos aleatória. (Sem mais ocasionais aumentos de dificuldade baseados no quão frequentemente ele recebe efeitos positivos de força)
+[*]Chefes agora dão +50 a mais de pontuação por Ato. (O Chefe do Ato 2 vale 100, o Chefe do Ato 3 vale 150).
+[*]A vitória mais rápida não é atualizada/enviada ao vencer se na Escalada Diária.
+[*]Sequências de Vitórias não são mais atualizadas/enviadas ao vencer se na Escalada Diária.
+[/list]
+
+[h1]Diária[/h1]
+[list]
+[*]Novo modificador de Diária: Dilatação do Tempo.
+[*]Novo modificador de Diária: Terminal.
+[*]Diárias agora usam 3 modificadores ao invés de 4.
+[*]Vários modificadores de diária foram retrabalhados ou alterados.
+[*]Escaladas Diárias agora têm tabelas de classificação (apenas global no momento).
+[/list]
+
+[h1]Correções de Bug[/h1]
+[list]
+[*]Consertado problema onde Gremlin Furtivo parava de usar o dano da Ascensão 2 depois do primeiro ataque.
+[*]Terrores Noturnos agora apenas decrementa PV Máximo quando você descansa.
+[*]Conserto para a IA do Orbe ficando presa em um estado incorreto.
+[*]Jornadas Diárias agora aparecem no Histórico de Jornadas (de novo!)
+[*]Clérigo agora mostra e usa custos corretos de ouro na Ascensão 15.
+[*]Evento Mulher de Azul agora corretamente descreve o que acontece na Ascensão 15.
+[*]Opção [Perca 50% do PV Atual] agora causa a quantia correta de dano em todas as situações.
+[*]O custo do Enquirídio deveria ser fixado apenas por um turno.
+[*]Evento Mendigo agora mostra corretamente a dica do que você está escolhendo para a tela de seleção de carta.
+[*]Texto da Carta de Interrogação agora reflete precisamente o que ela faz quando levando em conta outros efeitos como Binário.
+[/list]
+
+[h1]Localização[/h1]
+[list]
+[*]Atualizações para POL, ZHT, ITA, JPN, PTB, ZHS, NOR
+[/list]
+
+[h1]Desempenho[/h1]
+[list]
+[*]Aumento do limite para repetição de pesquisa de tempo.
+[/list]
+
+Vejo vocês na próxima semana!
