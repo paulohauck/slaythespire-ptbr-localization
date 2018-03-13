@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Golpe Baixo",
-    "DESCRIPTION": "Injogável. NL Se esta carta for descartada da sua mão, cause !D! de dano a um inimigo aleatório.",
+    "DESCRIPTION": "Cause !D! de dano. NL Se você descartou uma carta neste turo, ganhe [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Eu não posso jogar esta carta."
     ]
