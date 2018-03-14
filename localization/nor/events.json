@@ -726,10 +726,10 @@
       "[Kjøp 1 trylledrikk] #y",
       "[Kjøp 2 trylledrikker] #y",
       "[Kjøp 3 trylledrikker] #y",
-      " #ygull",
+      " #yGull",
       "[Stikk]",
-      "[Leave] #rTake #r",
-      " #rDamage."
+      "[Stikk] #rTa #r",
+      " #rSkade."
     ]
   }
 }

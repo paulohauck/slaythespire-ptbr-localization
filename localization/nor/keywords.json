@@ -196,7 +196,7 @@
         "skadekort",
         "skadekortene"
       ],
-      "DESCRIPTION": "Skader kan ikke spilles, og er statuskort."
+      "DESCRIPTION": "Skadekort kan ikke spilles, og er statuskort."
     },
     "FRAIL": {
       "NAMES": [
