@@ -46,8 +46,8 @@
     "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add !M! Shivs to your hand."
   },
   "Underhanded Strike": {
-    "NAME": "Underhanded Strike",
-    "DESCRIPTION": "Deal !D! damage. NL If you discarded a card this turn, gain [G] [G].",
+    "NAME": "Underhand Strike",
+    "DESCRIPTION": "Deal !D! damage. NL If you discarded a card this turn, NL gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
     	"I can't play this card."	
     ]

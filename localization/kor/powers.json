@@ -249,7 +249,9 @@
     "NAME": "폭발성",
     "DESCRIPTIONS": [
       "죽을 때 당신에게 #b",
-      " 의 피해를 줍니다."
+      " 의 피해를 줍니다.",
+      " damage.",
+      "At the end of its turn, explodes dealing #b"
     ]
   },
   "Feel No Pain": {

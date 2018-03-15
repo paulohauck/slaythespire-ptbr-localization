@@ -58,5 +58,9 @@
   "Vintage": {
     "NAME": "Vintage",
     "DESCRIPTION": "I nemici Normali offrono reliquie invece che carte."
+  },
+  "Hoarder": {
+    "NAME": "Hoarder",
+    "DESCRIPTION": "Whenever you add a card to your deck, add two additional copies. You can no longer remove cards from your deck at the Merchant."
   }
 }

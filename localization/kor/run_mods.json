@@ -58,5 +58,9 @@
   "Vintage": {
     "NAME": "빈티지",
     "DESCRIPTION": "일반 적들의 보상으로 카드가 아닌 유물을 받습니다."
+  },
+  "Hoarder": {
+    "NAME": "Hoarder",
+    "DESCRIPTION": "Whenever you add a card to your deck, add two additional copies. You can no longer remove cards from your deck at the Merchant."
   }
 }

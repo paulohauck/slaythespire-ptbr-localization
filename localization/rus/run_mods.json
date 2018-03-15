@@ -58,5 +58,9 @@
   "Terminal": {
     "NAME": "Лепра",
     "DESCRIPTION": "Вы теряете 1 Макс. ОЗ, когда заходите в новую комнату, и начинаете каждый бой с 5 ед. «Латных доспехов»."
+  },
+  "Hoarder": {
+    "NAME": "Hoarder",
+    "DESCRIPTION": "Whenever you add a card to your deck, add two additional copies. You can no longer remove cards from your deck at the Merchant."
   }
 }

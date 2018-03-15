@@ -249,7 +249,9 @@
     "NAME": "Kamikaze",
     "DESCRIPTIONS": [
       "Inflige #b",
-      " dégâts en mourant."
+      " dégâts en mourant.",
+      " damage.",
+      "At the end of its turn, explodes dealing #b"
     ]
   },
   "Feel No Pain": {

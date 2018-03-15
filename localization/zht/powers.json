@@ -249,7 +249,9 @@
     "NAME": "爆炸",
     "DESCRIPTIONS": [
       "在死亡時，對你造成 #b",
-      " 點傷害。"
+      " 點傷害。",
+      " damage.",
+      "At the end of its turn, explodes dealing #b"
     ]
   },
   "Feel No Pain": {

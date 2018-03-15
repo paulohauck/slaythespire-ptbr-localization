@@ -249,7 +249,9 @@
     "NAME": "Wybuchowość",
     "DESCRIPTIONS": [
       "W momencie śmierci zadaje #b",
-      " pkt. obrażeń."
+      " pkt. obrażeń.",
+      " damage.",
+      "At the end of its turn, explodes dealing #b"
     ]
   },
   "Feel No Pain": {

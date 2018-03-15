@@ -249,7 +249,9 @@
     "NAME": "Взрывчатка",
     "DESCRIPTIONS": [
       "Погибая, наносит вам #b",
-      " урона."
+      " урона.",
+      " damage.",
+      "At the end of its turn, explodes dealing #b"
     ]
   },
   "Feel No Pain": {

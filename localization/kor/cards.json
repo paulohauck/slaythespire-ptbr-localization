@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "비열한 타격",
-    "DESCRIPTION": "사용불가 NL 이 카드가 버려지면 무작위 적에게 !D! 의 피해를 줍니다.",
+    "DESCRIPTION": "!D! 의 피해를 줍니다. NL 이번 턴에 이 카드가 버려지면 [G] [G] 를 얻습니다.",
     "EXTENDED_DESCRIPTION": [
       "이 카드는 사용할 수 없다."
     ]

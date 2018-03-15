@@ -58,5 +58,9 @@
   "Time Dilation": {
     "NAME": "時間膨脹",
     "DESCRIPTION": "所有敵人都擁有「緩慢」特性。"
+  },
+  "Hoarder": {
+    "NAME": "Hoarder",
+    "DESCRIPTION": "Whenever you add a card to your deck, add two additional copies. You can no longer remove cards from your deck at the Merchant."
   }
 }

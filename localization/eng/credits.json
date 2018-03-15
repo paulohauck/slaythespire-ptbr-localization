@@ -107,7 +107,7 @@
 		]
 	},
   "LOC_NOR": {
-    "HEADER": "Norsk Oversettelse",
+    "HEADER": "Norwegian Localization",
     "NAMES": [
       "Eystein Jarp"
     ]
@@ -132,7 +132,7 @@
 		]
 	},
   "LOC_PTB": {
-    "HEADER": "Localização - Português do Brasil",
+    "HEADER": "Brazilian-Portuguese Localization",
     "NAMES": [
       "Guilherme \"GPerego\" Perego",
       "Gustavo \"KomKlave\" Duarte",

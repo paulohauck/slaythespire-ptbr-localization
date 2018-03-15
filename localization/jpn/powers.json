@@ -249,7 +249,9 @@
     "NAME": "爆発",
     "DESCRIPTIONS": [
       "倒すと、　#b",
-      " のダメージを受ける。"
+      " のダメージを受ける。",
+      " damage.",
+      "At the end of its turn, explodes dealing #b"
     ]
   },
   "Feel No Pain": {

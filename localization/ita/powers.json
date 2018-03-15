@@ -249,7 +249,9 @@
     "NAME": "Esplosivo",
     "DESCRIPTIONS": [
       "Quando muore, ti infligge #b",
-      " danni."
+      " danni.",
+      " damage.",
+      "At the end of its turn, explodes dealing #b"
     ]
   },
   "Feel No Pain": {

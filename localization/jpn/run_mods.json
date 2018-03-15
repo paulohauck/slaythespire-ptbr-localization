@@ -58,5 +58,9 @@
   "Vintage": {
     "NAME": "ヴィンテージ",
     "DESCRIPTION": "商人の販売価格が25％上昇する。"
+  },
+  "Hoarder": {
+    "NAME": "Hoarder",
+    "DESCRIPTION": "Whenever you add a card to your deck, add two additional copies. You can no longer remove cards from your deck at the Merchant."
   }
 }

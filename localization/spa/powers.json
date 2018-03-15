@@ -249,7 +249,9 @@
     "NAME": "Explosivo",
     "DESCRIPTIONS": [
       "Al morir, te inflige #b",
-      " de daño."
+      " de daño.",
+      " damage.",
+      "At the end of its turn, explodes dealing #b"
     ]
   },
   "Feel No Pain": {
