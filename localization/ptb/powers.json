@@ -248,8 +248,10 @@
   "Explosive": {
     "NAME": "Explosivo",
     "DESCRIPTIONS": [
-      "Na morte, causa #b",
-      " de dano a você."
+      "Em #b",
+      " turnos, explode causando #b",
+	  " de dano.",
+	  "No final do turno dele, explode causando #b"
     ]
   },
   "Feel No Pain": {
@@ -260,7 +262,7 @@
     ]
   },
   "Fire Breathing": {
-    "NAME": "Cuspir Fogo",
+    "NAME": "Pirofagia",
     "DESCRIPTIONS": [
       "No fim do seu turno, para cada #yAtaque jogado neste turno cause #b",
       " de dano a TODOS os inimigos."
