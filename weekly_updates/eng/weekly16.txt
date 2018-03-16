@@ -1,0 +1,50 @@
+Headline: Weekly Patch 16: Back to Work
+
+[img]http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/29087962/0ae1634238f00e543b3a35772e5f5938d0ee220f.jpg[/img]
+
+Hey everyone,
+
+I just got back from vacation. I heard there was a surprise patch last week? I just found out, what a surprise!
+
+Fortunately, our company is 2 people so there's a patch this week, too.
+Many have asked us if we will be at GDC this year. We will NOT be attending this year, sorry. Good news, we'll be working on the game instead!
+
+[b]Patch Notes[/b]
+
+[h1]Content[/h1]
+[list]
+[*]Daily Mod: Hoarder: Whenever you obtain a card, two extra copies are also obtained. Cards can't be removed at Shops.
+[/list]
+
+[h1]Balance[/h1]
+[list]
+[*]Champ has less randomness in his AI after enraging. Will use Metallicize less.
+[*]Exploder enemy rework. They now explode in 3 turns, deals more damage, and has less HP.
+[*]Hexaghost slightly nerfed on Ascension 4+. (Deals less damage).
+[*]Rage card gets a buff, cost 1 -> 0. Block 4 -> 3.
+[*]Shovel relic now uses reward screen so that you can skip the relic if you do not want it.
+[*]Underhanded Strike card rework: Cost 2: Deal 8 damage. If you have discarded a card this turn, gain 2 Energy.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Cursed Tome Event now uses reward screen for the earned book relic (optional pickup).
+[*]Dailies no longer bring up the Credits screen on victory.
+[*]Falling Event now shows the chosen cards when hovering the event choices.
+[*]Save and Quit in a run now returns the player to the Main Menu instead of closing the game.
+[*]Time Dilation wording improvements.
+[*]Updated animations for Lagavulin.
+[*]You can now view your deck or the map when the grid card select screen is up (Such as The Library event)
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Fixed crash if twitchconfig was empty or invalid.
+[*]Increased timeout on dailies time lookup.
+[*]Moved the twitch button so it isn't covering other buttons.
+[*]Relics and Potions in the shop now correctly set their prices when restocked with the Courier.
+[*]Slow debuff now correctly works with single target cards in multi-enemy combats.
+[*]Split Slimes and other spawned minions should now correctly have the Slow power when Time Dilation mod is on.
+[/list]
+
+Work will now proceed as normal again.

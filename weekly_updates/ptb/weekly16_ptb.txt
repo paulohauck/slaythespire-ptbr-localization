@@ -1,0 +1,50 @@
+Headline: Patch Semanal 16: De Volta ao Trabalho
+
+[img]http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/29087962/0ae1634238f00e543b3a35772e5f5938d0ee220f.jpg[/img]
+
+Ei todo mundo,
+
+Eu acabei de voltar de férias. Eu ouvi dizer que houve um patch surpresa na última semana? Eu acabei de descobrir, que surpresa!
+
+Felizmente, nossa companhia são 2 pessoas então temos um patch nesta semana, também.
+Muitos nos perguntaram se nós estaremos no GDC neste ano. Nós NÃO participaremos este ano, desculpe. Boas notícias, nós estaremos trabalhando no jogo ao invés!
+
+[b]Notas do Patch[/b]
+
+[h1]Conteúdo[/h1]
+[list]
+[*]Modificador de Diária: Acumulador: Sempre que você obtiver uma carta, duas cópias extra também são obtidas. Cartas não podem ser removidas em Lojas.
+[/list]
+
+[h1]Balanceamento[/h1]
+[list]
+[*]Campeão tem menos aleatoriedade na sua IA depois de se enfurecer. Irá usar Metalizar menos.
+[*]Retrabalho no inimigo Detonador. Eles agora explodem em 3 turnos, causam mais dano, e têm menos PV.
+[*]Hexafantasma ligeiramente nerfado na Ascensão 4+. (Causa menos dano).
+[*]Carta Raiva ganha uma melhoria, custo 1 -> 0. Proteção 4 -> 3.
+[*]Relíquia Pá agora usa tela de recompensa para que você possa pular a relíquia se você não a quiser.
+[*]Retrabalho na carta Golpe Baixo: Custo 2: Causa 8 de dano. Se você descartou uma carta neste turno, ganhe 2 de Energia.
+[/list]
+
+[h1]UI e Efeitos[/h1]
+[list]
+[*]Evento Tomo Amaldiçoado agora usa tela de recompensa para o livro relíquia obtido (coleta opcional).
+[*]Diárias não mais mostram a tela de Créditos na vitória.
+[*]Evento Caindo agora mostra as cartas escolhidas quando passando pelas escolhas do evento.
+[*]Salvar e Sair em um jornada agora retorna o jogador ao Menu Principal ao invés de fechar o jogo.
+[*]Melhorias no texto de Dilatação do Tempo.
+[*]Animações para Lagavulin atualizadas.
+[*]Você agora pode ver seu baralho ou o mapa quando na grade da tela de seleção de cartas (Como no evento A Biblioteca)
+[/list]
+
+[h1]Correções de Bug[/h1]
+[list]
+[*]Consertado travamento se twitchconfig estivesse vazio ou inválido.
+[*]Aumento do timeout em pesquisas de tempo em diárias.
+[*]Movido o botão twitch para que ele não estivesse cobrindo outros botões.
+[*]Relíquias e Poções na loja agora definem seus preços corretamente quando reabastecidos com o Entregador.
+[*]Efeito negativo Lento agora funciona corretamente com cartas de alvo único em combates com vários inimigos.
+[*]Gosmas divididas e outros lacaios gerados devem agora ter corretamente o poder Lento quando o modificador Dilatação do Tempo estiver ligado.
+[/list]
+
+O trabalho agora prosseguirá normalmente de novo.
