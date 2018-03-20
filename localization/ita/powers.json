@@ -248,10 +248,10 @@
   "Explosive": {
     "NAME": "Esplosivo",
     "DESCRIPTIONS": [
-      "Quando muore, ti infligge #b",
+      "In #b",
+      " turni, esplode infliggendo #b",
       " danni.",
-      " damage.",
-      "At the end of its turn, explodes dealing #b"
+      "Alla fine del suo turno, esplode infliggendo #b"
     ]
   },
   "Feel No Pain": {

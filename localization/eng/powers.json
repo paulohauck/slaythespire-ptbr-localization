@@ -251,7 +251,7 @@
       "In #b",
       " turns, explodes dealing #b",
 	  " damage.",
-	  "At the end of its turn, explodes dealing #b"
+	  "At the start of its turn, explodes dealing #b"
     ]
   },
   "Feel No Pain": {

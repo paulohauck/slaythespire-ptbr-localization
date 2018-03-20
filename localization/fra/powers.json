@@ -248,10 +248,10 @@
   "Explosive": {
     "NAME": "Kamikaze",
     "DESCRIPTIONS": [
-      "Inflige #b",
-      " dégâts en mourant.",
-      " damage.",
-      "At the end of its turn, explodes dealing #b"
+      "Dans #b",
+      " tours, explose et inflige #b",
+      " dégâts.",
+      "À la fin du tour, explose et inflige #b"
     ]
   },
   "Feel No Pain": {

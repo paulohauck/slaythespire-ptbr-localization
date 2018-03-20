@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Colpo Scorretto",
-    "DESCRIPTION": "Ingiocabile. NL Quando scarti questa carta, infliggi !D! danni ad un nemico casuale.",
+    "DESCRIPTION": "Infliggi !D! danni. NL Se hai scartato una carta in questo turno, NL ottieni [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Non posso giocare questa carta."
     ]

@@ -327,7 +327,7 @@
     "NAME": "Gingembre",
     "FLAVOR": "Un ingrédient puissant utilisé dans de nombreuses boissons tonifiantes.",
     "DESCRIPTIONS": [
-      "Les ennemis ne peuvent plus vous #yAffaiblir."
+      "Vous ne pouvez plus être #yAffaibli."
     ]
   },
   "Girya": {
@@ -555,7 +555,7 @@
     "NAME": "Champignon étrange",
     "FLAVOR": "\"Après avoir consommé ce trichellum parastius, je me suis senti plus imposant et moins... susceptible.\" - Ranwid ",
     "DESCRIPTIONS": [
-      "Sous #yVulnérabilité, les dégâts subis augmentent de #b25 % au lieu de #b50 %."
+      "Sous #yVulnérabilité, vous ne subissez plus que #b25 % de dégâts supplémentaires au lieu de #b50 %."
     ]
   },
   "Old Coin": {
@@ -707,7 +707,7 @@
   "Ring of the Serpent": {
     "NAME": "Anneau du cobra",
     "DESCRIPTIONS": [
-      "Remplace l'#ganneau #gdu #gserpent. Quand vous tuez un ennemi #yd'Élite, augmentez vos PV max de #b"
+      "Remplace l'#gAnneau #gdu #gserpent. Quand vous tuez un ennemi #yd'Élite, augmentez vos PV max de #b"
     ]
   },
   "Runic Cube": {

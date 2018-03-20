@@ -983,5 +983,28 @@
     "TEXT": [
       "trykk igjen for å avslutte"
     ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Unknown",
+      "Enemy",
+      "Elite",
+      "Event",
+      "Boss",
+      "Treasure",
+      "Boss Treasure",
+      "Rest",
+      "Merchant",
+      "Unknown (Enemy)",
+      "Unknown (Merchant)",
+      "Unknown (Treasure)",
+      "Floor %1$s - %2$s",
+      "Floor %s"
+    ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Choose an Attack to Add to Your Hand"
+    ]
   }
 }

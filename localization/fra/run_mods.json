@@ -55,12 +55,12 @@
     "NAME": "Dilatation temporelle",
     "DESCRIPTION": "Tous les ennemis sont Ralentis."
   },
+  "Hoarder": {
+    "NAME": "Syllogomanie",
+    "DESCRIPTION": "Quand vous gagnez une carte, ajoutez deux copies supplémentaires dans votre deck. Vous ne pouvez plus retirer de cartes au marchand."
+  },
   "Vintage": {
     "NAME": "Vintage",
     "DESCRIPTION": "Les ennemis donnent des Reliques au lieu de cartes."
-  },
-  "Hoarder": {
-    "NAME": "Hoarder",
-    "DESCRIPTION": "Whenever you add a card to your deck, add two additional copies. You can no longer remove cards from your deck at the Merchant."
   }
 }

@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Podstępne uderzenie",
-    "DESCRIPTION": "Niezagrywalna. NL Jeśli karta zostanie odrzucona, zadaj !D! pkt. obrażeń losowemu przeciwnikowi.",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Jeżeli w tej turze jakakolwiek karta została odrzucona, zyskaj [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Nie mogę zagrać tej karty."
     ]

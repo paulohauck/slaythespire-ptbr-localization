@@ -248,10 +248,10 @@
   "Explosive": {
     "NAME": "爆炸",
     "DESCRIPTIONS": [
-      "在死亡时，对你造成 #b",
+      "在 #b",
+      " 回合后，爆炸并造成 #b",
       " 点伤害。",
-      " damage.",
-      "At the end of its turn, explodes dealing #b"
+      "在这个回合结束时，爆炸并造成 #b"
     ]
   },
   "Feel No Pain": {
