@@ -250,8 +250,8 @@
     "DESCRIPTIONS": [
       "Em #b",
       " turnos, explode causando #b",
-	  " de dano.",
-	  "No final do turno dele, explode causando #b"
+      " de dano.",
+      "No começo do turno dele, explode causando #b"
     ]
   },
   "Feel No Pain": {
