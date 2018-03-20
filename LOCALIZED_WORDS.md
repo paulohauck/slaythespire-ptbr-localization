@@ -792,7 +792,7 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Treasure               | Tesouro                  |        |
 | Turn                   | Turno                    |        |
 | Unlocked               | Desbloqueada             |        |
-| Unknow                 | Desconhecida             |        |
+| Unknown                | Desconhecido(a)          |        |
 | Upgrade                | Aprimorar                |        |
 | Vanquished             | Vencido                  |        |
 | Vulnerable             | Vulnerável               |        |
