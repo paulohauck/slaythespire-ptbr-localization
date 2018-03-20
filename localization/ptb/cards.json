@@ -849,7 +849,7 @@
   },
   "All Out Attack": {
     "NAME": "Ataque Total",
-    "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos. NL Compre 1 carta a menos no próximo turno."
+    "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos. NL Descarte 1 carta aleatoriamente."
   },
   "Flying Knee": {
     "NAME": "Joelhada Voadora",
