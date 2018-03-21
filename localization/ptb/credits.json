@@ -27,7 +27,7 @@
     ]
   },
   "PORTRAITS": {
-    "HEADER": "Artes de Ilustrações de Cartas e Eventos",
+    "HEADER": "Retratos de Cartas & Arte de Eventos",
     "NAMES": [
       "Anailis Dorta"
     ]
@@ -40,7 +40,7 @@
     ]
   },
   "ILLUSTRATION": {
-    "HEADER": "Ilustração de Ambiente e Artes Promocionais",
+    "HEADER": "Ilustração de Artes Promocionais & Cenário",
     "NAMES": [
       "Bruce Brenneise"
     ]
@@ -53,8 +53,7 @@
   },
   "LOC_ZHT": {
     "HEADER": "Localização - Chinês (Tradicional)",
-    "NAMES": [
-    ]
+    "NAMES": []
   },
   "LOC_FRA": {
     "HEADER": "Localização - Francês",
@@ -115,14 +114,14 @@
   "LOC_POL": {
     "HEADER": "Localização - Polonês",
     "NAMES": [
-      "Translation and Coordination:",
+      "Tradução e Coordenação:",
       "Stanis³aw \"ST4H\" Borkowski",
       "Oskar \"volf3n\" Nowak",
-      "Additional Translations:",
+      "Traduções Adicionais:",
       "Adrian \"xeros\" Rolka",
-      "Proofreading:",
+      "Revisão de Textos:",
       "Oskar \"volf3n\" Nowak",
-      "Suggestions and Feedback:",
+      "Sugestões e Feedback:",
       "Kasper \"Awokado\" Beræ",
       "Pawe³ \"BASTIL\" Kaleta",
       "Grzegorz \"GregPL\" Bogus³awski",
