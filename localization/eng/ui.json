@@ -75,7 +75,14 @@
 			"Unknown (Merchant)",
 			"Unknown (Treasure)",
 			"Floor %1$s - %2$s",
-			"Floor %s"
+			"Floor %s",
+			"#r%s Damage",
+			"#r%s Turns",
+			"#r%s #r/ #r%s #rHP",
+			"#y%s #yGold",
+			"Picked %s",
+			"Skipped:",
+			"Missing Info"
 		]
 	},
   "LeaderboardsScreen": {
@@ -789,7 +796,7 @@
 		"Normal enemies are tougher.",
 		"Elites are tougher.",
 		"Bosses are tougher.",
-		"Parasite!",
+		"Start each run cursed.",
 		"Potions are less potent.",
 		"Upgraded cards appear less often.",
 		"Poor bosses.",

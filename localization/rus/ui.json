@@ -999,7 +999,14 @@
       "Unknown (Merchant)",
       "Unknown (Treasure)",
       "Floor %1$s - %2$s",
-      "Floor %s"
+      "Floor %s",
+      "#r%s Damage",
+      "#r%s Turns",
+      "#r%s #r/ #r%s #rHP",
+      "#y%s #yGold",
+      "Picked %s",
+      "Skipped:",
+      "Missing Info"
     ]
   },
   "AttackFromDeckToHandAction": {

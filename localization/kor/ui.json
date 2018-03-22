@@ -893,7 +893,7 @@
       "일반",
       "고급",
       "희귀",
-      "특별",
+      "이벤트",
       "저주",
       "보스",
       "상점",
@@ -902,9 +902,9 @@
       "%1$s (%2$d):",
       "점수: %d",
       "모든 캐릭터",
-      "승리한 도전과 패배한 도전",
-      "승리한 도전",
-      "패배한 도전",
+      "승/패",
+      "승리만",
+      "패배만",
       "일일 도전",
       "모든 게임 모드",
       "일반 모드만",
@@ -935,7 +935,7 @@
       "#y도달한 #y층: NL  ",
       " NL NL  #y카드: NL ",
       " NL NL  #y유물: NL  ",
-      " NL 오늘의 일일 도전: NL TAB #yClass: NL TAB ",
+      " NL 오늘의 일일 도전: NL TAB #y직업: NL TAB ",
       " NL TAB #y모드: ",
       "적용되는 모드: ",
       "리더보드"
@@ -986,25 +986,32 @@
   },
   "RunHistoryPathNodes": {
     "TEXT": [
-      "Unknown",
-      "Enemy",
-      "Elite",
-      "Event",
-      "Boss",
-      "Treasure",
-      "Boss Treasure",
-      "Rest",
-      "Merchant",
-      "Unknown (Enemy)",
-      "Unknown (Merchant)",
-      "Unknown (Treasure)",
-      "Floor %1$s - %2$s",
-      "Floor %s"
+      "미지",
+      "적",
+      "엘리트",
+      "이벤트",
+      "보스",
+      "상자",
+      "보스 상자",
+      "모닥불",
+      "상인",
+      "미지 (적)",
+      "미지 (상인)",
+      "미지 (상자)",
+      "%1$s 층 - %2$s",
+      "%s 층",
+      "#r%s Damage",
+      "#r%s Turns",
+      "#r%s #r/ #r%s #rHP",
+      "#y%s #yGold",
+      "Picked %s",
+      "Skipped:",
+      "Missing Info"
     ]
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Choose an Attack to Add to Your Hand"
+      "손으로 가져올 공격 카드를 선택하십시오."
     ]
   }
 }

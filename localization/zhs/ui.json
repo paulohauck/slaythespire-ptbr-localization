@@ -986,25 +986,32 @@
   },
   "RunHistoryPathNodes": {
     "TEXT": [
-      "Unknown",
-      "Enemy",
-      "Elite",
-      "Event",
+      "问号",
+      "敌人",
+      "精英",
+      "事件",
       "Boss",
-      "Treasure",
-      "Boss Treasure",
-      "Rest",
-      "Merchant",
-      "Unknown (Enemy)",
-      "Unknown (Merchant)",
-      "Unknown (Treasure)",
-      "Floor %1$s - %2$s",
-      "Floor %s"
+      "财宝",
+      "Boss财宝",
+      "休息处",
+      "商人",
+      "问号（敌人）",
+      "问号（商人）",
+      "问号（财宝）",
+      "%1$s层 - %2$s",
+      "第%s层",
+      "#r%s Damage",
+      "#r%s Turns",
+      "#r%s #r/ #r%s #rHP",
+      "#y%s #yGold",
+      "Picked %s",
+      "Skipped:",
+      "Missing Info"
     ]
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Choose an Attack to Add to Your Hand"
+      "选择一张攻击牌放入你的手牌"
     ]
   }
 }

@@ -53,14 +53,14 @@
   },
   "Time Dilation": {
     "NAME": "Dilatación Temporal",
-    "DESCRIPTION": "Todos los enemigos se vuelven Lentos."
+    "DESCRIPTION": "Todos los enemigos comienzan con el perjuicio de Lento."
+  },
+  "Hoarder": {
+    "NAME": "Acaparador",
+    "DESCRIPTION": "Cuando añades una carta a tu mazo, agrega dos copias adicionales. Ya no puedes remover cartas de tu mazo con el Vendedor."
   },
   "Vintage": {
     "NAME": "Clásico",
     "DESCRIPTION": "Los enemigos normales dejan reliquias en vez de cartas"
-  },
-  "Hoarder": {
-    "NAME": "Hoarder",
-    "DESCRIPTION": "Whenever you add a card to your deck, add two additional copies. You can no longer remove cards from your deck at the Merchant."
   }
 }

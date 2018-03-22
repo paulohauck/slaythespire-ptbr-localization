@@ -237,7 +237,7 @@
   },
   "True Grit": {
     "NAME": "不屈の闘志",
-    "DESCRIPTION": "!B! ブロック を得る。 NL 手札をランダムで 1 枚 廃棄 する。",
+    "DESCRIPTION": "!B! ブロック を得る。 NL 手札をランダムに 1 枚 廃棄 する。",
     "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 手札を 1 枚 廃棄 する。"
   },
   "Setup": {
@@ -849,7 +849,7 @@
   },
   "All Out Attack": {
     "NAME": "フルアタック",
-    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL 次のターン、引くカードが 1 枚減る。"
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL 手札をランダムに 1 枚捨てる。"
   },
   "Flying Knee": {
     "NAME": "飛び膝蹴り",
@@ -866,5 +866,17 @@
   "Expertise": {
     "NAME": "職人技",
     "DESCRIPTION": "手札が !M! 枚になるまでカードを引く。"
+  },
+  "Slimed": {
+    "NAME": "Slimed",
+    "DESCRIPTION": "Exhaust."
+  },
+  "Void": {
+    "NAME": "Void",
+    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+  },
+  "AscendersBane": {
+    "NAME": "Ascender’s Bane",
+    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
   }
 }
