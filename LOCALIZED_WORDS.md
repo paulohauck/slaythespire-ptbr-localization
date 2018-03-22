@@ -199,8 +199,8 @@ The following tables shows the Words/Expressions adaptations to fill better in t
 | Prepared           | Preparado            |        |
 | Quick Slash        | Corte Rápido         |        |
 | Slice              | Fatiar               |        |
+| Sneaky Strike      | Golpe Furtivo        |        |
 | Sucker Punch       | Murro                |        |
-| Underhanded Strike | Golpe Baixo          |        |
 
 ><sup>1</sup> [Magic: the Gathering](https://imgur.com/a/y7mNr)
 
