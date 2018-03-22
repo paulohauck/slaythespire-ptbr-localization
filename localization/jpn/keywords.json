@@ -169,6 +169,12 @@
     },
     "TEXT": [
       "エナジーはあなたの手札からカードをプレイするときに消費する。"
-    ]
+    ],
+    "INTANGIBLE": {
+      "NAMES": [
+        "intangible"
+      ],
+      "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
+    }
   }
 }

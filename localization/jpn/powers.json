@@ -744,5 +744,11 @@
       "#y「スキル」 をプレイするたび、敵に ",
       " ダメージ与える。"
     ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Intangible",
+    "DESCRIPTIONS": [
+      "Reduce ALL damage taken and HP loss to #b1."
+    ]
   }
 }

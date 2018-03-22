@@ -744,5 +744,11 @@
       "매 턴 종료 시 힘을 #b",
       " #y 얻습니다."
     ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Intangible",
+    "DESCRIPTIONS": [
+      "Reduce ALL damage taken and HP loss to #b1."
+    ]
   }
 }
