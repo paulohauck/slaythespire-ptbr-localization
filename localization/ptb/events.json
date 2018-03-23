@@ -715,6 +715,24 @@
       "[Sair]"
     ]
   },
+  "Ghosts": {
+    "NAME": "Conselho de Fantasmas",
+    "DESCRIPTIONS": [
+      "Placeholder 1",
+      "Placeholder 2",
+      "Placeholder 3",
+      "Placeholder 4",
+      "Placeholder 5"
+    ],
+    "OPTIONS": [
+      "[Aceitar] #gRemova #gtodos #gos #gDefenderes. #gObtenha #g5 #gFantasmagórico. #rPerca #r",
+      "% #rPV #rMáximo.",
+      "[Recusar]",
+      "[Perca ",
+      "] #gRemova #gtodos #gos #gDefenderes. #gObtenha #g5 #gFantasmagórico.",
+      "[Sair]"
+    ]
+  },
   "The Woman in Blue": {
     "NAME": "A Mulher de Azul",
     "DESCRIPTIONS": [
