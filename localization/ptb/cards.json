@@ -807,6 +807,11 @@
       " NL (Cause !D! de dano.)"
     ]
   },
+  "Ghostly": {
+    "NAME": "Fantasmagórico",
+    "DESCRIPTION": "Ganhe 1 Intangível. NL Exaurir. NL Etérea.",
+    "UPGRADE_DESCRIPTION": "Ganhe 1 Intangível. NL Exaurir."
+  },
   "Neutralize": {
     "NAME": "Neutralizar",
     "DESCRIPTION": "Cause !D! de dano. NL Aplique !M! de Fraqueza."

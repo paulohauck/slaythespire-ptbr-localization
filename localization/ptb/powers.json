@@ -346,6 +346,12 @@
       "Reduza TODO dano recebido e perda de PV para #b1 neste turno. Intangível é reaplicado em um a cada dois turnos."
     ]
   },
+  "IntangiblePlayer": {
+    "NAME": "Intangível",
+    "DESCRIPTIONS": [
+      "Reduza TODO dano recebido e perda de PV para #b1."
+    ]
+  },
   "Inverted": {
     "NAME": "Invertido",
     "DESCRIPTIONS": [
