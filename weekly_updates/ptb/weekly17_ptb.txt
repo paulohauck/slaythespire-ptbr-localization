@@ -1,0 +1,73 @@
+Headline: Patch Semanal 17: Patch na Cara
+
+[img]http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/29087962/38fe620e6c8ded08523878021c03cfe33f56c844.jpg[/img]
+
+Outra semana, outro patch!
+
+O patch desta semana traz um pouco de arte polida, melhorias para certos combates, e correções gerais de bug referentes à Escalada Diária.
+
+[h1]Arte de Seleção de Personagem[/h1]
+Nós atualizamos a arte para ambos Rígido e A Sorrateira nas telas de seleção de personagem. 
+[img]http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/29087962/082cfe9c9a5058274eb4bf1e699797fbad24004d.jpg[/img]
+
+[h1]Tematização de Carta[/h1]
+[list]
+[*][b]Ruína do Ascensor:[/b] Substitui Parasita para Ascensão 10.
+[*][b]Gosmento:[/b] Substitui Feridas e outro efeito negativo Redução de Compra de inimigos Gosma.
+[*][b]Vácuo:[/b] Substitui o efeito negativo Escuridão do O Despertado.
+[/list]
+
+[img]http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/29087962/eb7e3a74cb544059f50469708a57c907ac478c48.jpg[/img]
+
+[b]Notas do Patch:[/b]
+
+[h1]Conteúdo[/h1]
+[list]
+[*]Carta Maldição - Ruína do Ascensor: Injogável. Não pode ser removida do seu baralho.
+[*]Carta Condição - Gosmento: Custo 1: Exaurir.
+[*]Carta Condição - Vácuo: Injogável. Quando esta carta é comprada, perca 1 de Energia. Etérea.
+[/list]
+
+[h1]Balanceamento[/h1]
+[list]
+[*]Retrabalho + melhoria na carta Ataque Total. Agora descarta 1 carta aleatoriamente ao invés de redução de compra de cartas.
+[*]Ascensão 10 agora te dá Ruína do Ascensor ao invés de Parasita.
+[*]O Despertado agora te dá uma carta Vácuo ao invés do efeito negativo Escuridão.
+[*]Detonador não mais ganha Proteção para que seja mais fácil de matar.
+[*]Intenção do Detonador agora telegrafa a explosão.
+[*]Olho Congelado agora é uma relíquia de loja.
+[*]Dano auto-infligido não deve mais prevenir as conquistas/bônus de pontuação Perfeição e Campeão.
+[*]Vários inimigos Gosma agora te dão Gosmento ao invés de um efeito negativo.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Botão/banner Abandonar Jornada no menu Configurações agora é mais longo para acompanhar línguas com mais palavras + recebe uma sombra.
+[*]Consertado problema onde orbes de energia eram renderizados incorretamente em monitores 4k.
+[*]Fonte usada para Legenda do Mapa/Banner de Opções/? em cartas desconhecidas é 5% menor agora.
+[*]Se o texto não cabe em um botão de um evento, uma fonte menor será usada agora. 26pt ao invés de 30pt.
+[*]Se o rótulo no botão Pular é muito longo (línguas não-Inglesas), a fonte é reduzida em tamanho em 20%.
+[*]Melhorado espaçamento entre Nível & Nome do Ato para o efeito de transição de nível.
+[*]Em telas de Histórico de Jornadas, passar por ícones de salas agora revela mais informação.
+[*]Golpe Baixo agora é chamado Golpe Furtivo.
+[/list]
+
+[h1]Correções de Bug[/h1]
+[list]
+[*]Explosão do Detonador não mais ignora proteção.
+[*]Consertado problema onde a música do nível não para se você Salvar & Sair para o menu principal.
+[*]Consertado problema onde Gremlin de Escudo e orbe Caminhante tinham valores aumentados no Nível de Ascensão errado.
+[*]Consertado problema onde se você morreu, a informação da última sala não era salvada para o Histórico de Jornadas.
+[*]Modificador de diária Acumulador agora corretamente duplica o estado aprimorado da carta copiada.
+[*]Múltiplas tentativas para a Diária estavam sendo enviadas como maior pontuação.
+[*]Conquista Pureza não deve mais engatilhar no tutorial.
+[*]Seeds agora são utilizadas para o Enquirídio e o Códice.
+[*]Seeds utilizadas para vários eventos para resultados consistentes: Forja Sinistra, Tomo Amaldiçoado, Gosma de Sucata, N'loth.
+[/list]
+
+[h1]Localização[/h1]
+[list]
+[*]Atualizações para FRA, ITA, JPN, KOR, POL, PTB, RUS, SPA, ZHS, ZHT.
+[/list]
+
+Estou começando a ficar sem nomes para patch.
