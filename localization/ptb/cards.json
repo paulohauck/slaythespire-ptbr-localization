@@ -491,7 +491,7 @@
   },
   "AscendersBane": {
     "NAME": "Ruína do Ascensor",
-    "DESCRIPTION": "Injogável. NL Não pode ser removida do seu baralho."
+    "DESCRIPTION": "Injogável. NL Etérea. NL Não pode ser removida do seu baralho."
   },
   "Barricade": {
     "NAME": "Barricada",
@@ -808,7 +808,7 @@
     ]
   },
   "Ghostly": {
-    "NAME": "Fantasmagórico",
+    "NAME": "Aparição",
     "DESCRIPTION": "Ganhe 1 Intangível. NL Exaurir. NL Etérea.",
     "UPGRADE_DESCRIPTION": "Ganhe 1 Intangível. NL Exaurir."
   },
@@ -830,8 +830,8 @@
   },
   "Evolve": {
     "NAME": "Evoluir",
-    "DESCRIPTION": "Embaralhe 2 Feridas na sua pilha de compra. NL Sempre que comprar uma Ferida, compre !M! carta.",
-    "UPGRADE_DESCRIPTION": "Embaralhe 2 Feridas na sua pilha de compra. NL Sempre que comprar uma Ferida, compre !M! cartas."
+    "DESCRIPTION": "Sempre que comprar uma Condição, compre !M! carta.",
+    "UPGRADE_DESCRIPTION": "Sempre que comprar uma Condição, compre !M! cartas."
   },
   "Burn": {
     "NAME": "Queimadura",
