@@ -240,8 +240,8 @@
   "Evolve": {
     "NAME": "Evoluir",
     "DESCRIPTIONS": [
-      "Sempre que você comprar uma #yFerida, compre uma carta.",
-      "Sempre que você comprar uma #yFerida, compre #b",
+      "Sempre que você comprar uma #yCondição, compre uma carta.",
+      "Sempre que você comprar uma #yCondição, compre #b",
       " cartas."
     ]
   },
@@ -251,7 +251,7 @@
       "Em #b",
       " turnos, explode causando #b",
       " de dano.",
-      "No início de seu turno, explode causando #b"
+      "Em seu turno, explode causando #b"
     ]
   },
   "Feel No Pain": {
