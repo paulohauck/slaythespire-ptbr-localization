@@ -733,6 +733,18 @@
       "[Sair]"
     ]
   },
+  "SecretPortal": {
+	"NAME": "Portal Secreto",
+    "DESCRIPTIONS": [
+			"À sua frente está uma vista que parece deslocada na alienígena paisagem ao seu redor. Estranhamente localizada dentro de uma das paredes vivas do Além está uma entrada cercada de pedras preenchida com um #p~portal~ #p~mágico~ #p~rodopiante.~ NL NL Você não tem certeza aonde ele leva, mas talvez ele poderia acelerar sua jornada através do Pináculo.",
+			"Pulando através do portal, seu senso de tempo e espaço é completamente despedaçado. NL NL Conforme você se reorienta aos novos arredores, você percebe que logo à sua frente está uma temível batalha.",
+			"Cuidado e cautela parecem ser a melhor abordagem para alcançar o topo do Pináculo. Ignorando o portal você continua."
+	],
+    "OPTIONS": [
+			"[Entrar no Portal] IMEDIATAMENTE viaje para o chefe.",
+			"[Sair]"
+    ]
+  },
   "The Woman in Blue": {
     "NAME": "A Mulher de Azul",
     "DESCRIPTIONS": [
