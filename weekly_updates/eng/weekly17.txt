@@ -1,0 +1,73 @@
+Headline: Weekly Patch 17: Patched in the Face
+
+[img]http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/29087962/38fe620e6c8ded08523878021c03cfe33f56c844.jpg[/img]
+
+Another week, another patch!
+
+This week's patch brings in some polished art, improvements to certain combats, and general bug fixes pertaining to the Daily Climb.
+
+[h1]Character Select Art[/h1]
+We updated the art for both Ironclad and The Silent in the character select screens. 
+[img]http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/29087962/082cfe9c9a5058274eb4bf1e699797fbad24004d.jpg[/img]
+
+[h1]Card Theming[/h1]
+[list]
+[*][b]Ascender's Bane:[/b] Replaces Parasite for Ascension 10.
+[*][b]Slimed:[/b] Replaces Wounds and another Sticky debuff from Slime enemies.
+[*][b]Void:[/b]  Replaces the Darkness debuff from the Awakened One.
+[/list]
+
+[img]http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/29087962/eb7e3a74cb544059f50469708a57c907ac478c48.jpg[/img]
+
+[b]Patch Notes:[/b]
+
+[h1]Content[/h1]
+[list]
+[*]Curse Card - Ascender's Bane: Unplayable. Cannot be removed from your deck.
+[*]Status card - Slimed: Cost 1: Exhaust.
+[*]Status Card - Void: Unplayable. When this card is drawn, lose 1 Energy. Ethereal.
+[/list]
+
+[h1]Balance[/h1]
+[list]
+[*]All Out Attack card rework + buff. Now discards 1 card at random rather than card draw reduction.
+[*]Ascension 10 now gives you Ascender's Bane rather than Parasite.
+[*]Awakened One now gives you a Void card instead of the Darkness debuff.
+[*]Exploder no longer gains Block so it is easier to kill.
+[*]Exploder's intent now telegraphs the explosion.
+[*]Frozen Eye is now a shop relic.
+[*]Self damage should no longer prevent Perfect and Champion achievement/score bonuses.
+[*]Several Slime enemies now give you Slimed rather than a debuff.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Abandon Run button/banner in Settings menu is now longer to accompany wordier languages + gets a shadow.
+[*]Fixed issue where energy orbs were rendering incorrectly on 4k monitors.
+[*]Font used for Map Legend/Options Banner/? on unknown cards is now 5% smaller.
+[*]If text doesn't fit on an event button, a smaller font will be used now. 26pt rather than 30pt.
+[*]If the label on the Skip button is too long (non-English languages), the font is reduced in size by 20%.
+[*]Improved spacing between Level & Dungeon name for the level transition effect.
+[*]On Run History screens, hovering room icons now reveal more info.
+[*]Underhand Strike is now called Sneaky Strike.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Exploder's explosion no longer ignores block.
+[*]Fixed issue where level music didn't stop if you Save & Quit to main menu.
+[*]Fixed issue where Shield Gremlin and Orb Walker had upped values in the wrong Ascension Level.
+[*]Fixed issues where if you died, the last room's info was not saved for Run History.
+[*]Hoarder daily mod now correctly duplicates the upgraded status of the copied card.
+[*]Multiple attempts for the Daily were being submitted as high scores.
+[*]Purity achievement should no longer trigger on tutorial.
+[*]Seeds are now utilized for Enchirdion and Codex.
+[*]Seeds utilized for several events for consistent outcomes: Accursed Blacksmith, Cursed Tome, Scrap Ooze, N'loth.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Updates for FRA, ITA, JPN, KOR, POL, PTB, RUS, SPA, ZHS, ZHT.
+[/list]
+
+I'm starting to run out of patch names.
