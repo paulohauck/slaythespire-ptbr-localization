@@ -179,7 +179,7 @@
       "NAMES": [
         "intangible"
       ],
-      "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
+      "DESCRIPTION": "Réduit TOUS les dégâts subis et la perte de PV à #b1."
     }
   }
 }

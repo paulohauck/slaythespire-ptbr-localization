@@ -346,6 +346,12 @@
       "すべてのダメージとHPを失う効果を #b1 に軽減する。無形は2ターンに1度有効になる。"
     ]
   },
+  "IntangiblePlayer": {
+    "NAME": "無形",
+    "DESCRIPTIONS": [
+      "すべてのダメージとHPを失う効果を #b1 に軽減する。"
+    ]
+  },
   "Inverted": {
     "NAME": "逆転",
     "DESCRIPTIONS": [
@@ -743,12 +749,6 @@
     "DESCRIPTIONS": [
       "#y「スキル」 をプレイするたび、敵に ",
       " ダメージ与える。"
-    ]
-  },
-  "IntangiblePlayer": {
-    "NAME": "Intangible",
-    "DESCRIPTIONS": [
-      "Reduce ALL damage taken and HP loss to #b1."
     ]
   }
 }

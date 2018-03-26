@@ -746,9 +746,9 @@
     ]
   },
   "IntangiblePlayer": {
-    "NAME": "Intangible",
+    "NAME": "불가침",
     "DESCRIPTIONS": [
-      "Reduce ALL damage taken and HP loss to #b1."
+      "이번 턴 동안 받는 피해와 체력 손실을 전부 #b1 로 감소시킵니다."
     ]
   }
 }

@@ -256,9 +256,9 @@
     },
     "INTANGIBLE": {
       "NAMES": [
-        "intangible"
+        "Неосязаемость"
       ],
-      "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
+      "DESCRIPTION": "Понижает ЛЮБУЮ потерю ОЗ до #b1."
     }
   }
 }

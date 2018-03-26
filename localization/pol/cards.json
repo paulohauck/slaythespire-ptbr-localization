@@ -491,7 +491,7 @@
   },
   "AscendersBane": {
     "NAME": "Zmora wędrowcy",
-    "DESCRIPTION": "Niezagrywalna. NL Od tej Klątwy nie ma ucieczki."
+    "DESCRIPTION": "Niezagrywalna. NL Eteryczna. NL Od tej Klątwy nie ma ucieczki."
   },
   "Barricade": {
     "NAME": "Barykada",
@@ -807,6 +807,11 @@
       " NL (Zadaje !D! pkt. obrażeń.)"
     ]
   },
+  "Ghostly": {
+    "NAME": "Duchowa forma",
+    "DESCRIPTION": "Zyskaj 1 pkt. Nieuchwytności. NL Wyklucz. NL Eteryczna.",
+    "UPGRADE_DESCRIPTION": "Zyskaj 1 pkt. Nieuchwytności. NL Wyklucz."
+  },
   "Neutralize": {
     "NAME": "Neutralizacja",
     "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Nałóż !M! pkt. Słabości."
@@ -825,8 +830,8 @@
   },
   "Evolve": {
     "NAME": "Ewolucja",
-    "DESCRIPTION": "Wtasuj 2 Rany do stosu rozgrywającego. NL Kiedykolwiek dobierzesz Ranę, dobierz !M! kartę.",
-    "UPGRADE_DESCRIPTION": "Wtasuj 2 Rany do stosu rozgrywającego. NL Kiedykolwiek dobierzesz Ranę, dobierz !M! karty."
+    "DESCRIPTION": "Kiedykolwiek dobierzesz kartę Stanu, dobierz !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Kiedykolwiek dobierzesz kartę Stanu, dobierz !M! karty."
   },
   "Burn": {
     "NAME": "Poparzenie",
@@ -878,10 +883,5 @@
   "Expertise": {
     "NAME": "Ekspertyza",
     "DESCRIPTION": "Dobieraj karty, dopóki nie będziesz mieć !M! w ręce."
-  },
-  "Ghostly": {
-    "NAME": "Ghostly",
-    "DESCRIPTION": "Gain 1 Intangible. NL Exhaust. NL Ethereal.",
-    "UPGRADE_DESCRIPTION": "Gain 1 Intangible. NL Exhaust."
   }
 }

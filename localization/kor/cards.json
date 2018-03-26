@@ -880,8 +880,8 @@
     "DESCRIPTION": "사용불가 NL 덱에서 제거할 수 없습니다."
   },
   "Ghostly": {
-    "NAME": "Ghostly",
-    "DESCRIPTION": "Gain 1 Intangible. NL Exhaust. NL Ethereal.",
-    "UPGRADE_DESCRIPTION": "Gain 1 Intangible. NL Exhaust."
+    "NAME": "영체화",
+    "DESCRIPTION": "불가침 을 1 얻습니다. NL 소멸 NL 휘발성",
+    "UPGRADE_DESCRIPTION": "불가침 을 1 얻습니다. NL 소멸"
   }
 }
