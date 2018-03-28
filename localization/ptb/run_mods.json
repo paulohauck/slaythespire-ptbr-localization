@@ -62,5 +62,9 @@
   "Vintage": {
     "NAME": "Vintage",
     "DESCRIPTION": "Inimigos normais deixam relíquias ao invés de cartas."
+  },
+  "Draft": {
+    "NAME": "Esboço",
+    "DESCRIPTION": "Esboce um baralho de cartas inicial personalizado."
   }
 }
