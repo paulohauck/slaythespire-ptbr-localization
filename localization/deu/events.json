@@ -300,7 +300,7 @@
       "[Gesperrt] Erfordert: 50 Gold.",
       "[Verlassen]",
       "Wähle eine Karte zum Entfernen.",
-      "."
+      " #gTP."
     ]
   },
   "Dead Adventurer": {
@@ -728,38 +728,38 @@
       "[Kaufe 3 Tränke] #y",
       " #yGold.",
       "[Verlassen]",
-      "[Leave] #rTake #r",
-      " #rDamage."
+      "[Verlassen] #rNehme #r",
+      " #rSchaden."
     ]
   },
   "SecretPortal": {
-    "NAME": "Secret Portal",
+    "NAME": "Geheimes Portal",
     "DESCRIPTIONS": [
-      "Before you is a sight that seems out of place in the alien landscape around you. Strangely placed into one of the living walls of the Beyond is an enclosed stone entrance filled with a #p~swirling~ #p~magical~ #p~portal.~ NL NL You aren't sure where it leads, but maybe it could speed your journey through the Spire.",
-      "Jumping through the portal, your sense of time and space is completely torn apart. NL NL As you reorient yourself to the new surroundings, you realize that right before you is a fearsome battle.",
-      "Careful and cautious seems the better approach for reaching the top of the Spire. Ignoring the portal you continue on."
+      "Vor dir liegt ein Anblick, der wie eine nicht passende außerirdische Landschaft aussieht. In den lebenden Wänden befindet sich ein komisch platzierter Steineingang, in dem sich ein #p~schwindelerregendes~ #p~magisches~ #p~Portal~ befindet. NL NL Du bist dir nicht sicher, wo es hinführt, aber es könnte deine Reise beschleunigen.",
+      "Deine Wahrnemung von Raum und Zeit zerreist komplett, während du durch das Portal springst. NL NL Als du wieder zu Sinnen kommst wird dir klar, dass direkt vor dir ein heftiger Kampf liegt.",
+      "Wachsamkeit und Sicherheit scheinen ein besserer Ansatz zum erreichen der Spitze zu sein. Du ignorierst das Portal und gehst weiter."
     ],
     "OPTIONS": [
-      "[Enter the Portal] IMMEDIATELY travel to the boss.",
-      "[Leave]"
+      "[Betrete das Portal] Bewege dich DIREKT zum Boss.",
+      "[Verlassen]"
     ]
   },
   "Ghosts": {
-    "NAME": "Council of Ghosts",
+    "NAME": "Geisterrat",
     "DESCRIPTIONS": [
-      "As you continue your ascent, #p~thick~ #p~black~ #p~smoke~ begins to billow out of the ground and walls around you, coalescing into three masked forms that start to speak. NL NL ~\"Another~ ~puppet~ ~of~ #y~Neow~ ~I~ ~think.\"~ NL #r@\"AGREED!@ #r@SHE@ #r@ALWAYS@ #r@MAKE@ #r@THE@ #r@FUNNEST@ #r@TOYS!\"@ NL NL You notice an over-sized grin as the third addresses you. NL \"Ignore the others... Would you like a taste of our #y~power?\"~ ",
+      "Während du deinen Aufstieg fortschreitest beginnt #p~dicker~ #p~schwarzer~ #pRauch aus dem Boden und Wänden um dich herum zu quellen, welcher sich in drei maskierte Gestalten formt.NL NL ~\"Noch~ ~eine~ ~von~ #y~Neows~ ~Puppen~, ~glaub~ ~ich~.\"~ NL #r@\"ZUGESTIMMT!@ #r@SIE@ #r@KREIERT@ #r@IMMER@ #r@DIE@ #r@LUSTIGSTEN@ #r@SPIELZEUGE!\"@ NL NL Dir fällt das überspitzte Lächeln der Drei auf. NL \"Ignoriere die anderen... Willst du eine Kostprobe unserer #y~Kraft?\"~ ",
       "",
-      "#y\"Excellent!\" NL As the ghostly shape speaks, you notice its large mouth opening wider and wider. #p~Thick~ #p~black~ #p~smoke~ spews forth and envelops the room. You cannot see or breathe... NL NL Just before you lose consciousness, the sensation stops. NL NL Whatever those things were, they are gone now. You continue on, feeling rather #bhollow.",
-      "\"How disappointing...\" NL ~\"You~ ~will~ ~join~ ~us~ ~sooner~ ~or~ ~later.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL The shapes fade away, leaving only the unnerving laughter ringing in your ears.",
+      "#y\"Exzellent!\" NL Als die Geisterfigur spricht, bemerkst du wie ihr riesiger Mund sich immer weiter öffnet. #p~Dicker~ #p~schwarzer~ #p~Rauch~ quellt hervor und überschwemmt den Raum. Du kannst weder sehen noch atmen... NL NL Das Gefühl schwindet, kurz bevor du ohnmächtig wirst . NL NL Was auch immer sie waren, jetzt sind sie fort. Du gehst weiter, fühlst dich jedoch #pleer ...",
+      "\"Wie enttäuschend...\" NL ~\"Früher~ ~oder~ ~später~ ~wirst~ ~du~ ~uns~ ~beitreten.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Die Gestalten verschwinden und hinterlassen nur das nervtötende Lachen in deinen Ohren.",
       ""
     ],
     "OPTIONS": [
-      "[Accept] #gObtain #g5 #gApparition. #rLose #r",
-      "% #rMax #rHP.",
-      "[Refuse]",
+      "[Akzeptieren] #gErhalte #g5 #gApparition. #rVerliere #r",
+      "% #rMax #rTP.",
+      "[Ablehnen]",
       "",
       "",
-      "[Leave]"
+      "[Verlassen]"
     ]
   }
 }
