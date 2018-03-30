@@ -1,0 +1,54 @@
+Header: Weekly Patch 18: Paranormal
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/8325c010fecebcc0589ac0425e6f5d255b16fa8c.jpg[/img]
+
+This weekly patch brings in some events, a daily mod, and a lot of card balancing!
+
+[h1]Events[/h1]
+Three new events have been added to the Spire. Here's a preview of what they look like.
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/b21aed56cdccb063b41e73aa58cd722032d84d1d.jpg[/img]
+
+[b]Patch Notes:[/b]
+
+[h1]Content[/h1]
+[list]
+[*]Daily Mod: Draft. Draft a custom starter deck of 15 cards.
+[*]Event (Beyond): Secret Portal.
+[*]Event (Beyond): Sensory Stone.
+[*]Event (City): Council of Ghosts.
+[*]Event-only Card: Apparition.
+[/list]
+
+[h1]Balance[/h1]
+[list]
+[*]Ascender's Bane nerf: now has Ethereal.
+[*]Awakened One nerf: 2 Voids -> 1 Void
+[*]Better prevention for uploading invalid times to leaderboard.
+[*]Blood for Blood card buff. 16 -> 18. Upgraded: 18 -> 22.
+[*]Carnage card buff: 18 -> 20. Upgraded: 26 -> 28
+[*]Daily Mods can now have between 0 - 2 positive-only mods (used to always be 1).
+[*]Deadly Poison card buff: 4 -> 5. Upgraded: 6 -> 7.
+[*]Evolve rework: No longer gives Wounds. Now triggers on any Status card, not just Wounds.
+[*]Game will no longer call you a cheater or dock score even if you cheat (score isn't uploaded, however).
+[*]Question Card relic is now Uncommon. (was Boss).
+[*]Slime Boss nerf: 3 Slime attack no longer deals damage.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Exploder now explodes on its turn, so Poison will trigger before its explosion.
+[*]Fix for Block calculation with multiple modifiers incorrectly rounding.
+[*]Fix for Calling Bell/Library/Pandora's Box exploit.
+[*]Juggernaught was not working properly. Fixed.
+[*]Neow can no longer remove Ascender's Bane.
+[*]Perfected Strike now counts Strikes from other characters.
+[*]Time Dilation daily mod no longer affects Giant Head enemy.
+[*]Time Eater's Time Warp no longer increments when Curses play themselves.
+[*]Void card can no longer get you to negative energy.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Updates for DEU, FRA, ITA, JPN, KOR, POL, PTB, RUS, ZHS, ZHT.
+[/list]
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/4e5415af513793a8abfa564383115ee02536cb07.png[/img]

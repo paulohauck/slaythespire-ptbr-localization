@@ -1,0 +1,54 @@
+Header: Patch Semanal 18: Paranormal
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/8325c010fecebcc0589ac0425e6f5d255b16fa8c.jpg[/img]
+
+Este patch semanal traz alguns eventos, um modificador de diária, e vários balanceamentos de cartas!
+
+[h1]Eventos[/h1]
+Três novos eventos foram adicionados ao Pináculo. Aqui vai uma prévia de como eles se parecem.
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/b21aed56cdccb063b41e73aa58cd722032d84d1d.jpg[/img]
+
+[b]Notas do Patch:[/b]
+
+[h1]Conteúdo[/h1]
+[list]
+[*]Modificador de Diária: Esboço. Esboce um baralho inicial de 15 cartas personalizado.
+[*]Evento (Além): Portal Secreto.
+[*]Evento (Além): Pedra Sensorial.
+[*]Evento (Cidade): Conselho de Fantasmas.
+[*]Carta Exclusiva de Evento: Aparição.
+[/list]
+
+[h1]Balanceamento[/h1]
+[list]
+[*]Nerf da Ruína do Ascensor: agora tem Etérea.
+[*]Nerf do O Despertado: 2 Vácuos -> 1 Vácuo
+[*]Melhor prevenção para enviar tempos inválidos para a tabela de classificação.
+[*]Melhoria na carta Sangue por Sangue. 16 -> 18. Aprimorada: 18 -> 22.
+[*]Melhoria na carta Carnificina: 18 -> 20. Aprimorada: 26 -> 28
+[*]Modificadores de Diária agora podem ter entre 0 - 2 modificadores exclusivamente positivos (costumava sempre ser 1).
+[*]Melhoria na carta Veneno Mortal: 4 -> 5. Aprimorada: 6 -> 7.
+[*]Retrabalho em Evoluir: Não mais dá Feridas. Agora engatilha em qualquer carta de Condição, não apenas Feridas.
+[*]O jogo não irá mais te chamar de trapaceiro ou descontar pontuação mesmo se você trapacear (pontuação não será enviada, entretanto).
+[*]Relíquia Carta de Interrogação agora é Incomum. (era Chefe).
+[*]Nerf no Chefe Gosma: ataque de 3 Gosmentos não causa mais dano.
+[/list]
+
+[h1]Correções de Bug[/h1]
+[list]
+[*]Detonador agora explode no turno dele, então Veneno irá engatilhar antes de sua explosão.
+[*]Correção para cálculo de Proteção com múltiplos modificadores arredondando incorretamente.
+[*]Correção para o exploit de Sino de Invocação/Biblioteca/Caixa de Pandora.
+[*]Juggernaut não estava funcionando corretamente. Corrigido.
+[*]Neow não pode mais remover Ruína do Ascensor.
+[*]Golpe Aperfeiçoado agora conta Golpes de outros personagens.
+[*]Modificador de diária Dilatação do Tempo não mais afeta o inimigo Cabeça Gigante.
+[*]Distorção Temporal do Devorador do Tempo não mais incrementa quando Maldições se jogam.
+[*]Carta Vácuo não pode mais te deixar com energia negativa.
+[/list]
+
+[h1]Localização[/h1]
+[list]
+[*]Atualizações para DEU, FRA, ITA, JPN, KOR, POL, PTB, RUS, ZHS, ZHT.
+[/list]
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/4e5415af513793a8abfa564383115ee02536cb07.png[/img]
