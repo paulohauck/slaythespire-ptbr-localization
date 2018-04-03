@@ -64,7 +64,7 @@
     "DESCRIPTION": "通常の敵がカードの代わりにレリックをドロップするようになる。"
   },
   "Draft": {
-    "NAME": "Draft",
-    "DESCRIPTION": "Draft a custom starting deck of cards."
+    "NAME": "ドラフト",
+    "DESCRIPTION": "カードをドラフトして初期デッキを作る。"
   }
 }
