@@ -25,7 +25,7 @@
   },
   "Shiny": {
     "NAME": "Cintilante",
-    "DESCRIPTION": "Comece com 1 carta Rara."
+    "DESCRIPTION": "Baralho inicial é substituído por 1 de cada carta rara."
   },
   "Allstar": {
     "NAME": "Profissional",
