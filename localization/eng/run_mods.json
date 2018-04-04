@@ -25,7 +25,7 @@
   },
   "Shiny": {
     "NAME": "Shiny",
-    "DESCRIPTION": "Start with 1 Rare card."
+    "DESCRIPTION": "Starting deck is replaced with 1 of every rare card."
   },
   "Allstar": {
     "NAME": "All Star",

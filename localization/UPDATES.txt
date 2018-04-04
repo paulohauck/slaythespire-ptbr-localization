@@ -1,5 +1,11 @@
 Updates for Translators!
 
+04/03/2018:
+run_mods.json
+	"Shiny"
+	
+----------------------------------
+
 04/02/2018:
 run_mods.json
 	"Diverse"
