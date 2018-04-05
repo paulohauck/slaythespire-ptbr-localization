@@ -17,7 +17,7 @@
   },
   "Shiny": {
     "NAME": "金光闪闪",
-    "DESCRIPTION": "开始时拥有一张随机稀有牌。"
+    "DESCRIPTION": "初始牌组被替换为所有稀有牌各一张。"
   },
   "Allstar": {
     "NAME": "全明星",

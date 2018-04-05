@@ -702,7 +702,7 @@
     "DESCRIPTIONS": [
       "灯りが落ちた通りを行くと、数人の頭巾をした人物が何やら儀式のようなものを行っているところに出くわした。あなたが近づくと、薄気味悪く一斉にこちらを向く。一番背の高い人物には牙があった。彼は長く青白い手をあなたに伸ばしてくる。 NL ~「兄弟よ我らと共に、そして塔の温もりを肌で感じるのだ」~",
       "灯りが落ちた通りを行くと、数人の頭巾をした人物が何やら儀式のようなものを行っているところに出くわした。あなたが近づくと、薄気味悪く一斉にこちらを向く。一番背の高い人物には牙があった。彼は長く青白い手をあなたに伸ばしてくる。 NL ~「姉妹よ我らと共に、そして塔の温もりを肌で感じるのだ」~",
-      "その長身の人物にあなたは腕を掴まれて引き寄せられた。彼の牙があなたの首筋に突き刺さる。@暗闇の@ @力@ が首から注ぎ込まれ、身体を @駆け巡る@ のを感じた。 NL ... NL しばらくして目を覚ますと、誰もいなくなっていた。あなたは強烈な ~空腹~ をおぼえる。 #r何か口にしなければ...",
+      "その長身の人物にあなたは腕を掴まれて引き寄せられた。彼の牙があなたの首筋に突き刺さる。 @暗闇の力@ が首から注ぎ込まれ、身体を @駆け巡る@ のを感じた。 NL ... NL しばらくして目を覚ますと、誰もいなくなっていた。あなたは強烈な ~空腹~ をおぼえる。 #r何か口にしなければ...",
       "あなたは後ろに下がると武器を構えて抵抗する姿勢を見せた。長身の人物が溜息をつく。「いいだろう」頭巾の団体は毒黒い黒煙に姿を変えると、漂いながら飛び去っていった。 NL あなたはまた一人になった。",
       "あなたが #y血のガラス瓶 を取り出すと青白い人物たちは固唾をのんだ。 NL ~「主の~ ~血だ...~ ~主の~ ~血だ！~ @我が主の@　@血だ！」@ NL 彼らが熱心に何かを詠唱する中、長身の人物があなたにお辞儀をした。「彼の血を飲むがいい、そして #y~彼~ と1つになるのだ」 NL 詠唱がさらに激しくなる、あなたは瓶の中身を飲み干した。すぐに ~気が遠く~ なり、暗闇に包まれていった。 NL NL しばらくして目を覚ますと、誰もいなくなっていた。あなたは強烈な ~空腹~ をおぼえる。 #r何か　#r口にしなければ。"
     ],
@@ -718,9 +718,9 @@
   "Ghosts": {
     "NAME": "幽霊議会",
     "DESCRIPTIONS": [
-      "塔を上り続けていると、 #p~濃密な黒煙~ があなたの周囲の地面や壁から噴き出し、3体の仮面を被った何かに形を変えて話し始めた。 NL NL ~「~ ~#yネオー~ ~のあやつり人形がまた一人来たようだな。」~ NL #r@「そのようだ！@ #r@彼女が作るおもちゃはいつだって最高だ！」@ NL NL あなたは口が裂けるほどの笑みを浮かべた三体目が、こちらを見つめていることに気づいた。 NL 「他の二人は気にするな… 我らの #y~力~ に興味はないか？」",
+      "塔を上り続けていると、 #p~濃密な黒煙~ があなたの周囲の地面や壁から噴き出し、3体の仮面を被った何かに形を変えて話し始めた。 NL NL ~「~ #y~ネオー~ ~のあやつり人形がまた一人来たようだな。」~ NL #r@「そのようだ！@ #r@彼女が作るおもちゃはいつだって最高だ！」@ NL NL あなたは口が裂けるほどの笑みを浮かべた三体目が、こちらを見つめていることに気づいた。 NL 「他の二人は気にするな… 我らの #y~力~ に興味はないか？」",
       "",
-      "#y「すばらしい！」 NL 幽霊のような何かが喋ると、 その口がどんどん大きく開いていくことに気づいた。 噴き出した#p~深い黒煙~ が部屋を包み込む。 何も見えず、息もできない… NL NL あなたが意識を失う直前に、謎の現象は収まった。 NL NL 一体何が起こったのかわからないが、彼らはもうどこかに消えてしまった。 軽い #b虚脱感 を感じ続ける。",
+      "#y「すばらしい！」 NL 幽霊のような何かが喋ると、 その口がどんどん大きく開いていくことに気づいた。 噴き出した #p~深い黒煙~ が部屋を包み込む。 何も見えず、息もできない… NL NL あなたが意識を失う直前に、謎の現象は収まった。 NL NL 一体何が起こったのかわからないが、彼らはもうどこかに消えてしまった。 軽い #b虚脱感 を感じる。",
       "「おやおや…」 NL ~「遅かれ早かれ我らの仲間入りをするというのに。」~ NL #r@「アーハッハッハッハッハハハ！」@ NL NL 謎の何かは消え去り、ゾッとするような笑い声だけがあなたの耳に残った。",
       ""
     ],
@@ -746,12 +746,12 @@
     ]
   },
   "SensoryStone": {
-    "NAME": "Sensory Stone",
+    "NAME": "センサリーストーン",
     "DESCRIPTIONS": [
-      "Navigating through the Beyond, you discover a #bglowing #btesseract @spinning@ and ~shifting~ gently in the air.",
-      "You touch it. NL NL A #r@sharp@ #r@pain@ flows through you, followed by vivid flashes of a distant memory. NL ...whose memories are these?",
-      "#r~FEAR.~ NL NL A demonic creature towers above you, wings spread wide as it howls with laughter. Dead bodies of a tribe surround you while the village is engulfed in terrible #p~dark~ #p~flames.~ NL NL The demon calls out, taunting you. NL NL \" #r@YOU@ r@REALLY@ #r@ARE@ #r@THE@ #r@STRONGEST@ #r@NOW!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL This laughter echoes forever... ",
-      "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature~ sinks slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards a Spire...",
+      "彼方を探索していると、空中に浮かぶ #b光輝く 四次元立方体を発見した。それは静かに @回転@ し、 ~変化し続けている。~ ",
+      "あなたはそれに触れる。 NL NL #r鋭い痛み が体の中を駆け巡り、遠い記憶が鮮やかに蘇る。 NL …一体これは誰の記憶だ？",
+      "#r~恐怖。~ NL NL 悪魔のような生き物が、笑い声を上げながらあなたの頭上を飛び回っている。 あなたは仲間の死体に囲まれていて、村は恐ろしい #p~闇の炎~ に飲み込まれている。 NL NL 悪魔は叫び、あなたを嘲笑った。 NL NL 「 #r@フフッ…フハハハハハッハハッハハッハ！@ 」 NL NL 笑い声は永遠に響き続けた…",
+      "#g~勝利。~ NL NL #p~幽霊のような生物~ の残滓が、あなたの目の前の泥に沈んでいくのが、月明かりのもとでかろうじて見えた。 あなたは姉妹たちの中で確固たる自らの価値を証明した。 NL NL 勝ち誇って立ち上がり、他の者たちが儀式の一環で動物の頭蓋骨を頭に被せるのを、ただ静かに待っていた。 儀式は完了した。 NL NL あなたは塔へ向かう…",
       "#b~UNKNOWN.~ NL NL Not yet implemented."
     ],
     "OPTIONS": [
