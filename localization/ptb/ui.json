@@ -294,9 +294,9 @@
   "SeedPanel": {
     "TEXT": [
       "0000000000",
-      "Enter a new Seed",
-      "Confirm",
-      "Cancel"
+      "Insira uma nova Seed",
+      "Confirmar",
+      "Cancelar"
     ]
   },
   "AbstractCard": {
@@ -390,7 +390,7 @@
       "Estou #rPreso! NL Não posso jogar Ataques",
       "Não tenho #rEnergia suficiente.",
       "Não tenho #rCarga suficiente.",
-      "Eu não posso jogar NL essa carta"
+      "Eu não posso jogar NL essa carta."
     ]
   },
   "MasterDeckViewScreen": {
@@ -792,11 +792,11 @@
       "Ascensão",
       "Nível ",
       "Modo Ascensão",
-      "Jornadas ficam mais difíceis enquanto você vence... (Sequências de Vitórias não são afetadas)",
+      "Jornadas ficam mais difíceis conforme você vence... (Sequências de Vitórias não são afetadas)",
       "Seed ",
-      "Random Seed",
-      "The starting seed used to determine what randomly appears in the run.",
-      "Set Seed"
+      "Seed Aleatória",
+      "A seed inicial usada para determinar o que aleatoriamente aparece na jornada.",
+      "Definir Seed"
     ]
   },
   "AscensionModeDescriptions": {
