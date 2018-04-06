@@ -1,0 +1,59 @@
+Headline: Patch Semanal 19: Semente
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/5ba69af7ce9e66e358daf733f263fc7d374f41b2.jpg[/img]
+
+Hey hey,
+Este patch patch traz jornadas com seed e melhorias às diárias.
+
+[h1]Seeds[/h1]
+Você agora pode definir sua seed inicial. Agora você pode jogar a mesma jornada que seu amigo ou streamer. Você também pode responder aquelas questões "E se?" pois a seed de todas as suas jornadas agora são visíveis na tela de Hitórico de Jornadas. Apenas insira uma seed a partir da tela de seleção de personagem.
+
+Tenha em mente que Jornadas com Seed não eviarão uma pontuação às tabelas de classificação ou permitirão você a desbloquear conquistas.
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/7b29284bfc00f84a4bb7458827df05139a3a8e34.jpg[/img]
+
+[h1]Progresso do Terceiro Personagem[/h1]
+Alguns de vocês devem ter percebido alguns patches mais leves nas últimas semanas, nossos esforços de desenvolvimento têm sido focados principalmente em um terceiro personagem. Testes internos começaram recentemente e nós tivemos bom progresso em fazer este personagem balanceado, interessante, e divertido!
+
+Se tudo ir bem, nós estaremos testando este personagem em nosso open beta no final do mês. Obrigado por sua paciência e apoio contínuos.
+
+[b]Notas do Patch[/b]
+
+[h1]Balanceamento[/h1]
+[list]
+[*]Melhoria na carta Combustão. Dano: 4 -> 5.
+[*]Melhoria na carta Grand Finale. Custo: 1 -> 0.
+[*]Raridade da relíquia O Espécime mudada. Chefe -> Rara.
+[*]Escalada Diária não pode mais desbloquear conquistas.
+[*]Modificador de diária Profissional alterado para dar 5 cartas ao invés de 2.
+[*]Modificador de diária Diverso retrabalhado. Agora permite cartas de outros personagens aparecerem.
+[*]Modificador de diária Cintilante retrabalhado. Agora você começa com todas as cartas Raras para o seu atual personagem, não 1 rara.
+[*]Corrigido a ordem de turno para o encontro Escolhido + Páçaro. Escolhido não mais aplica Vulnerável antes que o Páçaro ataque.
+[/list]
+
+[h1]UI e Efeitos[/h1]
+[list]
+[*]Adicionado Seed ao histórico de jornada. Clique nela para copiar à sua área de transferência.
+[*]Você agora pode definir manualmente a seed do jogo antes de embarcar.
+[*]Você agora pode clicar com o botão direito em cartas na tela de recompensa de carta para ver seus aprimoramentos e detalhes.
+[*]Você agora pode clicar com o botão direito em cartas na tela da Loja para ver seus aprimoramentos e detalhes.
+[/list]
+
+[h1]Correções de Bug[/h1]
+[list]
+[*]Cartas de fim de turno (maldições & condições) não são mais "jogadas". Deve corrigir problemas com Pião Incessante.
+[*]Correção para o Cachimbo da Paz às vezes causando o efeito errado acontecer se você cancelar.
+[*]Corrigido problema onde Conquista Ascensão 10 era desbloqueada 1 nível antes.
+[*]Intenção de ataque da Cabeça Gigante agora é limitada corretamente para corresponder com o dano resultante.
+[*]Melhorias de gramática para o evento Pedra Sensorial.
+[*]Potencial correção para os problemas de casos extremos com Sino de Invocação e Caixa de Pandora.
+[*]Inconsistência com "Put" e "Place" nas cartas Pensar à Frente e Exumar.
+[*]Correção de erro de digitação para a mensagem quando você não pode jogar uma carta.
+[/list]
+
+[h1]Localização[/h1]
+[list]
+[*]Atualizações para FRA, ITA, JPN, POL, PTB, RUS, ZHS, ZHT.
+[/list]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/49004c36d2a1a62681b03d9fd4f913f5e3fc9d3f.png[/img]

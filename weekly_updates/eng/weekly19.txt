@@ -1,0 +1,59 @@
+Headline: Weekly Patch 19: Seed
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/5ba69af7ce9e66e358daf733f263fc7d374f41b2.jpg[/img]
+
+Hey hey,
+This patch brings in seeded runs and improvements to the dailies.
+
+[h1]Seeds[/h1]
+You can now set your starting seed. Now you can play the same run as your friend or streamer. You can also answer those "What if?" questions as the seed of all of your runs are now visible on the Run History screen. Simply input a seed from the character select screen.
+
+Keep in mind that Seeded Runs will not post a score to the leaderboards or allow you to unlock achievements.
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/7b29284bfc00f84a4bb7458827df05139a3a8e34.jpg[/img]
+
+[h1]Third Character Progress[/h1]
+Some of you may have noticed some lighter patches the last few weeks, our dev efforts have been focused mainly on a third character. Internal testing has begun recently and we've had good progress in making this character balanced, interesting, and fun!
+
+If all goes well, we will be testing this character in our open beta later this month. Thank you for your continued patience and support.
+
+[b]Patch Notes[/b]
+
+[h1]Balance[/h1]
+[list]
+[*]Combust card buff. Damage 4 -> 5.
+[*]Grand Finale card buff. Cost 1 -> 0.
+[*]The Specimen relic rarity changed. Boss -> Rare.
+[*]Daily Climb can no longer unlock achievements.
+[*]All Star daily mod altered to give 5 cards instead of 2.
+[*]Diverse daily mod reworked. Now allows cards from other characters to appear.
+[*]Shiny daily mod rework: You now start with all Rare cards for your current character, not 1 rare.
+[*]Fixed the turn order for Chosen + Byrd encounter. Chosen no longer applies Vulnerable before Byrd attacks.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Added Seed to run history. Click it to copy to your clipboard.
+[*]You can now manually set the game seed before embarking.
+[*]You can now right click cards in the card reward screen to view their upgrades and details.
+[*]You can now right click cards in the Shop screen to view their upgrades and details.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]End of turn cards (curses & statuses) are no longer "played". Should fix issues with Unceasing Top.
+[*]Fix for Peace Pipe sometimes causing the wrong effect to happen if you cancel.
+[*]Fixed issue where Ascension 10 Achievement was unlocked 1 level early.
+[*]Giant Head's attack intent now properly caps to match its damage output.
+[*]Grammar improvements for Sensory Stone event.
+[*]Potential fix for Calling Bell and Pandora's Box edge case issues.
+[*]Put vs Place wording inconsistency on Thinking Ahead and Exhume cards.
+[*]Typo fix for message when you cannot play a card.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Updates for FRA, ITA, JPN, POL, PTB, RUS, ZHS, ZHT.
+[/list]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/49004c36d2a1a62681b03d9fd4f913f5e3fc9d3f.png[/img]
