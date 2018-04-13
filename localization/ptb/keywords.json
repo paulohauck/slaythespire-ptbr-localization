@@ -133,6 +133,20 @@
       ],
       "DESCRIPTION": "Feridas são cartas de condição injogáveis."
     },
+    "DAZED": {
+      "NAMES":[
+        "atordoado"
+      ],
+      "DESCRIPTION": "Atordoato são cartas de condição não-jogáveis."
+    },
+    "BURN": {
+      "NAMES":[
+        "queimadura",
+        "queima",
+        "queimaduras"
+      ],
+      "DESCRIPTION": "Queimaduras são cartas de condição não-jogáveios que lhe causam dano."
+    },
     "FRAIL": {
       "NAMES": [
         "fragilizado"
@@ -150,17 +164,7 @@
         "confuso"
       ],
       "DESCRIPTION": "Sempre que você comprar uma carta, aleatorize seu custo."
-    },
-    "FIRE": {
-      "NAMES": [
-        "fire",
-        "fired",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF"
-      ],
-      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
-    },
+    },    
     "INTANGIBLE": {
       "NAMES": [
         "intangível"

@@ -6,7 +6,7 @@
   },
   "Immolate": {
     "NAME": "Imolar",
-    "DESCRIPTION": "Exaura 1 carta. Se a carta escolhida for uma Condição ou Maldição, cause !D! de dano a TODOS os inimigos."
+    "DESCRIPTION": "Cause !D! de dano a TODOS inimigos. NL Embaralhe uma Queimadura em sua pilha de saques."
   },
   "Regret": {
     "NAME": "Arrependimento",
@@ -54,7 +54,7 @@
   },
   "Anger": {
     "NAME": "Ira",
-    "DESCRIPTION": "Cause !D! de dano. NL Coloque uma cópia desta carta na sua pilha de descarte."
+    "DESCRIPTION": "Cause !D! de dano. NL Adicione uma cópia desta carta a sua pilha de descarte."
   },
   "Storm of Steel": {
     "NAME": "Tempestade de Aço",
@@ -68,6 +68,10 @@
   "Inflame": {
     "NAME": "Inflamar",
     "DESCRIPTION": "Ganhe !M! de Força."
+  },
+  "Wraith Form v2": {
+    "NAME": "Forma Espectral",
+    "DESCRIPTION": "Ganhe !M! de Intangibilidade. NL No fim do seu turno, perca 1 Destreza."
   },
   "Wraith Form": {
     "NAME": "Forma Espectral",
@@ -87,7 +91,7 @@
   },
   "Exhume": {
     "NAME": "Exumar",
-    "DESCRIPTION": "Escolha uma carta exaurida e a coloque em sua mão. NL Exaurir."
+    "DESCRIPTION": "Coloque uma carta da sua pilha de Exaustão sua mão. NL Exaurir."
   },
   "Power Through": {
     "NAME": "Resistir",
@@ -184,7 +188,7 @@
   },
   "Reckless Charge": {
     "NAME": "Investida Imprudente",
-    "DESCRIPTION": "Ganhe 1 de Vulnerabilidade. NL Cause !D! de dano."
+    "DESCRIPTION": "Cause !D! de dano. NL Embaralhe um Atordado em sua pilha de saques."
   },
   "Decay": {
     "NAME": "Apodrecer",

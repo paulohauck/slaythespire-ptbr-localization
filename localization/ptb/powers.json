@@ -750,5 +750,12 @@
       "Sempre que você jogar uma Técnica, cause ",
       " de dano a um inimigo aleatório."
     ]
+  },
+  "Wraith Form v2": {
+    "NAME": "Forma Espectral",
+    "DESCRIPTIONS": [
+      "No final do seu turno, perca #b",
+      " de #yDestreza."
+    ]
   }
 }

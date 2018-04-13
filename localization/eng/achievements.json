@@ -72,9 +72,7 @@
 	]
   },
   "CharStat": {
-    "NAMES": [
-			
-	],
+    "NAMES": [],
 	"TEXT": [
 		"Total Playtime: ",
 		"Total Victories: #y",
