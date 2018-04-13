@@ -1,0 +1,75 @@
+Headline: Weekly Patch 20: Immolate
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/7c74b565d67e443d3c94c9f54d51b05a47b68f83.jpg[/img]
+
+Hey everyone,
+
+It's patch day! 
+
+[h1]Card Library Tabs[/h1]
+We worked on a UI  to improve the Card Library. Players no longer need to scroll as much when trying to view cards. This is especially useful as we add more card-related content in the future.
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/3144e7c4a2209feb5ee00fb99ddf7df22802c222.jpg[/img]
+
+[h1]Card Quick Select[/h1]
+You can now select cards by pressing numbers 0 - 9. If you want to view the corresponding hotkeys, they can be turned on in the Game Settings. Here it is in action.
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/50f5d8394b064baf518e7fe177f95e6aede89960.gif[/img]
+
+[h1]Card Reworks[/h1]
+We've been working on a lot of cards over at Mega Crit headquarters for our third character. While in the process, we also reworked some of our most unpopular cards.
+
+There will probably many reworks in the future so we're trying out a new format. Pictures!
+
+[h1]Reckless Charge[/h1]
+Reckless charge is now Common and shuffles a Dazed into your draw pile rather than making you Vulnerable.
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/07e8362246c35b2134cd79b879e277c0289bc981.jpg[/img]
+
+[h1]Immolate[/h1]
+Immolate now costs 2, deals considerably more damage, and shuffles a Burn into your draw pile.
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/91a285e654f73643bbb6f46077bd97d347145465.jpg[/img]
+
+[h1]Wraith Form[/h1]
+Wraith Form is completely reworked to give you 3 turns of Intangible while progressively decreasing your Dexterity each turn.
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/5232d6f42497ec26b34b79c274bf37018c741083.jpg[/img]
+
+[b]Patch Notes[/b]
+
+[h1]Balance[/h1]
+[list]
+[*]Awakened One nerf. Curiousity is now 2 -> 1. Ascension: 3 -> 2.
+[*]Cleave card damage buff. 7 -> 8 (10 -> 11).
+[*]Combust+ card damage buff. 6 -> 7.
+[*]Seeds are now Timestamp based and "seed_source_timestamp" has been added to .run files.
+[*]Wild Strike card is now Uncommon.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Card Randomizer (affects rarity droprates of cards) is now correctly reset when starting a new run.
+[*]Card Randomizer values are properly saved/loaded now.
+[*]Edge case fixes for incorrect Block rounding with multiple powers.
+[*]Fix for chests giving the wrong relic rarity.
+[*]Fixed incorrect score calculation from Collector bonus.
+[*]Potential fix for End of Turn card effects.
+[*]Potential fix for Pandora's Box and Calling Bell issues and exploits.
+[*]Seed no longer flashes when you hit cancel in Seed Panel.
+[*]Statuses and Curses autoplay at end of turn again.
+[*]Typo fix in Pandora's Box helper text.
+[*]Unceasing Top relic + Queueing End Turn should now function properly together.
+[*]Unceasing Top relic no longer triggers after Statuses and Curses autoplay.
+[*]Wording fixes in Sensory Stone event.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Add OSX Command + V paste support for Seed Panel.
+[*]Added Ctrl + V paste support for Seed Panel.
+[*]Added Custom Seed indicator to Run History.
+[*]Cleaned up Positive & Negative Seed Panel UI things.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Updates for DEU, FRA, ITA, KOR, POL, RUS, ZHS, ZHT.
+[/list]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/4a9cd8a6e432ce7385adf4ce83826b9dcf672043.png[/img]

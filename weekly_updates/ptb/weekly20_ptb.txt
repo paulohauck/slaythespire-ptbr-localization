@@ -1,0 +1,75 @@
+Headline: Patch Semanal 20: Imolar
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/7c74b565d67e443d3c94c9f54d51b05a47b68f83.jpg[/img]
+
+Olá pessoal,
+
+É dia de atualização! 
+
+[h1]Aba de biblioteca de cartas[/h1]
+Nós trabalhamos na UI para aprimorar a Biblioteca de Cartas. Os jogadores não precisarão mais rolar a pagina excessivamente para visualizar uma carta. E isso será especialmente útil conforme adicionarmos mais conteúdo relacionado a cartas no futuro.
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/3144e7c4a2209feb5ee00fb99ddf7df22802c222.jpg[/img]
+
+[h1]Seleção rápida de Cartas[/h1]
+Agora você poderá selecionar as cartas utilizando as teclas de 0 - 9. Se você deseja verificar os atalhos, eles podem ser habilitadas nas configurações do jogo. Aqui vai um exemplo.
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/50f5d8394b064baf518e7fe177f95e6aede89960.gif[/img]
+
+[h1]Revisão de Cartas[/h1]
+Nós estivemos trabalhando pesado em cartas aqui no quartel general da Mega Crit para nosso terceiro personagem. Enquanto isso, também revisamos algumas de nossas cartas mais impopulares.
+
+Provavelmente haverão muitas revisões no futuro, então estamos tentando um novo formato. Imagens! 
+
+[h1]Investida Imprudente[/h1]
+Investida imprudente agora é uma carta Comum e embaralha um "Atordoado" em sua pilha de saques ao invés de lhe causar Vulnerabilidade.
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/07e8362246c35b2134cd79b879e277c0289bc981.jpg[/img]
+
+[h1]Imolar[/h1]
+Imolar agora custa 2, causa consideralvemente mais dano, e embaralha uma "Queimadura" em sua pilha de saques.
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/91a285e654f73643bbb6f46077bd97d347145465.jpg[/img]
+
+[h1]Forma Espectral[/h1]
+Forma espectral foi completamente revisada, tornando-o Intang�vel por 3 turnos enquando reduz progressivamente sua "Destreza" a cada turno.
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/5232d6f42497ec26b34b79c274bf37018c741083.jpg[/img]
+
+[b]Notas da atualizaão[/b]
+
+[h1]Balanceamento[/h1]
+[list]
+[*]"O Despertado" nerf. Curiousidade agora é 2 -> 1. Ascensão: 3 -> 2.
+[*]Carta "Fender" dano aumentado. 7 -> 8 (10 -> 11).
+[*]Carta "Combustão+" dano aumentado 6 -> 7.
+[*]Sementes agora são baseadas em Timestamp e "seed_source_timestamp" foi adicionado aos arquivos .run .
+[*]Carta "Golpe Selvagem" agora é uma carta Incomum.
+[/list]
+
+[h1]Correções de Bugs[/h1]
+[list]
+[*]Randomizador de Cartas (afeta a taxa de drop de raridades de cartas) agora é corretamente reiniciado quando uma nova Jornada é iniciada.
+[*]Valores do Randomizador de Cartas agora são corretamente salvos/carregados.
+[*]Corrigido: Distorção no arrendondamento do Bloqueio quando multiplos poderes estão ativos.
+[*]Corrigido: Baús estavam dando reliquias de raridades incorretas.
+[*]Corrigido: Calcúlo de pontuação incorreto para bonus de Colecionador.
+[*]Potencial correção: Efeitos de cartas em finalização de turnos.
+[*]Potencial correção: Caixa de  Pandora e Sino de Invocação erros e exploits.
+[*]Semente não mais pisca quando você clica em cancelar no Painel de Semente.
+[*]Jogada automática de Condições e Maldições ao final do turno novamente.
+[*]Correção de erro de digitação no texto da Caixa de Pandora.
+[*]Reliquia "Pião Incessante" + enfileirar "Finalizar turno" deve funcionar corretamente agora.
+[*]Reliquia "Pião Incessante" não é mais acionado após a jogada automatica de Condições e/ou Maldições.
+[*]Correção de fraseamento no evento "Pedra Sensorial".
+[/list]
+
+[h1]Interface e Efeitos[/h1]
+[list]
+[*]Adicionado suporte no OSX  para colar (Command + V) no Painel de Semente.
+[*]Adicionado suporte para colar (Ctrl + V) no Painel de Semente.
+[*]Adicionado indicador de semente personalizada no Histórico de Jogarnada.
+[*]Limpeza em detalhes de Positivos e Negativos no Painel de Sementes.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Atualizações para DEU, FRA, ITA, KOR, POL, RUS, ZHS, ZHT.
+[/list]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/4a9cd8a6e432ce7385adf4ce83826b9dcf672043.png[/img]
