@@ -59,7 +59,7 @@
       "アセンション",
       "デイリーチャレンジ",
       "シード: %s",
-      "Custom Seed: %s"
+      "カスタムシード: %s"
     ]
   },
   "RunHistoryPathNodes": {
@@ -141,7 +141,8 @@
       "Serbian",
       "Ukrainian",
       "Vietnamese",
-      "Hungarian"
+      "Hungarian",
+      "Serbian (Latin)"
     ]
   },
   "Proceed Button": {
@@ -699,7 +700,7 @@
       "レアリティ",
       "タイプ",
       "A～Z",
-      "Cost",
+      "コスト",
       "Jump To:"
     ]
   },
@@ -799,7 +800,7 @@
       "シード ",
       "ランダムシード",
       "開始時のシード値を元にして攻略中のランダム要素が生成される。",
-      "　シードを設定"
+      "シードを設定"
     ]
   },
   "AscensionModeDescriptions": {

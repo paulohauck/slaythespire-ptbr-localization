@@ -141,7 +141,8 @@
       "Serbian",
       "Ukrainian",
       "Vietnamese",
-      "Hungarian"
+      "Hungarian",
+      "Serbian (Latin)"
     ]
   },
   "Proceed Button": {
@@ -696,11 +697,11 @@
   },
   "CardLibSortHeader": {
     "TEXT": [
-      "Rzadk.",
+      "Rzadkość",
       "Typ",
       "A-Z",
-      "Cost",
-      "Jump To:"
+      "Koszt",
+      "Przejdź do:"
     ]
   },
   "EarlyAccessPopup": {

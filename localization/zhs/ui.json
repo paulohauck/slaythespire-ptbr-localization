@@ -37,7 +37,8 @@
       "塞尔维亚语",
       "乌克兰语",
       "越南语",
-      "匈牙利语"
+      "匈牙利语",
+      "Serbian (Latin)"
     ]
   },
   "Proceed Button": {
@@ -541,8 +542,8 @@
       "稀有度",
       "类型",
       "A-Z",
-      "Cost",
-      "Jump To:"
+      "耗能",
+      "定位："
     ]
   },
   "EarlyAccessPopup": {

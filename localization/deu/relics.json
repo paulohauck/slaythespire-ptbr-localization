@@ -649,7 +649,7 @@
     "NAME": "Fragekarte",
     "FLAVOR": "„Jene mit mehr Auswahl mindern die Kehrseite des Chaos.“ – Kublai der Große",
     "DESCRIPTIONS": [
-      "Wähle auf Kartenbelohnungs-Bildschirmen von #b4 Karten statt von #b3."
+      "Du hast auf Kartenbelohnungs-Bildschirmen #y1 #yzusätzliche #yKarte zur Auswahl."
     ]
   },
   "Red Circlet": {
@@ -782,7 +782,7 @@
     "NAME": "Sozu",
     "FLAVOR": "Du merkst, wie magische Flüssigkeiten in der Nähe dieses Relikts die Wirkung verlieren.",
     "DESCRIPTIONS": [
-      " Du kannst keine Tränke mehr nutzen. ",
+      " Du kannst keine Tränke mehr aufnehmen. ",
       "Zu Beginn jedes Zuges erhältst du [R] .",
       "Zu Beginn jedes Zuges erhältst du [G] .",
       "Zu Beginn jedes Zuges erhältst du [B] ."
@@ -1073,7 +1073,7 @@
     "NAME": "Gefrorenes Ei (BETA)",
     "FLAVOR": "Ein regloses und gefrorenes Ei, das niemals schlüpfen wird.",
     "DESCRIPTIONS": [
-      "Jedes mal, wenn du eine #yKraftkarte erhältst, ist sie #yverbessert."
+      "Jedes mal, wenn du eine #yMachtkarte erhältst, ist sie #yverbessert."
     ]
   },
   "Toxic Egg 2": {

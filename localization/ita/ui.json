@@ -138,10 +138,11 @@
       "Svedese",
       "Norvegese",
       "Tailandese",
-      "Serbo",
+      "Serbo (Cirillico)",
       "Ukraino",
       "Vietnamese",
-      "Ungaro"
+      "Ungaro",
+      "Serbo (Latino)"
     ]
   },
   "Proceed Button": {
@@ -699,8 +700,8 @@
       "Rarità",
       "Tipo",
       "A-Z",
-      "Cost",
-      "Jump To:"
+      "Costo",
+      "Vai a:"
     ]
   },
   "EarlyAccessPopup": {

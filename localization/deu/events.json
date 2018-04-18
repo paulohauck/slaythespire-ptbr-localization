@@ -772,9 +772,9 @@
       "#b~UNBEKANNT.~ NL NL Noch nicht eingefügt."
     ],
     "OPTIONS": [
-      "[Recall] #gFüge #gdeinem #gDeck #g1 #gfarblose #gKarten #gzu.",
-      "[Recall] #gFüge #gdeinem #gDeck #g2 #gfarblose #gKarten #gzu. #rVerliere #r",
-      "[Recall] #gFüge #gdeinem #gDeck #g3 #gfarblose #gKarten #gzu. #rVerliere #r",
+      "[Erinnern] #gFüge #gdeinem #gDeck #g1 #gfarblose #gKarten #gzu.",
+      "[Erinnern] #gFüge #gdeinem #gDeck #g2 #gfarblose #gKarten #gzu. #rVerliere #r",
+      "[Erinnern] #gFüge #gdeinem #gDeck #g3 #gfarblose #gKarten #gzu. #rVerliere #r",
       " #rTP.",
       "[Verlasse]",
       "[Interagiere]"

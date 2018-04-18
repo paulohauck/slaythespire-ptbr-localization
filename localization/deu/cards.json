@@ -6,7 +6,7 @@
   },
   "Immolate": {
     "NAME": "Opfer",
-    "DESCRIPTION": "Erschöpfe eine Karte. Ist die Karte ein Status oder Fluch, verursachst du !D! Schaden an ALLEN Gegnern."
+    "DESCRIPTION": "Verursache !D! Schaden an ALLEN Gegnern. NL Mische ein Brennen in deinen Aufnahmestapel."
   },
   "Regret": {
     "NAME": "Reue",
@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Hinterlistiger Schlag",
-    "DESCRIPTION": "Verursache !D! Schaden. NL Erhalte [G] [G], NL wenn du diese Karte abwirfst.",
+    "DESCRIPTION": "Verursache !D! Schaden. NL Wenn du in diesem Zug eine Karte abgeworfen hast, NL erhalte [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Ich kann diese Karte nicht ausspielen."
     ]
@@ -184,7 +184,7 @@
   },
   "Reckless Charge": {
     "NAME": "Rücksichtsloser Ansturm",
-    "DESCRIPTION": "Du erhältst 1 Verletzlich. NL Du verursachst !D! Schaden."
+    "DESCRIPTION": "Du verursachst !D! Schaden. NL Mische ein Benommen in deinen Aufnahmestapel."
   },
   "Decay": {
     "NAME": "Verfall",
@@ -237,8 +237,8 @@
   },
   "True Grit": {
     "NAME": "Stehvermögen",
-    "DESCRIPTION": "Du erhältst !B! Block. NL Eine zufällige Karte auf deiner Hand erschöpft.",
-    "UPGRADE_DESCRIPTION": "Du erhältst !B! Block. NL Eine Karte auf deiner Hand erschöpft."
+    "DESCRIPTION": "Du erhältst !B! Block. NL Du erschöpfst eine zufällige Karte auf deiner Hand.",
+    "UPGRADE_DESCRIPTION": "Du erhältst !B! Block. NL Du erschöpfst eine Karte auf deiner Hand."
   },
   "Setup": {
     "NAME": "Abgekartet",
@@ -302,7 +302,7 @@
   },
   "Pain": {
     "NAME": "Schmerz",
-    "DESCRIPTION": "Unspielbar. NL Solange diese Karte auf der Hand ist verlierst du beim Ausspielen anderer Karten 1 TP."
+    "DESCRIPTION": "Unspielbar. NL Solange diese Karte auf der Hand ist, verlierst du beim Ausspielen anderer Karten 1 TP."
   },
   "Burst": {
     "NAME": "Durchbruch",
@@ -333,8 +333,8 @@
   },
   "Adrenaline": {
     "NAME": "Adrenalin",
-    "DESCRIPTION": "Du erhältst [G]. NL Du ziehst 2 Karten. NL Erschöpft",
-    "UPGRADE_DESCRIPTION": "Du erhältst [G] [G]. NL Du ziehst 2 Karten. NL Erschöpft"
+    "DESCRIPTION": "Du erhältst [G]. NL Du ziehst 2 Karten. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Du erhältst [G] [G]. NL Du ziehst 2 Karten. NL Erschöpft."
   },
   "Quick Slash": {
     "NAME": "Schneller Hieb",
@@ -484,14 +484,14 @@
   },
   "Havoc": {
     "NAME": "Verwüstung",
-    "DESCRIPTION": "Du spielst die oberste Karte deines Aufnahmestapel aus und erschöpfst sie."
+    "DESCRIPTION": "Du spielst die oberste Karte deines Aufnahmestapels aus und erschöpfst sie."
   },
   "Secret Weapon": {
     "NAME": "Geheimwaffe",
     "DESCRIPTION": "Du fügst einen Angriff deiner Wahl aus deinem Aufnahmestapel deiner Hand hinzu. NL Erschöpft.",
     "UPGRADE_DESCRIPTION": "Du fügst einen Angriff deiner Wahl aus deinem Aufnahmestapel deiner Hand hinzu.",
     "EXTENDED_DESCRIPTION": [
-      "Es befinden sich keine Attacken NL in meinem Aufnahmestapel."
+      "Es befinden sich keine Angriffe NL in meinem Aufnahmestapel."
     ]
   },
   "Apotheosis": {
@@ -601,8 +601,8 @@
   },
   "Corpse Explosion": {
     "NAME": "Leichenexplosion",
-    "DESCRIPTION": "Gegner verliert gesamtes Gift. Du verursachst SCH in der Höhe der von ALLEN Gegnern verlor. Mg. x2.",
-    "UPGRADE_DESCRIPTION": "Gegner verliert gesamtes Gift. Du verursachst SCH in der Höhe der von ALLEN Gegnern verlor. Mg. x3.",
+    "DESCRIPTION": "Gegner verliert gesamtes Gift. NL Du verursachst SCH entspr. der doppelten verlorenen Menge an ALLEN Gegnern.",
+    "UPGRADE_DESCRIPTION": "Gegner verliert gesamtes Gift. NL Du verursachst SCH entspr. 3mal der verlorenen Menge an ALLEN Gegnern.",
     "EXTENDED_DESCRIPTION": [
       "Dieser Gegner ist nicht vergiftet."
     ]
@@ -749,7 +749,7 @@
   "Jack Of All Trades": {
     "NAME": "Alleskönner",
     "DESCRIPTION": "Du fügst deiner Hand !M! zufällige farblose Karte(n) hinzu. NL Erschöpft.",
-    "UPGRADE_DESCRIPTION": "Add !M! random colorless cards to your hand. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Du fügst deiner Hand !M! zufällige farblose Karte(n) hinzu. NL Erschöpft."
   },
   "Demon Form": {
     "NAME": "Dämonenform",
@@ -793,7 +793,7 @@
   },
   "Evolve": {
     "NAME": "Entwickeln",
-    "DESCRIPTION": "Immer wenn du eine Status ziehst, ziehe !M! Karte.",
+    "DESCRIPTION": "Immer wenn du einen Status ziehst, ziehe !M! Karte.",
     "UPGRADE_DESCRIPTION": "Immer wenn du einen Status ziehst, ziehe !M! Karten."
   },
   "Burn": {
@@ -816,8 +816,8 @@
   },
   "Thinking Ahead": {
     "NAME": "Vorausdenken",
-    "DESCRIPTION": "Du ziehst 2 Karten und legst dann eine Karte aus deiner Hand auf deinen Aufnahmestapel.",
-    "UPGRADE_DESCRIPTION": "Draw 2 cards. NL Put a card from your hand on top of your draw pile."
+    "DESCRIPTION": "Ziehe 2 Karten. NL Lege eine Karte aus deiner Hand auf deinen Aufnahmestapel. NL Erschöpft.",
+    "UPGRADE_DESCRIPTION": "Ziehe 2 Karten. NL Lege eine Karte aus deiner Hand auf deinen Aufnahmestapel."
   },
   "Distraction": {
     "NAME": "Ablenkung",
@@ -829,7 +829,7 @@
   },
   "All Out Attack": {
     "NAME": "Großangriff",
-    "DESCRIPTION": "Du verursachst !D! Schaden an ALLEN Gegnern. NL Werfe 1 zufällige Karte ab."
+    "DESCRIPTION": "Du verursachst !D! Schaden an ALLEN Gegnern. NL Wirf 1 zufällige Karte ab."
   },
   "Flying Knee": {
     "NAME": "Kniestoß",
@@ -861,7 +861,7 @@
   },
   "Venomology": {
     "NAME": "Alchemisieren",
-    "DESCRIPTION": "Erhalte einen zufälligen Trank. NL Erschöpft."
+    "DESCRIPTION": "Du erhältst einen zufälligen Trank. NL Erschöpft."
   },
   "Bite": {
     "NAME": "Biss",
@@ -876,16 +876,16 @@
     "DESCRIPTION": "Unspielbar. NL Verliere 1 Energie, wenn diese Karte gezogen wird. NL Ätherisch."
   },
   "AscendersBane": {
-    "NAME": "Aufstiegsflug",
-    "DESCRIPTION": "Unspielbar. NL Kann nicht vom Deck entfernt werden."
+    "NAME": "Aufstiegsfluch",
+    "DESCRIPTION": "Unspielbar. NL Ätherisch. NL Kann nicht vom Deck entfernt werden."
   },
   "Ghostly": {
     "NAME": "Geisterhaft",
-    "DESCRIPTION": "Erhalte 1 Unangreifbar. NL Erschöpft. NL Ätherisch.",
-    "UPGRADE_DESCRIPTION": "Erhalte 1 Unangreifbar. NL Erschöpft."
+    "DESCRIPTION": "Du erhältst 1 Unangreifbar. NL Erschöpft. NL Ätherisch.",
+    "UPGRADE_DESCRIPTION": "Du erhältst 1 Unangreifbar. NL Erschöpft."
   },
   "Wraith Form v2": {
-    "NAME": "Wraith Form",
-    "DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity."
+    "NAME": "Geistform",
+    "DESCRIPTION": "Erhalte !M! Unangreifbar. NL Du verlierst am Ende deines Zuges 1 Geschicklichkeit."
   }
 }
