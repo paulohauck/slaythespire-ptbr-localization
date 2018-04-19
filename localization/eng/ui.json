@@ -298,7 +298,8 @@
       "0000000000",
       "Enter a new Seed",
       "Confirm",
-      "Cancel"
+      "Cancel",
+      "*Achievements and Leaderboards are disabled if a custom Seed is used."
     ]
   },
   "AbstractCard": {
@@ -670,7 +671,8 @@
       " NL Today's Challenge: NL #yClass: NL ",
       " NL #yMods: ",
       "Modifiers: ",
-      "Leaderboards"
+      "Leaderboards",
+      "*Achievements are off for Daily Climb."
     ]
   },
   "SettingsScreen": {

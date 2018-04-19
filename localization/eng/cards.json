@@ -6,15 +6,15 @@
   },
   "Immolate": {
     "NAME": "Immolate",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Shuffle a Burn into your draw pile."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add a Burn to your discard pile."
   },
   "Regret": {
     "NAME": "Regret",
     "DESCRIPTION": "Unplayable. NL At the end of your turn, lose 1 HP for each card in your hand."
   },
   "Crippling Poison": {
-    "NAME": "Crippling Poison",
-    "DESCRIPTION": "Apply !M! Poison. NL Apply !M! Weak."
+    "NAME": "Crippling Cloud",
+    "DESCRIPTION": "Apply !M! Poison and 2 Weak to ALL enemies. NL Exhaust."
   },
   "A Thousand Cuts": {
     "NAME": "A Thousand Cuts",
