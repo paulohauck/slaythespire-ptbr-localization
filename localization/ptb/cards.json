@@ -6,15 +6,15 @@
   },
   "Immolate": {
     "NAME": "Imolar",
-    "DESCRIPTION": "Cause !D! de dano a TODOS inimigos. NL Embaralhe uma Queimadura em sua pilha de saques."
+    "DESCRIPTION": "Cause !D! de dano a TODOS inimigos. NL Adicione uma Queimadura a sua pilha de descartes."
   },
   "Regret": {
     "NAME": "Arrependimento",
     "DESCRIPTION": "Injogável. NL No fim do seu turno, perca 1 PV para cada carta em sua mão."
   },
   "Crippling Poison": {
-    "NAME": "Veneno Debilitante",
-    "DESCRIPTION": "Aplique !M! de Veneno. NL Aplique !M! de Fraqueza."
+    "NAME": "Nuvem Debilitante",
+    "DESCRIPTION": "Aplique !M! de Veneno e 2 de Fraqueza a TODOS os inimigos. NL Exaurir."
   },
   "A Thousand Cuts": {
     "NAME": "Mil Cortes",

@@ -297,7 +297,8 @@
       "0000000000",
       "Insira uma nova Seed",
       "Confirmar",
-      "Cancelar"
+      "Cancelar",
+      "*Conquistas e Classificação serão desabilitados se uma semente personalidade é utilizada. "
     ]
   },
   "AbstractCard": {
@@ -669,7 +670,8 @@
       " NL Desafio de Hoje: NL #yClasse: NL ",
       " NL #yModificadores: ",
       "Modificadores: ",
-      "Tabelas de Classificação"
+      "Tabelas de Classificação",
+      "*Conquitas estão desabilitadas para a Escalada Diária."
     ]
   },
   "SettingsScreen": {
