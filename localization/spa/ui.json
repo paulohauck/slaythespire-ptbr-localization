@@ -662,7 +662,8 @@
       " NL Reto de Hoy: NL #yClase: NL ",
       " NL #yMods: ",
       "Modificadores: ",
-      "Puntuación"
+      "Puntuación",
+      "*Achievements are off for Daily Climb."
     ]
   },
   "SettingsScreen": {
@@ -1029,7 +1030,8 @@
       "0000000000",
       "Enter a new Seed",
       "Confirm",
-      "Cancel"
+      "Cancel",
+      "*Achievements and Leaderboards are disabled if a custom Seed is used."
     ]
   }
 }

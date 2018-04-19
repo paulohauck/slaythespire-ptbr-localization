@@ -298,7 +298,8 @@
       "0000000000",
       "Укуцај ново семе",
       "Потврди",
-      "Откажи"
+      "Откажи",
+      "*Achievements and Leaderboards are disabled if a custom Seed is used."
     ]
   },
   "AbstractCard": {
@@ -670,7 +671,8 @@
       " NL Данашњи изазов: NL TAB #yЛик: NL TAB ",
       " NL #yИзмене: ",
       "Измене: ",
-      "Табеле"
+      "Табеле",
+      "*Achievements are off for Daily Climb."
     ]
   },
   "SettingsScreen": {

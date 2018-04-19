@@ -298,7 +298,8 @@
       "0000000000",
       "新しいシード値を入力",
       "決定",
-      "キャンセル"
+      "キャンセル",
+      "*Achievements and Leaderboards are disabled if a custom Seed is used."
     ]
   },
   "AbstractCard": {
@@ -670,7 +671,8 @@
       " NL 今日のチャレンジ: NL #yクラス: NL ",
       " NL #y特殊効果: ",
       "特殊効果: ",
-      "ランキング"
+      "ランキング",
+      "*Achievements are off for Daily Climb."
     ]
   },
   "SettingsScreen": {

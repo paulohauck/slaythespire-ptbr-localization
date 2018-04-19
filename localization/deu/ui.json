@@ -448,7 +448,7 @@
       "Gesamtlautstärke NL Musiklautstärke NL Effektlautstärke",
       "Hintergrundgeräusche NL Stummschalten, falls im Hintergrund",
       "Präferenzen",
-      "Zusammengezählten Schaden in Gold anzeigen NL Geblockten Schaden in Blau anzeigen NL Bestätigung beim Wählen 1 Karte deaktivieren",
+      "Zusammengezählten Schaden in Gold anzeigen NL Geblockten Schaden in Blau anzeigen NL Wählen einer einzelnen Karte ohne Bestätigen",
       "Schnellmodus",
       "",
       "Diverses",
@@ -707,7 +707,7 @@
       "Ukrainisch",
       "Vietnamesisch",
       "Ungarisch",
-      "Serbian (Latin)"
+      "Serbisch (Latinisiert)"
     ]
   },
   "UnlockTextEffect": {
@@ -898,11 +898,11 @@
       "Karten",
       "Relikte",
       "Starter",
-      "Common",
-      "Uncommon",
-      "Rare",
-      "Special",
-      "Curse",
+      "Gewöhnlich",
+      "Ungewöhnlich",
+      "Selten",
+      "Besondere",
+      "Fluch",
       "Boss",
       "Laden",
       "Unbekannt",
@@ -948,7 +948,8 @@
       " NL Heutige Herausforderung: NL TAB #yKlasse: NL TAB ",
       " NL TAB #yMods: ",
       "Modifikatoren: ",
-      "Ranglisten"
+      "Ranglisten",
+      "*Achievements are off for Daily Climb."
     ]
   },
   "MenuPanels": {
@@ -958,7 +959,7 @@
       "Breche auf eine Quest auf, um den Spire zu erschlagen.",
       "Täglicher Aufstieg",
       "",
-      "Eine neue Herausforderung ist jeden Tag verfügbar.\n\nTrete gegen andere Spieler an, um den Highscore zu erhalten!",
+      "Eine neue Herausforderung ist jeden Tag verfügbar.\n\nTritt gegen andere Spieler an, um den Highscore zu erhalten!",
       "Aufstiegsmodus",
       "",
       "Der Spire wird mit jedem Sieg stärker.\n\nTeste die Grenzen deiner stärksten Strategien.",
@@ -967,22 +968,22 @@
       "Sieh dir alle Karten an, die dir im Spire begegnet sind.",
       "Reliktsammlung",
       "",
-      "Untersuche die vielfältigen Schmuckstücke und Artifakte, die dir bereits begegnet sind.",
+      "Untersuche die vielfältigen Schmuckstücke und Artefakte, die dir bereits begegnet sind.",
       "Bestiarium",
       "",
       "Dieses Feature ist noch nicht verfügbar.",
-      "Charakter-Statistiken",
+      "Charakter- Statistiken",
       "",
       "Fortschritte und Statistiken jedes Charakters können hier eingesehen werden.",
       "Ranglisten",
       "",
-      "Sehe und vergleiche deinen Score mit dem anderer Spieler.",
+      "Sieh deinen Score an und vergleiche ihn mit dem anderer Spieler.",
       "Run-Historie",
       "",
       "Sieh dir deine vergangenen Versuche, den Spire zu erschlagen, an.",
-      "Spiel-Einstellungen",
+      "Spiel- Einstellungen",
       "",
-      "Ändere deine auflösung und schalte Optionen aus/ein.",
+      "Ändere deine Auflösung und wähle weitere Optionen für das Spiel.",
       "Eingabeoptionen",
       "",
       "Dieses Feature ist noch nicht verfügbar.",
@@ -1029,7 +1030,8 @@
       "0000000000",
       "Gib einen neuen Seed ein",
       "Bestätigen",
-      "Abbrechen"
+      "Abbrechen",
+      "*Achievements and Leaderboards are disabled if a custom Seed is used."
     ]
   }
 }

@@ -948,7 +948,8 @@
       " NL 오늘의 일일 도전: NL TAB #y직업: NL TAB ",
       " NL TAB #y모드: ",
       "적용되는 모드: ",
-      "리더보드"
+      "리더보드",
+      "*Achievements are off for Daily Climb."
     ]
   },
   "MenuPanels": {
@@ -1029,7 +1030,8 @@
       "0000000000",
       "Enter a new Seed",
       "Confirm",
-      "Cancel"
+      "Cancel",
+      "*Achievements and Leaderboards are disabled if a custom Seed is used."
     ]
   }
 }

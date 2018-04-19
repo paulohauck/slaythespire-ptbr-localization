@@ -948,7 +948,8 @@
       " NL 今日挑戰： NL  #y職業： NL  ",
       " NL  #y今日特效： ",
       "每日特效： ",
-      "排行榜"
+      "排行榜",
+      "*Achievements are off for Daily Climb."
     ]
   },
   "MenuPanels": {
@@ -1029,7 +1030,8 @@
       "0000000000",
       "輸入一個新的種子碼",
       "確定",
-      "取消"
+      "取消",
+      "*Achievements and Leaderboards are disabled if a custom Seed is used."
     ]
   }
 }

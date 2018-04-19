@@ -579,7 +579,7 @@
   },
   "Pandora's Box": {
     "NAME": "Büchse der Pandora",
-    "FLAVOR": "Du hast ein mulmiges Gefühl dabei, dies zu öffnen.",
+    "FLAVOR": "Solltest du sie öffnen? Du hast ein mulmiges Gefühl.",
     "DESCRIPTIONS": [
       "#bTransformiere alle Schläge und Verteidigungen.",
       "Die Büchse der Pandora wurde geöffnet …"
@@ -1080,7 +1080,7 @@
     "NAME": "Toxisches Ei (BETA)",
     "FLAVOR": "\"Was eine fabelhafte Entdeckung! Es scheint ein inaktives Ei einer magischen Kreatur zu sein. Wer oder was hat es erschaffen?\" - Ranwid",
     "DESCRIPTIONS": [
-      "Jedes mal, wenn du eine #yFähigkeitskarte erhältst, ist sie #yverbessert."
+      "Jedes mal, wenn du eine #yFertigkeitskarte erhältst, ist sie #yverbessert."
     ]
   }
 }
