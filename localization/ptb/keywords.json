@@ -13,6 +13,14 @@
       ],
       "DESCRIPTION": "Até o próximo turno, previne dano."
     },
+    "EVOKE": {
+      "NAMES": [
+        "evoque",
+        "evocar",
+        "evocada"
+      ],
+      "DESCRIPTION": "Consome sua Orbe mais a direitae sua seu efeito de evocação."
+    },
     "CURSE": {
       "NAMES": [
         "maldição"
@@ -45,11 +53,23 @@
       ],
       "DESCRIPTION": "Comece cada combate com esta carta em sua mão."
     },
+    "FOCUS": {
+      "NAMES": [
+        "foco"
+      ],
+      "DESCRIPTION": "Foco aumenta a efetividadede suas Orbes #yCanalizadas."
+    },
     "LOCKED": {
       "NAMES": [
         "bloqueada"
       ],
       "DESCRIPTION": "Esta carta ainda deve ser desbloqueada."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
     },
     "POISON": {
       "NAMES": [
@@ -109,6 +129,13 @@
         "aprimore"
       ],
       "DESCRIPTION": "Aprimorar cartas as fazem mais poderosas. Cartas só podem ser aprimoradas uma vez."
+    },
+    "VOID": {
+      "NAMES": [
+        "vazio",
+        "vazios"
+      ],
+      "DESCRIPTION": "Vazios são cartas de condições não-jogáveis que consomem energia quando sacadas."
     },
     "VULNERABLE": {
       "NAMES": [
@@ -170,6 +197,41 @@
         "intangível"
       ],
       "DESCRIPTION": "Reduza TODO dano recebido e perda de PV para #b1."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "relâmpago",
+        "relâmpago+"
+      ],
+      "DESCRIPTION": "Orbe: Causa dano a inimigos aleatórios."
+    },
+    "FROST": {
+      "NAMES": [
+        "geada",
+        "geada+"
+      ],
+      "DESCRIPTION": "Orbe: Ganha #yProteção."
+    },
+    "DARK": {
+      "NAMES": [
+        "escuridão",
+        "escuridão+"
+      ],
+      "DESCRIPTION": "Orbe: Aumenta o dano a cada turno. Quando #yEvocada, causa dano ao inimigo com menos PV."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orbe: Ganha Energia."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "canalizar",
+        "canalizada"
+      ],
+      "DESCRIPTION": "Canalizar um Orbe a coloca no seu primeiro espaço vazio. Se você não tiver espaços vazios, seu primeiro orbe é automaticamente #yEvocado para abrir espaço."
     },
     "TODO": {
       "NAMES": [

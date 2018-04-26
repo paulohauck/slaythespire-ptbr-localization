@@ -23,6 +23,14 @@
       "Uma caçadora mortal das terras nebulosas. NL Elimina adversários com adagas e venenos."
     ]
   },
+  "Defect": {
+    "NAMES": [
+      "O Defeituoso"
+    ],
+    "TEXT": [
+      "Uma automação de combate que se tornou consciênte. NL Tecnologia ancestral permite a manipulação de Orbes."
+    ]
+  },
   "Neow Event": {
     "NAMES": [
       "Neow"

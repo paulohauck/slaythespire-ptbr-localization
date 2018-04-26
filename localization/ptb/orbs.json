@@ -1,0 +1,39 @@
+{
+  "Dark": {
+    "DESCRIPTION": [
+      "#yPassivo: No final do turno, aumente o dano deste Orbe em #b",
+      ". NL #yEvocar: Cause #b",
+      " dano ao inimigo com menos HP."
+    ],
+    "NAME": "Escuridão"
+  },
+  "Empty": {
+    "DESCRIPTION": [
+      "Orbes pode ser canalizados para estes espaços."
+    ],
+    "NAME": "Espaço para Orbe"
+  },
+  "Frost": {
+    "DESCRIPTION": [
+      "#yPassivo: No final do turno, ganhe #b",
+      " de #yProteção. NL #yEvocar: Ganhe #b",
+      " de #yProteção."
+    ],
+    "NAME": "Geada"
+  },
+  "Lightning": {
+    "DESCRIPTION": [
+      "#yPassivo: No final do turno, cause #b",
+      " de dano a um inimigo aleatório. NL #yEvocar: Cause #b",
+      " de dano a um inimigo aleatório."
+    ],
+    "NAME": "Relâmpago"
+  },
+  "Plasma": {
+    "DESCRIPTION": [
+      "#yPassivo: No início do turno, ganhe [B] . NL #yEvocar: Ganhe #b",
+      " [B] . NL Plasma não é afetado por #yFoco."
+    ],
+    "NAME": "Plasma"
+  }
+}
