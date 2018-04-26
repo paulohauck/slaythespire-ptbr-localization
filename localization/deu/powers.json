@@ -145,12 +145,6 @@
       " Karten."
     ]
   },
-  "Darkness": {
-    "NAME": "Dunkelheit",
-    "DESCRIPTIONS": [
-      "Du erhältst #b1 Energie weniger zu Beginn deines Zuges."
-    ]
-  },
   "Demon Form": {
     "NAME": "Dämonenform",
     "DESCRIPTIONS": [
@@ -162,7 +156,8 @@
     "NAME": "Geschicklichkeit",
     "DESCRIPTIONS": [
       "Erhöht von Karten erhaltenes #yBlock um #b",
-      "Verringert von Karten erhaltenes #yBlock um #b"
+      "Verringert von Karten erhaltenes #yBlock um #b",
+      "."
     ]
   },
   "Double Damage": {
@@ -255,7 +250,7 @@
     ]
   },
   "Feel No Pain": {
-    "NAME": "Fühle keinen Schmerz",
+    "NAME": "Schmerzfrei",
     "DESCRIPTIONS": [
       "Immer wenn eine Karte #yErschöpft, erhältst du #b",
       " #yBlock."
@@ -492,12 +487,6 @@
       "Wird nach #b2 Zügen mit #b50% TP wiederbelebt, wenn andere Gegner noch am Leben sind."
     ]
   },
-  "Relentless Beating": {
-    "NAME": "Unablässige Prügel",
-    "DESCRIPTIONS": [
-      " Schlägt schneller, wenn du Karten ausspielst oder Schaden verursachst"
-    ]
-  },
   "Repulse": {
     "NAME": "Abweisung",
     "DESCRIPTIONS": [
@@ -626,7 +615,8 @@
     "NAME": "Stärke",
     "DESCRIPTIONS": [
       "Erhöht Angriffsschaden um #b",
-      "Verringert Angriffsschaden um #b"
+      "Verringert Angriffsschaden um #b",
+      "."
     ]
   },
   "Thievery": {
@@ -712,13 +702,6 @@
       " Züge."
     ]
   },
-  "Wraith Form": {
-    "NAME": "Geistform",
-    "DESCRIPTIONS": [
-      "Immer wenn du eine Fertigkeit ausspielst, verursachst du ",
-      " Schaden an einem zufälligen Gegner."
-    ]
-  },
   "Night Terror": {
     "NAME": "Albtraum",
     "DESCRIPTIONS": [
@@ -756,6 +739,150 @@
     "DESCRIPTIONS": [
       "Verliere am Ende des Zuges #b ",
       " Geschicklichkeit."
+    ]
+  },
+  "Storm": {
+    "NAME": "Storm",
+    "DESCRIPTIONS": [
+      "Whenever you play a #bPower, #yChannel #b ",
+      " Lightning."
+    ]
+  },
+  "Bias": {
+    "NAME": "Bias",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose #b",
+      " #yFocus."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "Creative AI",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      " random Power card into your hand."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Machine Learning",
+    "DESCRIPTIONS": [
+      "Draw #b",
+      " additional card at the start of each turn.",
+      " additional cards at the start of each turn."
+    ]
+  },
+  "Prime": {
+    "NAME": "Prime",
+    "DESCRIPTIONS": [
+      "Whenever you #yChannel an Orb, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Static Discharge",
+    "DESCRIPTIONS": [
+      "When receiving #yAttack damage, #yChannel #b",
+      " #yLightning."
+    ]
+  },
+  "Repair": {
+    "NAME": "Repair",
+    "DESCRIPTIONS": [
+      "At the end of combat, heal #b",
+      " HP."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Echo Form",
+    "DESCRIPTIONS": [
+      "The first card you play each turn is played #b",
+      " extra time.",
+      " extra times."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Magnetism",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b%s random colorless card to your hand.",
+      "At the start of your turn, add #b%s random colorless cards to your hand."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Rebound",
+    "DESCRIPTIONS": [
+      "The next card you play this turn is placed on top of your draw pile.",
+      "The next #b",
+      " cards you play this turn are placed on top of your draw pile."
+    ]
+  },
+  "Conserve": {
+    "NAME": "Conserve",
+    "DESCRIPTIONS": [
+      "#yEnergy is conserved this turn.",
+      "#yEnergy is conserved for the next #b",
+      " turns."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Amplify",
+    "DESCRIPTIONS": [
+      "On this turn, play your next #yPower twice.",
+      "On this turn, play your next ",
+      " #yPowers twice."
+    ]
+  },
+  "Focus": {
+    "NAME": "Focus",
+    "DESCRIPTIONS": [
+      "Increases the effectiveness of Orbs by #b",
+      "Decreases the effectiveness of Orbs by #b",
+      "."
+    ]
+  },
+  "No Attack": {
+    "NAME": "No Attack",
+    "DESCRIPTIONS": [
+      "You cannot play #yAttacks this turn."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Heatsink",
+    "DESCRIPTIONS": [
+      "Whenever you play a Power, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Buffer",
+    "DESCRIPTIONS": [
+      "Prevent the next time you would lose HP.",
+      "Prevent the next #b",
+      " times you would lose HP."
+    ]
+  },
+  "Loop": {
+    "NAME": "Loop",
+    "DESCRIPTIONS": [
+      "At the start of your turn, use the passive ability of your next Orb.",
+      "At the start of your turn, use the passive ability of your next #b",
+      " Orbs."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Primitive",
+    "DESCRIPTIONS": [
+      "Whenever you play a Common card, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Hello": {
+    "NAME": "Hello",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      " random Common cards to your hand.",
+      " random Common card to your hand."
     ]
   }
 }

@@ -268,7 +268,7 @@
     "NAME": "Œuf gelé",
     "FLAVOR": "L'œuf est inerte et gelé, il n'éclora jamais.",
     "DESCRIPTIONS": [
-      "Quand vous obtenez une carte Pouvoir, elle est #yAméliorée."
+      "Quand vous obtenez une carte #yPouvoir, elle est #yAméliorée."
     ]
   },
   "Molten Egg 2": {
@@ -1081,6 +1081,70 @@
     "FLAVOR": "Cette amulette absorbe le pouvoir d'énergies démoniaques et le convertit en vitalité pour son porteur.",
     "DESCRIPTIONS": [
       "Lorsque vous recevez une #yMalédiction, augmentez vos PV Max de #b"
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Emotion Chip",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "Cracked Core",
+    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yLightning."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Runic Capacitor",
+    "FLAVOR": "More is better.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b3 additional Orb slots."
+    ]
+  },
+  "Cables": {
+    "NAME": "Gold-Plated Cables",
+    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Your rightmost Orb triggers its passive an additional time."
+    ]
+  },
+  "Inserter": {
+    "NAME": "Inserter",
+    "FLAVOR": "Further damage could be prevented by freezing one's core.",
+    "DESCRIPTIONS": [
+      "Every #b2 turns, gain #b1 Orb slot."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Symbiotic Virus",
+    "FLAVOR": "A little bit bad of #rbad can do a lot of #ggood...",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yDark."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Turnip",
+    "FLAVOR": "Best with Ginger.",
+    "DESCRIPTIONS": [
+      "You can no longer become #yFrail."
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Data Disk",
+    "FLAVOR": "This disk contains precious data on birds and snakes.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b",
+      " #yFocus."
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Nuclear Battery",
+    "FLAVOR": "Ooooh...",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yPlasma."
     ]
   }
 }

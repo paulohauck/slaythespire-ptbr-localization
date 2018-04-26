@@ -33,7 +33,8 @@
       "Ascensione 0",
       "Ascensione 10",
       "Minimalista",
-      "Ooh, Ciambella!"
+      "Ooh, Ciambella!",
+      "Sapphire"
     ],
     "TEXT": [
       "Vinci un combattimento con 1 PV rimanente.",
@@ -68,7 +69,8 @@
       "Sblocca la modalità Ascensione.",
       "Vinci in modalità Ascensione 10.",
       "Vinci con 5 o meno carte.",
-      "Uccidi Donu usando Banchetto."
+      "Uccidi Donu usando Banchetto.",
+      "Beat the game with the Defect."
     ]
   },
   "CharStat": {

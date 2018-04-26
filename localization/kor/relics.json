@@ -652,7 +652,7 @@
     "NAME": "물음표 카드",
     "FLAVOR": "\"더 많은 선택지는 혼돈의 위험을 줄여줍니다.\" - 위대한 쿠빌라이",
     "DESCRIPTIONS": [
-      "카드 보상을 받을 때 선택할 수 있는 카드가 #y1장 #y더 주어집니다."
+      "앞으로의 카드 보상에서 카드 선택지가 #y1개 #y더 주어집니다."
     ]
   },
   "Red Circlet": {
@@ -1081,6 +1081,70 @@
     "FLAVOR": "\"정말 놀라운 발견이군요! 어떤 마법생물의 비활성화된 알 같군요. 누가 이것을 만들었을까요?\" - 랜위드",
     "DESCRIPTIONS": [
       "#y스킬 카드를 얻을 때마다 그 카드를 #y강화 합니다."
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Data Disk",
+    "FLAVOR": "This disk contains precious data on birds and snakes.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b",
+      " #yFocus."
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Nuclear Battery",
+    "FLAVOR": "Ooooh...",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yPlasma."
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "Cracked Core",
+    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yLightning."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Turnip",
+    "FLAVOR": "Best with Ginger.",
+    "DESCRIPTIONS": [
+      "You can no longer become #yFrail."
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Emotion Chip",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
+    ]
+  },
+  "Inserter": {
+    "NAME": "Inserter",
+    "FLAVOR": "Further damage could be prevented by freezing one's core.",
+    "DESCRIPTIONS": [
+      "Every #b2 turns, gain #b1 Orb slot."
+    ]
+  },
+  "Cables": {
+    "NAME": "Gold-Plated Cables",
+    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Your rightmost Orb triggers its passive an additional time."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Runic Capacitor",
+    "FLAVOR": "More is better.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b3 additional Orb slots."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Symbiotic Virus",
+    "FLAVOR": "A little bit bad of #rbad can do a lot of #ggood...",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yDark."
     ]
   }
 }

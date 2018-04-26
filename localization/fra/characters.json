@@ -144,5 +144,13 @@
       "J'aime l'or.",
       "Le bleu est ma couleur préférée. NL Et vous ?"
     ]
+  },
+  "Defect": {
+    "NAMES": [
+      "The Defect"
+    ],
+    "TEXT": [
+      "A combat automaton which became self-aware. NL Ancient technology allows the manipulation of Orbs."
+    ]
   }
 }

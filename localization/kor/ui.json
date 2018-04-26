@@ -414,7 +414,7 @@
       "속도광",
       "광속",
       "하이랜더",
-      "수집품",
+      "수집가",
       "완전무장",
       "거지",
       "사서",
@@ -422,7 +422,7 @@
       "잘먹었습니다",
       "배부르네요",
       "저주!",
-      "내 뜻으로",
+      "내 의지로?",
       "영웅",
       "완벽함",
       "완벽조차 넘어선",
@@ -483,16 +483,16 @@
   "HandCardSelectScreen": {
     "TEXT": [
       "카드 확인 : ",
-      "카드들 확인 : ",
+      "카드 확인 : ",
       "카드 ",
       " 장 선택 : ",
-      "임의의 장 수만큼 카드들 선택 : ",
+      "원하는 만큼 카드를 선택 : ",
       "카드 선택 : "
     ]
   },
   "AbandonRunButton": {
     "TEXT": [
-      "전투를 포기"
+      "전투 포기"
     ]
   },
   "ConfirmPopup": {
@@ -519,7 +519,7 @@
       "전체 음량 NL 배경음 NL 효과음",
       "백그라운드 소리 효과 NL 백그라운드에서 음소거",
       "편의 사항",
-      "합산 피해량을 #y노란색 으로 표시 NL 방어된 피해량을 #b파란색 으로 표시 NL 카드 획득 시 확인 단계를 건너뜀",
+      "합산 피해량을 #y노란색 으로 표시 NL 방어된 피해량을 #b파란색 으로 표시 NL 카드 획득 시 확인 단계를 건너뛰기",
       "빠른 전투",
       "",
       "기타",
@@ -529,15 +529,16 @@
       "저장 후 종료",
       "NL NL VSync",
       "플레이 테스터용 아트모드",
-      "빠른 카드 선택 키 보기"
+      "빠른 카드 선택 키 보기",
+      "Input Settings"
     ]
   },
   "SettingsScreen": {
     "TEXT": [
       "확실합니까?",
       "진행도는 자동으로 저장됩니다.",
-      "전투를 포기하는 것은 패배로 처리됩니다.",
-      "경고:\n저장이 불가능합니다.\n\n저장을 위해서는 다음 층까지 도달하십시오.",
+      "전투를 포기하면 패배로 처리됩니다.",
+      "경고:\n저장이 불가능합니다.\n\n저장하시려면 다음 층까지 도달하십시오.",
       "돌아가기",
       "일일 도전에서는 저장이 불가능합니다."
     ]
@@ -574,7 +575,7 @@
   },
   "MainMenuScreen": {
     "TEXT": [
-      "#yBuild: ",
+      "#y빌드: ",
       "출정",
       "돌아가기",
       "수정"
@@ -653,7 +654,7 @@
       "당신이 승리할수록 도전은 어려워질 것입니다... (연승 기록에 영향을 주지 않습니다.)",
       "시드 ",
       "무작위 시드",
-      "시드는 도전에서 무작위로 나타나는 요소와 연관이 있습니다.",
+      "시드는 도전에서 무작위로 나타나는 요소를 결정합니다.",
       "시드 설정"
     ]
   },
@@ -792,7 +793,7 @@
   },
   "OpeningAction": {
     "TEXT": [
-      "이 적은 공격할 생각이 없어 보입니다!"
+      "이 적은 공격할 생각이 없어 보인다!"
     ]
   },
   "ApplyPowerAction": {
@@ -828,8 +829,8 @@
       "아이언클래드",
       "사일런트",
       "3rd Char. DO NOT TRANSLATE",
-      "평균 층 도달 (최근 20회 시도)",
-      "평균 점수 (최근 20회 시도)",
+      "평균 층 도달 (최근 20번의 도전)",
+      "평균 점수 (최근 20번의 도전)",
       "최고 연승",
       "가장 빠른 승리",
       "최고 점수",
@@ -949,7 +950,7 @@
       " NL TAB #y모드: ",
       "적용되는 모드: ",
       "리더보드",
-      "*Achievements are off for Daily Climb."
+      "*일일 도전에서는 도전 과제를 달성할 수 없습니다."
     ]
   },
   "MenuPanels": {
@@ -1028,10 +1029,59 @@
   "SeedPanel": {
     "TEXT": [
       "0000000000",
-      "Enter a new Seed",
+      "새로운 시드를 입력하세요",
+      "확인",
+      "취소",
+      "*임의의 시드를 사용할 경우 도전 과제 달성이 불가능하며 리더보드에 기록되지 않습니다."
+    ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Input Settings",
+      "Game Settings",
+      "Return",
+      "Commands",
+      "Keyboard",
+      "Controller (Not Yet Available)",
+      "Reset to Default",
       "Confirm",
-      "Cancel",
-      "*Achievements and Leaderboards are disabled if a custom Seed is used."
+      "Cancel / Exit",
+      "Map",
+      "Master Deck",
+      "Draw Pile",
+      "Discard Pile",
+      "Exhaust Pile",
+      "End Turn",
+      "Left",
+      "Right",
+      "Select Card #1",
+      "Select Card #2",
+      "Select Card #3",
+      "Select Card #4",
+      "Select Card #5",
+      "Select Card #6",
+      "Select Card #7",
+      "Select Card #8",
+      "Select Card #9",
+      "Select Card #10"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Discard"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Choose a Card to Put on Top of Your Draw Pile.",
+      "Choose Cards to Put on Top of Your Draw Pile."
     ]
   }
 }

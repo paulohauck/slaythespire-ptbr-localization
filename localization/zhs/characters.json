@@ -144,5 +144,13 @@
       "我喜欢金币。",
       "我最喜欢的颜色是蓝色。 NL 你呢？"
     ]
+  },
+  "Defect": {
+    "NAMES": [
+      "The Defect"
+    ],
+    "TEXT": [
+      "A combat automaton which became self-aware. NL Ancient technology allows the manipulation of Orbs."
+    ]
   }
 }
