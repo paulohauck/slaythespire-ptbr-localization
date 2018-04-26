@@ -1,0 +1,87 @@
+﻿Headline: Atualização Semanal 21: Channel Lightning
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/aa8bc02564af8ad7dd96d3935cc5e575bc426db1.jpg[/img]
+
+Olá Pessoal,
+
+É hora da atualização semanal! O foco dessa semana foi em garantir um lançamento tranquilo do terceiro personagem na versão beta da próxima semana. Entretanto, também existem correções de bug como costume, um novo idioma (Servio!), consitencia de sementes, e barras de rolagem! As barras de rolagem são muito legais.
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/907d6e1ce28391d3495f87fef81fd01ffbab1288.gif[/img] [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/bc5cfe70a1109bbd2d5b3700b0fcdb571d308e25.gif[/img] [img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/274f739dfda362b89f75f5111ece44816fe684b6.gif[/img]
+[i]O que poderiam ser essas orbes?[/i]
+
+[b]Notas da atualização[/b]
+
+[h1]Balanceamento[/h1]
+[list]
+[*]Carta Ira dano aumento em 1.
+[*]Reformulação da Veneno Debilitante: Aplica 4 (7) de Envenenamento e 2 de Fraqueza a TODOS inimigos. Exaurir.
+[*]Nerf da carta Não Sentir Dor. 4 -> 3 de bloqueio. Aprimorada: 6 -> 5 de Bloqueio.
+[*]Melhoria da carta Imolar: Adicionar uma Queimadura a sua pilha de descartes ao invés de adicionar pilha de saques.
+[*]Melhoria da carta Imolar : 18 -> 21 de dano.
+[*]Melhoria da carta Imolar+ : 24 -> 28 de dano.
+[*]Custo da B.O.M.B.A. do evento do vendedor de B.O.M.B.A. atualizado 100 -> 77 de ouro.
+[*]Carta Investida Imprudente agora é Incomum.
+[*]Aumento do dano da carta Investida Imprudente+ em 1.
+[*]Melhoria da carta Golpe Furtivo. 8 -> 10 de dano. Aprimorada: 12 -> 14 de dano.
+[*]Carta Golpe Selvagem agora é Comum.
+[/list]
+
+[h1]Correções de Bugs[/h1]
+[list]
+[*]Adicionado apostrofo (') em Pandora's Box (Apenas ingles).
+[*]Ascender's Bane estava usando apostrofo incorretamente, causando erro de carregamento de dados (apenas inglês).
+[*]Morder agora funciona corretamente quando dando o último golpe no modo rápido.
+[*]Sino de Invocação não pode mais conceder reliquias com opções multiplas de acampamento.
+[*]As maldições que o jogador recebe agora faz parte da semente.
+[*]Evendo de Queda agora prevê corretamente as cartas aprimoradas.
+[*]RNG (Gerador de Numeros Aleatórios) do Evento de queda agora fazem parte da semente.
+[*]Corrigido um bug onde a reliquia Orichalcum nunca para de piscar.
+[*]Corrigido uma falha quando entrando para uma nova sala com a tela de uma reliquia de Garrafa aberta.
+[*]Corrigido um problema onde o Despertado poderia usar rosnar multiplas vezes.
+[*]OS lacais invocados pelo Líder Gremlim agora fazem parte da semente.
+[*]Evento Combine e Mantenha! agora faz parte da semente.
+[*]Reliquia Cartão de Fidelidade não reduz mais incorretamente a chance de salas "?".
+[*]Obter uma reliquia de engarrafada não remove mais outras reliquias na tela de recompensa/baús.
+[*]A tela de Notas da atualização agora pode ser rolada até o final.
+[*]Salvar e voltar ao meni principal durante um chefe agora silencia corretamente os Efeitos sonoros do chefe.
+[*]Salvamento aprimorado, agora os arquivos são salvos de maneira mais consistente mesmo com disco mais lentos.
+[*]Correção no texto do evento da pedra sensorial.
+[*]Shiny Daily mod não possui mais os problemas relacionados a aprimoramento de cartas.
+[*]Shiny Daily Mod agora marca corretametne as cartas como vistas(não mostra mais as cartas como "???").
+[*]Gosmas não emitem mais som caso o jogo esteja sendo executado em segundo plano e os efeitos sonoros estejam mutados.
+[*]Espinhos agora funciona corretamente quando matando um Espinhoso como último inímigo no modo rápido.
+[*]Atraso no loading dos dados de Histórico de Jogadas até que a janela seja aberta.
+[*]Corrigido várias assetes da tela do mercado que causavam vazamento de memória.
+[*]Sementes são utilizadas agora em recompensas de ouro de eventos, baús, e várias salas.
+[*]Sementes são utilizadas agora em muitas ações do inimigo que tinham chances aleatórias não semeadas.
+[*]Sementes são utilizadas agora nas reliquias Matryoshka e Mão Mumificada.
+[*]Sementes são utilizadas agora no evento "A Justa".
+[*]Sementes são utilizadas agora no evendo do Mausoleo.
+[*]Sementes são utilizadas agora vários eventos e alguma ações relacionadas a embaralhamento.
+[*]Sementes são utilizadas agora para o evento da Roda da Mudança.
+[*]Sementes são utilizadas agora no evento da Estatua de Asa.
+[/list]
+
+[h1]UI e Efeitos[/h1]
+[list]
+[*]Adicionado aviso sobre as Conquistas estarem desabilitadas na Escalada diária.
+[*]Adicionando aviso sobre Conquistas e Classificação desabilitadas nas jogadas com semente.
+[*]Seleção Rápida de Cartas agora deseleciona a carta flutuando no clique duplo.
+[*]Veneno Debilitante -> Nuvem Debilitante.
+[*]Chave Amaldiçoada agora pulsa quando você está em uma sala de baú.
+[*]Menu de selação de idiomas agora tem a largura máxima possível.
+[*]Consistência no uso de "Pickup" e "Pick up" (Ingles somente).
+[*]Carta de Interrogação indica que funcionará nas recompensas de cartas futuras e não é mais uma reliquia de chefe.
+[*]Barras de rolagem foram adicionadas a diversas telas.
+[/list]
+
+[h1]Localização[/h1]
+[list]
+[*]Novo idioma adicionado: Servio (Cirílico) e Servio (Latim)
+[*]Acertando espaços em branco e tabulações nos arquivos json do Ingles (formatação). Obrigado Vlad
+[*]Diversas imagens na loja agora são localizadas para ZHS.
+[*]Atualizações para DEU, FRA, ITA, JPN, KOR, POL, PTB, RUS, SRB-CYR, SRB-LAT, ZHS, ZHT.
+[*]Suporte para capitalização customizada nas palavras-chaves de cartas (para o Francês).
+[/list]
+
+Não leia todos os anuncios se você odeia spoilers!!
