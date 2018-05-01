@@ -133,8 +133,8 @@
   },
   "Tactician": {
     "NAME": "Tactician",
-    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G].",
-    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G] [G].",
+    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G].",
+    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
     ]
@@ -504,7 +504,7 @@
   },
   "Havoc": {
     "NAME": "Havoc",
-    "DESCRIPTION": "Play the top card of your draw pile and exhaust it."
+    "DESCRIPTION": "Play the top card of your draw pile and Exhaust it."
   },
   "Secret Weapon": {
     "NAME": "Secret Weapon",
@@ -878,7 +878,7 @@
   },
   "Rip and Tear": {
     "NAME": "Rip and Tear",
-    "DESCRIPTION": "Deal !D! damage to !M! random targets."
+    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
   },
   "Multi-Cast": {
     "NAME": "Multi-Cast",
@@ -991,12 +991,13 @@
     "DESCRIPTION": "Deal !M! damage to ALL enemies for each Power played this combat.",
     "EXTENDED_DESCRIPTION": [
       " NL Exhaust.",
-      " NL Deals !D! damage."
+      " NL (Deals !D! damage)."
     ]
   },
   "Static Discharge": {
     "NAME": "Static Discharge",
-    "DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
+    "DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning.",
+    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
   },
   "Overclock": {
     "NAME": "Overclock",
@@ -1009,8 +1010,8 @@
   },
   "Ice Wall": {
     "NAME": "Ice Wall",
-    "DESCRIPTION": "Gain !B! Block. Gain +3 Block for each Channeled Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. Gain +5 Block for each Channeled Frost."
+    "DESCRIPTION": "Deprecated.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "Cold Snap": {
     "NAME": "Cold Snap",
@@ -1045,13 +1046,13 @@
     "DESCRIPTION": "Deal !D! damage. If the enemy intends to attack, apply !M! Weak."
   },
   "Gash": {
-    "NAME": "Gash",
-    "DESCRIPTION": "Deal !D! damage. NL All Gash cards deal !M! additional damage this combat."
+    "NAME": "Claw",
+    "DESCRIPTION": "Deal !D! damage. NL All Claw cards deal !M! additional damage this combat."
   },
   "Darkness": {
     "NAME": "Darkness",
-    "DESCRIPTION": "Apply !M! Weak. NL Channel !M! Dark.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Apply !M! Vulnerable. NL Channel !M! Dark."
+    "DESCRIPTION": "Channel !M! Dark.",
+    "UPGRADE_DESCRIPTION": "Channel !M! Dark."
   },
   "Machine Learning": {
     "NAME": "Machine Learning",
@@ -1078,7 +1079,8 @@
   },
   "Echo Form": {
     "NAME": "Echo Form",
-    "DESCRIPTION": "The first card you play each turn is played twice."
+    "DESCRIPTION": "The first card you play each turn is played twice. NL Ethereal.",
+    "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
   },
   "Heatsinks": {
     "NAME": "Heatsinks",
@@ -1087,7 +1089,7 @@
   },
   "Genetic Algorithm": {
     "NAME": "Genetic Algorithm",
-    "DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. Exhaust."
+    "DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. NL Exhaust."
   },
   "Melter": {
     "NAME": "Melter",
@@ -1145,7 +1147,10 @@
   },
   "Thunder Strike": {
     "NAME": "Thunder Strike",
-    "DESCRIPTION": "Deal !D! damage to a random enemy for each Lightning Channeled this combat."
+    "DESCRIPTION": "Deal !D! damage to a random enemy for each Lightning Channeled this combat.",
+    "EXTENDED_DESCRIPTION": [
+      " (Channeled !M! Lightning.)"
+    ]
   },
   "Force Field": {
     "NAME": "Force Field",
@@ -1169,7 +1174,7 @@
   },
   "Streamline": {
     "NAME": "Streamline",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you play Streamline, reduce its cost by !M! for this combat."
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you play this card, reduce its cost by !M! for this combat."
   },
   "Channel": {
     "NAME": "Channel",
@@ -1201,7 +1206,8 @@
   },
   "Blizzard": {
     "NAME": "Blizzard",
-    "DESCRIPTION": "Deal !M! damage to ALL enemies for each Frost Channeled this combat.",
+    "DESCRIPTION": "Deal damage equal to twice the Frost Channeled this combat to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Deal damage equal !M! times the Frost Channeled this combat to ALL enemies.",
     "EXTENDED_DESCRIPTION": [
       " NL (Deals !D! damage.)",
       ""
@@ -1219,7 +1225,7 @@
   },
   "Flux Capacitor": {
     "NAME": "Flux Capacitor",
-    "DESCRIPTION": "Replace all Channeled Orbs with Plasma."
+    "DESCRIPTION": "Replace all Channeled Orbs with Plasma. NL Exhaust."
   },
   "Primitive Tech": {
     "NAME": "Primitive Tech",
@@ -1233,5 +1239,21 @@
   "Loop": {
     "NAME": "Loop",
     "DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb."
+  },
+  "Scrape": {
+    "NAME": "Scrape",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard all cards drawn this way that do not cost 0."
+  },
+  "Reprieve": {
+    "NAME": "Reprieve",
+    "DESCRIPTION": "If an enemy does not intend to attack, gain !M! Focus."
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTION": "Deal !D! damage. NL This turn, Lightning and Dark Orbs target this enemy."
+  },
+  "Consume": {
+    "NAME": "Consume",
+    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Orb Slot."
   }
 }

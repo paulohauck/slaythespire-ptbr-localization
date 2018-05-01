@@ -200,6 +200,12 @@
       "Choose a Skill to Add to Your Hand"
     ]
   },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Choose a Card to Add to Your Hand",
+	  "Choose Cards to Add to Your Hand"
+    ]
+  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Choose an Attack to Add to Your Hand"
@@ -468,6 +474,11 @@
   "ArmamentsAction": {
     "TEXT": [
       "Upgrade"
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Exhaust"
     ]
   },
   "DualWieldAction": {
@@ -1011,6 +1022,11 @@
   "OpeningAction": {
     "TEXT": [
       "That enemy does not intend to attack!"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "That enemy intends to attack!"
     ]
   },
   "ApplyPowerAction": {
