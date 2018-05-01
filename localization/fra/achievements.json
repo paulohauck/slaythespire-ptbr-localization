@@ -70,7 +70,7 @@
       "Finissez l'Ascension de niveau 10.",
       "Finissez le jeu avec un deck contenant 5 cartes ou moins.",
       "Finissez Donu avec la carte Appétit.",
-      "Beat the game with the Defect."
+      "Finissez le jeu avec le Défectueux."
     ]
   },
   "CharStat": {
@@ -108,7 +108,7 @@
       "#ySuccès",
       "#rLe #rSoldat #rde #rfer",
       "#gLa #gSilencieuse",
-      "#bCorbot"
+      "#bLe #bDéfectueux"
     ],
     "TEXT": [
       "Retour"

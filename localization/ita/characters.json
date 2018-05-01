@@ -23,6 +23,14 @@
       "Una letale cacciatrice dalle terre della nebbia. NL Assassina i nemici con veleno e pugnali."
     ]
   },
+  "Defect": {
+    "NAMES": [
+      "Il Defect"
+    ],
+    "TEXT": [
+      "Un automa da combattimento divenuto senziente. NL Antiche tecnologie gli permettono di manipolare i Globi."
+    ]
+  },
   "Neow Event": {
     "NAMES": [
       "Neow"
@@ -101,7 +109,7 @@
       "Sostieni i piccoli imprenditori!",
       "Le maschere vanno di moda, io lo so!",
       "Hmm... NL ...hmm... NL Oh!",
-      "Rimani un attimo ed ascolta!",
+      "Fermati un attimo ed ascolta!",
       "È pericoloso viaggiare da soli! Dammi tutti i tuoi soldi!",
       "Compra qualcosa",
       "~*YAWN*~",
@@ -137,20 +145,12 @@
       "Sostieni i piccoli imprenditori!",
       "Le maschere vanno di moda, io lo so!",
       "Hai mica visto il mio corriere?",
-      "Rimani un attimo ed ascolta!",
+      "Fermati un attimo ed ascolta!",
       "È pericoloso andare da soli! Dammi tutti i tuoi soldi!",
       "Compra qualcosa",
       "~*YAWN*~",
       "Adoro l'oro.",
       "Il mio colore preferito è il blu. NL Tu quale preferisci invece?"
-    ]
-  },
-  "Defect": {
-    "NAMES": [
-      "The Defect"
-    ],
-    "TEXT": [
-      "A combat automaton which became self-aware. NL Ancient technology allows the manipulation of Orbs."
     ]
   }
 }

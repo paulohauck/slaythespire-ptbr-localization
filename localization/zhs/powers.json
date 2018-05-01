@@ -742,147 +742,153 @@
     ]
   },
   "Heatsink": {
-    "NAME": "Heatsink",
+    "NAME": "散热",
     "DESCRIPTIONS": [
-      "Whenever you play a Power, draw #b",
-      " card.",
-      " cards."
+      "你每打出一张能力牌，抽 #b",
+      " 张牌。",
+      " 张牌。"
     ]
   },
   "Repair": {
-    "NAME": "Repair",
+    "NAME": "修理",
     "DESCRIPTIONS": [
-      "At the end of combat, heal #b",
-      " HP."
+      "在战斗结束时，回复 #b",
+      " 点生命。"
     ]
   },
   "Storm": {
-    "NAME": "Storm",
+    "NAME": "雷暴",
     "DESCRIPTIONS": [
-      "Whenever you play a #bPower, #yChannel #b ",
-      " Lightning."
+      "你每打出一张 #b能力牌 ， #y生成 #b ",
+      " 个 闪电 球。"
     ]
   },
   "Focus": {
-    "NAME": "Focus",
+    "NAME": "集中",
     "DESCRIPTIONS": [
-      "Increases the effectiveness of Orbs by #b",
-      "Decreases the effectiveness of Orbs by #b",
-      "."
+      "所有充能球的效果增加 #b",
+      "所有充能球的效果减少 #b",
+      " 点。（等离子充能球不受影响）"
     ]
   },
   "Conserve": {
-    "NAME": "Conserve",
+    "NAME": "保留",
     "DESCRIPTIONS": [
-      "#yEnergy is conserved this turn.",
-      "#yEnergy is conserved for the next #b",
-      " turns."
+      "在本回合结束时，将多余的 #y能量 留到下回合。",
+      "在接下来 #b",
+      " 个回合结束时，将多余的 #y能量 留到下回合。"
     ]
   },
   "Magnetism": {
-    "NAME": "Magnetism",
+    "NAME": "磁力",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b%s random colorless card to your hand.",
-      "At the start of your turn, add #b%s random colorless cards to your hand."
+      "在你的回合开始时，增加 #b%s 张随机无色牌到你的手牌。",
+      "在你的回合开始时，增加 #b%s 张随机无色牌到你的手牌。"
     ]
   },
   "Bias": {
-    "NAME": "Bias",
+    "NAME": "偏差",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " #yFocus."
+      "在你的回合开始时，失去 #b",
+      " 层 #y集中 。"
     ]
   },
   "Creative AI": {
-    "NAME": "Creative AI",
+    "NAME": "创造性AI",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Power card into your hand."
+      "在你的回合开始时，增加 #b",
+      " 张随机 能力牌 到你的手牌。（不包括“自我修复”）"
     ]
   },
   "No Attack": {
-    "NAME": "No Attack",
+    "NAME": "无法攻击",
     "DESCRIPTIONS": [
-      "You cannot play #yAttacks this turn."
+      "你在这个回合不能打出 #y攻击牌 。"
     ]
   },
   "Amplify": {
-    "NAME": "Amplify",
+    "NAME": "增幅",
     "DESCRIPTIONS": [
-      "On this turn, play your next #yPower twice.",
-      "On this turn, play your next ",
-      " #yPowers twice."
+      "在这个回合，你的下一张 #y能力牌 会打出两次。",
+      "在这个回合，你的下 ",
+      " 张 #y能力牌 会打出两次。"
     ]
   },
   "Buffer": {
-    "NAME": "Buffer",
+    "NAME": "缓冲",
     "DESCRIPTIONS": [
-      "Prevent the next time you would lose HP.",
-      "Prevent the next #b",
-      " times you would lose HP."
+      "阻止下一次你受到的生命值损伤。",
+      "阻止下 #b",
+      " 次你受到的生命值损伤。"
     ]
   },
   "Rebound": {
-    "NAME": "Rebound",
+    "NAME": "弹回",
     "DESCRIPTIONS": [
-      "The next card you play this turn is placed on top of your draw pile.",
-      "The next #b",
-      " cards you play this turn are placed on top of your draw pile."
+      "你在这个回合打出的下一张牌，将会被放置到抽牌堆的顶部。",
+      "你在这个回合打出的下 #b",
+      " 张牌，将会被放置到抽牌堆的顶部。"
     ]
   },
   "StaticDischarge": {
-    "NAME": "Static Discharge",
+    "NAME": "静电释放",
     "DESCRIPTIONS": [
-      "When receiving #yAttack damage, #yChannel #b",
-      " #yLightning."
+      "当你受到 #y攻击 伤害时， #y生成 #b",
+      " 个 #y闪电 充能球。"
     ]
   },
   "Machine Learning": {
-    "NAME": "Machine Learning",
+    "NAME": "机器学习",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " additional card at the start of each turn.",
-      " additional cards at the start of each turn."
+      "在每回合开始时额外抽 #b",
+      " 张牌。",
+      " 张牌。"
     ]
   },
   "Echo Form": {
-    "NAME": "Echo Form",
+    "NAME": "回响形态",
     "DESCRIPTIONS": [
-      "The first card you play each turn is played #b",
-      " extra time.",
-      " extra times."
+      "你在每回合打出的第一张牌将被额外打出 #b",
+      " 次。",
+      " 次。"
     ]
   },
   "Prime": {
-    "NAME": "Prime",
+    "NAME": "预备",
     "DESCRIPTIONS": [
-      "Whenever you #yChannel an Orb, draw #b",
-      " card.",
-      " cards."
+      "你每 #y生成 一个充能球，抽 #b",
+      " 张牌。",
+      " 张牌。"
     ]
   },
   "Loop": {
-    "NAME": "Loop",
+    "NAME": "循环",
     "DESCRIPTIONS": [
-      "At the start of your turn, use the passive ability of your next Orb.",
-      "At the start of your turn, use the passive ability of your next #b",
-      " Orbs."
+      "在你的回合开始时，使用你最右侧充能球的被动能力。",
+      "在你的回合开始时，使用你最右侧 #b",
+      " 个充能球的被动能力。"
     ]
   },
   "Primitive": {
-    "NAME": "Primitive",
+    "NAME": "原始",
     "DESCRIPTIONS": [
-      "Whenever you play a Common card, draw #b",
-      " card.",
-      " cards."
+      "你每打出一张 普通 牌，抽 #b",
+      " 张牌。",
+      " 张牌。"
     ]
   },
   "Hello": {
-    "NAME": "Hello",
+    "NAME": "你好",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Common cards to your hand.",
-      " random Common card to your hand."
+      "在你的回合开始时，增加 #b",
+      " 张随机 普通 牌到你的手牌。",
+      " 张随机 普通 牌到你的手牌。"
+    ]
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTIONS": [
+      "#yLightning and #yDark Orbs target this enemy."
     ]
   }
 }

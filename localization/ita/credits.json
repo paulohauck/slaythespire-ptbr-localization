@@ -226,5 +226,11 @@
   "THANKS_MSG": {
     "HEADER": "...e grazie a TE, per aver giocato!",
     "NAMES": []
+  },
+  "LOC_SRB": {
+    "HEADER": "Serbian Localization",
+    "NAMES": [
+      "Nikola \"hauzer\" Vukosavljević"
+    ]
   }
 }

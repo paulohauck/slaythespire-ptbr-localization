@@ -29,6 +29,7 @@ RELICS
 	Golden Idol/Bloody Idol: References the Golden Idol from Spelunky.
 	Gold-Plated Cables: Flavor text references plating cables with gold to improve them (hint: it doesn't).
 	Happy Flower: References the Sunflower from Plants vs Zombies.
+	Inserter: This is the Inserter device from Factorio! The image is a yellow Inserter.
 	Lee's Waffle: References Lee, friend of the developer- he had a waffle machine at work.
 	Necronomicon: References the Necronomicon from Evil Dead.
 	Nilry's Codex: References Codex. A tabletop game by Sirlin (Nilry is Sirlin backwards), a game designer.

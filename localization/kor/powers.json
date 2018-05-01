@@ -735,75 +735,75 @@
     ]
   },
   "Wraith Form v2": {
-    "NAME": "Wraith Form",
+    "NAME": "유령화",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b ",
-      " Dexterity."
+      "턴 종료 시 민첩을 #b",
+      " 잃습니다."
     ]
   },
   "Heatsink": {
-    "NAME": "Heatsink",
+    "NAME": "히트싱크",
     "DESCRIPTIONS": [
-      "Whenever you play a Power, draw #b",
-      " card.",
-      " cards."
+      "파워 카드를 사용할 때마다 카드를 #b",
+      " 장 뽑습니다.",
+      " 장 뽑습니다."
     ]
   },
   "Repair": {
-    "NAME": "Repair",
+    "NAME": "수리",
     "DESCRIPTIONS": [
-      "At the end of combat, heal #b",
-      " HP."
+      "전투 종료 시 체력을 #b",
+      " 회복합니다."
     ]
   },
   "Storm": {
-    "NAME": "Storm",
+    "NAME": "폭풍",
     "DESCRIPTIONS": [
-      "Whenever you play a #bPower, #yChannel #b ",
-      " Lightning."
+      "#b파워 카드를 사용할 때마다 #y전기 를 #b",
+      " 번 #y영창 합니다."
     ]
   },
   "Focus": {
-    "NAME": "Focus",
+    "NAME": "밀집",
     "DESCRIPTIONS": [
-      "Increases the effectiveness of Orbs by #b",
-      "Decreases the effectiveness of Orbs by #b",
+      "구체 의 효과를 다음 수치만큼 증가시킵니다: #b",
+      "구체 의 효과를 다음 수치만큼 감소시킵니다: #b",
       "."
     ]
   },
   "Conserve": {
-    "NAME": "Conserve",
+    "NAME": "보존",
     "DESCRIPTIONS": [
-      "#yEnergy is conserved this turn.",
-      "#yEnergy is conserved for the next #b",
-      " turns."
+      "#y에너지 가 다음 턴까지 보존됩니다.",
+      "#y에너지 가 다음 #b",
+      " 턴 동안 보존됩니다."
     ]
   },
   "Magnetism": {
-    "NAME": "Magnetism",
+    "NAME": "자기력",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b%s random colorless card to your hand.",
-      "At the start of your turn, add #b%s random colorless cards to your hand."
+      "턴 시작 시 무작위 무색 카드 #b%s 장을 얻습니다.",
+      "턴 시작 시 무작위 무색 카드 #b%s 장을 얻습니다."
     ]
   },
   "Bias": {
-    "NAME": "Bias",
+    "NAME": "편견",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " #yFocus."
+      "턴 시작 시 #y밀집 을 #b",
+      " #y잃습니다."
     ]
   },
   "Creative AI": {
-    "NAME": "Creative AI",
+    "NAME": "창의적인 인공지능",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Power card into your hand."
+      "턴 시작 시 무작위 파워 카드를 #b",
+      " 장 얻습니다."
     ]
   },
   "No Attack": {
-    "NAME": "No Attack",
+    "NAME": "공격 불가",
     "DESCRIPTIONS": [
-      "You cannot play #yAttacks this turn."
+      "이번 턴에 #y공격 카드를 사용할 수 없습니다."
     ]
   },
   "Amplify": {
@@ -815,58 +815,58 @@
     ]
   },
   "Buffer": {
-    "NAME": "Buffer",
+    "NAME": "버퍼",
     "DESCRIPTIONS": [
-      "Prevent the next time you would lose HP.",
-      "Prevent the next #b",
-      " times you would lose HP."
+      "다음 번에 체력을 잃는 것을 막아줍니다.",
+      "다음 #b",
+      " 번 체력을 잃는 것을 막아줍니다."
     ]
   },
   "Rebound": {
-    "NAME": "Rebound",
+    "NAME": "되돌리기",
     "DESCRIPTIONS": [
-      "The next card you play this turn is placed on top of your draw pile.",
-      "The next #b",
-      " cards you play this turn are placed on top of your draw pile."
+      "이번 턴에 사용하는 다음 카드를 뽑을 카드 더미의 맨 위에 올립니다.",
+      "이번 턴에 사용하는 다음 #b",
+      " 장의 카드를 뽑을 카드 더미의 맨 위에 올립니다."
     ]
   },
   "StaticDischarge": {
-    "NAME": "Static Discharge",
+    "NAME": "정전기 방전",
     "DESCRIPTIONS": [
-      "When receiving #yAttack damage, #yChannel #b",
-      " #yLightning."
+      "#y공격 피해를 받을 때마다 #y전기 를 #b",
+      " 번 #y영창 합니다."
     ]
   },
   "Machine Learning": {
-    "NAME": "Machine Learning",
+    "NAME": "기계학습",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " additional card at the start of each turn.",
-      " additional cards at the start of each turn."
+      "턴 시작 시 카드를 #b",
+      " 장 더 뽑습니다.",
+      " 장 더 뽑습니다."
     ]
   },
   "Echo Form": {
-    "NAME": "Echo Form",
+    "NAME": "메아리",
     "DESCRIPTIONS": [
-      "The first card you play each turn is played #b",
-      " extra time.",
-      " extra times."
+      "매 턴 처음 사용하는 카드가 #b",
+      " 번 추가로 사용됩니다.",
+      " 번 추가로 사용됩니다."
     ]
   },
   "Prime": {
-    "NAME": "Prime",
+    "NAME": "밑작업",
     "DESCRIPTIONS": [
-      "Whenever you #yChannel an Orb, draw #b",
-      " card.",
-      " cards."
+      "구체 를 #y영창 할 때마다 카드를 #b",
+      " 장 뽑습니다.",
+      " 장 뽑습니다."
     ]
   },
   "Loop": {
-    "NAME": "Loop",
+    "NAME": "반복",
     "DESCRIPTIONS": [
-      "At the start of your turn, use the passive ability of your next Orb.",
-      "At the start of your turn, use the passive ability of your next #b",
-      " Orbs."
+      "턴 시작 시 가장 오른쪽 구체 의 지속 효과를 발동시킵니다.",
+      "턴 시작 시 오른쪽에서부터 #b",
+      " 개의 구체 의 지속 효과를 발동시킵니다."
     ]
   },
   "Primitive": {
@@ -878,11 +878,17 @@
     ]
   },
   "Hello": {
-    "NAME": "Hello",
+    "NAME": "안녕하세요",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Common cards to your hand.",
-      " random Common card to your hand."
+      "턴 시작 시 무작위 일반 카드를 #b",
+      " 장 얻습니다.",
+      " 장 얻습니다."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTIONS": [
+      "#yLightning and #yDark Orbs target this enemy."
     ]
   }
 }

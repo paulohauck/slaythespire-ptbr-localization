@@ -1,39 +1,39 @@
 {
   "Dark": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, increase this Orb's damage by #b",
-      ". NL #yEvoke: Deal #b",
-      " damage to the enemy with lowest HP."
+      "#y지속: 내 턴이 끝날 때, 이 구체의 피해량이 #b",
+      " 증가합니다. NL #y발현: 체력이 가장 낮은 적에게 #b",
+      " 의 피해를 줍니다."
     ],
-    "NAME": "Dark"
+    "NAME": "암흑"
   },
   "Empty": {
     "DESCRIPTION": [
-      "Orbs can be channeled into these slots."
+      "구체는 이 슬롯에 영창될 수 있습니다."
     ],
-    "NAME": "Orb Slot"
+    "NAME": "구체 슬롯"
   },
   "Frost": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, gain #b",
-      " #yBlock. NL #yEvoke: Gain #b",
-      " #yBlock."
+      "#y지속: 내 턴이 끝날 때, #y방어도 를 #b",
+      " 얻습니다. NL #y발현: #y방어도 를 #b",
+      " 얻습니다."
     ],
-    "NAME": "Frost"
+    "NAME": "냉기"
   },
   "Lightning": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, deal #b",
-      " damage to a random enemy. NL #yEvoke: Deal #b",
-      " damage to a random enemy."
+      "#y지속: 내 턴이 끝날 때, 무작위 적에게 피해를 #b",
+      " 줍니다. NL #y발현: 무작위 적에게 피해를 #b",
+      " 줍니다."
     ],
-    "NAME": "Lightning"
+    "NAME": "전기"
   },
   "Plasma": {
     "DESCRIPTION": [
-      "#yPassive: At the start of turn, gain [B] . NL #yEvoke: Gain #b",
-      " [B] . NL Plasma is unaffected by #yFocus."
+      "#y지속: 내 턴이 시작될 때, [B] 를 얻습니다. NL #y발현: #b",
+      " [B] 를 얻습니다. NL 플라즈마는 #y밀집 의 효과를 받지 않습니다."
     ],
-    "NAME": "Plasma"
+    "NAME": "플라즈마"
   }
 }

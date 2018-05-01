@@ -360,13 +360,6 @@
       " урона случайному врагу, когда вы получаете #yЗащиту."
     ]
   },
-  "Knowledge": {
-    "NAME": "Знания",
-    "DESCRIPTIONS": [
-      "Вы берёте #b",
-      " карты, когда разыгрываете #yТалант."
-    ]
-  },
   "Flex": {
     "NAME": "Игра мышцами",
     "DESCRIPTIONS": [
@@ -734,155 +727,168 @@
       " ходов."
     ]
   },
+  "Conserve": {
+    "NAME": "Энергосбережение",
+    "DESCRIPTIONS": [
+      "Сохраняет #yЭнергию на след. ход.",
+      "Сохраняет #yЭнергию на #b",
+      " след. хода."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Усиление",
+    "DESCRIPTIONS": [
+      "В этом ходу след. #yТалант разыгрывается дважды.",
+      "В этом ходу ",
+      " след. #yТаланта разыгрываются дважды."
+    ]
+  },
+  "Focus": {
+    "NAME": "Фокус",
+    "DESCRIPTIONS": [
+      "Повышает эффективность сфер на #b",
+      "Понижает эффективность сфер на #b",
+      "."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "Знания",
+    "DESCRIPTIONS": [
+      "Вы берёте #b",
+      " карты, когда разыгрываете #yТалант."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Статический разряд",
+    "DESCRIPTIONS": [
+      "#yПризывает #b",
+      " #yСфер #yМолнии, когда вы теряете ОЗ от атак."
+    ]
+  },
+  "Repair": {
+    "NAME": "Починка",
+    "DESCRIPTIONS": [
+      "Восполняет #b",
+      " ОЗ в конце боя."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Буфер",
+    "DESCRIPTIONS": [
+      "Предотвращает след. потерю ОЗ.",
+      "Предотвращает #b",
+      " след. потери ОЗ."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Облик эхо",
+    "DESCRIPTIONS": [
+      "В начале каждого хода первая карта разыгрывается ещё #b",
+      " раз.",
+      " раза."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Радиатор",
+    "DESCRIPTIONS": [
+      "Вы берёте #b",
+      " карту, когда разыгрываете Талант.",
+      " карты, когда разыгрываете Талант."
+    ]
+  },
+  "No Attack": {
+    "NAME": "Запрет атак",
+    "DESCRIPTIONS": [
+      "Вы не можете разыгрывать #yАтаки в этом ходу."
+    ]
+  },
+  "Storm": {
+    "NAME": "Шторм",
+    "DESCRIPTIONS": [
+      "Призывает #b ",
+      " #yСфер #yМолнии, когда вы разыгрываете Талант."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Притяжение",
+    "DESCRIPTIONS": [
+      "Добавляет в руку #b%s случайную бесцветную карту в начале вашего хода.",
+      "Добавляет в руку #b%s случайных бесцветных карт в начале вашего хода."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "Находчивый ИИ",
+    "DESCRIPTIONS": [
+      "Добавляет в руку #b",
+      " случайных Талантов в начале вашего хода."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Машинное обучение",
+    "DESCRIPTIONS": [
+      "Вы берёте #b",
+      " доп. карту в начале каждого своего хода.",
+      " доп. карты в начале каждого своего хода."
+    ]
+  },
+  "Bias": {
+    "NAME": "Предвзятость",
+    "DESCRIPTIONS": [
+      "Отнимает #b",
+      " #yФокуса в начале вашего хода."
+    ]
+  },
   "Wraith Form v2": {
-    "NAME": "Wraith Form",
+    "NAME": "Облик призрака",
     "DESCRIPTIONS": [
       "Отнимает #b ",
       " #yЛовкости в конце вашего хода."
     ]
   },
-  "Heatsink": {
-    "NAME": "Heatsink",
+  "Prime": {
+    "NAME": "Зарядить",
     "DESCRIPTIONS": [
-      "Whenever you play a Power, draw #b",
-      " card.",
-      " cards."
-    ]
-  },
-  "Repair": {
-    "NAME": "Repair",
-    "DESCRIPTIONS": [
-      "At the end of combat, heal #b",
-      " HP."
-    ]
-  },
-  "Storm": {
-    "NAME": "Storm",
-    "DESCRIPTIONS": [
-      "Whenever you play a #bPower, #yChannel #b ",
-      " Lightning."
-    ]
-  },
-  "Focus": {
-    "NAME": "Focus",
-    "DESCRIPTIONS": [
-      "Increases the effectiveness of Orbs by #b",
-      "Decreases the effectiveness of Orbs by #b",
-      "."
-    ]
-  },
-  "Conserve": {
-    "NAME": "Conserve",
-    "DESCRIPTIONS": [
-      "#yEnergy is conserved this turn.",
-      "#yEnergy is conserved for the next #b",
-      " turns."
-    ]
-  },
-  "Magnetism": {
-    "NAME": "Magnetism",
-    "DESCRIPTIONS": [
-      "At the start of your turn, add #b%s random colorless card to your hand.",
-      "At the start of your turn, add #b%s random colorless cards to your hand."
-    ]
-  },
-  "Bias": {
-    "NAME": "Bias",
-    "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " #yFocus."
-    ]
-  },
-  "Creative AI": {
-    "NAME": "Creative AI",
-    "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Power card into your hand."
-    ]
-  },
-  "No Attack": {
-    "NAME": "No Attack",
-    "DESCRIPTIONS": [
-      "You cannot play #yAttacks this turn."
-    ]
-  },
-  "Amplify": {
-    "NAME": "Amplify",
-    "DESCRIPTIONS": [
-      "On this turn, play your next #yPower twice.",
-      "On this turn, play your next ",
-      " #yPowers twice."
-    ]
-  },
-  "Buffer": {
-    "NAME": "Buffer",
-    "DESCRIPTIONS": [
-      "Prevent the next time you would lose HP.",
-      "Prevent the next #b",
-      " times you would lose HP."
+      "Вы берёте #b",
+      " карту, когда #yПризываете сферу.",
+      " карты, когда #yПризываете сферу."
     ]
   },
   "Rebound": {
-    "NAME": "Rebound",
+    "NAME": "Отдача",
     "DESCRIPTIONS": [
-      "The next card you play this turn is placed on top of your draw pile.",
-      "The next #b",
-      " cards you play this turn are placed on top of your draw pile."
-    ]
-  },
-  "StaticDischarge": {
-    "NAME": "Static Discharge",
-    "DESCRIPTIONS": [
-      "When receiving #yAttack damage, #yChannel #b",
-      " #yLightning."
-    ]
-  },
-  "Machine Learning": {
-    "NAME": "Machine Learning",
-    "DESCRIPTIONS": [
-      "Draw #b",
-      " additional card at the start of each turn.",
-      " additional cards at the start of each turn."
-    ]
-  },
-  "Echo Form": {
-    "NAME": "Echo Form",
-    "DESCRIPTIONS": [
-      "The first card you play each turn is played #b",
-      " extra time.",
-      " extra times."
-    ]
-  },
-  "Prime": {
-    "NAME": "Prime",
-    "DESCRIPTIONS": [
-      "Whenever you #yChannel an Orb, draw #b",
-      " card.",
-      " cards."
-    ]
-  },
-  "Loop": {
-    "NAME": "Loop",
-    "DESCRIPTIONS": [
-      "At the start of your turn, use the passive ability of your next Orb.",
-      "At the start of your turn, use the passive ability of your next #b",
-      " Orbs."
+      "Вы положите след. разыгранную в этом ходу карту на верх стопки добора.",
+      "Вы положите #b",
+      " след. разыгранные в этом ходу карты на верх стопки добора."
     ]
   },
   "Primitive": {
-    "NAME": "Primitive",
+    "NAME": "Примитивность",
     "DESCRIPTIONS": [
-      "Whenever you play a Common card, draw #b",
-      " card.",
-      " cards."
+      "Вы берёте #b",
+      " карту, когда разыгрываете Обычные карты.",
+      " карты, когда разыгрываете Обычные карты."
     ]
   },
   "Hello": {
-    "NAME": "Hello",
+    "NAME": "Здравствуй",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Common cards to your hand.",
-      " random Common card to your hand."
+      "Добавляет в руку #b",
+      " случайную Обычную карту в начале вашего хода.",
+      " случайные Обычные карты в начале вашего хода."
+    ]
+  },
+  "Loop": {
+    "NAME": "Цикл",
+    "DESCRIPTIONS": [
+      "Активирует пассивный эффект след. в очереди сферы в начале вашего хода.",
+      "Активирует пассивный эффект #b",
+      " след. в очереди сфер в начале вашего хода."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTIONS": [
+      "#yLightning and #yDark Orbs target this enemy."
     ]
   }
 }

@@ -191,17 +191,17 @@
   },
   "SingleViewRelicPopup": {
     "TEXT": [
-      "Boss",
-      "Commune",
-      "Sans valeur",
-      "Rare",
-      "Boutique",
-      "Événement",
-      "Basique",
-      "Peu commune",
-      "Verrouillée",
-      "Inconnue",
-      " Relique",
+      "Relique de Boss",
+      "Relique commune",
+      "Relique sans valeur",
+      "Relique rare",
+      "Relique du Marchand",
+      "Relique événement",
+      "Relique basique",
+      "Relique peu commune",
+      "Relique verrouillée",
+      "Relique inconnue",
+      "",
       "Cette Relique doit être déverrouillée.",
       "Cette Relique doit être découverte."
     ]
@@ -434,8 +434,8 @@
   },
   "OptionsPanel": {
     "TEXT": [
-      "REMARQUE : les options en ROUGE ne sont pas encore implémentées.",
-      "Menu du jeu",
+      "",
+      "Options de jeu",
       "Graphismes",
       "Résolution : NL Fréquence d'images max :",
       "Plein écran NL Plein écran fenêtré (recommandé) NL Tremblement de l'écran",
@@ -534,19 +534,19 @@
   "RelicViewScreen": {
     "TEXT": [
       "Retour",
-      "Classiques :",
+      "Basiques :",
       "les personnages peuvent commencer la partie avec ces Reliques.",
-      "Ordinaires :",
+      "Communes :",
       "des Reliques faibles qu'on trouve facilement.",
-      "Inhabituelles :",
-      "des Reliques plus puissantes et moins fréquentes que les reliques ordinaires.",
+      "Peu communes :",
+      "des Reliques plus puissantes et moins fréquentes que les reliques communes.",
       "Rares :",
       "des Reliques puissantes et uniques qu'on trouve rarement.",
       "Boss :",
       "des Reliques uniquement trouvées dans des coffres de boss.",
       "Événement :",
       "des Reliques uniquement disponibles lors d'événements.",
-      "Boutique :",
+      "Marchand :",
       "des Reliques qui s'achètent uniquement chez le Marchand."
     ]
   },
@@ -555,7 +555,7 @@
       "Verrouillé",
       "Ce personnage peut être déverrouillé en terminant une partie.",
       "Ce personnage n'est pas disponible en accès anticipé.",
-      "Ce personnage peut être déverrouillé en atteignant le haut de la Tour.",
+      "Ce personnage peut être déverrouillé en terminant une partie avec la Silencieuse.",
       "PV : ",
       "Or : ",
       " À déverrouiller",
@@ -570,7 +570,7 @@
       "Commencer",
       "Le Soldat de fer",
       "La Silencieuse",
-      "Corbot",
+      "Le Défectueux",
       "Retour",
       "Ascension",
       "Niveau ",
@@ -721,7 +721,7 @@
       "Bloqué",
       "le Soldat de fer",
       "la Silencieuse",
-      "the Gunner"
+      "le Défectueux"
     ]
   },
   "ExhaustAction": {
@@ -818,7 +818,7 @@
     "TEXT": [
       "Le Soldat de fer",
       "La Silencieuse",
-      "3rd Char. DO NOT TRANSLATE",
+      "Le Défectueux",
       "Étage atteint moyen (sur les 20 dernières tentatives)",
       "Score moyen (sur les 20 dernières tentatives)",
       "Meilleure série de victoires",
@@ -878,7 +878,7 @@
     "TEXT": [
       "Le Soldat de fer",
       "La Silencieuse",
-      "",
+      "Le Défectueux",
       "Retour",
       "Pas d'historique de parties trouvé. NL Allez vaincre la Tour !",
       "Niveau d'Ascension : ",
@@ -891,10 +891,10 @@
       "Commune",
       "Peu commune",
       "Rare",
-      "Spéciale",
+      "Événement",
       "Malédiction",
       "Boss",
-      "Boutique",
+      "Marchand",
       "Inconnue",
       "%1$d %2$s",
       "%1$s (%2$d) :",
@@ -982,7 +982,7 @@
       "Changez votre résolution et activez/désactivez des options.",
       "Contrôles",
       "",
-      "Cette fonctionnalité n'est pas encore disponible.",
+      "Modifier les contrôles au clavier ou à la manette.",
       "Crédits",
       "",
       "Tous les gens qui ont contribué à Slay the Spire !",
@@ -1030,48 +1030,53 @@
       "*Les succès et le partage de votre score sont désactivés si vous utilisez une Seed personnalisée."
     ]
   },
-  "InputSettingsScreen": {
-    "TEXT": [
-      "Input Settings",
-      "Game Settings",
-      "Return",
-      "Commands",
-      "Keyboard",
-      "Controller (Not Yet Available)",
-      "Reset to Default",
-      "Confirm",
-      "Cancel / Exit",
-      "Map",
-      "Master Deck",
-      "Draw Pile",
-      "Discard Pile",
-      "Exhaust Pile",
-      "End Turn",
-      "Left",
-      "Right",
-      "Select Card #1",
-      "Select Card #2",
-      "Select Card #3",
-      "Select Card #4",
-      "Select Card #5",
-      "Select Card #6",
-      "Select Card #7",
-      "Select Card #8",
-      "Select Card #9",
-      "Select Card #10"
-    ]
-  },
   "InputKeyNames": {
     "TEXT_DICT": {
-      "Escape": "ESC",
-      "Forward Delete": "Delete",
-      "Delete": "Backspace"
+      "Escape": "Échap",
+      "Forward Delete": "Suppr",
+      "Delete": "Retour arrière"
     }
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Défausser"
+    ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Contrôles",
+      "Paramètres de jeu",
+      "Retour (?)",
+      "Commandes (?)",
+      "Clavier",
+      "Manette (Bientôt)",
+      "Réinitialiser",
+      "Confirmer",
+      "Annuler / Quitter",
+      "Carte",
+      "Deck",
+      "Pioche",
+      "Défausse",
+      "Cartes épuisées",
+      "Fin du tour",
+      "Gauche",
+      "Droite",
+      "Sélectionner la carte n°1",
+      "Sélectionner la carte n°2",
+      "Sélectionner la carte n°3",
+      "Sélectionner la carte n°4",
+      "Sélectionner la carte n°5",
+      "Sélectionner la carte n°6",
+      "Sélectionner la carte n°7",
+      "Sélectionner la carte n°8",
+      "Sélectionner la carte n°9",
+      "Sélectionner la carte n°10"
+    ]
   },
   "CacheAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile.",
-      "Choose Cards to Put on Top of Your Draw Pile."
+      "Choisissez une carte à placer au dessus de votre pioche.",
+      "Choisissez les cartes à placer au dessus de votre pioche."
     ]
   },
   "HiddenChamberAction": {
@@ -1079,9 +1084,20 @@
       ""
     ]
   },
-  "ReprogramAction": {
+  "RecycleAction": {
     "TEXT": [
-      "Discard"
+      "Exhaust"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Choose a card to Add to Your Hand",
+      "Choose cards to Add to Your Hand"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "That enemy intends to attack!"
     ]
   }
 }

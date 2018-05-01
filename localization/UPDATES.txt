@@ -1,5 +1,91 @@
 Updates for Translators!
 
+04/30/2018:
+tutorials.json
+	"Player Tips"
+		"I have no Orb slots."
+cards.json
+	"Consume"
+	"Lockon"
+	"Reprieve"
+	"Streamline"
+		"Deal !D! damage. NL Whenever you play Streamline, reduce its cost by !M! for this combat." ->
+		"Deal !D! damage. NL Whenever you play this card, reduce its cost by !M! for this combat."
+	"Scrape"
+		"DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way." ->
+		"DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard all cards drawn this way that do not cost 0."
+	"Nova"
+		" NL Deals !D! damage." ->
+		" NL (Deals !D! damage)."
+credits.json
+	"LOC_SRB"
+powers.json
+	"Echo Form"
+ui.json
+	"ReprieveAction"
+	"RecycleAction"
+	"AnyCardFromDeckToHandAction"
+relics.json
+	"Inserter"
+		FLAVOR: "Push. Pull. Stack. Repeat."
+	"Symbiotic Virus"
+		FLAVOR typo fixes and removal of coloring.
+	"OddlySmoothStone" & "Data Disk" & "Vajra"
+		"At the start of each combat, gain #b", ->
+		"Start each combat with #b",
+
+----------------------------------
+
+04/27/2018:
+cards.json
+	"Echo Form"
+		DESCRIPTION
+		UPGRADE_DESCRIPTION
+	"Havoc"
+		exhaust -> Exhaust
+	"Darkness"
+		"DESCRIPTION": "Channel !M! Dark.",
+		"UPGRADE_DESCRIPTION": "Channel !M! Dark."
+	"Gash"
+		Renamed to "Claw"
+	"Scrape"
+		This is a new card!
+
+----------------------------------
+
+04/26/2018v2:
+tutorials.json
+	"Player Tips"
+		"#rMaximum Orb capacity has been met."
+		 
+----------------------------------
+
+04/26/2018:
+cards.json
+	"Ice Wall"
+		Descriptions now say Deprecated.
+	"Flux Capacitor"
+		Now exhausts: "DESCRIPTION": "Replace all Channeled Orbs with Plasma. NL Exhaust."
+	"Rip and Tear"
+		"DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
+	"Genetic Algorithm"
+		Adding a newline for Exhaust.
+		"DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. NL Exhaust."
+	"Blizzard"
+		Description updates.
+		"DESCRIPTION": "Deal damage equal to twice the Frost Channeled this combat to ALL enemies.",
+		"UPGRADE_DESCRIPTION": "Deal damage equal !M! times the Frost Channeled this combat to ALL enemies.",
+	"Thunder Strike"
+		EXTENDED_DESCRIPTION: " (Channeled !M! Lightning.)"
+relics.json
+	"Inserter"
+		Description was incorrect, placeholder inserted for now.
+	"Symbiotic Virus"
+		Typo fix: badbad
+		 "FLAVOR": "A little bit of #rbad can do a lot of #ggood...",
+		 
+----------------------------------
+
 04/25/2018:
 cards.json
 	"Fission"

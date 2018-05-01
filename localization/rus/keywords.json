@@ -16,6 +16,14 @@
       ],
       "DESCRIPTION": "Предотвращает урон до следующего хода."
     },
+    "EVOKE": {
+      "NAMES": [
+        "Разрядка Сфер",
+        "разряжает",
+        "разряженную"
+      ],
+      "DESCRIPTION": "Расходует самую правую сферу и активирует её эффект Разряжения."
+    },
     "CURSE": {
       "NAMES": [
         "проклятия",
@@ -56,11 +64,24 @@
       ],
       "DESCRIPTION": "Берутся в первую руку каждого боя."
     },
+    "FOCUS": {
+      "NAMES": [
+        "Фокус",
+        "фокуса"
+      ],
+      "DESCRIPTION": "Повышает эффективность #yПризванных сфер."
+    },
     "LOCKED": {
       "NAMES": [
         "закрыто"
       ],
       "DESCRIPTION": "Эта карта еще не открыта."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
     },
     "POISON": {
       "NAMES": [
@@ -137,6 +158,13 @@
       ],
       "DESCRIPTION": "Улучшенные карты становятся сильнее. Улучшать карты можно только один раз."
     },
+    "VOID": {
+      "NAMES": [
+        "бездна",
+        "бездну"
+      ],
+      "DESCRIPTION": "Ожоги — это неиграбельные статусные карты, которые отнимают Энергию, когда вы их берёте."
+    },
     "VULNERABLE": {
       "NAMES": [
         "уязвимость",
@@ -197,9 +225,57 @@
     },
     "INTANGIBLE": {
       "NAMES": [
-        "неосязаемость"
+        "Неосязаемость",
+        "неосязаемости"
       ],
       "DESCRIPTION": "Понижает ЛЮБУЮ потерю ОЗ до #b1."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "Сфера Молнии",
+        "сфер молнии",
+        "сферу молнии"
+      ],
+      "DESCRIPTION": "Наносит урон случайному врагу."
+    },
+    "FROST": {
+      "NAMES": [
+        "Сфера Льда",
+        "сфер льда",
+        "сферу льда",
+        "сфере льда",
+        "сферам льда"
+      ],
+      "DESCRIPTION": "Даёт #yЗащиту."
+    },
+    "DARK": {
+      "NAMES": [
+        "Сфера Тьмы",
+        "сфер тьмы",
+        "сферу тьмы"
+      ],
+      "DESCRIPTION": "Повышает свой урон каждый ход. Наносит урон врагу с наименьшим кол-вом ОЗ, когда #yРазряжается."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "Сфера Плазмы",
+        "сфер плазмы",
+        "сферы плазмы",
+        "сферу плазмы"
+      ],
+      "DESCRIPTION": "Даёт Энергию."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "Призыв Сфер",
+        "призванную",
+        "призванные",
+        "призывает",
+        "призванных",
+        "призываете",
+        "призвано"
+      ],
+      "DESCRIPTION": "Призванные сферы помещаются в первый пустой слот. Если пустых слотов нет, то самая правая сфера автоматически #yРазряжается, освобождая место."
     },
     "TODO": {
       "NAMES": [
@@ -213,67 +289,6 @@
     },
     "TEXT": [
       "Энергия используется для разыгрывания карт в руке."
-    ],
-    "VOID": {
-      "NAMES": [
-        "void",
-        "voids"
-      ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
-    },
-    "FOCUS": {
-      "NAMES": [
-        "focus"
-      ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
-    },
-    "EVOKE": {
-      "NAMES": [
-        "evoke",
-        "evoked"
-      ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
-    },
-    "PLASMA": {
-      "NAMES": [
-        "plasma",
-        "plasma+"
-      ],
-      "DESCRIPTION": "Orb: Gains Energy."
-    },
-    "CHANNEL": {
-      "NAMES": [
-        "channel",
-        "channeled"
-      ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
-    },
-    "DARK": {
-      "NAMES": [
-        "dark",
-        "dark+"
-      ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
-    },
-    "OPENER": {
-      "NAMES": [
-        "opener"
-      ],
-      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
-    },
-    "LIGHTNING": {
-      "NAMES": [
-        "lightning",
-        "lightning+"
-      ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
-    },
-    "FROST": {
-      "NAMES": [
-        "frost",
-        "frost+"
-      ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
-    }
+    ]
   }
 }

@@ -520,7 +520,7 @@
   },
   "Rage": {
     "NAME": "狂怒",
-    "DESCRIPTION": "你在这个回合内每打出一张攻击牌，就获得 !M! 格挡 。"
+    "DESCRIPTION": "打出此牌后，你在这个回合内每打出一张攻击牌，获得 !M! 格挡 。"
   },
   "Headbutt": {
     "NAME": "头槌",
@@ -707,7 +707,7 @@
   "Perfected Strike": {
     "NAME": "完美打击",
     "DESCRIPTION": "造成 !D! 点伤害。 NL 你每有一张名字中有 打击 的牌，伤害+2。",
-    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 你每有一张名字中有“打击”的牌，伤害+3。"
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 你每有一张名字中有 打击 的牌，伤害+3。"
   },
   "Carnage": {
     "NAME": "残杀",
@@ -878,360 +878,382 @@
   },
   "Wraith Form v2": {
     "NAME": "幽魂形态",
-    "DESCRIPTION": "获得 !M! 层 无实体 。 NL 在你的回合结束时，失去1点敏捷。"
+    "DESCRIPTION": "获得 !M! 层 无实体 。 NL 在你的回合结束时，失去1点 敏捷 。"
   },
   "Auto Shields": {
-    "NAME": "Auto-Shields",
-    "DESCRIPTION": "If you have 0 Block, gain !B! Block."
+    "NAME": "自动护盾",
+    "DESCRIPTION": "如果你没有格挡，获得 !B! 点 格挡 。"
   },
   "Rip and Tear": {
-    "NAME": "Rip and Tear",
-    "DESCRIPTION": "Deal !D! damage to !M! random targets."
+    "NAME": "狂乱撕扯",
+    "DESCRIPTION": "对一名随机敌人造成 !D! 点伤害 !M! 次。"
   },
   "Zap": {
-    "NAME": "Zap",
-    "DESCRIPTION": "Channel !M! Lightning."
+    "NAME": "电击",
+    "DESCRIPTION": "生成 !M! 个 闪电 充能球。"
   },
   "Fission": {
-    "NAME": "Fission",
-    "DESCRIPTION": "Evoke all of your Orbs. Increase your max Orb count by the number of Orbs Evoked."
+    "NAME": "裂变",
+    "DESCRIPTION": "激发 所有充能球。 获得相同数量的充能球栏位。"
   },
   "Storm": {
-    "NAME": "Storm",
-    "DESCRIPTION": "Whenever you play a Power, Channel 1 Lightning.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a Power, Channel 1 Lightning."
+    "NAME": "雷暴",
+    "DESCRIPTION": "你每打出一张能力牌， 生成 1 个 闪电 充能球。",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 你每打出一张能力牌，生成 1 个 闪电 充能球。"
   },
   "Impulse": {
-    "NAME": "Impulse",
-    "DESCRIPTION": "Use the passive effect of all of your Channeled Orbs. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Use the passive effect of all of your Channeled Orbs."
+    "NAME": "脉冲",
+    "DESCRIPTION": "使用所有 充能球 的被动效果。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "使用所有 充能球 的被动效果。"
   },
   "Double Energy": {
-    "NAME": "Double Energy",
-    "DESCRIPTION": "Double your Energy. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Double your Energy."
+    "NAME": "双倍能量",
+    "DESCRIPTION": "将你的 能量 翻倍。 NL 消耗。",
+    "UPGRADE_DESCRIPTION": "将你的 能量 翻倍。"
   },
   "Go for the Eyes": {
-    "NAME": "Go for the Eyes",
-    "DESCRIPTION": "Deal !D! damage. If the enemy intends to attack, apply !M! Weak."
+    "NAME": "眼部攻击",
+    "DESCRIPTION": "造成 !D! 点伤害。 如果目标敌人的意图是攻击，则给予其 !M! 层 虚弱 。"
   },
   "Flux Capacitor": {
-    "NAME": "Flux Capacitor",
-    "DESCRIPTION": "Replace all Channeled Orbs with Plasma."
+    "NAME": "通量电容器",
+    "DESCRIPTION": "将所有充能球替换为 等离子 充能球。 NL 消耗 。"
   },
   "Self Repair": {
-    "NAME": "Self Repair",
-    "DESCRIPTION": "At the end of combat, heal !M! HP."
+    "NAME": "自我修复",
+    "DESCRIPTION": "在战斗结束时，回复 !M! 点生命。"
   },
   "Chaos": {
-    "NAME": "Chaos",
-    "DESCRIPTION": "Channel !M! random Orb.",
-    "UPGRADE_DESCRIPTION": "Channel !M! random Orbs."
+    "NAME": "混沌",
+    "DESCRIPTION": "随机 生成 !M! 个充能球。",
+    "UPGRADE_DESCRIPTION": "随机 生成 !M! 个充能球。"
   },
   "Cold Snap": {
-    "NAME": "Cold Snap",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Frost."
+    "NAME": "寒流",
+    "DESCRIPTION": "造成 !D! 点伤害。 生成 !M! 个 冰霜 充能球。"
   },
   "Overclock": {
-    "NAME": "Overclock",
-    "DESCRIPTION": "Gain !B! Block. Upgrade a random Orb.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. Upgrade all Orbs."
+    "NAME": "超频",
+    "DESCRIPTION": "Deprecated.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "Hyperbeam": {
-    "NAME": "Hyperbeam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Lose !M! Focus."
+    "NAME": "超能光束",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 失去 !M! 点 集中 。"
   },
   "Energy Pulse": {
-    "NAME": "Energy Pulse",
-    "DESCRIPTION": "Gain Block equal to your Energy.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to twice your Energy."
+    "NAME": "能量波动",
+    "DESCRIPTION": "获得你当前 能量 的 格挡 值。",
+    "UPGRADE_DESCRIPTION": "获得你当前 能量 两倍的 格挡 值。"
   },
   "Reinforced Body": {
-    "NAME": "Reinforced Body",
-    "DESCRIPTION": "Gain !B! Block X times."
+    "NAME": "硬化机体",
+    "DESCRIPTION": "获得 !B! 点 格挡 X 次。"
   },
   "Skim": {
-    "NAME": "Skim",
-    "DESCRIPTION": "Draw !M! cards."
+    "NAME": "快速检索",
+    "DESCRIPTION": "抽 !M! 张牌。"
   },
   "Heatsinks": {
-    "NAME": "Heatsinks",
-    "DESCRIPTION": "Whenever you play a Power card, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Whenever you play a Power card, draw !M! cards."
+    "NAME": "散热片",
+    "DESCRIPTION": "你每打出一张能力牌，抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "你每打出一张能力牌，抽 !M! 张牌。"
   },
   "Darkness": {
-    "NAME": "Darkness",
-    "DESCRIPTION": "Apply !M! Weak. NL Channel !M! Dark.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Apply !M! Vulnerable. NL Channel !M! Dark."
+    "NAME": "漆黑",
+    "DESCRIPTION": "生成 !M! 个 黑暗 充能球。",
+    "UPGRADE_DESCRIPTION": "生成 !M! 个 黑暗 充能球。"
   },
   "Dualcast": {
-    "NAME": "Dualcast",
-    "DESCRIPTION": "Evoke your next Orb 2 times."
+    "NAME": "双重释放",
+    "DESCRIPTION": "激发 你最右侧的充能球2次。"
   },
   "Magnetism": {
-    "NAME": "Magnetism",
-    "DESCRIPTION": "At the start of each turn, add a random colorless card to your hand."
+    "NAME": "磁力",
+    "DESCRIPTION": "在每回合开始时，增加一张随机无色牌到你的手牌。"
   },
   "Recycle": {
-    "NAME": "Recycle",
-    "DESCRIPTION": "Exhaust a card. NL Gain [B] equal to its cost."
+    "NAME": "回收",
+    "DESCRIPTION": "消耗 一张牌。 NL 获得与其耗能相等的 [B] 。"
   },
   "Melter": {
-    "NAME": "Melter",
-    "DESCRIPTION": "Remove all Block from an enemy. NL Deal !D! damage."
+    "NAME": "熔化",
+    "DESCRIPTION": "去除一名敌人的所有 格挡 值。 NL 造成 !D! 点伤害。"
   },
   "FTL": {
-    "NAME": "FTL",
-    "DESCRIPTION": "Deal !D! damage. If you have played less than !M! cards this turn, draw 1 card."
+    "NAME": "超越光速",
+    "DESCRIPTION": "造成 !D! 点伤害。 如果你在这回合打出的牌数少于 !M! 张，抽一张牌。"
   },
   "Barrage": {
-    "NAME": "Barrage",
-    "DESCRIPTION": "Deal !D! damage for each Channeled Orb."
+    "NAME": "弹幕齐射",
+    "DESCRIPTION": "你每拥有一个充能球，造成 !D! 点伤害。"
   },
   "Allocate": {
-    "NAME": "Allocate",
-    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Strength. NL Lose 1 Dexterity."
+    "NAME": "分配",
+    "DESCRIPTION": "获得 !M! 点 集中 。 NL 失去1点 力量 。 NL 失去1点 敏捷 。"
   },
   "Creative AI": {
-    "NAME": "Creative AI",
-    "DESCRIPTION": "At the start of each turn, add a random Power card to your hand."
+    "NAME": "创造性AI",
+    "DESCRIPTION": "在每回合开始时，增加一张随机 能力 牌到你的手牌。"
   },
   "Ball Lightning": {
-    "NAME": "Ball Lightning",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Lightning."
+    "NAME": "球状闪电",
+    "DESCRIPTION": "造成 !D! 点伤害。 生成 !M! 个 闪电 充能球。"
   },
   "Coolheaded": {
-    "NAME": "Coolheaded",
-    "DESCRIPTION": "Channel 1 Frost. NL Draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Draw !M! cards."
+    "NAME": "冷静头脑",
+    "DESCRIPTION": "生成 1 个 冰霜 充能球。 NL 抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "生成 1 个 冰霜 充能球。 NL 抽 !M! 张牌。"
   },
   "Genetic Algorithm": {
-    "NAME": "Genetic Algorithm",
-    "DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. Exhaust."
+    "NAME": "遗传算法",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 每打出一次，这张牌在本局游戏中的格挡值永久性增加 !M! 。 NL 消耗 。"
   },
   "Amplify": {
-    "NAME": "Amplify",
-    "DESCRIPTION": "This turn, your next Power is played twice.",
-    "UPGRADE_DESCRIPTION": "This turn, your next !M! Powers are played twice."
+    "NAME": "增幅",
+    "DESCRIPTION": "在这个回合，你的下一张 能力牌 会打出两次。",
+    "UPGRADE_DESCRIPTION": "在这个回合，你的下 !M! 张 能力牌 会打出两次。"
   },
   "Conserve Battery": {
-    "NAME": "Conserve Battery",
-    "DESCRIPTION": "Gain !B! Block. NL Energy is conserved for next turn."
+    "NAME": "保留电量",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 能够保留多余的能量一个回合。"
   },
   "Aggregate": {
-    "NAME": "Aggregate",
-    "DESCRIPTION": "Gain [B] for every !M! cards in your draw pile."
+    "NAME": "汇集",
+    "DESCRIPTION": "你的抽牌堆中每有 !M! 张牌，获得一点 [B] 。"
   },
   "Buffer": {
-    "NAME": "Buffer",
-    "DESCRIPTION": "Prevent the next time you would lose HP.",
-    "UPGRADE_DESCRIPTION": "Prevent the next !M! times you would lose HP."
+    "NAME": "缓冲",
+    "DESCRIPTION": "阻止下一次你受到的生命值损伤。",
+    "UPGRADE_DESCRIPTION": "阻止下 !M! 次你受到的生命值损伤。"
   },
   "Winter": {
     "NAME": "Winter",
-    "DESCRIPTION": "At the start of your turn, if you have an Orb slot, Channel 1 Frost."
+    "DESCRIPTION": "Deprecated."
   },
   "Steam Power": {
-    "NAME": "Steam Power",
-    "DESCRIPTION": "Draw !M! cards. NL Add a Burn into your discard pile."
+    "NAME": "蒸汽动力",
+    "DESCRIPTION": "抽 !M! 张牌。 NL  将一张 灼伤 放入你的弃牌堆中。"
   },
   "Reprogram": {
-    "NAME": "Reprogram",
-    "DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
+    "NAME": "重编程",
+    "DESCRIPTION": "检视你抽牌堆顶部的 !M! 张牌。 你可以选择丢弃其中的任意张。"
   },
   "Cache": {
-    "NAME": "Cache",
-    "DESCRIPTION": "At the end of your turn, choose !M! card from your draw pile and place it on top."
+    "NAME": "高速缓存",
+    "DESCRIPTION": "Deprecated."
   },
   "Rebound": {
-    "NAME": "Rebound",
-    "DESCRIPTION": "Deal !D! damage. NL Place the next card you play this turn on top of your draw pile."
+    "NAME": "弹回",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 你在这个回合打出的下一张牌将会被放置到抽牌堆的顶部。"
   },
   "Capacitor": {
-    "NAME": "Capacitor",
-    "DESCRIPTION": "Gain !M! Orb slot.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Orb slots."
+    "NAME": "扩容",
+    "DESCRIPTION": "获得 !M! 个充能球栏位。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 个充能球栏位。"
   },
   "Meteor Strike": {
-    "NAME": "Meteor Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Channel !M! Plasma."
+    "NAME": "陨石打击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 生成 !M! 个 等离子 充能球。"
   },
   "Stack": {
-    "NAME": "Stack",
-    "DESCRIPTION": "Gain Block equal to the number of cards in your discard pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to the number of cards in your discard pile.",
+    "NAME": "堆栈",
+    "DESCRIPTION": "获得与你当前弃牌堆中牌数相等的 格挡 值。",
+    "UPGRADE_DESCRIPTION": "获得你当前弃牌堆中牌数+3的 格挡 值。",
     "EXTENDED_DESCRIPTION": [
-      " NL (Gains !B! Block.)"
+      " NL （获得 !B! 点格挡。）"
     ]
   },
   "Multi-Cast": {
-    "NAME": "Multi-Cast",
-    "DESCRIPTION": "Evoke your next Orb X times.",
-    "UPGRADE_DESCRIPTION": "Evoke your next Orb X+1 times."
+    "NAME": "多重释放",
+    "DESCRIPTION": "激发 你最右侧的充能球X次。",
+    "UPGRADE_DESCRIPTION": "激发 你最右侧的充能球X+1次。"
   },
   "Sweeping Beam": {
-    "NAME": "Sweeping Beam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Draw !M! card."
+    "NAME": "扫荡射线",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 抽 !M! 张牌。"
   },
   "Undo": {
-    "NAME": "Undo",
-    "DESCRIPTION": "Set your HP to what it was last turn. NL Exhaust."
+    "NAME": "撤消",
+    "DESCRIPTION": "将你的生命值变为上回合开始时的数值。 NL 消耗 。"
   },
   "Doom and Gloom": {
-    "NAME": "Doom and Gloom",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Channel !M! Dark."
+    "NAME": "愁云惨淡",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 生成 !M! 个 黑暗 充能球。"
   },
   "Thunder Strike": {
-    "NAME": "Thunder Strike",
-    "DESCRIPTION": "Deal damage equal to your Focus to a random enemy !M! times."
+    "NAME": "雷霆打击",
+    "DESCRIPTION": "你在这场战斗中每 生成 过 一个 闪电 充能球，对一名随机敌人造成一次 !D! 点伤害。",
+    "EXTENDED_DESCRIPTION": [
+      "（生成 过 !M! 个闪电 充能球。）"
+    ]
   },
   "Machine Learning": {
-    "NAME": "Machine Learning",
-    "DESCRIPTION": "Draw !M! additional card at the start of each turn.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Draw !M! additional card at the start of each turn."
+    "NAME": "机器学习",
+    "DESCRIPTION": "在每回合开始时额外抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 在每回合开始时额外抽 !M! 张牌。"
   },
   "Tempest": {
-    "NAME": "Tempest",
-    "DESCRIPTION": "Channel X Lightning. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel X+1 Lightning. NL Exhaust."
+    "NAME": "暴风雨",
+    "DESCRIPTION": "生成 X 个 闪电 充能球。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "生成 X+1 个 闪电 充能球。 NL 消耗 。"
   },
   "Streamline": {
-    "NAME": "Streamline",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you play Streamline, reduce its cost by !M! for this combat."
+    "NAME": "精简改良",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 你每打出一次 精简改良 ，它在这场战斗中的耗能就减少 !M! 。"
   },
   "All For One": {
-    "NAME": "All For One",
-    "DESCRIPTION": "Deal !D! damage. Put all Cost 0 cards from your discard pile into your hand."
+    "NAME": "万物一心",
+    "DESCRIPTION": "造成 !D! 点伤害。 将弃牌堆中所有0耗能的牌放入你的手牌。"
   },
   "Channel": {
     "NAME": "Channel",
-    "DESCRIPTION": "Whenever you play a Power card this turn, gain !M! Block."
+    "DESCRIPTION": "Deprecated."
   },
   "Gash": {
-    "NAME": "Gash",
-    "DESCRIPTION": "Deal !D! damage. NL All Gash cards deal !M! additional damage this combat."
+    "NAME": "爪击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 在这场战斗中所有 爪击 牌的伤害增加 !M! 。"
   },
   "Axe Kick": {
-    "NAME": "Axe Kick",
-    "DESCRIPTION": "Deal !D! damage. NL Evoke your next Orb."
+    "NAME": "下压踢",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 激发 你最右侧的充能球。"
   },
   "Fusion": {
-    "NAME": "Fusion",
-    "DESCRIPTION": "Channel !M! Plasma."
+    "NAME": "聚变",
+    "DESCRIPTION": "生成 !M! 个 等离子 充能球。"
   },
   "Hologram": {
-    "NAME": "Hologram",
-    "DESCRIPTION": "Gain !B! Block. NL Return a random card from your discard pile to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Return a card from your discard pile to your hand."
+    "NAME": "全息影像",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 将弃牌堆中的一张随机牌放入你的手牌。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 将弃牌堆中的一张牌放入你的手牌。"
   },
   "Blaster": {
-    "NAME": "Blaster",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb."
+    "NAME": "爆破射线",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 每拥有一个 充能球，获得 [B] 。 NL 消耗 。"
   },
   "Biased Cognition": {
-    "NAME": "Biased Cognition",
-    "DESCRIPTION": "Gain !M! Focus. NL At the start of each turn, lose 1 Focus."
+    "NAME": "偏差认知",
+    "DESCRIPTION": "获得 !M! 点 集中。 NL 在每回合开始时，失去 1 点 集中 。"
   },
   "Beam Cell": {
-    "NAME": "Beam Cell",
-    "DESCRIPTION": "Deal !D! damage and apply !M! Vulnerable."
+    "NAME": "光束射线",
+    "DESCRIPTION": "造成 !D! 点伤害，给予 !M! 层 易伤 。"
   },
   "Static Discharge": {
-    "NAME": "Static Discharge",
-    "DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
+    "NAME": "静电释放",
+    "DESCRIPTION": "每当你受到攻击伤害时， 生成 !M! 个 闪电 充能球。",
+    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
   },
   "Ice Wall": {
-    "NAME": "Ice Wall",
-    "DESCRIPTION": "Gain !B! Block. Gain +3 Block for each Channeled Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. Gain +5 Block for each Channeled Frost."
+    "NAME": "冰墙",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 每拥有一个 冰霜 充能球，获得的 格挡 +3。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 每拥有一个 冰霜 充能球，获得的 格挡 +5。"
   },
   "Reboot": {
-    "NAME": "Reboot",
-    "DESCRIPTION": "Shuffle all of your cards into your draw pile, then draw !M! cards. NL Exhaust."
+    "NAME": "重启",
+    "DESCRIPTION": "将你所有未消耗的牌重新洗牌放入抽牌堆，然后抽 !M! 张牌。 NL 消耗 。"
   },
   "Blizzard": {
-    "NAME": "Blizzard",
-    "DESCRIPTION": "Deal !D! damage to a random enemy for each Frost Channeled this combat.",
+    "NAME": "暴雪",
+    "DESCRIPTION": "对所有敌人造成你在这场战斗中 生成 过的 冰霜 充能球总数两倍的伤害。",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成你在这场战斗中 生成 过的 冰霜 充能球总数 !M! 倍的伤害。",
     "EXTENDED_DESCRIPTION": [
-      " NL You have Channeled ",
-      " Frost."
+      " NL （造成 !D! 点伤害。）",
+      ""
     ]
   },
   "Turbo": {
-    "NAME": "TURBO",
-    "DESCRIPTION": "Gain [B] [B]. NL Add a Void into your discard pile.",
-    "UPGRADE_DESCRIPTION": "Gain [B] [B] [B]. NL Add a Void into your discard pile."
+    "NAME": "内核加速",
+    "DESCRIPTION": "获得 [B] [B] 。 NL 将一张 虚空 放入你的弃牌堆中。",
+    "UPGRADE_DESCRIPTION": "获得 [B] [B] [B] 。 NL 将一张 虚空 放入你的弃牌堆中。"
   },
   "Glacier": {
-    "NAME": "Glacier",
-    "DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost."
+    "NAME": "冰川",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 生成 !M! 个 冰霜 充能球。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 生成 !M! 个 冰霜 充能球。"
   },
   "Rainbow": {
-    "NAME": "Rainbow",
-    "DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark."
+    "NAME": "彩虹",
+    "DESCRIPTION": "生成 闪电 、 冰霜 、 黑暗 充能球各一个。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "生成 闪电 、 冰霜 、 黑暗 充能球各一个。"
   },
   "Defragment": {
-    "NAME": "Defragment",
-    "DESCRIPTION": "Gain !M! Focus."
+    "NAME": "碎片清理",
+    "DESCRIPTION": "获得 !M! 点 集中 。"
   },
   "Leap": {
-    "NAME": "Leap",
-    "DESCRIPTION": "Gain !B! Block."
+    "NAME": "飞跃",
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
   },
   "Redo": {
-    "NAME": "Redo",
-    "DESCRIPTION": "Evoke your next Orb. NL Channel the Orb that was just Evoked."
+    "NAME": "重复",
+    "DESCRIPTION": "激发 你最右侧的充能球。 NL 然后 生成 一个刚才被 激发 的充能球。"
   },
   "White Noise": {
-    "NAME": "White Noise",
-    "DESCRIPTION": "Add a random Power to your hand. NL It costs 0 this turn. NL Exhaust."
+    "NAME": "白噪声",
+    "DESCRIPTION": "增加一张随机能力牌到你的手牌。 NL 这张牌在本回合耗能变为0。  NL 消耗 。"
   },
   "Nova": {
-    "NAME": "Nova",
-    "DESCRIPTION": "Deal !M! damage to ALL enemies for each Power played this combat.",
+    "NAME": "新星",
+    "DESCRIPTION": "对所有敌人造成你在这场战斗中打出过的能力牌总数乘以 !M! 的伤害。",
     "EXTENDED_DESCRIPTION": [
-      " NL Exhaust.",
-      " NL Deals !D! damage."
+      " NL 消耗 。",
+      " NL 造成 !D! 点伤害。"
     ]
   },
   "Sunder": {
-    "NAME": "Sunder",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills the enemy, gain [B] [B] [B]."
+    "NAME": "分离",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果这张牌杀死了敌人，则获得 [B] [B] [B] 。"
   },
   "Chill": {
-    "NAME": "Chill",
-    "DESCRIPTION": "Channel !M! Frost for each enemy in combat. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost per enemy. NL Exhaust."
+    "NAME": "冰寒",
+    "DESCRIPTION": "当前每有一名敌人，生成 !M! 个 冰霜 充能球。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 当前每有一名敌人，生成 !M! 个 冰霜 充能球。 NL 消耗 。"
   },
   "Seek": {
-    "NAME": "Seek",
-    "DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+    "NAME": "搜寻",
+    "DESCRIPTION": "从抽牌堆中选择 !M! 张牌放入你的手牌。 NL 消耗 。"
   },
   "Echo Form": {
-    "NAME": "Echo Form",
-    "DESCRIPTION": "The first card you play each turn is played twice."
+    "NAME": "回响形态",
+    "DESCRIPTION": "你每回合打出的第一张牌会打出两次。 NL 虚无 。",
+    "UPGRADE_DESCRIPTION": "你每回合打出的第一张牌会打出两次。"
   },
   "Force Field": {
-    "NAME": "Force Field",
-    "DESCRIPTION": "Costs 1 less [B] for each Power card played this combat. NL Gain !B! Block."
+    "NAME": "力场",
+    "DESCRIPTION": "你在这场战斗中每打出一张能力牌，耗能就减少1 [B] 。 NL 获得 !B! 点 格挡 。"
   },
   "Prime": {
-    "NAME": "Prime",
-    "DESCRIPTION": "Whenever you Channel an Orb, draw !M! card."
+    "NAME": "预备",
+    "DESCRIPTION": "每当你 生成 充能球时，抽 !M! 张牌。"
   },
   "Loop": {
-    "NAME": "Loop",
-    "DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb."
+    "NAME": "循环",
+    "DESCRIPTION": "在你的回合开始时，使用你最右侧的1个充能球的被动能力。"
   },
   "Hello World": {
-    "NAME": "Hello World",
-    "DESCRIPTION": "At the start of your turn, add a random Common card into your hand.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a random Common card into your hand."
+    "NAME": "你好，世界",
+    "DESCRIPTION": "在你的回合开始时，增加一张随机普通牌到你的手牌。",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 在你的回合开始时，增加一张随机普通牌到你的手牌。"
   },
   "Primitive Tech": {
-    "NAME": "Primitive Tech",
-    "DESCRIPTION": "Whenever you play a card of Common rarity, draw !M! card."
+    "NAME": "原始科技",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Scrape": {
+    "NAME": "刮削",
+    "DESCRIPTION": "造成 !D! 伤害。 NL 抽 !M! 张牌。 NL 丢弃抽到的牌中耗能不为0的牌。"
+  },
+  "Reprieve": {
+    "NAME": "Reprieve",
+    "DESCRIPTION": "If an enemy does not intend to attack, gain !M! Focus."
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTION": "Deal !D! damage. NL This turn, Lightning and Dark Orbs target this enemy."
+  },
+  "Consume": {
+    "NAME": "Consume",
+    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Orb Slot."
   }
 }

@@ -1,20 +1,20 @@
 {
   "Grand Finale": {
     "NAME": "Gran Finale",
-    "DESCRIPTION": "Può essere giocata solo se non ci sono carte nella Pila. NL Infliggi !D! danni a TUTTI i nemici.",
-    "UPGRADE_DESCRIPTION": "La mia Pila NL deve essere #rVuota."
+    "DESCRIPTION": "Può essere giocata solo se non hai carte nella Pila. NL Infliggi !D! danni a TUTTI i nemici.",
+    "UPGRADE_DESCRIPTION": "La Pila NL deve essere #rVuota."
   },
   "Immolate": {
     "NAME": "Immolazione",
-    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. NL Mescola una Ustione nella tua Pila."
+    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. NL Mescola una Ustione nella Pila."
   },
   "Regret": {
     "NAME": "Rimorso",
     "DESCRIPTION": "Ingiocabile. NL A fine turno, perdi 1 PV per ogni carta nella tua mano."
   },
   "Crippling Poison": {
-    "NAME": "Nuvola Paralizzante",
-    "DESCRIPTION": "Applica !M! Veleno e 2 Debole a TUTTI i nemici. NL Esaurisci."
+    "NAME": "Nube Paralizzante",
+    "DESCRIPTION": "Applichi !M! Veleno e 2 Debole a TUTTI i nemici. NL Esaurisci."
   },
   "A Thousand Cuts": {
     "NAME": "Mille Tagli",
@@ -22,7 +22,7 @@
   },
   "Spot Weakness": {
     "NAME": "Punto Debole",
-    "DESCRIPTION": "Se un nemico ha intenzione di attaccare, ottieni !M! Forza."
+    "DESCRIPTION": "Se il nemico scelto intende attaccare, ottieni !M! Forza."
   },
   "Wound": {
     "NAME": "Ferita",
@@ -34,7 +34,7 @@
   },
   "Dark Shackles": {
     "NAME": "Catene Oscure",
-    "DESCRIPTION": "Il nemico perde !M! Forza per il resto di questo turno. NL Esaurisci."
+    "DESCRIPTION": "Il nemico perde !M! Forza per questo turno. NL Esaurisci."
   },
   "Glass Knife": {
     "NAME": "Coltello di Vetro",
@@ -58,8 +58,8 @@
   },
   "Storm of Steel": {
     "NAME": "Tempesta d'Acciaio",
-    "DESCRIPTION": "Scarta la tuna mano. NL Aggiungi 1 Pugnale alla tua mano per ogni carta scartata.",
-    "UPGRADE_DESCRIPTION": "Scarta la tua mano. NL Aggiungi 1 Pugnale Potenziato alla tua mano per ogni carta scartata."
+    "DESCRIPTION": "Scarti la tua mano. NL Aggiungi 1 Pugnale alla tua mano per ogni carta scartata.",
+    "UPGRADE_DESCRIPTION": "Scarti la tua mano. NL Aggiungi 1 Pugnale Potenziato alla tua mano per ogni carta scartata."
   },
   "Cleave": {
     "NAME": "Fendente",
@@ -71,11 +71,11 @@
   },
   "Wraith Form v2": {
     "NAME": "Forma Spettrale",
-    "DESCRIPTION": "Ottieni !M! Intangibile. NL Alla fine del tuo turno, perdi 1 Destrezza."
+    "DESCRIPTION": "Ottieni !M! Intangibile. NL A fine tuo turno, perdi 1 Destrezza."
   },
   "Sadistic Nature": {
     "NAME": "Sadico per Natura",
-    "DESCRIPTION": "Ogni volta che applichi un Debuff ad un nemico, quest'ultimo riceve !M! danni."
+    "DESCRIPTION": "Ogni volta che applichi un Debuff ad un nemico, questo riceve !M! danni."
   },
   "J.A.X.": {
     "NAME": "J.A.X.",
@@ -83,11 +83,11 @@
   },
   "Offering": {
     "NAME": "Sacrificio",
-    "DESCRIPTION": "Perdi 4 PV. NL Ottieni [R] [R]. NL Pesca !M! carte. NL Esaurisci."
+    "DESCRIPTION": "Perdi 4 PV. NL Ottieni [R] [R]. NL Peschi !M! carte. NL Esaurisci."
   },
   "Exhume": {
     "NAME": "Riesuma",
-    "DESCRIPTION": "Seleziona una carta esaurita e aggiungila alla tua mano. NL Esaurisci."
+    "DESCRIPTION": "Scegli una carta esaurita e aggiungila alla tua mano. NL Esaurisci."
   },
   "Power Through": {
     "NAME": "Ad Ogni Costo",
@@ -100,15 +100,15 @@
   },
   "Deadly Poison": {
     "NAME": "Veleno Letale",
-    "DESCRIPTION": "Applica !M! Veleno."
+    "DESCRIPTION": "Applichi !M! Veleno."
   },
   "Leg Sweep": {
     "NAME": "Sgambetto",
-    "DESCRIPTION": "Applica !M! Debole. NL Ottieni !B! Blocco."
+    "DESCRIPTION": "Applichi !M! Debole. NL Ottieni !B! Blocco."
   },
   "Flex": {
     "NAME": "Flessione",
-    "DESCRIPTION": "Ottieni !M! Forza. NL Alla fine del tuo turno, perdi !M! Forza."
+    "DESCRIPTION": "Ottieni !M! Forza. NL A fine turno, perdi !M! Forza."
   },
   "Dagger Spray": {
     "NAME": "Pioggia d'Acciaio",
@@ -145,16 +145,16 @@
   },
   "Infernal Blade": {
     "NAME": "Lama Infernale",
-    "DESCRIPTION": "Aggiungi un Attacco casuale alla tua mano che costa 0 questo turno. NL Esaurisci."
+    "DESCRIPTION": "Aggiungi un Attacco casuale alla tua mano, costa 0 per questo turno. NL Esaurisci."
   },
   "After Image": {
     "NAME": "Immagine Residua",
-    "DESCRIPTION": "Quando giochi una carta, ottieni 1 Blocco.",
+    "DESCRIPTION": "Ogni volta che giochi una carta, ottieni 1 Blocco.",
     "UPGRADE_DESCRIPTION": "Innata. NL Ogni volta che giochi una carta, ottieni 1 Blocco."
   },
   "Unload": {
     "NAME": "Raffica",
-    "DESCRIPTION": "Infliggi !D! danni. NL Scarta TUTTE le carte non Attacco."
+    "DESCRIPTION": "Infliggi !D! danni. NL Scarti TUTTE le carte non Attacco."
   },
   "Blade Dance": {
     "NAME": "Lame Danzanti",
@@ -166,17 +166,17 @@
   },
   "Trip": {
     "NAME": "Scivolone",
-    "DESCRIPTION": "Applica !M! Vulnerabile.",
-    "UPGRADE_DESCRIPTION": "Applica !M! Vulnerabile a TUTTI i nemici."
+    "DESCRIPTION": "Applichi !M! Vulnerabile.",
+    "UPGRADE_DESCRIPTION": "Applichi !M! Vulnerabile a TUTTI i nemici."
   },
   "Dagger Throw": {
     "NAME": "Coltello da Lancio",
-    "DESCRIPTION": "Infliggi !D! danni. NL Pesca 1 carta. NL Scarta 1 carta."
+    "DESCRIPTION": "Infliggi !D! danni. NL Peschi 1 carta. NL Scarti 1 carta."
   },
   "Brutality": {
     "NAME": "Brutale",
-    "DESCRIPTION": "All'inizio del tuo turno, perdi 1 PV e pesca 1 carta.",
-    "UPGRADE_DESCRIPTION": "Innata. NL All'inizio del tuo turno, perdi 1 PV e pesca 1 carta."
+    "DESCRIPTION": "Ad inizio turno perdi 1 PV e peschi 1 carta.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Ad inizio turno perdi 1 PV e peschi 1 carta."
   },
   "Iron Wave": {
     "NAME": "Onda di Ferro",
@@ -184,15 +184,15 @@
   },
   "Reckless Charge": {
     "NAME": "Carica Selvaggia",
-    "DESCRIPTION": "Infliggi !D! danni.  NL Mescola un Disorientato nella tua Pila."
+    "DESCRIPTION": "Infliggi !D! danni.  NL Mescola un Disorientato nella Pila."
   },
   "Decay": {
     "NAME": "Rovina",
-    "DESCRIPTION": "Ingiocabile. NL Alla fine del tuo turno ricevi 2 danni."
+    "DESCRIPTION": "Ingiocabile. NL Finito il tuo turno ricevi 2 danni."
   },
   "Tools of the Trade": {
     "NAME": "Ferri del Mestiere",
-    "DESCRIPTION": "Ad inizio del tuo turno pesca 1 carta e scarta 1 carta."
+    "DESCRIPTION": "Ad inizio turno peschi 1 carta e scarti 1 carta."
   },
   "Dramatic Entrance": {
     "NAME": "Entrata ad Effetto",
@@ -204,7 +204,7 @@
   },
   "Intimidate": {
     "NAME": "Intimidire",
-    "DESCRIPTION": "Applica !M! Debole a TUTTI i nemici. NL Esaurisci."
+    "DESCRIPTION": "Applichi !M! Debole a TUTTI i nemici. NL Esaurisci."
   },
   "Necronomicurse": {
     "NAME": "Necromaledizione",
@@ -224,11 +224,11 @@
   },
   "Poisoned Stab": {
     "NAME": "Lama Avvelenata",
-    "DESCRIPTION": "Infliggi !D! danni. NL Applica !M! Veleno."
+    "DESCRIPTION": "Infliggi !D! danni. NL Applichi !M! Veleno."
   },
   "Blur": {
     "NAME": "Fuori Fuoco",
-    "DESCRIPTION": "Ottieni !B! Blocco. NL Il Blocco non verrà rimosso all'inizio del tuo prossimo turno."
+    "DESCRIPTION": "Ottieni !B! Blocco. NL Il Blocco non sarà rimosso prima del tuo prossimo turno."
   },
   "Body Slam": {
     "NAME": "Spanciata",
@@ -254,18 +254,18 @@
   },
   "Shrug It Off": {
     "NAME": "Spallucce",
-    "DESCRIPTION": "Ottieni !B! Blocco. NL Pesca 1 carta."
+    "DESCRIPTION": "Ottieni !B! Blocco. NL Peschi 1 carta."
   },
   "Clash": {
     "NAME": "Conflitto",
     "DESCRIPTION": "Può essere giocata solo se ogni carta nella tua mano è un Attacco. NL Infliggi !D! danni.",
     "EXTENDED_DESCRIPTION": [
-      "Ho in mano carte che non sono attacchi."
+      "Ho carte in mano che non sono attacchi."
     ]
   },
   "Thunderclap": {
     "NAME": "Tuono",
-    "DESCRIPTION": "Infliggi !D! danni e applica 1 Vulnerabile a TUTTI i nemici."
+    "DESCRIPTION": "Infliggi !D! danni e applichi 1 Vulnerabile a TUTTI i nemici."
   },
   "Flame Barrier": {
     "NAME": "Barriera di Fiamme",
@@ -277,7 +277,7 @@
   },
   "Berserk": {
     "NAME": "Berserk",
-    "DESCRIPTION": "Se hai 50% PV o meno, ottieni [R] all'inizio di ogni turno."
+    "DESCRIPTION": "Ad inizio turno se hai 50% PV o meno ottieni [R]."
   },
   "Pummel": {
     "NAME": "Pioggia di Pugni",
@@ -289,16 +289,16 @@
   },
   "Burning Pact": {
     "NAME": "Patto di Fuoco",
-    "DESCRIPTION": "Esaurisci 1 carta. NL Pesca !M! carte."
+    "DESCRIPTION": "Esaurisci 1 carta. NL Peschi !M! carte."
   },
   "Metallicize": {
     "NAME": "Metallizzato",
-    "DESCRIPTION": "Alla fine del tuo turno, ottieni !M! Blocco."
+    "DESCRIPTION": "A fine turno ottieni !M! Blocco."
   },
   "Pommel Strike": {
     "NAME": "Colpo d'Elsa",
-    "DESCRIPTION": "Infliggi !D! danni. NL Pesca !M! carta.",
-    "UPGRADE_DESCRIPTION": "Infliggi !D! danni. NL Pesca !M! carte."
+    "DESCRIPTION": "Infliggi !D! danni. NL Peschi !M! carta.",
+    "UPGRADE_DESCRIPTION": "Infliggi !D! danni. NL Peschi !M! carte."
   },
   "Pain": {
     "NAME": "Dolore",
@@ -311,17 +311,17 @@
   },
   "Acrobatics": {
     "NAME": "Acrobazie",
-    "DESCRIPTION": "Pesca !M! carte. NL Scarta 1 carta."
+    "DESCRIPTION": "Peschi !M! carte. NL Scarti 1 carta."
   },
   "Blind": {
-    "NAME": "Acceca",
-    "DESCRIPTION": "Applica !M! Debole.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Debole a TUTTI i nemici."
+    "NAME": "Accecato",
+    "DESCRIPTION": "Applichi !M! Debole.",
+    "UPGRADE_DESCRIPTION": "Applichi !M! Debole a TUTTI i nemici."
   },
   "Doppelganger": {
     "NAME": "Sosia",
-    "DESCRIPTION": "Il prossimo turno, pesca X carte e ottieni X [G]. NL Esaurisci.",
-    "UPGRADE_DESCRIPTION": "Il prossimo turno, pesca X+1 carte e ottieni X+1 [G]. NL Esaurisci."
+    "DESCRIPTION": "Il prossimo turno, peschi X carte e ottieni X [G]. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Il prossimo turno, peschi X+1 carte e ottieni X+1 [G]. NL Esaurisci."
   },
   "Skewer": {
     "NAME": "Stoccata",
@@ -333,12 +333,12 @@
   },
   "Adrenaline": {
     "NAME": "Adrenalina",
-    "DESCRIPTION": "Ottieni [G]. NL Pesca 2 carte. NL Esaurisci.",
-    "UPGRADE_DESCRIPTION": "Ottieni [G] [G]. NL Pesca 2 carte. NL Esaurisci."
+    "DESCRIPTION": "Ottieni [G]. NL Peschi 2 carte. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Ottieni [G] [G]. NL Peschi 2 carte. NL Esaurisci."
   },
   "Quick Slash": {
     "NAME": "Fendente Rapido",
-    "DESCRIPTION": "Infliggi !D! danni. NL Pesca 1 carta."
+    "DESCRIPTION": "Infliggi !D! danni. NL Peschi 1 carta."
   },
   "Twin Strike": {
     "NAME": "Colpo Gemello",
@@ -350,23 +350,23 @@
   },
   "Bash": {
     "NAME": "Mazzata",
-    "DESCRIPTION": "Infliggi !D! danni. NL Applica !M! Vulnerabile."
+    "DESCRIPTION": "Infliggi !D! danni. NL Applichi !M! Vulnerabile."
   },
   "Clothesline": {
     "NAME": "Clothesline",
-    "DESCRIPTION": "Infliggi !D! danni. NL Applica !M! Debole."
+    "DESCRIPTION": "Infliggi !D! danni. NL Applichi !M! Debole."
   },
   "Shockwave": {
     "NAME": "Onda d'Urto",
-    "DESCRIPTION": "Applica !M! Debole e Vulnerabile a TUTTI i nemici. NL Esaurisci."
+    "DESCRIPTION": "Applichi !M! Debole e Vulnerabile a TUTTI i nemici. NL Esaurisci."
   },
   "Rampage": {
     "NAME": "Massacro",
-    "DESCRIPTION": "Infliggi !D! danni. NL Ogni volta che la giochi, aumentane il danno di !M! per il resto del combattimento."
+    "DESCRIPTION": "Infliggi !D! danni. NL Il danno inflitto da questa carta aumenta di !M! per il resto del combattimento."
   },
   "Bandage Up": {
     "NAME": "Bende",
-    "DESCRIPTION": "Curati di !M! HP. NL Esaurisci."
+    "DESCRIPTION": "Ti curi di !M! PV. NL Esaurisci."
   },
   "The Bomb": {
     "NAME": "La Bomba",
@@ -382,8 +382,8 @@
   },
   "Warcry": {
     "NAME": "Grido di Battaglia",
-    "DESCRIPTION": "Pesca !M! carte. NL Metti una carta dalla tua mano in cima alla Pila. NL Esaurisci.",
-    "UPGRADE_DESCRIPTION": "Pesca !M! carte. NL Metti una carta dalla tua mano in cima alla Pila. NL Esaurisci."
+    "DESCRIPTION": "Peschi !M! carte. NL Metti una carta dalla tua mano in cima alla Pila. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Peschi !M! carte. NL Metti una carta dalla tua mano in cima alla Pila. NL Esaurisci."
   },
   "PiercingWail": {
     "NAME": "Lamento Straziante",
@@ -391,37 +391,37 @@
   },
   "Bite": {
     "NAME": "Morso",
-    "DESCRIPTION": "Infliggi !D! danni. NL Cura !M! PV."
+    "DESCRIPTION": "Infliggi !D! danni. NL Ti curi di !M! PV."
   },
   "Secret Technique": {
     "NAME": "Tecnica Segreta",
     "DESCRIPTION": "Scegli un'Abilità dalla Pila e aggiungila alla tua mano. NL Esaurisci.",
     "UPGRADE_DESCRIPTION": "Scegli un'Abilità dalla Pila e aggiungila alla tua mano.",
     "EXTENDED_DESCRIPTION": [
-      "Non ci sono Abilità NL nella mia Pila."
+      "Non ci sono Abilità NL nella Pila."
     ]
   },
   "Calculated Gamble": {
     "NAME": "Rischio Calcolato",
-    "DESCRIPTION": "Scarta la mano, NL poi pesca altrettante carte. NL Esaurisci.",
-    "UPGRADE_DESCRIPTION": "Scarta la mano, NL poi pesca altrettante carte."
+    "DESCRIPTION": "Scarti la mano, NL poi peschi altrettante carte. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Scarti la mano, NL poi peschi altrettante carte."
   },
   "Combust": {
     "NAME": "Combustione",
-    "DESCRIPTION": "Alla fine del tuo turno, perdi 1 PV e infliggi !M! danni a TUTTI i nemici."
+    "DESCRIPTION": "A fine turno perdi 1 PV e infliggi !M! danni a TUTTI i nemici."
   },
   "Deep Breath": {
     "NAME": "Respiro Profondo",
-    "DESCRIPTION": "Mescola gli Scarti nella Pila. NL Pesca !M! carta.",
-    "UPGRADE_DESCRIPTION": "Mescola gli Scarti nella Pila. NL Pesca !M! carte."
+    "DESCRIPTION": "Mescola gli Scarti nella Pila. NL Peschi !M! carta.",
+    "UPGRADE_DESCRIPTION": "Mescola gli Scarti nella Pila. NL Peschi !M! carte."
   },
   "Doubt": {
     "NAME": "Dubbio",
-    "DESCRIPTION": "Ingiocabile. NL Alla fine del tuo turno, ottieni 1 Debole."
+    "DESCRIPTION": "Ingiocabile. NL A fine turno ottieni 1 Debole."
   },
   "Escape Plan": {
     "NAME": "Piano di Fuga",
-    "DESCRIPTION": "Pesca 1 carta. NL Se è un'Abilità, ottieni !B! Blocco."
+    "DESCRIPTION": "Peschi 1 carta. NL Se è un'Abilità, ottieni !B! Blocco."
   },
   "Finisher": {
     "NAME": "Attacco Finale",
@@ -434,7 +434,7 @@
   },
   "Dark Embrace": {
     "NAME": "Abbraccio Oscuro",
-    "DESCRIPTION": "Ogni volta che esaurisci una carta, NL pesca 1 carta."
+    "DESCRIPTION": "Ogni volta che esaurisci una carta, NL peschi 1 carta."
   },
   "Die Die Die": {
     "NAME": "Muori Muori Muori",
@@ -442,8 +442,8 @@
   },
   "Well Laid Plans": {
     "NAME": "Piani Perfetti",
-    "DESCRIPTION": "Alla fine del tuo turno, Conserva fino a !M! carta.",
-    "UPGRADE_DESCRIPTION": "Alla fine del tuo turno, Conserva fino a !M! carte."
+    "DESCRIPTION": "A fine turno, Conserva fino a !M! carta.",
+    "UPGRADE_DESCRIPTION": "A fine turno, Conserva fino a !M! carte."
   },
   "Defend_R": {
     "NAME": "Difendi",
@@ -475,7 +475,7 @@
   },
   "Terror": {
     "NAME": "Terrore",
-    "DESCRIPTION": "Applica 99 Vulnerabile. NL Esaurisci."
+    "DESCRIPTION": "Applichi 99 Vulnerabile. NL Esaurisci."
   },
   "Dazed": {
     "NAME": "Disorientato",
@@ -483,7 +483,7 @@
   },
   "Void": {
     "NAME": "Vuoto",
-    "DESCRIPTION": "Ingiocabile. NL Quando questa carta viene pescata, perdi 1 Energia. NL Eterea."
+    "DESCRIPTION": "Ingiocabile. NL Quando peschi questa carta perdi 1 Energia. NL Eterea."
   },
   "Slimed": {
     "NAME": "Inzaccherato",
@@ -495,7 +495,7 @@
   },
   "Barricade": {
     "NAME": "Barricata",
-    "DESCRIPTION": "Il Blocco non svanisce più all'inizio del tuo turno."
+    "DESCRIPTION": "Il Blocco non svanisce più ad inizio turno."
   },
   "Armaments": {
     "NAME": "Armamenti",
@@ -504,14 +504,14 @@
   },
   "Havoc": {
     "NAME": "Baraonda",
-    "DESCRIPTION": "Gioca la carta in cima alla tua Pila ed esauriscila."
+    "DESCRIPTION": "Gioca la carta in cima alla Pila ed Esauriscila."
   },
   "Secret Weapon": {
     "NAME": "Arma Segreta",
-    "DESCRIPTION": "Scegli un Attacco dalla tua Pila e posizionalo nella tua mano. NL Esaurisci.",
-    "UPGRADE_DESCRIPTION": "Scegli un Attacco dalla tua Pila e posizionalo nella tua mano.",
+    "DESCRIPTION": "Scegli un Attacco dalla Pila e aggiungilo alla tua mano. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Scegli un Attacco dalla Pila e aggiungilo alla tua mano.",
     "EXTENDED_DESCRIPTION": [
-      "Non ci sono Attacchi NL nella mia Pila."
+      "Non ci sono Attacchi NL nella Pila."
     ]
   },
   "Apotheosis": {
@@ -524,7 +524,7 @@
   },
   "Hide": {
     "NAME": "Nascosto",
-    "DESCRIPTION": "Non puoi perdere PV fino all'inizio del tuo prossimo turno. NL Esaurisci."
+    "DESCRIPTION": "Non puoi perdere PV fino al tuo prossimo turno. NL Esaurisci."
   },
   "Corruption": {
     "NAME": "Corruzione",
@@ -532,7 +532,7 @@
   },
   "Heel Hook": {
     "NAME": "Presa di Sottomissione",
-    "DESCRIPTION": "Infliggi !D! danni. NL Se il nemico è Debole, NL Ottieni [G] e NL pesca 1 carta."
+    "DESCRIPTION": "Infliggi !D! danni. NL Se il nemico è Debole, NL Ottieni [G] e NL peschi 1 carta."
   },
   "Injury": {
     "NAME": "Lesione",
@@ -544,7 +544,7 @@
   },
   "Headbutt": {
     "NAME": "Testata",
-    "DESCRIPTION": "Infliggi !D! danni. NL Posiziona una carta dalgli Scarti in cima alla tua Pila."
+    "DESCRIPTION": "Infliggi !D! danni. NL Posiziona una carta dalgli Scarti in cima alla Pila."
   },
   "Limit Break": {
     "NAME": "Oltre il Limite",
@@ -558,26 +558,26 @@
   },
   "Noxious Fumes": {
     "NAME": "Miasma",
-    "DESCRIPTION": "All'inizio del tuo turno, applica !M! Veleno a TUTTI i nemici."
+    "DESCRIPTION": "Ad inizio turno applichi !M! Veleno a TUTTI i nemici."
   },
   "Infinite Blades": {
     "NAME": "Lame Infinite",
-    "DESCRIPTION": "All'inizio del tuo turno, aggiungi un Pugnale alla tua mano.",
-    "UPGRADE_DESCRIPTION": "Innata. NL All'inizio del tuo turno, aggiungi un Pugnale alla tua mano."
+    "DESCRIPTION": "Ad inizio turno aggiungi un Pugnale alla tua mano.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Ad inizio turno aggiungi un Pugnale alla tua mano."
   },
   "Phantasmal Killer": {
     "NAME": "Sicario Etereo",
-    "DESCRIPTION": "Nel tuo prossimo turno, il danno degli Attacchi è raddoppiato."
+    "DESCRIPTION": "Nel tuo prossimo turno il tuo danno da Attacco è raddoppiato."
   },
   "Malaise": {
     "NAME": "Malessere",
-    "DESCRIPTION": "Il nemico perde X Forza. Applica X Debole. NL Esaurisci.",
-    "UPGRADE_DESCRIPTION": "Il nemico perde X+1 Forza. Applica X+1 Debole. NL Esaurisci."
+    "DESCRIPTION": "Il nemico perde X Forza. Applichi X Debole. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Il nemico perde X+1 Forza. Applichi X+1 Debole. NL Esaurisci."
   },
   "Reflex": {
     "NAME": "Riflessi",
-    "DESCRIPTION": "Ingiocabile. NL Se scarti questa carta, pesca !M! carta.",
-    "UPGRADE_DESCRIPTION": "Ingiocabile. NL Se scarti questa carta, pesca !M! carte.",
+    "DESCRIPTION": "Ingiocabile. NL Se scarti questa carta, peschi !M! carta.",
+    "UPGRADE_DESCRIPTION": "Ingiocabile. NL Se scarti questa carta peschi !M! carte.",
     "EXTENDED_DESCRIPTION": [
       "Non posso giocare questa carta."
     ]
@@ -589,23 +589,23 @@
   },
   "Survivor": {
     "NAME": "Sopravvissuto",
-    "DESCRIPTION": "Ottieni !B! Blocco. NL Scarta una carta."
+    "DESCRIPTION": "Ottieni !B! Blocco. NL Scarti una carta."
   },
   "Wild Strike": {
     "NAME": "Colpo Selvaggio",
-    "DESCRIPTION": "Infliggi !D! danni. NL Mescola una Ferita nella tua Pila."
+    "DESCRIPTION": "Infliggi !D! danni. NL Mescola una Ferita nella Pila."
   },
   "Eviscerate": {
     "NAME": "Sventra",
-    "DESCRIPTION": "Costa 1 [G] in meno NL per ogni carta scartata nel turno. NL Infliggi !D! danni tre volte."
+    "DESCRIPTION": "Costa 1 [G] in meno NL per ogni carta scartata questo turno. NL Infliggi !D! danni tre volte."
   },
   "Flash of Steel": {
     "NAME": "Lampo d'Acciaio",
-    "DESCRIPTION": "Infliggi !D! danni. NL Pesca 1 carta."
+    "DESCRIPTION": "Infliggi !D! danni. NL Peschi 1 carta."
   },
   "Battle Trance": {
     "NAME": "Trance Omicida",
-    "DESCRIPTION": "Pesca !M! carte. NL Non puoi pescare altre carte questo turno."
+    "DESCRIPTION": "Peschi !M! carte. NL Non puoi pescare altre carte questo turno."
   },
   "Heavy Blade": {
     "NAME": "Lama Pesante",
@@ -621,8 +621,8 @@
   },
   "Corpse Explosion": {
     "NAME": "Cadavere Bomba",
-    "DESCRIPTION": "Rimuovi il Veleno da un nemico ed infliggi danno pari al doppio del veleno tolto a OGNI nemico.",
-    "UPGRADE_DESCRIPTION": "Rimuovi il Veleno da un nemico ed infliggi danno pari al triplo del veleno tolto a OGNI nemico.",
+    "DESCRIPTION": "Rimuovi il Veleno da un nemico ed infliggi danno pari al doppio del veleno rimosso ad OGNI nemico.",
+    "UPGRADE_DESCRIPTION": "Rimuovi il Veleno da un nemico ed infliggi danno pari al triplo del veleno rimosso a OGNI nemico.",
     "EXTENDED_DESCRIPTION": [
       "Quel nemico non è Avvelenato."
     ]
@@ -659,7 +659,7 @@
   },
   "Feed": {
     "NAME": "Banchetto",
-    "DESCRIPTION": "Infliggi !D! danni. NL Se uccidono (NON un Minion), ottieni !M! PV Massimi permanenti. Esaurisci."
+    "DESCRIPTION": "Infliggi !D! danni. NL Se uccidi così il bersaglio (NON Minion), ottieni !M! PV Massimi permanenti. Esaurisci."
   },
   "Rupture": {
     "NAME": "Squarcio",
@@ -671,7 +671,7 @@
   },
   "Bouncing Flask": {
     "NAME": "Veleno a Rimbalzo",
-    "DESCRIPTION": "Applica 3 Veleno ad un nemico casuale !M! volte."
+    "DESCRIPTION": "Applichi 3 Veleno ad un nemico casuale !M! volte."
   },
   "Bludgeon": {
     "NAME": "Randellata",
@@ -679,7 +679,7 @@
   },
   "Finesse": {
     "NAME": "Finezza",
-    "DESCRIPTION": "Ottieni !B! Blocco. NL Pesca 1 carta."
+    "DESCRIPTION": "Ottieni !B! Blocco. NL Peschi 1 carta."
   },
   "Slice": {
     "NAME": "Taglio",
@@ -687,7 +687,7 @@
   },
   "Backflip": {
     "NAME": "Salto Mortale",
-    "DESCRIPTION": "Ottieni !B! Blocco. NL Pesca 2 carte."
+    "DESCRIPTION": "Ottieni !B! Blocco. NL Peschi 2 carte."
   },
   "Outmaneuver": {
     "NAME": "Manovra Evasiva",
@@ -698,7 +698,7 @@
     "NAME": "Incubo",
     "DESCRIPTION": "Scegli una carta. NL Il prossimo turno, aggiungi !M! copie di quella carta alla tua mano. Esaurisci.",
     "EXTENDED_DESCRIPTION": [
-      "Posso solo usare NL ",
+      "Posso usare NL ",
       " NL una volta per turno."
     ]
   },
@@ -709,11 +709,11 @@
   },
   "Concentrate": {
     "NAME": "Concentrazione",
-    "DESCRIPTION": "Scarta !M! carte. NL Ottieni [G] [G]."
+    "DESCRIPTION": "Scarti !M! carte. NL Ottieni [G] [G]."
   },
   "Master of Strategy": {
     "NAME": "Maestro di Strategia",
-    "DESCRIPTION": "Pesca !M! carte. NL Esaurisci."
+    "DESCRIPTION": "Peschi !M! carte. NL Esaurisci."
   },
   "Flechettes": {
     "NAME": "Flechette",
@@ -726,8 +726,8 @@
   },
   "Perfected Strike": {
     "NAME": "Colpo Perfetto",
-    "DESCRIPTION": "Infliggi !D! danni. NL Infligge +2 danni per OGNI carta il cui nome contiene \"Colpo\".",
-    "UPGRADE_DESCRIPTION": "Infliggi !D! danni. NL Infligge +3 danni per OGNI carta il cui nome contiene \"Colpo\"."
+    "DESCRIPTION": "Infliggi !D! danni. NL Infligge 2 danni in più per OGNI carta con \"Colpo\" nel nome.",
+    "UPGRADE_DESCRIPTION": "Infliggi !D! danni. NL Infligge 3 danni in pìù per OGNI carta con \"Colpo\" nel nome"
   },
   "Carnage": {
     "NAME": "Carneficina",
@@ -744,12 +744,12 @@
   },
   "Prepared": {
     "NAME": "Preparativi",
-    "DESCRIPTION": "Pesca !M! carta. Scarta !M! carta.",
-    "UPGRADE_DESCRIPTION": "Pesca !M! carte. Scarta !M! carte."
+    "DESCRIPTION": "Peschi !M! carta. Scarti !M! carta.",
+    "UPGRADE_DESCRIPTION": "Peschi !M! carte. Scarti !M! carte."
   },
   "Dropkick": {
     "NAME": "Calcio Volante",
-    "DESCRIPTION": "Infliggi !D! danni. NL Se il nemico è Vulnerabile, NL Ottieni [R]  e NL pesca 1 carta."
+    "DESCRIPTION": "Infliggi !D! danni. NL Se il nemico è Vulnerabile, NL Ottieni [R]  e NL peschi 1 carta."
   },
   "Swift Strike": {
     "NAME": "Colpo Rapido",
@@ -759,7 +759,7 @@
     "NAME": "Normalità",
     "DESCRIPTION": "Ingiocabile. NL Non puoi giocare più di 3 carte questo turno.",
     "EXTENDED_DESCRIPTION": [
-      "Posso solo giocare fino a NL #r3 carte questo turno.",
+      "Posso giocare al massimo NL #r3 carte questo turno.",
       "Ingiocabile. NL Non puoi giocare più di ",
       " carte per turno.",
       " carte per turno. NL Hai giocato ",
@@ -768,7 +768,7 @@
   },
   "Accuracy": {
     "NAME": "Precisione",
-    "DESCRIPTION": "I Pugnali infliggono !M! danni addizionali."
+    "DESCRIPTION": "I Pugnali infliggono !M! danni in più."
   },
   "Sword Boomerang": {
     "NAME": "Spada Boomerang",
@@ -781,11 +781,11 @@
   },
   "Demon Form": {
     "NAME": "Forma Demoniaca",
-    "DESCRIPTION": "All'inizio di ogni turno, ottieni !M! Forza."
+    "DESCRIPTION": "Ad inizio turno ottieni !M! Forza."
   },
   "Fire Breathing": {
     "NAME": "Sputafuoco",
-    "DESCRIPTION": "A fine del tuo turno, infliggi 1 danno a TUTTI i nemici per ogni attacco giocato nel turno."
+    "DESCRIPTION": "A fine turno infliggi 1 danno a TUTTI i nemici per ogni attacco giocato nel turno."
   },
   "Ghostly Armor": {
     "NAME": "Armatura Spettrale",
@@ -793,12 +793,12 @@
   },
   "Uppercut": {
     "NAME": "Montante",
-    "DESCRIPTION": "Infliggi !D! danni. NL Applica !M! Debole. NL Applica !M! Vulnerabile."
+    "DESCRIPTION": "Infliggi !D! danni. NL Applichi !M! Debole. NL Applichi !M! Vulnerabile."
   },
   "Mind Blast": {
     "NAME": "Scoppio Mentale",
-    "DESCRIPTION": "Infliggi danni pari al numero di carte nella tua Pila.",
-    "UPGRADE_DESCRIPTION": "Innata. NL Infliggi danni pari al numero di carte nella tua Pila.",
+    "DESCRIPTION": "Infliggi danni pari al numero di carte nella Pila.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Infliggi danni pari al numero di carte nella Pila.",
     "EXTENDED_DESCRIPTION": [
       " NL (Infliggi !D! danni.)"
     ]
@@ -810,7 +810,7 @@
   },
   "Neutralize": {
     "NAME": "Neutralizza",
-    "DESCRIPTION": "Infliggi !D! danni. NL Applica !M! Debole."
+    "DESCRIPTION": "Infliggi !D! danni. NL Applichi !M! Debole."
   },
   "Strike_R": {
     "NAME": "Colpo",
@@ -826,17 +826,17 @@
   },
   "Evolve": {
     "NAME": "Evoluzione",
-    "DESCRIPTION": "Quando peschi uno Stato, pesca !M! carta.",
-    "UPGRADE_DESCRIPTION": "Quando peschi uno Stato, pesca !M! carta."
+    "DESCRIPTION": "Quando peschi uno Stato, peschi !M! carta in più.",
+    "UPGRADE_DESCRIPTION": "Quando peschi uno Stato, peschi !M! carte in più."
   },
   "Burn": {
     "NAME": "Ustione",
-    "DESCRIPTION": "Ingiocabile. NL Alla fine del tuo turno, ricevi 2 danni.",
-    "UPGRADE_DESCRIPTION": "Ingiocabile. NL Alla fine del tuo turno, ricevi 4 danni."
+    "DESCRIPTION": "Ingiocabile. NL A fine turno ricevi 2 danni.",
+    "UPGRADE_DESCRIPTION": "Ingiocabile. NL A fine turno ricevi 4 danni."
   },
   "Sucker Punch": {
     "NAME": "Pugno a Tradimento",
-    "DESCRIPTION": "Infliggi !D! danni. NL Applica !M! Debole."
+    "DESCRIPTION": "Infliggi !D! danni. NL Applichi !M! Debole."
   },
   "Double Tap": {
     "NAME": "Doppio Attacco",
@@ -844,13 +844,13 @@
     "UPGRADE_DESCRIPTION": "Questo turno, i tuoi prossimi !M! Attacchi verranno giocati due volte."
   },
   "Footwork": {
-    "NAME": "Lavoro di Gambe",
+    "NAME": "Gioco di Gambe",
     "DESCRIPTION": "Ottieni !M! Destrezza."
   },
   "Thinking Ahead": {
-    "NAME": "Lungimirante",
-    "DESCRIPTION": "Pesca 2 carte. Metti una carta dalla tua mano in cima alla tua Pila. NL Esaurisci.",
-    "UPGRADE_DESCRIPTION": "Pesca 2 carte. Metti una carta dalla tua mano in cima alla tua Pila."
+    "NAME": "Lungimiranza",
+    "DESCRIPTION": "Peschi 2 carte. Metti una carta dalla tua mano in cima alla Pila. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Peschi 2 carte. Metti una carta dalla tua mano in cima alla Pila."
   },
   "Distraction": {
     "NAME": "Distrazione",
@@ -862,7 +862,7 @@
   },
   "All Out Attack": {
     "NAME": "Attacco Sfrenato",
-    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. NL Scarta 1 carta casuale dalla tua mano."
+    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. NL Scarti 1 carta casuale dalla tua mano."
   },
   "Flying Knee": {
     "NAME": "Ginocchiata Volante",
@@ -870,368 +870,390 @@
   },
   "Predator": {
     "NAME": "Predatore",
-    "DESCRIPTION": "Infliggi !D! danni. NL Pesca 2 carte in più il prossimo turno."
+    "DESCRIPTION": "Infliggi !D! danni. NL Peschi 2 carte in più il prossimo turno."
   },
   "Madness": {
     "NAME": "Follia",
     "DESCRIPTION": "Una carta casuale nella tua mano costerà 0 per il resto del combattimento. NL Esaurisci."
   },
-  "Expertise": {
-    "NAME": "Competenza",
-    "DESCRIPTION": "Pesca carte fino ad averne !M! in mano."
-  },
-  "Auto Shields": {
-    "NAME": "Auto-Shields",
-    "DESCRIPTION": "If you have 0 Block, gain !B! Block."
-  },
   "Rip and Tear": {
-    "NAME": "Rip and Tear",
-    "DESCRIPTION": "Deal !D! damage to !M! random targets."
+    "NAME": "Lacerato",
+    "DESCRIPTION": "Infliggi !D! danni a un nemico casuale !M! volte."
+  },
+  "Multi-Cast": {
+    "NAME": "Lancio Multiplo",
+    "DESCRIPTION": "Evoca il tuo primo Globo X volte.",
+    "UPGRADE_DESCRIPTION": "Evoca il tuo primo Globo X+1 volte."
+  },
+  "Fission": {
+    "NAME": "Fissione",
+    "DESCRIPTION": "Evoca tutti i tuoi Globi. Ottieni uno spazio per Globi per ogni Globo Evocato."
+  },
+  "White Noise": {
+    "NAME": "Rumore Bianco",
+    "DESCRIPTION": "Aggiungi un Potere casuale alla tua mano. NL Costa 0 questo turno. NL Esaurisci."
+  },
+  "Tempest": {
+    "NAME": "Temporale",
+    "DESCRIPTION": "Canalizzi X Fulmini. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Canalizzi X+1 Fulmini. NL Esaurisci."
+  },
+  "Glacier": {
+    "NAME": "Ghiacciaio",
+    "DESCRIPTION": "Ottieni !B! Blocco. NL Canalizzi !M! Ghiaccio.",
+    "UPGRADE_DESCRIPTION": "Ottieni !B! Blocco. NL Canalizzi !M! Ghiaccio."
+  },
+  "Fusion": {
+    "NAME": "Fusione",
+    "DESCRIPTION": "Canalizzi !M! Plasma."
   },
   "Zap": {
     "NAME": "Zap",
-    "DESCRIPTION": "Channel !M! Lightning."
-  },
-  "Fission": {
-    "NAME": "Fission",
-    "DESCRIPTION": "Evoke all of your Orbs. Increase your max Orb count by the number of Orbs Evoked."
-  },
-  "Storm": {
-    "NAME": "Storm",
-    "DESCRIPTION": "Whenever you play a Power, Channel 1 Lightning.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a Power, Channel 1 Lightning."
-  },
-  "Impulse": {
-    "NAME": "Impulse",
-    "DESCRIPTION": "Use the passive effect of all of your Channeled Orbs. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Use the passive effect of all of your Channeled Orbs."
-  },
-  "Double Energy": {
-    "NAME": "Double Energy",
-    "DESCRIPTION": "Double your Energy. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Double your Energy."
-  },
-  "Go for the Eyes": {
-    "NAME": "Go for the Eyes",
-    "DESCRIPTION": "Deal !D! damage. If the enemy intends to attack, apply !M! Weak."
-  },
-  "Flux Capacitor": {
-    "NAME": "Flux Capacitor",
-    "DESCRIPTION": "Replace all Channeled Orbs with Plasma."
-  },
-  "Self Repair": {
-    "NAME": "Self Repair",
-    "DESCRIPTION": "At the end of combat, heal !M! HP."
+    "DESCRIPTION": "Canalizzi !M! Fulmine."
   },
   "Chaos": {
-    "NAME": "Chaos",
-    "DESCRIPTION": "Channel !M! random Orb.",
-    "UPGRADE_DESCRIPTION": "Channel !M! random Orbs."
-  },
-  "Cold Snap": {
-    "NAME": "Cold Snap",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Frost."
-  },
-  "Overclock": {
-    "NAME": "Overclock",
-    "DESCRIPTION": "Gain !B! Block. Upgrade a random Orb.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. Upgrade all Orbs."
-  },
-  "Hyperbeam": {
-    "NAME": "Hyperbeam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Lose !M! Focus."
-  },
-  "Energy Pulse": {
-    "NAME": "Energy Pulse",
-    "DESCRIPTION": "Gain Block equal to your Energy.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to twice your Energy."
+    "NAME": "Caos",
+    "DESCRIPTION": "Canalizzi !M! Globo casuale.",
+    "UPGRADE_DESCRIPTION": "Canalizzi !M! Globi casuali."
   },
   "Reinforced Body": {
-    "NAME": "Reinforced Body",
-    "DESCRIPTION": "Gain !B! Block X times."
-  },
-  "Skim": {
-    "NAME": "Skim",
-    "DESCRIPTION": "Draw !M! cards."
-  },
-  "Heatsinks": {
-    "NAME": "Heatsinks",
-    "DESCRIPTION": "Whenever you play a Power card, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Whenever you play a Power card, draw !M! cards."
-  },
-  "Darkness": {
-    "NAME": "Darkness",
-    "DESCRIPTION": "Apply !M! Weak. NL Channel !M! Dark.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Apply !M! Vulnerable. NL Channel !M! Dark."
-  },
-  "Dualcast": {
-    "NAME": "Dualcast",
-    "DESCRIPTION": "Evoke your next Orb 2 times."
-  },
-  "Magnetism": {
-    "NAME": "Magnetism",
-    "DESCRIPTION": "At the start of each turn, add a random colorless card to your hand."
-  },
-  "Recycle": {
-    "NAME": "Recycle",
-    "DESCRIPTION": "Exhaust a card. NL Gain [B] equal to its cost."
-  },
-  "Melter": {
-    "NAME": "Melter",
-    "DESCRIPTION": "Remove all Block from an enemy. NL Deal !D! damage."
-  },
-  "FTL": {
-    "NAME": "FTL",
-    "DESCRIPTION": "Deal !D! damage. If you have played less than !M! cards this turn, draw 1 card."
-  },
-  "Barrage": {
-    "NAME": "Barrage",
-    "DESCRIPTION": "Deal !D! damage for each Channeled Orb."
-  },
-  "Allocate": {
-    "NAME": "Allocate",
-    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Strength. NL Lose 1 Dexterity."
-  },
-  "Creative AI": {
-    "NAME": "Creative AI",
-    "DESCRIPTION": "At the start of each turn, add a random Power card to your hand."
-  },
-  "Ball Lightning": {
-    "NAME": "Ball Lightning",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Lightning."
-  },
-  "Coolheaded": {
-    "NAME": "Coolheaded",
-    "DESCRIPTION": "Channel 1 Frost. NL Draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Draw !M! cards."
-  },
-  "Genetic Algorithm": {
-    "NAME": "Genetic Algorithm",
-    "DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. Exhaust."
-  },
-  "Amplify": {
-    "NAME": "Amplify",
-    "DESCRIPTION": "This turn, your next Power is played twice.",
-    "UPGRADE_DESCRIPTION": "This turn, your next !M! Powers are played twice."
-  },
-  "Conserve Battery": {
-    "NAME": "Conserve Battery",
-    "DESCRIPTION": "Gain !B! Block. NL Energy is conserved for next turn."
-  },
-  "Aggregate": {
-    "NAME": "Aggregate",
-    "DESCRIPTION": "Gain [B] for every !M! cards in your draw pile."
-  },
-  "Buffer": {
-    "NAME": "Buffer",
-    "DESCRIPTION": "Prevent the next time you would lose HP.",
-    "UPGRADE_DESCRIPTION": "Prevent the next !M! times you would lose HP."
-  },
-  "Winter": {
-    "NAME": "Winter",
-    "DESCRIPTION": "At the start of your turn, if you have an Orb slot, Channel 1 Frost."
-  },
-  "Steam Power": {
-    "NAME": "Steam Power",
-    "DESCRIPTION": "Draw !M! cards. NL Add a Burn into your discard pile."
+    "NAME": "Corpo Rinforzato",
+    "DESCRIPTION": "Ottieni !B! Blocco X volte."
   },
   "Reprogram": {
-    "NAME": "Reprogram",
-    "DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
-  },
-  "Cache": {
-    "NAME": "Cache",
-    "DESCRIPTION": "At the end of your turn, choose !M! card from your draw pile and place it on top."
-  },
-  "Rebound": {
-    "NAME": "Rebound",
-    "DESCRIPTION": "Deal !D! damage. NL Place the next card you play this turn on top of your draw pile."
-  },
-  "Capacitor": {
-    "NAME": "Capacitor",
-    "DESCRIPTION": "Gain !M! Orb slot.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Orb slots."
-  },
-  "Meteor Strike": {
-    "NAME": "Meteor Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Channel !M! Plasma."
-  },
-  "Stack": {
-    "NAME": "Stack",
-    "DESCRIPTION": "Gain Block equal to the number of cards in your discard pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to the number of cards in your discard pile.",
-    "EXTENDED_DESCRIPTION": [
-      " NL (Gains !B! Block.)"
-    ]
-  },
-  "Multi-Cast": {
-    "NAME": "Multi-Cast",
-    "DESCRIPTION": "Evoke your next Orb X times.",
-    "UPGRADE_DESCRIPTION": "Evoke your next Orb X+1 times."
-  },
-  "Sweeping Beam": {
-    "NAME": "Sweeping Beam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Draw !M! card."
+    "NAME": "Riprogramma",
+    "DESCRIPTION": "Guarda le prime !M! carte della Pila. Puoi scartarne quante vuoi."
   },
   "Undo": {
-    "NAME": "Undo",
-    "DESCRIPTION": "Set your HP to what it was last turn. NL Exhaust."
+    "NAME": "Annulla",
+    "DESCRIPTION": "I tuoi PV tornano al valore dello scorso turno. NL Esaurisci."
   },
-  "Doom and Gloom": {
-    "NAME": "Doom and Gloom",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Channel !M! Dark."
+  "Amplify": {
+    "NAME": "Amplifica",
+    "DESCRIPTION": "Questo turno, il prossimo Potere che giochi si attiva due volte.",
+    "UPGRADE_DESCRIPTION": "Questo turno, i prossimi !M! Poteri che giochi si attivano due volte."
   },
-  "Thunder Strike": {
-    "NAME": "Thunder Strike",
-    "DESCRIPTION": "Deal damage equal to your Focus to a random enemy !M! times."
+  "Capacitor": {
+    "NAME": "Condensatore",
+    "DESCRIPTION": "Ottieni !M! spazio per Globi.",
+    "UPGRADE_DESCRIPTION": "Ottieni !M! spazi per Globi."
   },
-  "Machine Learning": {
-    "NAME": "Machine Learning",
-    "DESCRIPTION": "Draw !M! additional card at the start of each turn.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Draw !M! additional card at the start of each turn."
+  "Energy Pulse": {
+    "NAME": "Impulso Energetico",
+    "DESCRIPTION": "Ottieni Blocco pari alla tua Energia.",
+    "UPGRADE_DESCRIPTION": "Ottieni Blocco pari al doppio della tua Energia."
   },
-  "Tempest": {
-    "NAME": "Tempest",
-    "DESCRIPTION": "Channel X Lightning. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel X+1 Lightning. NL Exhaust."
+  "Auto Shields": {
+    "NAME": "Scudi Automatizzati",
+    "DESCRIPTION": "Se hai 0 Blocco, ottieni !B! Blocco."
   },
-  "Streamline": {
-    "NAME": "Streamline",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you play Streamline, reduce its cost by !M! for this combat."
+  "Double Energy": {
+    "NAME": "Energia Doppia",
+    "DESCRIPTION": "Raddoppia la tua Energia. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Raddoppia la tua Energia."
   },
-  "All For One": {
-    "NAME": "All For One",
-    "DESCRIPTION": "Deal !D! damage. Put all Cost 0 cards from your discard pile into your hand."
+  "Conserve Battery": {
+    "NAME": "Batteria di Riserva",
+    "DESCRIPTION": "Ottieni !B! Blocco. NL L'Energia viene conservata per il prossimo turno."
   },
-  "Channel": {
-    "NAME": "Channel",
-    "DESCRIPTION": "Whenever you play a Power card this turn, gain !M! Block."
+  "Expertise": {
+    "NAME": "Competenza",
+    "DESCRIPTION": "Peschi carte fino ad averne !M! in mano."
   },
-  "Gash": {
-    "NAME": "Gash",
-    "DESCRIPTION": "Deal !D! damage. NL All Gash cards deal !M! additional damage this combat."
+  "Hyperbeam": {
+    "NAME": "Iper-Raggio",
+    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. NL Perdi !M! Focus."
   },
-  "Axe Kick": {
-    "NAME": "Axe Kick",
-    "DESCRIPTION": "Deal !D! damage. NL Evoke your next Orb."
-  },
-  "Fusion": {
-    "NAME": "Fusion",
-    "DESCRIPTION": "Channel !M! Plasma."
-  },
-  "Hologram": {
-    "NAME": "Hologram",
-    "DESCRIPTION": "Gain !B! Block. NL Return a random card from your discard pile to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Return a card from your discard pile to your hand."
-  },
-  "Blaster": {
-    "NAME": "Blaster",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb."
-  },
-  "Biased Cognition": {
-    "NAME": "Biased Cognition",
-    "DESCRIPTION": "Gain !M! Focus. NL At the start of each turn, lose 1 Focus."
-  },
-  "Beam Cell": {
-    "NAME": "Beam Cell",
-    "DESCRIPTION": "Deal !D! damage and apply !M! Vulnerable."
-  },
-  "Static Discharge": {
-    "NAME": "Static Discharge",
-    "DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
-  },
-  "Ice Wall": {
-    "NAME": "Ice Wall",
-    "DESCRIPTION": "Gain !B! Block. Gain +3 Block for each Channeled Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. Gain +5 Block for each Channeled Frost."
-  },
-  "Reboot": {
-    "NAME": "Reboot",
-    "DESCRIPTION": "Shuffle all of your cards into your draw pile, then draw !M! cards. NL Exhaust."
-  },
-  "Blizzard": {
-    "NAME": "Blizzard",
-    "DESCRIPTION": "Deal !D! damage to a random enemy for each Frost Channeled this combat.",
-    "EXTENDED_DESCRIPTION": [
-      " NL You have Channeled ",
-      " Frost."
-    ]
+  "Sunder": {
+    "NAME": "In Pezzi",
+    "DESCRIPTION": "Infliggi !D! danni. NL Se uccidi così il bersaglio, NL ottieni [B] [B] [B]."
   },
   "Turbo": {
-    "NAME": "TURBO",
-    "DESCRIPTION": "Gain [B] [B]. NL Add a Void into your discard pile.",
-    "UPGRADE_DESCRIPTION": "Gain [B] [B] [B]. NL Add a Void into your discard pile."
+    "NAME": "Turbo",
+    "DESCRIPTION": "Ottieni [B] [B]. Aggiungi un Vuoto agli Scarti.",
+    "UPGRADE_DESCRIPTION": "Ottieni [B] [B] [B]. Aggiungi un Vuoto agli Scarti."
   },
-  "Glacier": {
-    "NAME": "Glacier",
-    "DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost."
+  "Hologram": {
+    "NAME": "Ologramma",
+    "DESCRIPTION": "Ottieni !B! Blocco. NL Aggiungi una carta casuale dagli Scarti alla tua mano.",
+    "UPGRADE_DESCRIPTION": "Ottieni !B! Blocco. NL Aggiungi una carta dagli Scarti alla tua mano."
   },
-  "Rainbow": {
-    "NAME": "Rainbow",
-    "DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark."
+  "Aggregate": {
+    "NAME": "Raccolta",
+    "DESCRIPTION": "Ottieni [B] per ogni !M! carte nella Pila."
   },
-  "Defragment": {
-    "NAME": "Defragment",
-    "DESCRIPTION": "Gain !M! Focus."
-  },
-  "Leap": {
-    "NAME": "Leap",
-    "DESCRIPTION": "Gain !B! Block."
-  },
-  "Redo": {
-    "NAME": "Redo",
-    "DESCRIPTION": "Evoke your next Orb. NL Channel the Orb that was just Evoked."
-  },
-  "White Noise": {
-    "NAME": "White Noise",
-    "DESCRIPTION": "Add a random Power to your hand. NL It costs 0 this turn. NL Exhaust."
+  "Recycle": {
+    "NAME": "Riciclo",
+    "DESCRIPTION": "Esaurisci una carta. NL Ottieni [B] pari al suo costo."
   },
   "Nova": {
     "NAME": "Nova",
-    "DESCRIPTION": "Deal !M! damage to ALL enemies for each Power played this combat.",
+    "DESCRIPTION": "Infliggi !M! danni a TUTTI i nemici per ciascun potere che hai giocato in questo combattimento.",
     "EXTENDED_DESCRIPTION": [
-      " NL Exhaust.",
-      " NL Deals !D! damage."
+      " NL Esaurisci.",
+      " NL Infligge !D! danni."
     ]
   },
-  "Sunder": {
-    "NAME": "Sunder",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills the enemy, gain [B] [B] [B]."
+  "Static Discharge": {
+    "NAME": "Elettrostatica",
+    "DESCRIPTION": "Quando ricevi danno da attacco, Canalizzi !M! Fulmini.",
+    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
   },
-  "Chill": {
-    "NAME": "Chill",
-    "DESCRIPTION": "Channel !M! Frost for each enemy in combat. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost per enemy. NL Exhaust."
+  "Overclock": {
+    "NAME": "Overclock",
+    "DESCRIPTION": "Deprecated.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
   },
-  "Seek": {
-    "NAME": "Seek",
-    "DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+  "Barrage": {
+    "NAME": "Raffica",
+    "DESCRIPTION": "Infliggi !D! danni per ogni Globo Canalizzato."
+  },
+  "Ice Wall": {
+    "NAME": "Muro di Ghiaccio",
+    "DESCRIPTION": "Ottieni !B! Blocco. Ne ottieni 3 in più per ogni Ghiaccio Canalizzato.",
+    "UPGRADE_DESCRIPTION": "Ottieni !B! Blocco. Ne ottieni 5 in più per ogni Ghiaccio Canalizzato."
+  },
+  "Cold Snap": {
+    "NAME": "Onda Gelida",
+    "DESCRIPTION": "Infliggi !D! danni. Canalizzi !M! Ghiaccio."
+  },
+  "Ball Lightning": {
+    "NAME": "Fulmine Globulare",
+    "DESCRIPTION": "Infliggi !D! danni. Canalizzi !M! Fulmine."
+  },
+  "Winter": {
+    "NAME": "Inverno",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Meteor Strike": {
+    "NAME": "Meteora",
+    "DESCRIPTION": "Infliggi !D! danni. NL Canalizzi !M! Plasma."
+  },
+  "Self Repair": {
+    "NAME": "Auto-Riparante",
+    "DESCRIPTION": "A fine combattimento, ti curi di !M! PV."
+  },
+  "Axe Kick": {
+    "NAME": "Calcio Volante",
+    "DESCRIPTION": "Infliggi !D! danni. NL Evoca il tuo primo Globo."
+  },
+  "Beam Cell": {
+    "NAME": "Cartuccia Laser",
+    "DESCRIPTION": "Infliggi !D! danni ed applichi !M! Vulnerabile."
+  },
+  "Go for the Eyes": {
+    "NAME": "Agli Occhi!",
+    "DESCRIPTION": "Infliggi !D! danni. Se il nemico intende attaccare gli applichi !M! Debole."
+  },
+  "Gash": {
+    "NAME": "Artiglio",
+    "DESCRIPTION": "Infliggi !D! danni. NL TUTTE Le carte chiamate Artiglio infliggono !M! danni in più per questo combattimento."
+  },
+  "Darkness": {
+    "NAME": "Oscurità",
+    "DESCRIPTION": "Canalizzi !M! Oscurità.",
+    "UPGRADE_DESCRIPTION": "Canalizzi !M! Oscurità."
+  },
+  "Machine Learning": {
+    "NAME": "Auto-Apprendimento",
+    "DESCRIPTION": "Peschi !M! carta in più ogni turno.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Peschi !M! carta in più ogni turno."
+  },
+  "Impulse": {
+    "NAME": "Impulso",
+    "DESCRIPTION": "Attiva l'abilità passiva di tutti i Globi Canalizzati. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Attiva l'abilità passiva di tutti i Globi Canalizzati."
+  },
+  "Skim": {
+    "NAME": "Scorri",
+    "DESCRIPTION": "Peschi !M! carte."
+  },
+  "Buffer": {
+    "NAME": "Buffer",
+    "DESCRIPTION": "Previene la prossima perdita di PV.",
+    "UPGRADE_DESCRIPTION": "Previene le prossime !M! perdite di PV."
+  },
+  "FTL": {
+    "NAME": "FTL",
+    "DESCRIPTION": "Infliggi !D! danni. Se hai giocato meno di !M! carte questo turno, peschi 1 carta."
   },
   "Echo Form": {
-    "NAME": "Echo Form",
-    "DESCRIPTION": "The first card you play each turn is played twice."
+    "NAME": "Modulo Iterativo",
+    "DESCRIPTION": "La prima carta che giochi ogni turno viene giocata due volte. NL Eterea.",
+    "UPGRADE_DESCRIPTION": "La prima carta che giochi ogni turno viene giocata due volte."
+  },
+  "Heatsinks": {
+    "NAME": "Dissipatore",
+    "DESCRIPTION": "Dopo aver giocato un Potere, peschi !M! Carte.",
+    "UPGRADE_DESCRIPTION": "Dopo aver giocato un Potere, peschi !M! Carte."
+  },
+  "Genetic Algorithm": {
+    "NAME": "Algoritmo Genetico",
+    "DESCRIPTION": "Ottieni !B! Blocco. Questo valore aumenta permanentemente di !M! quando giochi questa carta. NL Esaurisci"
+  },
+  "Melter": {
+    "NAME": "Scioglimento",
+    "DESCRIPTION": "Rimuovi tutto il Blocco da un nemico. NL Infliggi !D! danni."
+  },
+  "Dualcast": {
+    "NAME": "Lancio Doppio",
+    "DESCRIPTION": "Evoca il tuo primo Globo 2 volte."
+  },
+  "Redo": {
+    "NAME": "Ripeti",
+    "DESCRIPTION": "Evoca il tuo primo Globo. NL Canalizzi il Globo appena evocato."
+  },
+  "Rainbow": {
+    "NAME": "Arcobaleno",
+    "DESCRIPTION": "Canalizzi 1 Fulmine, 1 Ghiaccio ed 1 Oscurità. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Canalizzi 1 Fulmine, 1 Ghiaccio ed 1 Oscurità."
+  },
+  "Storm": {
+    "NAME": "Tempesta",
+    "DESCRIPTION": "Quando giochi un Potere Canalizzi 1 Fulmine.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Quando giochi un Potere Canalizzi 1 Fulmine."
+  },
+  "All For One": {
+    "NAME": "Tutti per Uno",
+    "DESCRIPTION": "Infliggi !D! danni. Aggiungi alla tua mano tutte le carte a costo 0 negli Scarti."
+  },
+  "Magnetism": {
+    "NAME": "Magnetismo",
+    "DESCRIPTION": "Ad inizio turno aggiungi una carta incolore casuale alla tua mano."
+  },
+  "Creative AI": {
+    "NAME": "IA Creativa",
+    "DESCRIPTION": "Ad inizio turno aggiungi un Potere casuale alla tua mano."
+  },
+  "Defragment": {
+    "NAME": "Deframmentato",
+    "DESCRIPTION": "Guadagna !M! Focus."
+  },
+  "Doom and Gloom": {
+    "NAME": "Melanconia",
+    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. NL Canalizzi !M! Oscurità."
+  },
+  "Biased Cognition": {
+    "NAME": "Bias Cognitivo",
+    "DESCRIPTION": "Guadagna !M! Focus. NL Ad inizio turno perdi 1 Focus."
+  },
+  "Stack": {
+    "NAME": "Stack",
+    "DESCRIPTION": "Ottieni Blocco pari al numero di carte negli Scarti.",
+    "UPGRADE_DESCRIPTION": "Ottieni Blocco pari al numero di carte negli Scarti +3.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Ottieni !B! Blocco.)"
+    ]
+  },
+  "Thunder Strike": {
+    "NAME": "Colpo Tonante",
+    "DESCRIPTION": "Infliggi !D! danni a un nemico casuale per Fulmine Canalizzato in combattimento.",
+    "EXTENDED_DESCRIPTION": [
+      " ( !M! Fulmini Canalizzati.)"
+    ]
   },
   "Force Field": {
-    "NAME": "Force Field",
-    "DESCRIPTION": "Costs 1 less [B] for each Power card played this combat. NL Gain !B! Block."
+    "NAME": "Campo di Forza",
+    "DESCRIPTION": "Costa 1 in meno per ogni Potere giocato in questo combattimento. Ottieni !B! Blocco."
   },
   "Prime": {
-    "NAME": "Prime",
-    "DESCRIPTION": "Whenever you Channel an Orb, draw !M! card."
+    "NAME": "Innesco",
+    "DESCRIPTION": "Quando Canalizzi un Globo peschi !M! carta."
   },
-  "Loop": {
-    "NAME": "Loop",
-    "DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb."
+  "Cache": {
+    "NAME": "Cache",
+    "DESCRIPTION": "Deprecated."
   },
-  "Hello World": {
-    "NAME": "Hello World",
-    "DESCRIPTION": "At the start of your turn, add a random Common card into your hand.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a random Common card into your hand."
+  "Rebound": {
+    "NAME": "Recupero",
+    "DESCRIPTION": "Infliggi !D! danni. NL Metti la prossima carta che giochi questo turno in cima alla Pila."
+  },
+  "Allocate": {
+    "NAME": "Allocazione",
+    "DESCRIPTION": "Ottieni !M! Focus. NL Perdi 1 di Forza . NL Perdi 1 di Destrezza"
+  },
+  "Streamline": {
+    "NAME": "Miglioramento",
+    "DESCRIPTION": "Infliggi !D! danni. NL Ogni volta che giochi questa carta, il suo costo viene ridotto di !M! in questo combattimento."
+  },
+  "Channel": {
+    "NAME": "Canalizzare",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Sweeping Beam": {
+    "NAME": "Laser ad Arco",
+    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. NL Peschi !M! carte."
+  },
+  "Leap": {
+    "NAME": "Balzo",
+    "DESCRIPTION": "Ottieni !B! Blocco."
+  },
+  "Seek": {
+    "NAME": "Ricerca",
+    "DESCRIPTION": "Scegli !M! carte dalla Pila e aggiungile alla tua mano. NL Esaurisci."
+  },
+  "Blaster": {
+    "NAME": "Pistola Laser",
+    "DESCRIPTION": "Infliggi !D! danni a TUTTI i nemici. NL Ottieni [B] per ogni Globo Canalizzato. NL Esaurisci."
+  },
+  "Reboot": {
+    "NAME": "Riavvio",
+    "DESCRIPTION": "Mischia tutte le tue carte nella Pila, poi peschi !M! carte. NL Esaurisci."
+  },
+  "Steam Power": {
+    "NAME": "Motore a Vapore",
+    "DESCRIPTION": "Peschi !M! carte. NL Aggiungi una Ustione agli Scarti."
+  },
+  "Blizzard": {
+    "NAME": "Tormenta",
+    "DESCRIPTION": "Infliggi danno pari al doppio del numero di Ghiaccio Canalizzato in questo combattimento a TUTTI i nemici.",
+    "UPGRADE_DESCRIPTION": "Infliggi danno pari a !M! volte il numero di Ghiaccio Canalizzato in questo combattimento a TUTTI i nemici.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Infligge !D! danni.)",
+      ""
+    ]
+  },
+  "Chill": {
+    "NAME": "Brivido",
+    "DESCRIPTION": "Canalizzi !M! Ghiaccio per ogni nemico. NL Esaurisci",
+    "UPGRADE_DESCRIPTION": "Innata. Canalizzi !M! Ghiaccio per ogni nemico. NL Esaurisci"
+  },
+  "Coolheaded": {
+    "NAME": "Mente Fredda",
+    "DESCRIPTION": "Canalizzi 1 Ghiaccio. NL Peschi !M! carta.",
+    "UPGRADE_DESCRIPTION": "Canalizzi 1 Ghiaccio. NL Peschi !M! carte."
+  },
+  "Flux Capacitor": {
+    "NAME": "Condensatore di Flusso",
+    "DESCRIPTION": "Ogni Globo Canalizzato diventa Plasma. NL Esaurisci."
   },
   "Primitive Tech": {
-    "NAME": "Primitive Tech",
-    "DESCRIPTION": "Whenever you play a card of Common rarity, draw !M! card."
+    "NAME": "Tecnologia Primitiva",
+    "DESCRIPTION": "Deprecated."
+  },
+  "Hello World": {
+    "NAME": "Buongiorno Mondo",
+    "DESCRIPTION": "Ad inizio turno aggiungi una carta Comune casuale alla tua mano.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Ad inizio turno aggiungi una carta Comune casuale alla tua mano."
+  },
+  "Loop": {
+    "NAME": "Ciclo",
+    "DESCRIPTION": "Ad inizio turno attivi l'abilità passiva del tuo primo Globo."
+  },
+  "Scrape": {
+    "NAME": "Graffio",
+    "DESCRIPTION": "Infliggi !D! Danni. NL Peschi !M! carte. NL Scarti ogni carta che non costa 0 pescata in questo modo."
+  },
+  "Reprieve": {
+    "NAME": "Reprieve",
+    "DESCRIPTION": "If an enemy does not intend to attack, gain !M! Focus."
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTION": "Deal !D! damage. NL This turn, Lightning and Dark Orbs target this enemy."
+  },
+  "Consume": {
+    "NAME": "Consume",
+    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Orb Slot."
   }
 }

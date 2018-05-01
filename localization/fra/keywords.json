@@ -194,10 +194,50 @@
     },
     "FROST": {
       "NAMES": [
-        "frost",
-        "frost+"
+        "glaciaire",
+        "glaciaires"
       ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
+      "DESCRIPTION": "Orbe: Procure de #yl'Armure."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "activez",
+        "activé",
+        "activés",
+        "activation"
+      ],
+      "DESCRIPTION": "Utilisez la capacité d'Activation de votre Orbe le plus à droite puis détruisez-le."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "kéraunique",
+        "kérauniques",
+        "kéraunique(s)"
+      ],
+      "DESCRIPTION": "Orbe: Inflige des dégâts à un ennemi aléatoire."
+    },
+    "DARK": {
+      "NAMES": [
+        "obscur",
+        "obscurs"
+      ],
+      "DESCRIPTION": "Orbe: Augmente les dégâts chaque tour. Quand il est #yactivé, inflige des dégâts à l'ennemi qui a le moins de PV."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "canaliser",
+        "canalisez",
+        "canalisé",
+        "canalisés"
+      ],
+      "DESCRIPTION": "Canaliser un Orbe le place dans votre premier emplacement vide. Si vous n'avez pas d'emplacement vide, votre premier Orbe est automatiquement #yActivé pour faire de la place."
+    },
+    "VOID": {
+      "NAMES": [
+        "néant",
+        "néants"
+      ],
+      "DESCRIPTION": "Les cartes Néant sont des Statut injouable qui consomme de l'énergie quand elles sont piochées."
     },
     "OPENER": {
       "NAMES": [
@@ -205,53 +245,18 @@
       ],
       "DESCRIPTION": "Opener cards may only be played as the first card each turn."
     },
-    "VOID": {
-      "NAMES": [
-        "void",
-        "voids"
-      ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
-    },
     "PLASMA": {
       "NAMES": [
-        "plasma",
-        "plasma+"
+        "plasmique",
+        "plasmiques"
       ],
-      "DESCRIPTION": "Orb: Gains Energy."
-    },
-    "LIGHTNING": {
-      "NAMES": [
-        "lightning",
-        "lightning+"
-      ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
-    },
-    "CHANNEL": {
-      "NAMES": [
-        "channel",
-        "channeled"
-      ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
-    },
-    "DARK": {
-      "NAMES": [
-        "dark",
-        "dark+"
-      ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+      "DESCRIPTION": "Orbe: Procure de l'Énergie."
     },
     "FOCUS": {
       "NAMES": [
-        "focus"
+        "concentration"
       ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
-    },
-    "EVOKE": {
-      "NAMES": [
-        "evoke",
-        "evoked"
-      ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+      "DESCRIPTION": "La Concentration augmente l'efficacité de l'actif des Orbes #yCanalisés."
     }
   }
 }

@@ -181,64 +181,64 @@
     },
     "VOID": {
       "NAMES": [
-        "void",
+        "공허",
         "voids"
       ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+      "DESCRIPTION": "공허는 카드를 뽑을 때 에너지를 잃는 사용 불가인 상태이상 카드입니다."
     },
     "FOCUS": {
       "NAMES": [
-        "focus"
+        "밀집"
       ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+      "DESCRIPTION": "밀집은 #y영창된 구체의 효율을 증가시킵니다."
     },
     "EVOKE": {
       "NAMES": [
-        "evoke",
+        "발현",
         "evoked"
       ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+      "DESCRIPTION": "가장 오른쪽의 구체를 사용해서 발현 효과를 발동시킵니다."
     },
     "PLASMA": {
       "NAMES": [
-        "plasma",
-        "plasma+"
+        "플라즈마",
+        "플라즈마+"
       ],
-      "DESCRIPTION": "Orb: Gains Energy."
+      "DESCRIPTION": "구체: (지속/발현)에너지를 얻습니다."
     },
     "CHANNEL": {
       "NAMES": [
-        "channel",
-        "channeled"
+        "영창",
+        "영창된"
       ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+      "DESCRIPTION": "구체를 영창하면 가장 오른쪽의 빈 슬롯에 구체를 넣습니다. 빈 슬롯이 없을 경우, 가장 오른쪽의 구체가 #y발현 되어 자리를 비웁니다."
     },
     "DARK": {
       "NAMES": [
-        "dark",
-        "dark+"
+        "암흑",
+        "암흑+"
       ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+      "DESCRIPTION": "구체: (지속)매 턴 피해량을 증가시킵니다. (발현)체력이 가장 낮은 적에게 피해를 줍니다."
     },
     "OPENER": {
       "NAMES": [
-        "opener"
+        "개전"
       ],
-      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+      "DESCRIPTION": "개전 카드는 매 턴의 첫번째 카드로만 사용할 수 있습니다."
     },
     "LIGHTNING": {
       "NAMES": [
-        "lightning",
-        "lightning+"
+        "전기",
+        "전기+"
       ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
+      "DESCRIPTION": "구체: (지속/발현)무작위 적에게 피해를 줍니다."
     },
     "FROST": {
       "NAMES": [
-        "frost",
-        "frost+"
+        "냉기",
+        "냉기+"
       ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
+      "DESCRIPTION": "구체: (지속/발현) #y방어도 를 얻습니다."
     }
   }
 }

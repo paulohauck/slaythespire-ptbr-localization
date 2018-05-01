@@ -741,148 +741,154 @@
       " de #yDextérité."
     ]
   },
-  "Bias": {
-    "NAME": "Bias",
-    "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " #yFocus."
-    ]
-  },
-  "Storm": {
-    "NAME": "Storm",
-    "DESCRIPTIONS": [
-      "Whenever you play a #bPower, #yChannel #b ",
-      " Lightning."
-    ]
-  },
-  "Echo Form": {
-    "NAME": "Echo Form",
-    "DESCRIPTIONS": [
-      "The first card you play each turn is played #b",
-      " extra time.",
-      " extra times."
-    ]
-  },
-  "Repair": {
-    "NAME": "Repair",
-    "DESCRIPTIONS": [
-      "At the end of combat, heal #b",
-      " HP."
-    ]
-  },
-  "Creative AI": {
-    "NAME": "Creative AI",
-    "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Power card into your hand."
-    ]
-  },
-  "No Attack": {
-    "NAME": "No Attack",
-    "DESCRIPTIONS": [
-      "You cannot play #yAttacks this turn."
-    ]
-  },
-  "StaticDischarge": {
-    "NAME": "Static Discharge",
-    "DESCRIPTIONS": [
-      "When receiving #yAttack damage, #yChannel #b",
-      " #yLightning."
-    ]
-  },
   "Focus": {
-    "NAME": "Focus",
+    "NAME": "Concentration",
     "DESCRIPTIONS": [
-      "Increases the effectiveness of Orbs by #b",
-      "Decreases the effectiveness of Orbs by #b",
+      "Accroît la puissance des Orbes de #b",
+      "Décroît la puissance des Orbes de #b",
       "."
     ]
   },
-  "Heatsink": {
-    "NAME": "Heatsink",
+  "Bias": {
+    "NAME": "Biais",
     "DESCRIPTIONS": [
-      "Whenever you play a Power, draw #b",
-      " card.",
-      " cards."
+      "Au début de votre tour, perdez #b",
+      " de #yConcentration."
     ]
   },
-  "Conserve": {
-    "NAME": "Conserve",
+  "Creative AI": {
+    "NAME": "IA créative",
     "DESCRIPTIONS": [
-      "#yEnergy is conserved this turn.",
-      "#yEnergy is conserved for the next #b",
-      " turns."
-    ]
-  },
-  "Magnetism": {
-    "NAME": "Magnetism",
-    "DESCRIPTIONS": [
-      "At the start of your turn, add #b%s random colorless card to your hand.",
-      "At the start of your turn, add #b%s random colorless cards to your hand."
-    ]
-  },
-  "Amplify": {
-    "NAME": "Amplify",
-    "DESCRIPTIONS": [
-      "On this turn, play your next #yPower twice.",
-      "On this turn, play your next ",
-      " #yPowers twice."
-    ]
-  },
-  "Buffer": {
-    "NAME": "Buffer",
-    "DESCRIPTIONS": [
-      "Prevent the next time you would lose HP.",
-      "Prevent the next #b",
-      " times you would lose HP."
+      "Au début de votre tour, ajoutez #b",
+      " Pouvoir(s) aléatoire(s) à votre main."
     ]
   },
   "Prime": {
-    "NAME": "Prime",
+    "NAME": "Préparation",
     "DESCRIPTIONS": [
-      "Whenever you #yChannel an Orb, draw #b",
-      " card.",
-      " cards."
-    ]
-  },
-  "Rebound": {
-    "NAME": "Rebound",
-    "DESCRIPTIONS": [
-      "The next card you play this turn is placed on top of your draw pile.",
-      "The next #b",
-      " cards you play this turn are placed on top of your draw pile."
-    ]
-  },
-  "Machine Learning": {
-    "NAME": "Machine Learning",
-    "DESCRIPTIONS": [
-      "Draw #b",
-      " additional card at the start of each turn.",
-      " additional cards at the start of each turn."
+      "Quand vous #yCanalisez un Orbe, piochez #b",
+      " carte.",
+      " cartes."
     ]
   },
   "Loop": {
-    "NAME": "Loop",
+    "NAME": "Boucle",
     "DESCRIPTIONS": [
-      "At the start of your turn, use the passive ability of your next Orb.",
-      "At the start of your turn, use the passive ability of your next #b",
-      " Orbs."
+      "Au début de votre tour, utilisez la capacité passive de votre prochain Orbe.",
+      "Au début de votre tour, utilisez la capacité passive de vos #b",
+      " prochains Orbes."
     ]
   },
-  "Primitive": {
-    "NAME": "Primitive",
+  "Heatsink": {
+    "NAME": "Dissipation de chaleur",
     "DESCRIPTIONS": [
-      "Whenever you play a Common card, draw #b",
-      " card.",
-      " cards."
+      "Quand vous jouez un Pouvoir, piochez #b",
+      " carte.",
+      " cartes."
+    ]
+  },
+  "Repair": {
+    "NAME": "Réparation",
+    "DESCRIPTIONS": [
+      "À la fin du combat, récupérez #b",
+      " PV."
     ]
   },
   "Hello": {
     "NAME": "Hello",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Common cards to your hand.",
-      " random Common card to your hand."
+      "Au début de chaque tour, ajoutez #b",
+      " cartes Communes aléatoire à votre main.",
+      " carte Commune aléatoire à votre main."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Tampon",
+    "DESCRIPTIONS": [
+      "Empêche votre prochaine perte de PV.",
+      "Empêche vos #b",
+      " prochaines pertes de PV."
+    ]
+  },
+  "No Attack": {
+    "NAME": "Passif",
+    "DESCRIPTIONS": [
+      "Vous ne pouvez pas jouer d'#yAttaques ce tour."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Décharge statique",
+    "DESCRIPTIONS": [
+      "Quand vous subissez des dégâts d'une #yAttaque, #yCanalisez #b",
+      " Orbe(s) #yKéraunique(s)."
+    ]
+  },
+  "Storm": {
+    "NAME": "Orage",
+    "DESCRIPTIONS": [
+      "Quand vous jouez un #bPouvoir, #yCanalisez #b ",
+      " Orbe(s) #yKéraunique(s)."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Primitif",
+    "DESCRIPTIONS": [
+      "Quand vous jouez une carte Commune, piochez #b",
+      " carte.",
+      " cartes."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Rebond",
+    "DESCRIPTIONS": [
+      "La prochaine carte que vous jouez ce tour est placée au sommet de votre pioche.",
+      "Les #b",
+      " prochaines cartes que vous jouez ce tour sont placées au sommet de votre pioche."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Amplification",
+    "DESCRIPTIONS": [
+      "Ce tour, jouez votre prochain #yPouvoir deux fois.",
+      "Ce tour, jouez vos ",
+      " prochains #yPouvoirs deux fois."
+    ]
+  },
+  "Conserve": {
+    "NAME": "Économie",
+    "DESCRIPTIONS": [
+      "L' #yÉnergie est conservée pour le prochain tour.",
+      "L' #yÉnergie est conservée pour les #b",
+      " prochains tours."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Machine Learning",
+    "DESCRIPTIONS": [
+      "Piochez #b",
+      " carte additionnelle au début de chaque tour.",
+      " cartes additionnelles au début de chaque tour."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Magnétisme",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, ajoutez #b%s carte incolore aléatoire à votre main.",
+      "Au début de votre tour, ajoutez #b%s cartes incolores aléatoires à votre main."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Écho",
+    "DESCRIPTIONS": [
+      "La promière carte que vous jouez chaque tour est jouée #b",
+      " fois supplémentaire.",
+      " fois supplémentaires."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTIONS": [
+      "#yLightning and #yDark Orbs target this enemy."
     ]
   }
 }

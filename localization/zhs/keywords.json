@@ -181,44 +181,44 @@
     },
     "VOID": {
       "NAMES": [
-        "void",
-        "voids"
+        "虚空",
+        "虚空"
       ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+      "DESCRIPTION": "虚空是 不能被打出 的 虚无 状态牌，在被抽到时会消耗能量。"
     },
     "FOCUS": {
       "NAMES": [
-        "focus"
+        "集中"
       ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+      "DESCRIPTION": "集中 会加强 充能球 的效果。"
     },
     "EVOKE": {
       "NAMES": [
-        "evoke",
-        "evoked"
+        "激发",
+        "激发"
       ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+      "DESCRIPTION": "消耗掉你最右侧的充能球，使用其 激发 效果。"
     },
     "PLASMA": {
       "NAMES": [
-        "plasma",
-        "plasma+"
+        "等离子",
+        "等离子+"
       ],
-      "DESCRIPTION": "Orb: Gains Energy."
+      "DESCRIPTION": "充能球：获得 能量 。"
     },
     "CHANNEL": {
       "NAMES": [
-        "channel",
-        "channeled"
+        "生成",
+        "生成的"
       ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+      "DESCRIPTION": "生成的充能球将出现在你最右侧起的第一个空栏位。当没有空栏位时，你的第一个充能球将自动被 激发 来空出位置。"
     },
     "DARK": {
       "NAMES": [
-        "dark",
-        "dark+"
+        "黑暗",
+        "黑暗+"
       ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+      "DESCRIPTION": "充能球：每回合增加伤害。 #y激发 时，对生命值最少的敌人造成伤害。"
     },
     "OPENER": {
       "NAMES": [
@@ -228,17 +228,17 @@
     },
     "LIGHTNING": {
       "NAMES": [
-        "lightning",
-        "lightning+"
+        "闪电",
+        "闪电+"
       ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
+      "DESCRIPTION": "充能球：对随机敌人造成伤害。"
     },
     "FROST": {
       "NAMES": [
-        "frost",
-        "frost+"
+        "冰霜",
+        "冰霜+"
       ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
+      "DESCRIPTION": "充能球：获得 #y格挡。"
     }
   }
 }

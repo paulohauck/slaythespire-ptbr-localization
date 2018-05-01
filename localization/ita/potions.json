@@ -54,29 +54,29 @@
   "Health Potion": {
     "NAME": "Pozione Curativa",
     "DESCRIPTIONS": [
-      "Cura #b",
+      "Ti curi di #b",
       " PV."
     ]
   },
   "Poison Potion": {
     "NAME": "Pozione Velenosa",
     "DESCRIPTIONS": [
-      "Applica #b",
+      "Applichi #b",
       " #yVeleno."
     ]
   },
   "Potion Slot": {
-    "NAME": "Spazio Pozione",
+    "NAME": "Pozioni",
     "DESCRIPTIONS": [
-      "Usa pozioni in combattimento per ottenere #gbonus od #rostacolare nemici.",
-      "Spazio Pozione"
+      "Usa pozioni in combattimento per ottenere #gbonus o #rostacolare nemici.",
+      "Pozioni"
     ]
   },
   "Regen Potion": {
     "NAME": "Pozione Rigenerante",
     "DESCRIPTIONS": [
-      "Cura #b",
-      " #yPV alla fine di ogni turno per #b",
+      "Ti curi di #b",
+      " #yPV a fine turno, per #b",
       " turni."
     ]
   },
@@ -91,14 +91,14 @@
     "NAME": "Pozione Rapida",
     "DESCRIPTIONS": [
       "",
-      "Pesca #b",
+      "Peschi #b",
       " carte."
     ]
   },
   "Weak Potion": {
     "NAME": "Pozione Debilitante",
     "DESCRIPTIONS": [
-      "Applica #b",
+      "Applichi #b",
       " #yDebole."
     ]
   }

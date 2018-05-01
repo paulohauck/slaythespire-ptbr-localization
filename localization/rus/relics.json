@@ -212,6 +212,13 @@
       "Цены торговца снижены на #b20% и его запас карт, реликвий и зелий не иссякает."
     ]
   },
+  "Cracked Core": {
+    "NAME": "Треснувшее ядро",
+    "FLAVOR": "Таинственный источник энергии, оживляющий автоматонов в Шпиле. Данный экземпляр, похоже, дал трещину.",
+    "DESCRIPTIONS": [
+      "#yПризывает #b1 #yСферу Молнии в начале каждого боя."
+    ]
+  },
   "Cursed Key": {
     "NAME": "Проклятый ключ",
     "FLAVOR": "Вы чувствуете, как от ключа исходит губительная аура. У силы есть своя цена.",
@@ -341,7 +348,7 @@
     ]
   },
   "Golden Idol": {
-    "NAME": "Золотой истукан",
+    "NAME": "Золотой идол",
     "FLAVOR": "Отлит из чистого золота. Лишь держа его в руках, вы чувствуете себя богаче.",
     "DESCRIPTIONS": [
       "Вы получаете на #b25% больше #yзолота от врагов."
@@ -1080,71 +1087,64 @@
     "NAME": "Белая статуэтка зверя",
     "FLAVOR": "Маленькая белая статуэтка существа, которого вы раньше никогда не видели.",
     "DESCRIPTIONS": [
-      "Даёт зелья после каждого боя."
-    ]
-  },
-  "DataDisk": {
-    "NAME": "Data Disk",
-    "FLAVOR": "This disk contains precious data on birds and snakes.",
-    "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
-      " #yFocus."
-    ]
-  },
-  "Nuclear Battery": {
-    "NAME": "Nuclear Battery",
-    "FLAVOR": "Ooooh...",
-    "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yPlasma."
-    ]
-  },
-  "Cracked Core": {
-    "NAME": "Cracked Core",
-    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
-    "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yLightning."
-    ]
-  },
-  "Turnip": {
-    "NAME": "Turnip",
-    "FLAVOR": "Best with Ginger.",
-    "DESCRIPTIONS": [
-      "You can no longer become #yFrail."
-    ]
-  },
-  "Emotion Chip": {
-    "NAME": "Emotion Chip",
-    "FLAVOR": "...<3...?",
-    "DESCRIPTIONS": [
-      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
+      "Гарантирует выпадение зелья после боя."
     ]
   },
   "Inserter": {
-    "NAME": "Inserter",
-    "FLAVOR": "Further damage could be prevented by freezing one's core.",
+    "NAME": "Манипулятор",
+    "FLAVOR": "Описание отсутствует.",
     "DESCRIPTIONS": [
-      "Every #b2 turns, gain #b1 Orb slot."
-    ]
-  },
-  "Cables": {
-    "NAME": "Gold-Plated Cables",
-    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
-    "DESCRIPTIONS": [
-      "Your rightmost Orb triggers its passive an additional time."
-    ]
-  },
-  "Runic Capacitor": {
-    "NAME": "Runic Capacitor",
-    "FLAVOR": "More is better.",
-    "DESCRIPTIONS": [
-      "Start each combat with #b3 additional Orb slots."
+      "Добавляет #b1 слот для сфер каждые #b2 хода."
     ]
   },
   "Symbiotic Virus": {
-    "NAME": "Symbiotic Virus",
-    "FLAVOR": "A little bit bad of #rbad can do a lot of #ggood...",
+    "NAME": "Вирус-симбионт",
+    "FLAVOR": "Щепотка #rплохого может сделать много #gхорошего...",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yDark."
+      "#yПризывает #y1 #yСферу Тьмы в начале каждого боя."
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Атомная батарея",
+    "FLAVOR": "Оооу...",
+    "DESCRIPTIONS": [
+      "#yПризывает #y1 #yСферу Плазмы в начале каждого боя."
+    ]
+  },
+  "Cables": {
+    "NAME": "Позолоченные провода",
+    "FLAVOR": "«Прелюбопытно! Даже автоматоны подвергаются эффекту плацебо». — Ранвид",
+    "DESCRIPTIONS": [
+      "Пассивный эффект самой правой сферы активируется дважды."
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Чип эмоций",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "Активирует пассивный эффект всех Призванных сфер в начале хода, если вы получали урон в прошлом ходу."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Рунический конденсатор",
+    "FLAVOR": "Больше — лучше.",
+    "DESCRIPTIONS": [
+      "Добавляет #b3 слота для сфер в начале боя."
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Диск с данными",
+    "FLAVOR": "Содержит ценнейшие сведения о птицах и змеях.",
+    "DESCRIPTIONS": [
+      "Даёт #b",
+      " #yФокуса в начале каждого боя."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Кормовая репа",
+    "FLAVOR": "Отлично сочетается с Имбирём.",
+    "DESCRIPTIONS": [
+      "Даёт иммунитет к #yХрупкости."
     ]
   }
 }

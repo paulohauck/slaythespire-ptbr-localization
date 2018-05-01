@@ -1084,67 +1084,67 @@
     ]
   },
   "DataDisk": {
-    "NAME": "Data Disk",
-    "FLAVOR": "This disk contains precious data on birds and snakes.",
+    "NAME": "数据磁盘",
+    "FLAVOR": "这张磁盘里记录了关于鸟类和蛇类的珍贵数据。",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
-      " #yFocus."
+      "在每场战斗开始时，获得 #b",
+      " 点 #y集中 。"
     ]
   },
   "Nuclear Battery": {
-    "NAME": "Nuclear Battery",
-    "FLAVOR": "Ooooh...",
+    "NAME": "核能电池",
+    "FLAVOR": "哇噢……",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yPlasma."
+      "在每场战斗开始时， #y生成 #b1 个 #y等离子 充能球。"
     ]
   },
   "Cracked Core": {
-    "NAME": "Cracked Core",
-    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
+    "NAME": "破损核心",
+    "FLAVOR": "高塔中所有自动机器人体内都有的神秘生命力之源，这个似乎已经有一点破损了。",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yLightning."
+      "在每场战斗开始时， #y生成 #b1 个 #y闪电 充能球。"
     ]
   },
   "Turnip": {
-    "NAME": "Turnip",
-    "FLAVOR": "Best with Ginger.",
+    "NAME": "萝卜",
+    "FLAVOR": "与生姜搭配尤为适合。",
     "DESCRIPTIONS": [
-      "You can no longer become #yFrail."
+      "你不会再被 #y脆弱 。"
     ]
   },
   "Emotion Chip": {
-    "NAME": "Emotion Chip",
-    "FLAVOR": "...<3...?",
+    "NAME": "情感芯片",
+    "FLAVOR": "……<3……？",
     "DESCRIPTIONS": [
-      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
+      "在每回合开始时，如果你在之前回合受到过伤害，则触发所有充能球的被动效果。"
     ]
   },
   "Inserter": {
-    "NAME": "Inserter",
-    "FLAVOR": "Further damage could be prevented by freezing one's core.",
+    "NAME": "嵌入机",
+    "FLAVOR": "这件遗物还没有说明。",
     "DESCRIPTIONS": [
-      "Every #b2 turns, gain #b1 Orb slot."
+      "每 #b2 回合，获得 #b1 个充能球栏位。"
     ]
   },
   "Cables": {
-    "NAME": "Gold-Plated Cables",
-    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
+    "NAME": "镀金缆线",
+    "FLAVOR": "“有意思！看来就连自动机器人也会有安慰剂效应。”——兰伟德",
     "DESCRIPTIONS": [
-      "Your rightmost Orb triggers its passive an additional time."
+      "你最右侧的充能球会额外触发一次被动效果。"
     ]
   },
   "Runic Capacitor": {
-    "NAME": "Runic Capacitor",
-    "FLAVOR": "More is better.",
+    "NAME": "符文电容器",
+    "FLAVOR": "多多益善。",
     "DESCRIPTIONS": [
-      "Start each combat with #b3 additional Orb slots."
+      "每场战斗开始时，获得 #b3 个额外充能球栏位。"
     ]
   },
   "Symbiotic Virus": {
-    "NAME": "Symbiotic Virus",
-    "FLAVOR": "A little bit bad of #rbad can do a lot of #ggood...",
+    "NAME": "共生病毒",
+    "FLAVOR": "小小的 #r麻烦 ，却可以带来大大的  #g益处 ……",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yDark."
+      "在每场战斗开始时， #y生成 #b1 个 #y黑暗 充能球。"
     ]
   }
 }

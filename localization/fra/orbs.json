@@ -1,39 +1,39 @@
 {
   "Dark": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, increase this Orb's damage by #b",
-      ". NL #yEvoke: Deal #b",
-      " damage to the enemy with lowest HP."
+      "#yPassif: À la fin du tour, augmente les dégâts de cet Orbe de #b",
+      ". NL #yActivation: Inflige #b",
+      " dégâts à l'ennemi qui a le moins de PV."
     ],
-    "NAME": "Dark"
+    "NAME": "Orbe Obscur"
   },
   "Empty": {
     "DESCRIPTION": [
-      "Orbs can be channeled into these slots."
+      "Les Orbes peuvent être canalisés dans ces emplacements."
     ],
-    "NAME": "Orb Slot"
+    "NAME": "Emplacement d'Orbe"
   },
   "Frost": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, gain #b",
-      " #yBlock. NL #yEvoke: Gain #b",
-      " #yBlock."
+      "#yPassif: À la fin du tour, gagnez #b",
+      " #yd'Armure. NL #yActivation: Gagnez #b",
+      " #yd'Armure."
     ],
-    "NAME": "Frost"
+    "NAME": "Orbe Glaciaire"
   },
   "Lightning": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, deal #b",
-      " damage to a random enemy. NL #yEvoke: Deal #b",
-      " damage to a random enemy."
+      "#yPassif: À la fin du tour, infligez #b",
+      " dégâts à un ennemi aléatoire. NL #yActivation: Infligez #b",
+      " dégâts à un ennemi aléatoire."
     ],
-    "NAME": "Lightning"
+    "NAME": "Orbe Kéraunique"
   },
   "Plasma": {
     "DESCRIPTION": [
-      "#yPassive: At the start of turn, gain [B] . NL #yEvoke: Gain #b",
-      " [B] . NL Plasma is unaffected by #yFocus."
+      "#yPassif: Au début du tour, gagnez [B] . NL #yActivation: Gagnez #b",
+      " [B] . NL Les Orbes Plasmiques ne sont pas affectés par la #yConcentration."
     ],
-    "NAME": "Plasma"
+    "NAME": "Orbe Plasmique"
   }
 }

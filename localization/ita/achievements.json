@@ -34,7 +34,7 @@
       "Ascensione 10",
       "Minimalista",
       "Ooh, Ciambella!",
-      "Sapphire"
+      "Zaffiro"
     ],
     "TEXT": [
       "Vinci un combattimento con 1 PV rimanente.",
@@ -59,7 +59,7 @@
       "Sconfiggi il Collezionista.",
       "Sconfiggi il Campione.",
       "Sconfiggi il Risvegliato.",
-      "Sconfiggi Donu & Deca.",
+      "Sconfiggi Donu e Deca.",
       "Sconfiggi il Mangiatempo",
       "Vinci con l'Ironclad.",
       "Vinci con la Silent.",
@@ -70,7 +70,7 @@
       "Vinci in modalità Ascensione 10.",
       "Vinci con 5 o meno carte.",
       "Uccidi Donu usando Banchetto.",
-      "Beat the game with the Defect."
+      "Vinci con il Defect."
     ]
   },
   "CharStat": {
@@ -108,7 +108,7 @@
       "#yObiettivi",
       "#rL'Ironclad",
       "#gLa #gSilent",
-      "#bCrowbot"
+      "#bIl #bDefect"
     ],
     "TEXT": [
       "Indietro"

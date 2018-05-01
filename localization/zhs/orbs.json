@@ -1,39 +1,39 @@
 {
   "Dark": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, increase this Orb's damage by #b",
-      ". NL #yEvoke: Deal #b",
-      " damage to the enemy with lowest HP."
+      "#y被动： 在你的回合结束时，将这个充能球的伤害增加 #b",
+      " 。 NL #y激发： 对生命值最低的敌人造成 #b",
+      " 点伤害。"
     ],
-    "NAME": "Dark"
+    "NAME": "黑暗"
   },
   "Empty": {
     "DESCRIPTION": [
-      "Orbs can be channeled into these slots."
+      "你可以在这些位置 生成 充能球。"
     ],
-    "NAME": "Orb Slot"
+    "NAME": "充能球栏位"
   },
   "Frost": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, gain #b",
-      " #yBlock. NL #yEvoke: Gain #b",
-      " #yBlock."
+      "#y被动： 在你的回合结束时，获得 #b",
+      " 点 #y格挡 。 NL #y激发： 获得 #b",
+      " 点 #y格挡 。"
     ],
-    "NAME": "Frost"
+    "NAME": "冰霜"
   },
   "Lightning": {
     "DESCRIPTION": [
-      "#yPassive: At the end of turn, deal #b",
-      " damage to a random enemy. NL #yEvoke: Deal #b",
-      " damage to a random enemy."
+      "#y被动： 在你的回合结束时，对一名随机敌人造成 #b",
+      " 点伤害。 NL #y激发： 对一名随机敌人造成 #b",
+      " 点伤害。"
     ],
-    "NAME": "Lightning"
+    "NAME": "闪电"
   },
   "Plasma": {
     "DESCRIPTION": [
-      "#yPassive: At the start of turn, gain [B] . NL #yEvoke: Gain #b",
-      " [B] . NL Plasma is unaffected by #yFocus."
+      "#y被动： 在你的回合开始时，获得 [B] 。 NL #y激发： 获得 #b",
+      " [B] 。 NL 等离子 充能球不受 #y集中 影响。"
     ],
-    "NAME": "Plasma"
+    "NAME": "等离子"
   }
 }

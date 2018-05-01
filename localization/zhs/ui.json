@@ -190,7 +190,7 @@
       "格挡",
       "铁甲战士",
       "静默猎手",
-      "火枪手"
+      "故障机器人"
     ]
   },
   "AbstractCreature": {
@@ -494,7 +494,7 @@
   "OptionsPanel": {
     "TEXT": [
       "",
-      "游戏菜单",
+      "游戏设置",
       "画面",
       "分辨率： NL 最大帧数：",
       "全屏模式 NL 无边框全屏（推荐） NL 屏幕震动",
@@ -513,7 +513,7 @@
       "NL NL 垂直同步",
       "测试玩家绘制画风模式",
       "显示快速选牌按键",
-      "Input Settings"
+      "操作设置"
     ]
   },
   "SettingsScreen": {
@@ -614,7 +614,7 @@
       "锁定",
       "这名角色需要打过一局游戏才能解锁。",
       "这名角色在抢先体验阶段还没有做完。",
-      "这名角色需要到达高塔顶部才能解锁。",
+      "这名角色需要用静默猎手打过一局游戏才能解锁。",
       "生命：",
       "金币：",
       " 组解锁内容还等待着你去解锁",
@@ -629,7 +629,7 @@
       "启程",
       "铁甲战士",
       "静默猎手",
-      "乌鸦机器人",
+      "故障机器人",
       "返回",
       "进阶",
       "等级 ",
@@ -823,7 +823,7 @@
     "TEXT": [
       "铁甲战士",
       "静默猎手",
-      "3rd Char. DO NOT TRANSLATE",
+      "故障机器人",
       "过去20局游戏的平均层数",
       "过去20局游戏的平均分数",
       "最多连胜",
@@ -889,7 +889,7 @@
     "TEXT": [
       "铁甲战士",
       "静默猎手",
-      "",
+      "故障机器人",
       "返回",
       "没有找到历史记录。 NL 还不去爬个塔先！",
       "进阶等级： ",
@@ -985,9 +985,9 @@
       "游戏设定",
       "",
       "改变游戏的分辨率和其他各种设定。",
-      "操作设定",
+      "操作设置",
       "",
-      "这个功能还没做好。",
+      "更改操作方式和快捷键。",
       "制作名单",
       "",
       "来看一看所有为游戏作出贡献的人们！",
@@ -1037,51 +1037,67 @@
   },
   "InputSettingsScreen": {
     "TEXT": [
-      "Input Settings",
-      "Game Settings",
-      "Return",
-      "Commands",
-      "Keyboard",
-      "Controller (Not Yet Available)",
-      "Reset to Default",
-      "Confirm",
-      "Cancel / Exit",
-      "Map",
-      "Master Deck",
-      "Draw Pile",
-      "Discard Pile",
-      "Exhaust Pile",
-      "End Turn",
-      "Left",
-      "Right",
-      "Select Card #1",
-      "Select Card #2",
-      "Select Card #3",
-      "Select Card #4",
-      "Select Card #5",
-      "Select Card #6",
-      "Select Card #7",
-      "Select Card #8",
-      "Select Card #9",
-      "Select Card #10"
+      "操作设置",
+      "游戏设置",
+      "返回",
+      "指令",
+      "键盘",
+      "控制器（目前还没有做好）",
+      "重置为默认",
+      "确认",
+      "取消/退出",
+      "地图",
+      "牌组",
+      "抽牌堆",
+      "弃牌堆",
+      "消耗堆",
+      "结束回合",
+      "左",
+      "右",
+      "选择牌 #1",
+      "选择牌 #2",
+      "选择牌 #3",
+      "选择牌 #4",
+      "选择牌 #5",
+      "选择牌 #6",
+      "选择牌 #7",
+      "选择牌 #8",
+      "选择牌 #9",
+      "选择牌 #10"
     ]
   },
   "InputKeyNames": {
     "TEXT_DICT": {
       "Escape": "ESC",
       "Forward Delete": "Delete",
-      "Delete": "Backspace"
+      "Delete": "Backspace（退格键）"
     }
   },
   "ReprogramAction": {
     "TEXT": [
-      "Discard"
+      "丢弃"
     ]
   },
   "CacheAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile.",
-      "Choose Cards to Put on Top of Your Draw Pile."
+      "选择一张牌放到你抽牌堆的顶端。",
+      "选择将牌放到你抽牌堆的顶端。"
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Exhaust"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Choose a card to Add to Your Hand",
+      "Choose cards to Add to Your Hand"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "That enemy intends to attack!"
     ]
   }
 }

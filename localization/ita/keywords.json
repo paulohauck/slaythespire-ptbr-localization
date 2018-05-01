@@ -20,6 +20,13 @@
       ],
       "DESCRIPTION": "Le Maledizioni sono carte con effetto negativo che rimangono nel tuo mazzo."
     },
+    "EVOKE": {
+      "NAMES": [
+        "evoca",
+        "evocato"
+      ],
+      "DESCRIPTION": "Consuma il tuo Globo più a destra e usa i suoi effetti di Evocazione."
+    },
     "DEXTERITY": {
       "NAMES": [
         "destrezza"
@@ -30,7 +37,7 @@
       "NAMES": [
         "eterea"
       ],
-      "DESCRIPTION": "Se questa carta è nella tua mano alla fine del turno, viene esaurita. Le carte esaurite vengono rimosse dal mazzo per il combattimento."
+      "DESCRIPTION": "Se questa carta è nella tua mano a fine turno, viene esaurita. Le carte esaurite vengono rimosse dal mazzo per il combattimento."
     },
     "EXHAUST": {
       "NAMES": [
@@ -40,7 +47,7 @@
         "esaurire",
         "esauriscono"
       ],
-      "DESCRIPTION": "Rimossa fino alla fine del combattimento."
+      "DESCRIPTION": "Rimossa dal mazzo per questo combattimento."
     },
     "INNATE": {
       "NAMES": [
@@ -48,24 +55,36 @@
       ],
       "DESCRIPTION": "Inizia ogni combattimento con questa carta in mano."
     },
+    "FOCUS": {
+      "NAMES": [
+        "focus"
+      ],
+      "DESCRIPTION": "Il Focus aumenta l'efficacia dei Globi #yCanalizzati."
+    },
     "LOCKED": {
       "NAMES": [
         "bloccata"
       ],
       "DESCRIPTION": "Questa carta deve essere ancora sbloccata."
     },
+    "OPENER": {
+      "NAMES": [
+        "apertura"
+      ],
+      "DESCRIPTION": "Le carte d'apertura possono essere giocate soltanto come prima carta in ogni turno."
+    },
     "POISON": {
       "NAMES": [
         "veleno",
         "avvelenato"
       ],
-      "DESCRIPTION": "Le creature Avvelenate perdono PV all'inizio del loro turno. Ogni turno, il Veleno viene ridotto di #b1."
+      "DESCRIPTION": "Prima di agire le creature Avvelenate perdono PV. Ogni turno, il Veleno viene ridotto di #b1."
     },
     "RETAIN": {
       "NAMES": [
         "conserva"
       ],
-      "DESCRIPTION": "Le carte Conservate non vengono scartate alla fine del turno."
+      "DESCRIPTION": "Le carte che Conservi non vengono scartate a fine turno."
     },
     "SHIV": {
       "NAMES": [
@@ -78,13 +97,13 @@
       "NAMES": [
         "stato"
       ],
-      "DESCRIPTION": "Le carte Stato vengono rimosse alla fine del combattimento."
+      "DESCRIPTION": "Le carte Stato vengono rimosse a fine combattimento."
     },
     "STRENGTH": {
       "NAMES": [
         "forza"
       ],
-      "DESCRIPTION": "La Forza aggiunge danno addizionale agli attacchi."
+      "DESCRIPTION": "La Forza aggiunge danno agli attacchi."
     },
     "TRANSFORM": {
       "NAMES": [
@@ -111,11 +130,18 @@
       ],
       "DESCRIPTION": "Potenziare le carte le rende più forti. Le carte possono solo essere potenziate una volta."
     },
+    "VOID": {
+      "NAMES": [
+        "vuoto",
+        "vuoti"
+      ],
+      "DESCRIPTION": "I vuoti sono carte di stato ingiocabili che consumano energiano quando vengono pescate."
+    },
     "VULNERABLE": {
       "NAMES": [
         "vulnerabile"
       ],
-      "DESCRIPTION": "Le creature Vulnerabili prendono il #b50% in più di danno dagli Attacchi."
+      "DESCRIPTION": "Le creature Vulnerabili prendono il #b50% di danno in più dagli Attacchi."
     },
     "WEAK": {
       "NAMES": [
@@ -124,7 +150,7 @@
         "weakened",
         "weakens"
       ],
-      "DESCRIPTION": "Le creature Deboli infliggono il #b25% in meno di danno con gli Attacchi."
+      "DESCRIPTION": "Il danno inflitto da attacchi di creature Deboli è ridotto del #b25%."
     },
     "WOUND": {
       "NAMES": [
@@ -164,6 +190,49 @@
       ],
       "DESCRIPTION": "Il costo delle carte cambia in maniera casuale quando le peschi."
     },
+    "INTANGIBLE": {
+      "NAMES": [
+        "intangibile"
+      ],
+      "DESCRIPTION": "Riduce TUTTO il danno e la perdita di HP ad #b1."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "fulmine",
+        "fulmine+"
+      ],
+      "DESCRIPTION": "Globo: infligge danni a un nemico casuale."
+    },
+    "FROST": {
+      "NAMES": [
+        "ghiaccio",
+        "ghiaccio+"
+      ],
+      "DESCRIPTION": "Globo: Ottieni #yBlocco."
+    },
+    "DARK": {
+      "NAMES": [
+        "oscurità",
+        "oscurità+"
+      ],
+      "DESCRIPTION": "Globo: Incrementa il proprio danno da evocazione ogni turno. Quando viene #yEvocata infligge  il proprio danno al nemico con meno PV."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Globo: Ottieni Energia."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "canalizza",
+        "canalizzato",
+        "canalizzi",
+        "canalizzati"
+      ],
+      "DESCRIPTION": "Canalizzare crea un Globo che si sposta nel tuo primo spazio vuoto. Se non ci sono spazi vuoti, il tuo primo Globo (a destra) sarà immediatamente #yEvocato per fare spazio."
+    },
     "TODO": {
       "NAMES": [
         "todo",
@@ -176,73 +245,6 @@
     },
     "TEXT": [
       "L'Energia viene usata per giocare carte dalla tua mano."
-    ],
-    "INTANGIBLE": {
-      "NAMES": [
-        "intangible"
-      ],
-      "DESCRIPTION": "Reduce ALL damage taken and HP loss to #b1."
-    },
-    "VOID": {
-      "NAMES": [
-        "void",
-        "voids"
-      ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
-    },
-    "FOCUS": {
-      "NAMES": [
-        "focus"
-      ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
-    },
-    "EVOKE": {
-      "NAMES": [
-        "evoke",
-        "evoked"
-      ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
-    },
-    "PLASMA": {
-      "NAMES": [
-        "plasma",
-        "plasma+"
-      ],
-      "DESCRIPTION": "Orb: Gains Energy."
-    },
-    "CHANNEL": {
-      "NAMES": [
-        "channel",
-        "channeled"
-      ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
-    },
-    "DARK": {
-      "NAMES": [
-        "dark",
-        "dark+"
-      ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
-    },
-    "OPENER": {
-      "NAMES": [
-        "opener"
-      ],
-      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
-    },
-    "LIGHTNING": {
-      "NAMES": [
-        "lightning",
-        "lightning+"
-      ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
-    },
-    "FROST": {
-      "NAMES": [
-        "frost",
-        "frost+"
-      ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
-    }
+    ]
   }
 }

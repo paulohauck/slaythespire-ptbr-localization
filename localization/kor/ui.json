@@ -100,7 +100,7 @@
   },
   "SetupAction": {
     "TEXT": [
-      "뽑을 카드 더미의 가장 위에 놓습니다."
+      "뽑을 카드 더미의 가장 위에 놓을 카드를 선택하십시오."
     ]
   },
   "SkillFromDeckToHandAction": {
@@ -207,7 +207,7 @@
       "방어됨",
       "아이언클래드",
       "사일런트",
-      "거너"
+      "디펙트"
     ]
   },
   "AbstractCreature": {
@@ -511,7 +511,7 @@
   "OptionsPanel": {
     "TEXT": [
       "",
-      "게임 메뉴",
+      "게임 설정",
       "그래픽",
       "해상도: NL 최대 프레임:",
       "전체화면 NL 경계선 없는 전체화면 (추천) NL 화면 흔들림",
@@ -527,10 +527,10 @@
       "게임 플레이 정보를 업로드 #b(?)",
       "게임 종료",
       "저장 후 종료",
-      "NL NL VSync",
+      "NL NL 수직 동기화",
       "플레이 테스터용 아트모드",
       "빠른 카드 선택 키 보기",
-      "Input Settings"
+      "입력 설정"
     ]
   },
   "SettingsScreen": {
@@ -631,7 +631,7 @@
       "잠김",
       "게임을 한 번 플레이하면 해금되는 캐릭터입니다.",
       "얼리 엑세스에는 추가되지 않은 캐릭터입니다.",
-      "탑을 끝까지 오르는 것에 성공하면 해금되는 캐릭터입니다.",
+      "사일런트로 도전을 성공하면 해금되는 캐릭터입니다.",
       "체력: ",
       "골드: ",
       " 번의 해금이 남았습니다",
@@ -646,7 +646,7 @@
       "출정",
       "아이언클래드",
       "사일런트",
-      "크로우봇",
+      "디펙트",
       "뒤로",
       "승천 모드 ",
       "단계",
@@ -828,7 +828,7 @@
     "TEXT": [
       "아이언클래드",
       "사일런트",
-      "3rd Char. DO NOT TRANSLATE",
+      "디펙트",
       "평균 층 도달 (최근 20번의 도전)",
       "평균 점수 (최근 20번의 도전)",
       "최고 연승",
@@ -889,7 +889,7 @@
     "TEXT": [
       "아이언클래드",
       "사일런트",
-      "",
+      "디펙트",
       "돌아가기",
       "도전 이력을 찾을 수 없습니다. NL 첨탑을 등반하세요!",
       "승천 단계 : ",
@@ -1037,51 +1037,67 @@
   },
   "InputSettingsScreen": {
     "TEXT": [
-      "Input Settings",
-      "Game Settings",
-      "Return",
-      "Commands",
-      "Keyboard",
-      "Controller (Not Yet Available)",
-      "Reset to Default",
-      "Confirm",
-      "Cancel / Exit",
-      "Map",
-      "Master Deck",
-      "Draw Pile",
-      "Discard Pile",
-      "Exhaust Pile",
-      "End Turn",
-      "Left",
-      "Right",
-      "Select Card #1",
-      "Select Card #2",
-      "Select Card #3",
-      "Select Card #4",
-      "Select Card #5",
-      "Select Card #6",
-      "Select Card #7",
-      "Select Card #8",
-      "Select Card #9",
-      "Select Card #10"
+      "입력 설정",
+      "게임 설정",
+      "돌아가기",
+      "명령어",
+      "키보드",
+      "콘솔 컨트롤러 (아직 미구현)",
+      "기본 설정으로",
+      "확인",
+      "취소 / 나가기",
+      "지도",
+      "전체 덱",
+      "뽑을 카드 더미",
+      "버린 카드 더미",
+      "소멸된 카드 더미",
+      "턴 종료",
+      "왼쪽",
+      "오른쪽",
+      "1번째 카드 선택",
+      "2번째 카드 선택",
+      "3번째 카드 선택",
+      "4번째 카드 선택",
+      "5번째 카드 선택",
+      "6번째 카드 선택",
+      "7번째 카드 선택",
+      "8번째 카드 선택",
+      "9번째 카드 선택",
+      "10번째 카드 선택"
     ]
   },
   "InputKeyNames": {
     "TEXT_DICT": {
       "Escape": "ESC",
       "Forward Delete": "Delete",
-      "Delete": "Backspace"
+      "Delete": "백스페이스"
     }
   },
   "ReprogramAction": {
     "TEXT": [
-      "Discard"
+      "버리기"
     ]
   },
   "CacheAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile.",
-      "Choose Cards to Put on Top of Your Draw Pile."
+      "뽑을 카드 더미의 가장 위에 놓을 카드를 선택하십시오.",
+      "뽑을 카드 더미의 가장 위에 놓을 카드들을 선택하십시오."
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Exhaust"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Choose a card to Add to Your Hand",
+      "Choose cards to Add to Your Hand"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "That enemy intends to attack!"
     ]
   }
 }

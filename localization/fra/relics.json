@@ -1083,68 +1083,68 @@
       "Lorsque vous recevez une #yMalédiction, augmentez vos PV Max de #b"
     ]
   },
+  "Cracked Core": {
+    "NAME": "Cœur fissuré",
+    "FLAVOR": "La mystérieuse forme vitale qui alimente le robot de combat dans la Tour. Il parrait fissurée.",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, #yCanalisez #b1 #yOrbe #yKéraunique."
+    ]
+  },
+  "Inserter": {
+    "NAME": "Bras robotisé",
+    "FLAVOR": "Manquant.",
+    "DESCRIPTIONS": [
+      "Tous les #b2 tours, gagnez #b1 emplacement d'Orbe."
+    ]
+  },
   "Emotion Chip": {
     "NAME": "Emotion Chip",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
-    ]
-  },
-  "Cracked Core": {
-    "NAME": "Cracked Core",
-    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
-    "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yLightning."
+      "Au début de chaque tour, si vous avez subi des dégâts au tour précédent, déclenche la capacité passive de TOUS vos Orbes."
     ]
   },
   "Runic Capacitor": {
-    "NAME": "Runic Capacitor",
-    "FLAVOR": "More is better.",
+    "NAME": "Condensateur runique",
+    "FLAVOR": "Plus on fait, mieux c'est.",
     "DESCRIPTIONS": [
-      "Start each combat with #b3 additional Orb slots."
-    ]
-  },
-  "Cables": {
-    "NAME": "Gold-Plated Cables",
-    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
-    "DESCRIPTIONS": [
-      "Your rightmost Orb triggers its passive an additional time."
-    ]
-  },
-  "Inserter": {
-    "NAME": "Inserter",
-    "FLAVOR": "Further damage could be prevented by freezing one's core.",
-    "DESCRIPTIONS": [
-      "Every #b2 turns, gain #b1 Orb slot."
-    ]
-  },
-  "Symbiotic Virus": {
-    "NAME": "Symbiotic Virus",
-    "FLAVOR": "A little bit bad of #rbad can do a lot of #ggood...",
-    "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yDark."
+      "Débutez chaque combat avec #b3 emplacements d'Orbe supplémentaires."
     ]
   },
   "Turnip": {
-    "NAME": "Turnip",
-    "FLAVOR": "Best with Ginger.",
+    "NAME": "Navet",
+    "FLAVOR": "Meilleur avec du gimgembre.",
     "DESCRIPTIONS": [
-      "You can no longer become #yFrail."
-    ]
-  },
-  "DataDisk": {
-    "NAME": "Data Disk",
-    "FLAVOR": "This disk contains precious data on birds and snakes.",
-    "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
-      " #yFocus."
+      "Vous ne pouvez plus devenir #yFrêle."
     ]
   },
   "Nuclear Battery": {
-    "NAME": "Nuclear Battery",
+    "NAME": "Batterie nucléaire",
     "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yPlasma."
+      "Au début de chaque combat, #yCanalisez #b1 #yOrbe #yPlasmique."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Virus symbiotique",
+    "FLAVOR": "Un peu de #douleur peut faire beaucoup de #gbien...",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, #yCanalisez #b1 #Orbe #Obscur."
+    ]
+  },
+  "Cables": {
+    "NAME": "Cable plaqué-or",
+    "FLAVOR": "\"Intéressant! Même les robots de combat sont affecté par l'effet placebo.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Votre Orbe le plus à droite déclenche sa capacité passive une fois supplémentaire."
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Disque dur",
+    "FLAVOR": "Ce disque dur contient de précieuses informations sur les oiseaux et les serpents.",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, gagnez #b",
+      " #yConcentration."
     ]
   }
 }

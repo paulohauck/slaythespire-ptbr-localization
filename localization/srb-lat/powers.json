@@ -488,7 +488,7 @@
   "Regenerate": {
     "NAME": "Regeneracija",
     "DESCRIPTIONS": [
-      "Zaceljuje #b",
+      "Zalečuje #b",
       " #yz. #yp. na kraju svog poteza."
     ]
   },
@@ -741,6 +741,45 @@
       " )."
     ]
   },
+  "Hello": {
+    "NAME": "Hello",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      " random Common cards to your hand.",
+      " random Common card to your hand."
+    ]
+  },
+  "Loop": {
+    "NAME": "Loop",
+    "DESCRIPTIONS": [
+      "At the start of your turn, use the passive ability of your next Orb.",
+      "At the start of your turn, use the passive ability of your next #b",
+      " Orbs."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Static Discharge",
+    "DESCRIPTIONS": [
+      "When receiving #yAttack damage, #yChannel #b",
+      " #yLightning."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Machine Learning",
+    "DESCRIPTIONS": [
+      "Draw #b",
+      " additional card at the start of each turn.",
+      " additional cards at the start of each turn."
+    ]
+  },
+  "Prime": {
+    "NAME": "Prime",
+    "DESCRIPTIONS": [
+      "Whenever you #yChannel an Orb, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
   "Heatsink": {
     "NAME": "Heatsink",
     "DESCRIPTIONS": [
@@ -749,34 +788,26 @@
       " cards."
     ]
   },
-  "Repair": {
-    "NAME": "Repair",
+  "No Attack": {
+    "NAME": "No Attack",
     "DESCRIPTIONS": [
-      "At the end of combat, heal #b",
-      " HP."
+      "You cannot play #yAttacks this turn."
     ]
   },
-  "Storm": {
-    "NAME": "Storm",
+  "Echo Form": {
+    "NAME": "Echo Form",
     "DESCRIPTIONS": [
-      "Whenever you play a #bPower, #yChannel #b ",
-      " Lightning."
+      "The first card you play each turn is played #b",
+      " extra time.",
+      " extra times."
     ]
   },
-  "Focus": {
-    "NAME": "Focus",
+  "Rebound": {
+    "NAME": "Rebound",
     "DESCRIPTIONS": [
-      "Increases the effectiveness of Orbs by #b",
-      "Decreases the effectiveness of Orbs by #b",
-      "."
-    ]
-  },
-  "Conserve": {
-    "NAME": "Conserve",
-    "DESCRIPTIONS": [
-      "#yEnergy is conserved this turn.",
-      "#yEnergy is conserved for the next #b",
-      " turns."
+      "The next card you play this turn is placed on top of your draw pile.",
+      "The next #b",
+      " cards you play this turn are placed on top of your draw pile."
     ]
   },
   "Magnetism": {
@@ -793,6 +824,13 @@
       " #yFocus."
     ]
   },
+  "Storm": {
+    "NAME": "Storm",
+    "DESCRIPTIONS": [
+      "Whenever you play a #bPower, #yChannel #b ",
+      " Lightning."
+    ]
+  },
   "Creative AI": {
     "NAME": "Creative AI",
     "DESCRIPTIONS": [
@@ -800,10 +838,35 @@
       " random Power card into your hand."
     ]
   },
-  "No Attack": {
-    "NAME": "No Attack",
+  "Primitive": {
+    "NAME": "Primitive",
     "DESCRIPTIONS": [
-      "You cannot play #yAttacks this turn."
+      "Whenever you play a Common card, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Repair": {
+    "NAME": "Repair",
+    "DESCRIPTIONS": [
+      "At the end of combat, heal #b",
+      " HP."
+    ]
+  },
+  "Conserve": {
+    "NAME": "Conserve",
+    "DESCRIPTIONS": [
+      "#yEnergy is conserved this turn.",
+      "#yEnergy is conserved for the next #b",
+      " turns."
+    ]
+  },
+  "Focus": {
+    "NAME": "Focus",
+    "DESCRIPTIONS": [
+      "Increases the effectiveness of Orbs by #b",
+      "Decreases the effectiveness of Orbs by #b",
+      "."
     ]
   },
   "Amplify": {
@@ -822,67 +885,10 @@
       " times you would lose HP."
     ]
   },
-  "Rebound": {
-    "NAME": "Rebound",
+  "Lockon": {
+    "NAME": "Lock-On",
     "DESCRIPTIONS": [
-      "The next card you play this turn is placed on top of your draw pile.",
-      "The next #b",
-      " cards you play this turn are placed on top of your draw pile."
-    ]
-  },
-  "StaticDischarge": {
-    "NAME": "Static Discharge",
-    "DESCRIPTIONS": [
-      "When receiving #yAttack damage, #yChannel #b",
-      " #yLightning."
-    ]
-  },
-  "Machine Learning": {
-    "NAME": "Machine Learning",
-    "DESCRIPTIONS": [
-      "Draw #b",
-      " additional card at the start of each turn.",
-      " additional cards at the start of each turn."
-    ]
-  },
-  "Echo Form": {
-    "NAME": "Echo Form",
-    "DESCRIPTIONS": [
-      "The first card you play each turn is played #b",
-      " extra time.",
-      " extra times."
-    ]
-  },
-  "Prime": {
-    "NAME": "Prime",
-    "DESCRIPTIONS": [
-      "Whenever you #yChannel an Orb, draw #b",
-      " card.",
-      " cards."
-    ]
-  },
-  "Loop": {
-    "NAME": "Loop",
-    "DESCRIPTIONS": [
-      "At the start of your turn, use the passive ability of your next Orb.",
-      "At the start of your turn, use the passive ability of your next #b",
-      " Orbs."
-    ]
-  },
-  "Primitive": {
-    "NAME": "Primitive",
-    "DESCRIPTIONS": [
-      "Whenever you play a Common card, draw #b",
-      " card.",
-      " cards."
-    ]
-  },
-  "Hello": {
-    "NAME": "Hello",
-    "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Common cards to your hand.",
-      " random Common card to your hand."
+      "#yLightning and #yDark Orbs target this enemy."
     ]
   }
 }

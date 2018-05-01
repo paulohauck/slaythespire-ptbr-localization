@@ -26,18 +26,18 @@
     ]
   },
   "Bag of Marbles": {
-    "NAME": "Beutel Murmeln",
+    "NAME": "Murmelsack",
     "FLAVOR": "Ein einst beliebtes Spielzeug in der Stadt. Nützlich, um Gegner aus dem Gleichgewicht zu bringen.",
     "DESCRIPTIONS": [
-      "Du wendest zu Beginn jedes Kampfes #b",
-      " #yVerletzlich bei ALLEN Gegnern an."
+      "Wende zu Beginn jedes Kampfes #b",
+      " #yVerwundbar bei ALLEN Gegnern an."
     ]
   },
   "Bag of Preparation": {
     "NAME": "Tasche der Vorbereitung",
     "FLAVOR": "Übergroßer Abenteurerrucksack. Mit vielen Taschen und Riemen.",
     "DESCRIPTIONS": [
-      "Zu Beginn jedes Kampfes ziehst du #b",
+      "Wenn der Kampf beginnt, ziehe #b",
       " zusätzliche Karten."
     ]
   },
@@ -154,7 +154,7 @@
     "NAME": "Jahrhunderträtsel",
     "FLAVOR": "Du löst das Rätsel und deine Brust wird von einer starken Wärme erfüllt.",
     "DESCRIPTIONS": [
-      "Das erste Mal, wenn du in einem Kampf TP verlierst, ziehst du #b",
+      "Das erste Mal, wenn du in einem Kampf TP verlierst, ziehe #b",
       " Karten."
     ]
   },
@@ -169,7 +169,7 @@
     "NAME": "Championgürtel",
     "FLAVOR": "Nur die Größten dürfen diesen Gürtel tragen.",
     "DESCRIPTIONS": [
-      "Immer wenn du #yVerletzlich anwendest, wendest du auch #b",
+      "Immer wenn du #yVerwundbar anwendest, wendest du auch #b",
       " #ySchwach an."
     ]
   },
@@ -306,7 +306,7 @@
     "NAME": "Ingwer",
     "FLAVOR": "Eine wirkungsvolle Zutat in vielen Stärkungsmitteln.",
     "DESCRIPTIONS": [
-      "Du kannst nicht mehr #yGeschwächt werden."
+      "Du kannst nicht mehr #ySchwach werden."
     ]
   },
   "Girya": {
@@ -327,15 +327,15 @@
     "NAME": "Gremlinhorn",
     "FLAVOR": "„Gremlin-Aristos können bis zu ihrem Todestag wachsen. Bemerkenswert.“ – Ranwid",
     "DESCRIPTIONS": [
-      "Immer wenn ein Gegner stirbt, erhältst du ",
-      "[R] and du ziehst #b1 Karte.",
-      "[R] and du ziehst #b1 Karte.",
-      "[R] and du ziehst #b1 Karte."
+      "Immer wenn ein Gegner stirbt, erhalte ",
+      "[R] und ziehe #b1 Karte.",
+      "[R] und ziehe #b1 Karte.",
+      "[R] und ziehe #b1 Karte."
     ]
   },
   "Happy Flower": {
-    "NAME": "Glückliche Blume",
-    "FLAVOR": "Diese immerfort fröhliche Pflanze ist seit Neuestem äußerst beliebt beim Adel.",
+    "NAME": "Fröhliche Blume",
+    "FLAVOR": "Diese immerfort lachende Pflanze ist seit Neuestem äußerst beliebt beim Adel.",
     "DESCRIPTIONS": [
       "Alle #b",
       " Züge erhältst du [R] .",
@@ -505,7 +505,7 @@
     "FLAVOR": "Enthält die Geheimnisse der Assassinen.",
     "DESCRIPTIONS": [
       "Du beginnst jeden Kampf mit #b",
-      " #yKlingen auf deiner Hand."
+      " #yMesser auf deiner Hand."
     ]
   },
   "Nloth's Gift": {
@@ -534,7 +534,7 @@
     "NAME": "Seltsamer Pilz",
     "FLAVOR": "„Nachdem ich den Trichella-Parasiten verzehrt hatte, fühlte ich mich größer und weniger … anfällig.“ – Ranwid ",
     "DESCRIPTIONS": [
-      "Bei #yVerletzlich erleidest du statt #b50% #b25% mehr Schaden."
+      "Bei #yVerwundbar erleidest du statt #b50% #b25% mehr Schaden."
     ]
   },
   "Old Coin": {
@@ -604,7 +604,7 @@
     "NAME": "Papierphrosch",
     "FLAVOR": "Das Papier faltet sich unentwegt in Form einer kleinen Kreatur und faltet sich dann wieder auseinander.",
     "DESCRIPTIONS": [
-      "Gegner mit #yVerletzlich erleiden statt #b50% #b75% mehr Schaden."
+      "Gegner mit #yVerwundbar erleiden statt #b50% #b75% mehr Schaden."
     ]
   },
   "Peace Pipe": {
@@ -693,7 +693,7 @@
     "NAME": "Runischer Würfel",
     "FLAVOR": "Die Runen sind nicht entzifferbar.",
     "DESCRIPTIONS": [
-      "Immer wenn du TP verlierst, ziehst du #b",
+      "Immer wenn du TP verlierst, ziehe #b",
       " Karte.",
       ""
     ]
@@ -712,7 +712,7 @@
     "NAME": "Runische Pyramide",
     "FLAVOR": "Die Runen sind nicht entzifferbar.",
     "DESCRIPTIONS": [
-      "Am Ende deines Zuges wirfst du deine Hand nicht mehr ab. NL Du ziehst am Anfang deines Zuges #b",
+      "Am Ende deines Zuges wirfst du deine Hand nicht mehr ab. NL Ziehe zu Beginn deines Zuges #b",
       " Karte weniger."
     ]
   },
@@ -759,7 +759,7 @@
     "NAME": "Schlangenring",
     "FLAVOR": "Gefertigt aus einer versteinerten Schlange. Dies zeugt von großem Jägertalent.",
     "DESCRIPTIONS": [
-      "Zu Beginn jedes Kampfes ziehst du #b",
+      "Wenn ein Kampf beginnt, ziehe #b",
       " zusätzliche Karten."
     ]
   },
@@ -767,7 +767,7 @@
     "NAME": "Snecko-Auge",
     "FLAVOR": "Das Auge eines gefallenen Sneckos. Viel größer, als du dir gedacht hättest.",
     "DESCRIPTIONS": [
-      "Du ziehst bei jedem Zug #b2 zusätzliche Karten. Du beginnst jeden Kampf mit #yVerwirrt."
+      "Ziehe bei jedem Zug #b2 zusätzliche Karten. Beginne jeden Kampf mit #yVerwirrt."
     ]
   },
   "Snake Skull": {
@@ -783,9 +783,9 @@
     "FLAVOR": "Du merkst, wie magische Flüssigkeiten in der Nähe dieses Relikts die Wirkung verlieren.",
     "DESCRIPTIONS": [
       " Du kannst keine Tränke mehr aufnehmen. ",
-      "Zu Beginn jedes Zuges erhältst du [R] .",
-      "Zu Beginn jedes Zuges erhältst du [G] .",
-      "Zu Beginn jedes Zuges erhältst du [B] ."
+      "Wenn jeder Zug beginnt, erhalte [R] .",
+      "Wenn jeder Zug beginnt, erhalte du [G] .",
+      "Wenn jeder Zug beginnt, erhalte [B] ."
     ]
   },
   "Spirit Poop": {
@@ -823,9 +823,9 @@
     "NAME": "Uraltes Teeservice",
     "FLAVOR": "Unerlässlich für entspannten Schlaf.",
     "DESCRIPTIONS": [
-      "Immer wenn du an einen Ruheort kommst, beginnst du den nächsten Kampf mit [R] [R] .",
-      "Immer wenn du an einen Ruheort kommst, beginnst du den nächsten Kampf mit [G] [G] .",
-      "Immer wenn du an einen Ruheort kommst, beginnst du den nächsten Kampf mit [B] [B] ."
+      "Immer wenn du an einen Ruheort kommst, beginne den nächsten Kampf mit [R] [R] .",
+      "Immer wenn du an einen Ruheort kommst, beginne den nächsten Kampf mit [G] [G] .",
+      "Immer wenn du an einen Ruheort kommst, beginne den nächsten Kampf mit [B] [B] ."
     ]
   },
   "Test 1": {
@@ -856,7 +856,7 @@
     "NAME": "Test 4",
     "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
     "DESCRIPTIONS": [
-      "Zu Beginn des Kampfes sind die Kosten aller #ySchlagkarten #b0."
+      "Zu Beginn jedes Kampfes sind die Kosten aller #ySchlagkarten #b0."
     ]
   },
   "Test 5": {
@@ -887,7 +887,7 @@
     "NAME": "Test 8",
     "FLAVOR": "Testrelikt für die geschlossene Beta-Phase. Wenn es dir gefällt, sag den Entwicklern Bescheid.",
     "DESCRIPTIONS": [
-      "Du ziehst bei jedem Zug #b2 zusätzliche Karten. Du beginnst jeden Kampf mit #yVerwirrt."
+      "Ziehe bei jedem Zug #b2 zusätzliche Karten. Beginne jeden Kampf mit #yVerwirrt."
     ]
   },
   "The Specimen": {
@@ -901,7 +901,7 @@
     "NAME": "Nadel und Faden",
     "FLAVOR": "Der magische Faden umhüllt deinen Körper und verleiht dir eine harte Schale.",
     "DESCRIPTIONS": [
-      "Du erhältst zu Beginn jedes Kampfes #b",
+      "Zu Beginn jedes Kampfes erhalte #b",
       " #yPanzerrüstung."
     ]
   },
@@ -936,7 +936,7 @@
     "NAME": "Werkzeugkiste",
     "FLAVOR": "Ein Werkzeug für jedes Problem.",
     "DESCRIPTIONS": [
-      "Zu Beginn jedes Kampfes fügst du eine zufällige farblose Karte deiner Hand hinzu."
+      "Zu Beginn jedes Kampfes erhalte eine zufällige farblose Karte auf deine Hand."
     ]
   },
   "Torii": {
@@ -975,14 +975,14 @@
     "NAME": "Immerdrehender Kreisel",
     "FLAVOR": "Der Kreisel dreht sich mühelos immer weiter, als würdest du träumen.",
     "DESCRIPTIONS": [
-      "Immer wenn du keine Karten auf der Hand hast, ziehst du eine Karte."
+      "Immer wenn du keine Karten auf der Hand hast, ziehe eine Karte."
     ]
   },
   "Vajra": {
     "NAME": "Vajra",
     "FLAVOR": "Ein dekoratives Relikt für Krieger, die sich im Kampf als ruhmreich erweisen.",
     "DESCRIPTIONS": [
-      "Du erhältst zu Beginn jedes Kampfes #b",
+      "Zu Beginn jedes Kampfes erhalte #b",
       " #yStärke."
     ]
   },
@@ -992,9 +992,9 @@
     "DESCRIPTIONS": [
       "Du kannst max. #b",
       " Karten pro Zug ausspielen.",
-      "Zu Beginn jedes Zuges erhältst du [R] . ",
-      "Zu Beginn jedes Zuges erhältst du [G] . ",
-      "Zu Beginn jedes Zuges erhältst du [B] . ",
+      "Wenn jeder Zug beginnt, erhalte [R] . ",
+      "Wenn jeder Zug beginnt, erhalte [G] . ",
+      "Wenn jeder Zug beginnt, erhalte [B] . ",
       "Ausspielen kann ich nur bis zu NL #r"
     ]
   },
@@ -1018,7 +1018,7 @@
     "NAME": "Derp-Stein",
     "FLAVOR": "Platzhalter",
     "DESCRIPTIONS": [
-      "Zu Beginn jedes Zuges erhältst du #b",
+      "Wenn jeder Zug beginnt, erhalte #b",
       " Ladung. NL (Kann nicht entfernt oder transformiert werden.)"
     ]
   },
@@ -1043,8 +1043,8 @@
     "DESCRIPTIONS": [
       "Wähle bei Aufnahme eine Machtkarte. Bei Beginn jedes Kampfes wird diese sich in deiner Hand befinden.",
       "Wähle eine Karte für ",
-      "Bei Beginn jedes Kampfes füge ",
-      " deiner Hand hinzu."
+      "Zu Beginn jedes Kampfes erhalte ",
+      " auf deine Hand."
     ]
   },
   "War Paint": {
@@ -1084,67 +1084,67 @@
     ]
   },
   "Cables": {
-    "NAME": "Gold-Plated Cables",
-    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
+    "NAME": "Gold-Beschichtete Kabel",
+    "FLAVOR": "\"Interessant! Sogar Automatone sind vom Placebo-Effekt betroffen.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Your rightmost Orb triggers its passive an additional time."
+      "Dein ganz rechter Orb aktiviert seinen passiven Effekt ein weiteres Mal."
     ]
   },
   "Turnip": {
-    "NAME": "Turnip",
-    "FLAVOR": "Best with Ginger.",
+    "NAME": "Rübe",
+    "FLAVOR": "Am Besten mit Ingwer.",
     "DESCRIPTIONS": [
-      "You can no longer become #yFrail."
+      "Du kannst nicht mehr #ygebrechlich werden."
     ]
   },
   "Inserter": {
-    "NAME": "Inserter",
-    "FLAVOR": "Further damage could be prevented by freezing one's core.",
+    "NAME": "Greifarm",
+    "FLAVOR": "Fehlt.",
     "DESCRIPTIONS": [
-      "Every #b2 turns, gain #b1 Orb slot."
+      "Alle #b2 Züge, erhalte #b1 Orb-Slot."
     ]
   },
   "Nuclear Battery": {
-    "NAME": "Nuclear Battery",
+    "NAME": "Nuklearbatterie",
     "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yPlasma."
+      "Zu Beginn jedes Kampfes #yerschaffe #b1 #yPlasma."
     ]
   },
   "Runic Capacitor": {
-    "NAME": "Runic Capacitor",
-    "FLAVOR": "More is better.",
+    "NAME": "Runischer Kondensator",
+    "FLAVOR": "Mehr hilft mehr.",
     "DESCRIPTIONS": [
-      "Start each combat with #b3 additional Orb slots."
+      "Beginne jeden Kampf mit #b3 zusätzlichen Orb-Slots."
     ]
   },
   "Emotion Chip": {
-    "NAME": "Emotion Chip",
+    "NAME": "Gefühlschip",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
+      "Wenn ein Zug beginnt und du im letzten Zug Schaden genommen hast, löse den passiven Effekt all deiner Orbs aus."
     ]
   },
   "DataDisk": {
-    "NAME": "Data Disk",
-    "FLAVOR": "This disk contains precious data on birds and snakes.",
+    "NAME": "Festplatte",
+    "FLAVOR": "Diese Festplatte beinhaltet wertvolle Daten über Vögel und Schlangen.",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
-      " #yFocus."
+      "Zu Beginn jedes Kampfes erhalte #b",
+      " #yFokus."
     ]
   },
   "Cracked Core": {
-    "NAME": "Cracked Core",
-    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
+    "NAME": "Gesprungener Kern",
+    "FLAVOR": "Die mysteriöse Lebenskraft die die Automatone des Spire antreibt. Er scheint kaputt zu sein.",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yLightning."
+      "Zu Beginn jedes Kampfes #yerschaffe #b1 #yBlitz."
     ]
   },
   "Symbiotic Virus": {
-    "NAME": "Symbiotic Virus",
-    "FLAVOR": "A little bit bad of #rbad can do a lot of #ggood...",
+    "NAME": "Symbiotischer Virus",
+    "FLAVOR": "Ein bisschen #rSchlechtes kann viel #gGutes tun...",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yDark."
+      "Zu Beginn jedes Kampfes #yerschaffe #b1 #yDunkelheit."
     ]
   }
 }
