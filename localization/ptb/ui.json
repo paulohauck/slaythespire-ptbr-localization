@@ -28,7 +28,7 @@
     "TEXT": [
       "O Rígido",
       "A Sorrateira",
-      "",
+      "O Defeituoso",
       "Retornar",
       "Histórias de jornada não encontradas. NL Vá Matar o Pináculo!",
       "Nível de Ascensão: ",
@@ -108,7 +108,7 @@
     "TEXT": [
       "O Rígido",
       "A Sorrateira",
-      "3rd Char. DO NOT TRANSLATE",
+      "Defeituoso",
       "Média de Andares Alcançados (Últimas 20 Tentativas)",
       "Pontuação Média (Últimas 20 Tentativas)",
       "Melhor Série de Vitórias",
@@ -141,7 +141,8 @@
       "Sérvio",
       "Ucraniano",
       "Vietnamita",
-      "Húngaro"
+      "Húngaro",
+      "Sérvio (Latim)"
     ]
   },
   "Proceed Button": {
@@ -152,6 +153,11 @@
   "GamblingChipAction": {
     "TEXT": [
       "Substituir (Ficha de Apostas)"
+    ]
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Discartar"
     ]
   },
   "RetainCardsAction": {
@@ -194,9 +200,21 @@
       "Escolha uma Técnica para ser Adicionada à Sua Mão"
     ]
   },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Escolha uma Carta para Adiciona a Sua Mão",
+	  "Escolha Cartas para Adiciona a Sua Mão"
+    ]
+  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Escolha um Ataque para ser Adicionado à Sua Mão"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Escolha uma Carta para Colocar no Topo de sua Pilha de Saques.",
+      "Escolha Cartas para Coloca-las no Topo de sua Pilha de Saques."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -458,12 +476,12 @@
       "Aprimorar"
     ]
   },
-  "DualWieldAction": {
+  "RecycleAction": {
     "TEXT": [
-      "Duplicar"
+      "Exhaust"
     ]
   },
-  "HiddenChamberAction": {
+  "DualWieldAction": {
     "TEXT": [
       "Duplicar"
     ]
@@ -683,6 +701,44 @@
       "Retornar",
       "O Progresso NÃO é salvo para jornadas diárias."
     ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Configurações de Entrada",
+      "Configurações do Jogo",
+      "Voltar",
+      "Comandos",
+      "Teclado",
+      "Controle (Indisponível)",
+      "Reconfigurar para o Padrão",
+      "Confirmar",
+      "Cancelar / Sair",
+      "Mapa",
+      "Deck Principal",
+      "Pilha de Saques",
+      "Pilha de Descartes",
+      "Pilha de Exaustão",
+      "Finalizar Turno",
+      "Esquerda",
+      "Direita",
+      "Selecionar Carta #1",
+      "Selecionar Carta #2",
+      "Selecionar Carta #3",
+      "Selecionar Carta #4",
+      "Selecionar Carta #5",
+      "Selecionar Carta #6",
+      "Selecionar Carta #7",
+      "Selecionar Carta #8",
+      "Selecionar Carta #9",
+      "Selecionar Carta #10"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
   },
   "CardLibraryScreen": {
     "TEXT": [
@@ -967,6 +1023,11 @@
       "Este inimigo não tem intenção de atacar!"
     ]
   },
+  "ReprieveAction": {
+    "TEXT": [
+      "Este inimigo pretende atacar!"
+    ]
+  },
   "ApplyPowerAction": {
     "TEXT": [
       "Negado",
@@ -983,6 +1044,11 @@
   "ImmolateAction": {
     "TEXT": [
       "Exaurir"
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
     ]
   },
   "TheBeyond": {

@@ -365,13 +365,6 @@
       " de dano a um inimigo aleatório."
     ]
   },
-  "Knowledge": {
-    "NAME": "Conhecimento",
-    "DESCRIPTIONS": [
-      "Sempre que você jogar um #yPoder, compre #b",
-      " cartas."
-    ]
-  },
   "Flex": {
     "NAME": "Flexionar",
     "DESCRIPTIONS": [
@@ -744,11 +737,115 @@
       " turnos."
     ]
   },
-  "Wraith Form": {
-    "NAME": "Forma Espectral",
+  "Conserve": {
+    "NAME": "Conservar",
     "DESCRIPTIONS": [
-      "Sempre que você jogar uma Técnica, cause ",
-      " de dano a um inimigo aleatório."
+      "#yEnergia será copnservada neste turno.",
+      "#yEnergia será conservada nos próximos #b",
+      " turnos."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Amplificar",
+    "DESCRIPTIONS": [
+      "Durante este turno, jogue seu próximo #yPoder em dobro.",
+      "Durante este turno, jogue seus próximos ",
+      " #yPoderes em dobro."
+    ]
+  },
+  "Focus": {
+    "NAME": "Foco",
+    "DESCRIPTIONS": [
+      "Aumenta a efetividade de Orbes em #b",
+      "Diminui a efetividade de Orbes em #b",
+      "."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "Conhecimento",
+    "DESCRIPTIONS": [
+      "Sempre que jogar um #yPoder, saque #b",
+      " cartas."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Discarga estatíca",
+    "DESCRIPTIONS": [
+      "Ao receber um dano de #yAtaque, #yCanalize #b",
+      " #yRelâmpago."
+    ]
+  },
+  "Repair": {
+    "NAME": "Reparar",
+    "DESCRIPTIONS": [
+      "No final do combate, cure #b",
+      " de PV."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Buffer",
+    "DESCRIPTIONS": [
+      "Previne a próxima perda de PV.",
+      "Previne as próximas #b",
+      " vezes que você perderia PV."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Forma Ecoante",
+    "DESCRIPTIONS": [
+      "A primeira carta a ser jogada em cada turno será jogada duas vezes.",
+      "As primeiras #b ",
+      " cartas jogadas em cada turno serão jogadas duas vezes."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Dissipador",
+    "DESCRIPTIONS": [
+      "Sempre que jogar um Poder, saque #b",
+      " carta.",
+      " cartas."
+    ]
+  },
+  "No Attack": {
+    "NAME": "Sem Atacar",
+    "DESCRIPTIONS": [
+      "Você não pode usar #yAtaques neste turno."
+    ]
+  },
+  "Storm": {
+    "NAME": "Tempestade",
+    "DESCRIPTIONS": [
+      "Sempre que jogar um #bPoder, #yCanalize #b ",
+      " Relâmpago."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Magnetismo",
+    "DESCRIPTIONS": [
+      "No início do seu turno, adicione #b%s carta incolor aleatória a sua mão.",
+      "No início do seu turno, adicione #b%s cartas incolores aleatórias a sua mão."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "IA Criativa",
+    "DESCRIPTIONS": [
+      "No início do seu turno, adicione #b",
+      " carta de Poder aleatório a sua mão."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Aprendizado de Máquina",
+    "DESCRIPTIONS": [
+      "Saque #b",
+      " carta adicional durante o início de seus turnos.",
+      " cartas adicionais durante o início de seus turnos."
+    ]
+  },
+  "Bias": {
+    "NAME": "Viés",
+    "DESCRIPTIONS": [
+      "No início de seu turno, perca #b",
+      " de #yFoco."
     ]
   },
   "Wraith Form v2": {
@@ -756,6 +853,52 @@
     "DESCRIPTIONS": [
       "No final do seu turno, perca #b",
       " de #yDestreza."
+    ]
+  },
+  "Prime": {
+    "NAME": "Prover",
+    "DESCRIPTIONS": [
+      "Sempre que #yCanalizar um Orbe, saque #b",
+      " carta.",
+      " cartas."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Ricochetear",
+    "DESCRIPTIONS": [
+      "A próxima carta que você jogar neste turno será colocada  no topo de sua pilha de saques.",
+      "As próximas #b",
+      " cartas que você jogar neste turno serão colocadas no topo da sua pilha de saques."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Primitivo",
+    "DESCRIPTIONS": [
+      "Sempre que você jogar uma carta Comum, saque #b",
+      " carta.",
+      " cartas."
+    ]
+  },
+  "Hello": {
+    "NAME": "Olá",
+    "DESCRIPTIONS": [
+      "No início do seu turno, adicione #b",
+      " carta comum aleatória a sua mão.",
+      " cartas comuns aleatórias a sua mão."
+    ]
+  },
+  "Loop": {
+    "NAME": "Loop",
+    "DESCRIPTIONS": [
+      "No início do seu turno, use a abilidade passiva da sua próxima Orbe.",
+      "No início do seu turno, use a abilidade passiva das suas próximas #b",
+      " Orbes."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Travar Mira",
+    "DESCRIPTIONS": [
+      "Orbes #yRelâmpago e #yEscuridão atingirão este inimigo."
     ]
   }
 }

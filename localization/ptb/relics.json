@@ -212,6 +212,13 @@
       "O vendedor não fica mais sem estoque de cartas, poções ou relíquias, e preços são reduzidos em #b20%."
     ]
   },
+  "Cracked Core": {
+    "NAME": "Núcleo Rachado",
+    "FLAVOR": "Uma força vital misteriosa que alimenta os Automatos dentro da Spire. Aparenta estar quebrado.",
+    "DESCRIPTIONS": [
+      "NO início de cada combate, #yCanalize #b1 #yRelâmpago."
+    ]
+  },
   "Cursed Key": {
     "NAME": "Chave Amaldiçoada",
     "FLAVOR": "Você sente a energia maliciosa emanando da chave. Poder vem com um preço.",
@@ -1081,6 +1088,63 @@
     "FLAVOR": "Uma estátua branca pequena de uma criatura que você nunca viu antes.",
     "DESCRIPTIONS": [
       "Poções sempre são deixadas depois do combates."
+    ]
+  },
+  "Inserter": {
+    "NAME": "Inserter",
+    "FLAVOR": "Push. Pull. Empilhe. Repita.",
+    "DESCRIPTIONS": [
+      "A cada #b2 turnos, ganhe #b1 Espaço de Orbe."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Virús Simbionte",
+    "FLAVOR": "Um pouco de mal pode fazer muito bem...",
+    "DESCRIPTIONS": [
+      "No início de cada combate, #yCanalize #b1 #yEscuridão."
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Bateria Nuclear",
+    "FLAVOR": "Ooooh...",
+    "DESCRIPTIONS": [
+      "No início de cada combate, #yCanalize #b1 #yPlasma."
+    ]
+  },
+  "Cables": {
+    "NAME": "Cabos Banhados a Ouro",
+    "FLAVOR": "\"Interessante! Até mesmo automações são afetadas por placebo.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Sua Orbe mais a direita aciona sua passiva uma vez adicional."
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Ficha de emoção",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "No início de cada turno, se você tomou dano no turno anterior, ative o efeito passivo de todas as suas Orbes."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Capacitor Runado",
+    "FLAVOR": "Mais é melhor.",
+    "DESCRIPTIONS": [
+      "Comece cada combate com  #b3 espaço de Orbe a mais."
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Disco de dados",
+    "FLAVOR": "o Disco contem dados preciosos sobre passaros e serpentes.",
+    "DESCRIPTIONS": [
+      "Comece cada combate com  #b",
+      " de #yFoco."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Turnip",
+    "FLAVOR": "Best with Ginger.",
+    "DESCRIPTIONS": [
+      "You can no longer become #yFrail."
     ]
   }
 }
