@@ -504,7 +504,7 @@
   },
   "Havoc": {
     "NAME": "Devastar",
-    "DESCRIPTION": "Jogue a carta do topo da sua pilha de compra e a exaura."
+    "DESCRIPTION": "Jogue a carta do topo da sua pilha de compra e a Exaura."
   },
   "Secret Weapon": {
     "NAME": "Arma Secreta",
@@ -878,7 +878,7 @@
   },  
   "Rip and Tear": {
     "NAME": "Despedaçar",
-    "DESCRIPTION": "Cause !D! de dano a !M! alvos aleatórios."
+    "DESCRIPTION": "Cause !D! de dano a um alvo aleatório !M! vezes."
   },
   "Multi-Cast": {
     "NAME": "Multi-Cast",
@@ -991,13 +991,14 @@
     "DESCRIPTION": "Cause !M! de dano a TODOS inimigos para cada Poder jogado neste combate.",
     "EXTENDED_DESCRIPTION": [
       " NL Exaurir.",
-      " NL Cause !D! de dano."
+      " NL (Cause !D! de dano)."
     ]
   },
   "Static Discharge": {
     "NAME": "Descarga estática",
-    "DESCRIPTION": "Sempre que você tomar um dano de ataque, Canalize !M! Relâmpago."
-  },
+    "DESCRIPTION": "Sempre receber dano de ataque, Canalize !M! Relâmpago.",
+    "UPGRADE_DESCRIPTION": "Sempre receber dano de ataque, Canalize !M! Relâmpago."
+    },
   "Overclock": {
     "NAME": "Overclock",
     "DESCRIPTION": "Deprecated.",
@@ -1009,8 +1010,8 @@
   },
   "Ice Wall": {
     "NAME": "Parede de Gelo",
-    "DESCRIPTION": "Ganhe !B! de Proteção. Ganhe +3 de Proteção para cada Geada Canalizada.",
-    "UPGRADE_DESCRIPTION": "Ganhe !B! de Proteção. Ganhe +5 de Proteção para cada Geada Canalizada"
+    "DESCRIPTION": "Deprecated",
+    "UPGRADE_DESCRIPTION": "Deprecated"
   },
   "Cold Snap": {
     "NAME": "Onda de Frio",
@@ -1045,13 +1046,13 @@
     "DESCRIPTION": "Cause !D! de dano. Se o inimigo pretende atacar, aplique !M! de Fraqueza."
   },
   "Gash": {
-    "NAME": "Cortar",
-    "DESCRIPTION": "Cause !D! de dano. NL Todas cartas Cortar causam !M! de dano adicional durante este combate."
+    "NAME": "Garra",
+    "DESCRIPTION": "Cause !D! de dano. NL Todas cartas Garra causam !M! de dano adicional durante este combate."
   },
   "Darkness": {
     "NAME": "Escuridão",
-    "DESCRIPTION": "Aplique !M! de Fraqueza. NL Canalize !M! Escuridão.",
-    "UPGRADE_DESCRIPTION": "Aplique !M! de Fraqueza. NL Aplique !M! de Vulnerabilidade. NL Canalize !M! Escuridão."
+    "DESCRIPTION": "Canalize !M! Escuridão.",
+    "UPGRADE_DESCRIPTION": "Canalize !M! Escuridão."
   },
   "Machine Learning": {
     "NAME": "Aprendizado de Maquina",
@@ -1078,7 +1079,8 @@
   },
   "Echo Form": {
     "NAME": "Eco",
-    "DESCRIPTION": "A primeira carta que você jogar em cada turno será jogada duas vezes."
+    "DESCRIPTION": "A primeira carta que você jogar em cada turno será jogada duas vezes. Etérea",
+    "UPGRADE_DESCRIPTION": "A primeira carta que você jogar em cada turno será jogada duas vezes."
   },
   "Heatsinks": {
     "NAME": "Dissipador de Calor",
@@ -1087,7 +1089,7 @@
   },
   "Genetic Algorithm": {
     "NAME": "Algoritmo Genético",
-    "DESCRIPTION": "Ganhe !B! de Proteção. Quando jogada, aumenta permanentemente a Proteção desta carta em !M!. Exaurir."
+    "DESCRIPTION": "Ganhe !B! de Proteção. Quando jogada, aumenta permanentemente a Proteção desta carta em !M!. NL Exaurir."
   },
   "Melter": {
     "NAME": "Fundição",
@@ -1145,7 +1147,10 @@
   },
   "Thunder Strike": {
     "NAME": "Golpe do Trovão",
-    "DESCRIPTION": "Cause !D! de dano a um inimigo aleatório para cada Relâmpago Canalizado neste combate."
+    "DESCRIPTION": "Cause !D! de dano a um inimigo aleatório para cada Relâmpago Canalizado neste combate.",
+    "EXTENDED_DESCRIPTION": [
+      " (Canalize !M! Relâmpago.)"
+    ]
   },
   "Force Field": {
     "NAME": "Campo de Força",
@@ -1169,7 +1174,7 @@
   },
   "Streamline": {
     "NAME": "Simplificar",
-    "DESCRIPTION": "Cause !D! de dano. NL Cada vez que jogar Simplificar, reduz seu custo em !M! durante este combate."
+    "DESCRIPTION": "Cause !D! de dano. NL Cada vez que jogar esta carta, reduz seu custo em !M! durante este combate."
   },
   "Channel": {
     "NAME": "Channel",
@@ -1192,7 +1197,7 @@
     "DESCRIPTION": "Cause !D! de dano a TODOS inimigos. NL Ganhe [B] para cada Orbe Canalizada. NL Exaurir."
   },
   "Reboot": {
-    "NAME": "Reboot",
+    "NAME": "Reinicializar",
     "DESCRIPTION": "Embaralhe todas suas cartas em sua pilha de saques, então saque !M! cartas. NL Exaurir."
   },
   "Steam Power": {
@@ -1201,7 +1206,8 @@
   },
   "Blizzard": {
     "NAME": "Nevasca",
-    "DESCRIPTION": "Cause !M! de dano a TODOS inimigos para cada Geada Canalizada neste combate.",
+    "DESCRIPTION": "Cause 2 de dano a TODOS inimigos para cada Geada Canalizada neste combate.",
+    "UPGRADE_DESCRIPTION": "Cause !M! de dano a TODOS inimigos para cada Geada Canalizada neste combate.",
     "EXTENDED_DESCRIPTION": [
       " NL (Cause !D! de dano.)",
       ""
@@ -1219,7 +1225,7 @@
   },
   "Flux Capacitor": {
     "NAME": "Capacitor de Fluxo",
-    "DESCRIPTION": "Substitua todas as Orbes Canalizadas por Plasmas."
+    "DESCRIPTION": "Substitua todas as Orbes Canalizadas por Plasmas. Exaurir."
   },
   "Primitive Tech": {
     "NAME": "Tecnologia Primitiva",
@@ -1233,5 +1239,21 @@
   "Loop": {
     "NAME": "Loop",
     "DESCRIPTION": "No início do seu turno, use a abilidade passiva de sua próxima Orbe."
+  },
+  "Scrape": {
+    "NAME": "Raspar",
+    "DESCRIPTION": "Cause !D! de dano. NL Saque !M! cartas. NL Descarte todas as cartas que foram sacadas que não custem 0."
+  },
+  "Reprieve": {
+    "NAME": "Postergar",
+    "DESCRIPTION": "Se um inimigo não pretende atacar, ganhe !M! de Foco."
+  },
+  "Lockon": {
+    "NAME": "Travar Mira",
+    "DESCRIPTION": "Cause !D! de dano. NL Durante este turno, Orbes de Relâmpago e Escuridão atingirão este inimigo."
+  },
+  "Consume": {
+    "NAME": "Consumir",
+    "DESCRIPTION": "Ganhe !M! de Foco. NL Perca 1 Espaço de Orbe."
   }
 }
