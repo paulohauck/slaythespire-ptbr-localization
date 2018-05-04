@@ -155,6 +155,11 @@
       "Replace (Gambling Chip)"
     ]
   },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Select a card to return to your hand."
+    ]
+  },
   "ReprogramAction": {
     "TEXT": [
       "Discard"

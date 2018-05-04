@@ -784,7 +784,7 @@
     "NAME": "Echo Form",
     "DESCRIPTIONS": [
       "The first card you play each turn is played twice.",
-      "The first #b ",
+      "The first #b",
       " cards you play each turn are played twice."
     ]
   },
@@ -888,7 +888,9 @@
   "Lockon": {
     "NAME": "Lock-On",
     "DESCRIPTIONS": [
-      "#yLightning and #yDark Orbs target this enemy."
+      "#yLightning and #yDark Orbs target this enemy for the next #b",
+      " turns.",
+      "#yLightning and #yDark Orbs target this enemy this turn."
     ]
   }
 }
