@@ -200,6 +200,12 @@
       "Выберите Навык, чтобы добавить в руку."
     ]
   },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Выберите карту, чтобы добавить в руку",
+      "Выберите карты, чтобы добавить в руку"
+    ]
+  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Выберите Атаку, чтобы добавить в руку."
@@ -468,6 +474,11 @@
   "ArmamentsAction": {
     "TEXT": [
       "Улучшить"
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Сжигается"
     ]
   },
   "DualWieldAction": {
@@ -1013,6 +1024,11 @@
       "Этот враг не планирует атаковать!"
     ]
   },
+  "ReprieveAction": {
+    "TEXT": [
+      "Этот враг планирует атаковать!"
+    ]
+  },
   "ApplyPowerAction": {
     "TEXT": [
       "Отторгнуто",
@@ -1084,20 +1100,9 @@
       "Эта опция ещё не доступна."
     ]
   },
-  "RecycleAction": {
+  "DiscardPileToHandAction": {
     "TEXT": [
-      "Exhaust"
-    ]
-  },
-  "AnyCardFromDeckToHandAction": {
-    "TEXT": [
-      "Choose a card to Add to Your Hand",
-      "Choose cards to Add to Your Hand"
-    ]
-  },
-  "ReprieveAction": {
-    "TEXT": [
-      "That enemy intends to attack!"
+      "Select a card to return to your hand."
     ]
   }
 }

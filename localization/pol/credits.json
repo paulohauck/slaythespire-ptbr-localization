@@ -64,10 +64,10 @@
       "Vincent \"Hénip\" Barthoux",
       "Alexandre \"Judgy\" Gaubert",
       "Vincent \"MissingNoShiny\" Larcin",
+      "Nicky \"Qazahar\" Dehout",
       "Julien \"RoPeTTe\" Ropero",
+      "Hugo \"Tagadda\" Vurpillot",
       "Corentin \"Tchus\" Monfort",
-      "Nicky \"Qazahar\" Dehout",
-      "Nicky \"Qazahar\" Dehout",
       "Zachary \"WyvernZed\" Janisse"
     ]
   },
@@ -159,6 +159,12 @@
       "Alexandr \"LiaNdrY\" Mazistov"
     ]
   },
+  "LOC_SRB": {
+    "HEADER": "Tłumaczenie na serbski",
+    "NAMES": [
+      "Nikola \"hauzer\" Vukosavljević"
+    ]
+  },
   "LOC_TUR": {
     "HEADER": "Tłumaczenie na turecki",
     "NAMES": [
@@ -220,11 +226,5 @@
   "THANKS_MSG": {
     "HEADER": "...a Tobie dziękujemy za grę!",
     "NAMES": []
-  },
-  "LOC_SRB": {
-    "HEADER": "Serbian Localization",
-    "NAMES": [
-      "Nikola \"hauzer\" Vukosavljević"
-    ]
   }
 }

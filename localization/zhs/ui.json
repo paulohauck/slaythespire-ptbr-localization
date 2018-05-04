@@ -1086,18 +1086,23 @@
   },
   "RecycleAction": {
     "TEXT": [
-      "Exhaust"
+      "消耗"
     ]
   },
   "AnyCardFromDeckToHandAction": {
     "TEXT": [
-      "Choose a card to Add to Your Hand",
-      "Choose cards to Add to Your Hand"
+      "选择一张牌放入你的手牌",
+      "选择牌放入你的手牌"
     ]
   },
   "ReprieveAction": {
     "TEXT": [
-      "That enemy intends to attack!"
+      "这名敌人的意图是攻击！"
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Select a card to return to your hand."
     ]
   }
 }

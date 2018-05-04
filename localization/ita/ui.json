@@ -200,6 +200,12 @@
       "Scegli un'Abilità da Aggiungere alla Mano"
     ]
   },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Scegli una Carta da Aggiungere alla Mano",
+      "Scegli le Carte da Aggiungere alla Mano"
+    ]
+  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Scegli un'Attacco da Aggiungere alla Mano"
@@ -470,6 +476,11 @@
       "Potenziare"
     ]
   },
+  "RecycleAction": {
+    "TEXT": [
+      "Esaurisci"
+    ]
+  },
   "DualWieldAction": {
     "TEXT": [
       "Duplicare"
@@ -478,7 +489,7 @@
   "DeathScreenUi": {
     "TEXT": [
       "Modalità Ascensione Livello ",
-      ". Hai Sbloccato Qualcosa!"
+      " Sbloccata!"
     ]
   },
   "DeathScreen": {
@@ -829,7 +840,7 @@
       " Carte ancora da Sbloccare",
       "Ignoto",
       "???",
-      " Per Sbloccare"
+      " Per Sbloccare il Prossimo Oggetto"
     ]
   },
   "CharacterSelectScreen": {
@@ -1013,6 +1024,11 @@
       "Quel nemico non ha intenzione di attaccare!"
     ]
   },
+  "ReprieveAction": {
+    "TEXT": [
+      "Quel nemico ha intenzione di attaccare!"
+    ]
+  },
   "ApplyPowerAction": {
     "TEXT": [
       "Negato",
@@ -1084,20 +1100,9 @@
       "Questa opzione non è ancora disponibile."
     ]
   },
-  "ReprieveAction": {
+  "DiscardPileToHandAction": {
     "TEXT": [
-      "That enemy intends to attack!"
-    ]
-  },
-  "RecycleAction": {
-    "TEXT": [
-      "Exhaust"
-    ]
-  },
-  "AnyCardFromDeckToHandAction": {
-    "TEXT": [
-      "Choose a Card to Add to Your Hand",
-      "Choose Cards to Add to Your Hand"
+      "Select a card to return to your hand."
     ]
   }
 }

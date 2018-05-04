@@ -1,5 +1,38 @@
 Updates for Translators!
 
+05/02/2018:
+cards.json
+	"Lockon"
+		"DESCRIPTION": "Deal !D! damage. NL This turn, Lightning and Dark Orbs target this enemy." -> "DESCRIPTION": "Deal !D! damage. NL For the next !M! turns, Lightning and Dark Orbs target this enemy."
+	"BootSequence" (New card)
+	"Nova"
+		"DESCRIPTION": "Deal damage to ALL enemies equal to three times the number of Powers played this combat.", -> "DESCRIPTION": "Deal damage to ALL enemies equal to !M! times the number of Powers played this combat.",
+		"UPGRADE_DESCRIPTION" is not used now.
+	"Blizzard"
+		"DESCRIPTION": "Deal damage equal to two times the Frost Channeled this combat to ALL enemies.", -> "DESCRIPTION": "Deal damage equal to !M! times the Frost Channeled this combat to ALL enemies.",
+		"UPGRADE_DESCRIPTION" is not used now.
+
+powers.json
+	"Lockon"
+		"#yLightning and #yDark Orbs target this enemy for the next #b",
+		" turns.",
+		"#yLightning and #yDark Orbs target this enemy this turn."
+
+----------------------------------
+
+05/01/2018v2:
+ui.json
+	"DiscardPileToHandAction"
+
+----------------------------------	
+
+05/01/2018:
+cards.json
+	"Redo"
+		NAME: "Redo" -> "Recursion"
+
+----------------------------------	
+
 04/30/2018:
 tutorials.json
 	"Player Tips"

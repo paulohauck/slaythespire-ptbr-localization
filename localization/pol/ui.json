@@ -155,9 +155,14 @@
       "podmiany (żeton pokerowy)"
     ]
   },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Wybierz kartę, która powróci do twojej ręki."
+    ]
+  },
   "ReprogramAction": {
     "TEXT": [
-      "Discard"
+      "odrzucenia"
     ]
   },
   "RetainCardsAction": {
@@ -200,6 +205,12 @@
       "Wybierz kartę umiejętności jaką chcesz dodać do ręki"
     ]
   },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Wybierz kartę do dobrania",
+      "Wybierz karty do dobrania"
+    ]
+  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Wybierz kartę ataku jaką chcesz dodać do ręki"
@@ -207,8 +218,8 @@
   },
   "CacheAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile.",
-      "Choose Cards to Put on Top of Your Draw Pile."
+      "Wybierz kartę jaką chcesz położyć na górze stosu rozgrywającego.",
+      "Wybierz karty jakie chcesz położyć na górze stosu rozgrywającego."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -470,6 +481,11 @@
       "ulepszenia"
     ]
   },
+  "RecycleAction": {
+    "TEXT": [
+      "wykluczenia"
+    ]
+  },
   "DualWieldAction": {
     "TEXT": [
       "duplikacji"
@@ -694,33 +710,33 @@
   },
   "InputSettingsScreen": {
     "TEXT": [
-      "Input Settings",
-      "Game Settings",
-      "Return",
-      "Commands",
-      "Keyboard",
-      "Controller (Not Yet Available)",
-      "Reset to Default",
-      "Confirm",
-      "Cancel / Exit",
-      "Map",
-      "Master Deck",
-      "Draw Pile",
-      "Discard Pile",
-      "Exhaust Pile",
-      "End Turn",
-      "Left",
-      "Right",
-      "Select Card #1",
-      "Select Card #2",
-      "Select Card #3",
-      "Select Card #4",
-      "Select Card #5",
-      "Select Card #6",
-      "Select Card #7",
-      "Select Card #8",
-      "Select Card #9",
-      "Select Card #10"
+      "Ustawienia sterowania",
+      "Ustawienia gry",
+      "Powrót",
+      "Komendy",
+      "Klawiatura",
+      "Kontroler (Jeszcze nie wspierany)",
+      "Zresetuj do ustwawień domyślnych",
+      "Potwierdź",
+      "Anuluj / Wyjdź",
+      "Mapa",
+      "Talia",
+      "Stos rozgrywający",
+      "Stos kart odrzuconych",
+      "Stos kart wykluczonych",
+      "Zakończ turę",
+      "Lewo",
+      "Prawo",
+      "Wybierz kartę #1",
+      "Wybierz kartę #2",
+      "Wybierz kartę #3",
+      "Wybierz kartę #4",
+      "Wybierz kartę #5",
+      "Wybierz kartę #6",
+      "Wybierz kartę #7",
+      "Wybierz kartę #8",
+      "Wybierz kartę #9",
+      "Wybierz kartę #10"
     ]
   },
   "InputKeyNames": {
@@ -1013,6 +1029,11 @@
       "Ten przeciwnik nie zamierza atakować!"
     ]
   },
+  "ReprieveAction": {
+    "TEXT": [
+      "Ten przeciwnik zamierza atakować!"
+    ]
+  },
   "ApplyPowerAction": {
     "TEXT": [
       "Kontra",
@@ -1082,22 +1103,6 @@
       "Unknown",
       "",
       "Ta funkcja nie jest jeszcze dostępna."
-    ]
-  },
-  "RecycleAction": {
-    "TEXT": [
-      "Exhaust"
-    ]
-  },
-  "AnyCardFromDeckToHandAction": {
-    "TEXT": [
-      "Choose a card to Add to Your Hand",
-      "Choose cards to Add to Your Hand"
-    ]
-  },
-  "ReprieveAction": {
-    "TEXT": [
-      "That enemy intends to attack!"
     ]
   }
 }

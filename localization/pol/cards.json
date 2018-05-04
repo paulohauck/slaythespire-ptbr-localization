@@ -895,25 +895,25 @@
   },
   "White Noise": {
     "NAME": "Szum biały",
-    "DESCRIPTION": "Dodaj losową kartę Mocydo ręki. NL W tej turze kosztuje ona 0. NL Wykluczenie."
+    "DESCRIPTION": "Dodaj losową kartę Mocy do ręki. NL W tej turze kosztuje ona 0. NL Wykluczenie."
   },
   "Tempest": {
     "NAME": "Nawałnica",
-    "DESCRIPTION": "Przywołaj X pkt. Gromu. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Przywołaj X+1 pkt. Gromu. NL Wykluczenie."
+    "DESCRIPTION": "Przywołaj Gromów: X. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Przywołaj Gromów: X+1. NL Wykluczenie."
   },
   "Glacier": {
     "NAME": "Lodowiec",
-    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywołaj !M! pkt. Mrozu.",
-    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywołaj !M! pkt. Mrozu."
+    "DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywołaj !M! Mrozy.",
+    "UPGRADE_DESCRIPTION": "Zyskaj !B! pkt. Bloku. NL Przywołaj !M! Mrozy."
   },
   "Fusion": {
     "NAME": "Fuzja",
-    "DESCRIPTION": "Przywołaj !M! pkt. Plazmy."
+    "DESCRIPTION": "Przywołaj !M! Plazmę."
   },
   "Zap": {
     "NAME": "Porażenie",
-    "DESCRIPTION": "Przywołaj !M! pkt. Gromu."
+    "DESCRIPTION": "Przywołaj !M! Grom."
   },
   "Chaos": {
     "NAME": "Chaos",
@@ -991,13 +991,14 @@
     "DESCRIPTION": "Zadaj !M! obrażeń WSZYSTKIM przeciwnikom za każdą kartę Mocy zagraną podczas tej walki.",
     "EXTENDED_DESCRIPTION": [
       " NL Wykluczenie.",
-      " NL Zadaje !D! pkt. obrażeń."
-    ]
+      " NL (Zadaje !D! pkt. obrażeń)."
+    ],
+    "UPGRADE_DESCRIPTION": ""
   },
   "Static Discharge": {
     "NAME": "Wyładowanie elektrostatyczne",
-    "DESCRIPTION": "Kiedykolwiek otrzymujesz obrażenia, Przywołaj !M! pkt. Gromu.",
-    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
+    "DESCRIPTION": "Kiedykolwiek otrzymujesz obrażenia, Przywołaj !M! Grom.",
+    "UPGRADE_DESCRIPTION": "Kiedykolwiek otrzymujesz obrażenia, Przywołaj !M! Gromy."
   },
   "Overclock": {
     "NAME": "Podkręcanie",
@@ -1015,11 +1016,11 @@
   },
   "Cold Snap": {
     "NAME": "Odłamek lodu",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przywołaj !M! pkt. Mrozu."
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przywołaj !M! Mróz."
   },
   "Ball Lightning": {
     "NAME": "Piorun kulisty",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przywołaj !M! pkt. Gromu."
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. Przywołaj !M! Grom."
   },
   "Winter": {
     "NAME": "Zima",
@@ -1027,7 +1028,7 @@
   },
   "Meteor Strike": {
     "NAME": "Meteor",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przywołaj !M! pkt. Plazmy."
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Przywołaj !M! Plazmy."
   },
   "Self Repair": {
     "NAME": "Samonaprawa",
@@ -1051,8 +1052,8 @@
   },
   "Darkness": {
     "NAME": "Mrok",
-    "DESCRIPTION": "Przywołaj !M! pkt. Ciemności.",
-    "UPGRADE_DESCRIPTION": "Przywołaj !M! pkt. Ciemności."
+    "DESCRIPTION": "Przywołaj !M! Ciemność.",
+    "UPGRADE_DESCRIPTION": "Przywołaj !M! Ciemności."
   },
   "Machine Learning": {
     "NAME": "Uczenie maszynowe",
@@ -1100,18 +1101,18 @@
     "DESCRIPTION": "Wyładuj następną Sferę 2 razy."
   },
   "Redo": {
-    "NAME": "Odnowienie",
+    "NAME": "Rekurencja",
     "DESCRIPTION": "Wyładuj następną Sferę. NL Przywołaj Sferę która została Wyładowana."
   },
   "Rainbow": {
     "NAME": "Tęcza",
-    "DESCRIPTION": "Przywołaj 1 pkt. Gromu, 1 pkt. Mrozu, i 1 pkt. Ciemności. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Przywołaj 1 pkt. Gromu, 1 pkt. Mrozu, i 1 pkt. Ciemności."
+    "DESCRIPTION": "Przywołaj 1 Grom, 1 Mróz, i 1 Ciemność. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Przywołaj 1 Grom, 1 Mróz, i 1 Ciemność."
   },
   "Storm": {
     "NAME": "Burza",
-    "DESCRIPTION": "Kiedykolwiek zagrywasz kartę Mocy, Przywołaj 1 pkt. Gromu.",
-    "UPGRADE_DESCRIPTION": "Startowa. NL Kiedykolwiek zagrywasz kartę Mocy, Przywołaj 1 pkt. Gromu."
+    "DESCRIPTION": "Kiedykolwiek zagrywasz kartę Mocy, Przywołaj 1 Grom.",
+    "UPGRADE_DESCRIPTION": "Startowa. NL Kiedykolwiek zagrywasz kartę Mocy, Przywołaj 1 Grom."
   },
   "All For One": {
     "NAME": "Wszyscy za jednego",
@@ -1131,7 +1132,7 @@
   },
   "Doom and Gloom": {
     "NAME": "Zagłada i zniszczenie",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Przywołaj !M! pkt. Ciemności."
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń WSZYSTKIM przeciwnikom. NL Przywołaj !M! Ciemność."
   },
   "Biased Cognition": {
     "NAME": "Błąd poznawczy",
@@ -1147,9 +1148,9 @@
   },
   "Thunder Strike": {
     "NAME": "Błyskawica",
-    "DESCRIPTION": "Zadaj !D! pkt. obrażeń losowemu przeciwnikowi za każdy pkt. Gromu Przywołany w tej walce.",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń losowemu przeciwnikowi za każdy Grom Przywołany w tej walce.",
     "EXTENDED_DESCRIPTION": [
-      " (Przywołano !M! pkt. Gromu.)"
+      " (Przywołano Gromów: !M!.)"
     ]
   },
   "Force Field": {
@@ -1175,6 +1176,10 @@
   "Streamline": {
     "NAME": "Strumień",
     "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Kiedykolwiek zagrasz tą kartę, zmniejsz jej koszt o !M! do końca tej walki."
+  },
+  "Channel": {
+    "NAME": "Przywołanie",
+    "DESCRIPTION": "Deprecated."
   },
   "Sweeping Beam": {
     "NAME": "Rozległy promień",
@@ -1202,22 +1207,22 @@
   },
   "Blizzard": {
     "NAME": "Gradobicie",
-    "DESCRIPTION": "Zadaj obrażenia równe podwójnym Przywołanym pkt. Mrozu w tej walce WSZYSTKIM przeciwnikom.",
-    "UPGRADE_DESCRIPTION": "Zadaj obrażenia równe !M! -krotności Przywołanych pkt. Mrozu w tej walce WSZYSTKIM przeciwnikom.",
+    "DESCRIPTION": "Zadaj obrażenia równe podwójnym Przywołanym Mrozom w tej walce WSZYSTKIM przeciwnikom.",
+    "UPGRADE_DESCRIPTION": "Zadaj obrażenia równe !M!-krotności Przywołanych Mrozów w tej walce WSZYSTKIM przeciwnikom.",
     "EXTENDED_DESCRIPTION": [
       " NL (Zadaj !D! pkt. obrażeń.)",
       ""
     ]
   },
   "Chill": {
-    "NAME": "Mróz",
-    "DESCRIPTION": "Przywołaj !M! pkt. Mrozu za każdego przeciwnika. NL Wykluczenie.",
-    "UPGRADE_DESCRIPTION": "Startowa. NL Przywołaj !M! pkt. Mrozu za każdego przeciwnika. NL Wykluczenie."
+    "NAME": "Chłód",
+    "DESCRIPTION": "Przywołaj !M! Mróz za każdego przeciwnika. NL Wykluczenie.",
+    "UPGRADE_DESCRIPTION": "Startowa. NL Przywołaj !M! Mróz za każdego przeciwnika. NL Wykluczenie."
   },
   "Coolheaded": {
     "NAME": "Trzeźwość umysłu",
-    "DESCRIPTION": "Przywołaj 1 pkt. Mrozu. NL Dobierz !M! kartę.",
-    "UPGRADE_DESCRIPTION": "Przywołaj 1 pkt. Mrozu. NL Dobierz !M! karty."
+    "DESCRIPTION": "Przywołaj 1 Mróz. NL Dobierz !M! kartę.",
+    "UPGRADE_DESCRIPTION": "Przywołaj 1 Mróz. NL Dobierz !M! karty."
   },
   "Flux Capacitor": {
     "NAME": "Kondensator strumienia",
@@ -1240,20 +1245,20 @@
     "NAME": "Ekstrakcja",
     "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Dobierz !M! karty. NL Odrzuć każdą nie kosztującą 0 dobraną w ten sposób kartę."
   },
-  "Channel": {
-    "NAME": "Channel",
-    "DESCRIPTION": "Deprecated."
-  },
   "Reprieve": {
-    "NAME": "Reprieve",
-    "DESCRIPTION": "If an enemy does not intend to attack, gain !M! Focus."
+    "NAME": "Chwila wytchnienia",
+    "DESCRIPTION": "Jeżeli przeciwnik nie zamierza atakować, zyskaj !M! pkt. Skupienia."
   },
   "Lockon": {
-    "NAME": "Lock-On",
-    "DESCRIPTION": "Deal !D! damage. NL This turn, Lightning and Dark Orbs target this enemy."
+    "NAME": "Namierzenie",
+    "DESCRIPTION": "Zadaj !D! pkt. obrażeń. NL Podczas tej tury, zaatakowany przeciwnik będzie celem dla Sfer Gromu i Ciemności."
   },
   "Consume": {
-    "NAME": "Consume",
-    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Orb Slot."
+    "NAME": "Absorpcja",
+    "DESCRIPTION": "Zyskaj !M! pkt. Skupienia. NL Utrać 1 miejsce na Sferę."
+  },
+  "BootSequence": {
+    "NAME": "Boot Sequence",
+    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
   }
 }

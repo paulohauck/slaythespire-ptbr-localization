@@ -691,7 +691,7 @@
     ]
   },
   "Unawakened": {
-    "NAME": "Śpi",
+    "NAME": "Sen",
     "DESCRIPTIONS": [
       "Przeciwnik jeszcze się nie obudził..."
     ]
@@ -762,7 +762,7 @@
     "NAME": "Elektrostatyczne wyładowanie",
     "DESCRIPTIONS": [
       "Kiedy otrzymasz obrażenia od #yAtaku, #yPrzywołaj #b",
-      " pkt. #yGromu."
+      " #yGrom."
     ]
   },
   "Repair": {
@@ -783,9 +783,9 @@
   "Echo Form": {
     "NAME": "Powtarzająca forma",
     "DESCRIPTIONS": [
-      "Pierwsza zagrana karta w każdej turze zagrywana jest dodatkowo #b",
-      " raz.",
-      " razy."
+      "Pierwsza zagrana karta w każdej turze jest zagrywana podwójnie",
+      "Pierwsze zagrane karty w każdej turze: #b",
+      " są zagrywane podwójnie."
     ]
   },
   "Heatsink": {
@@ -803,14 +803,14 @@
     ]
   },
   "Storm": {
-    "NAME": "Storm",
+    "NAME": "Burza",
     "DESCRIPTIONS": [
       "Kiedykolwiek zagrasz kartę #bMocy, #yPrzywołaj #b ",
-      " pkt. #yGromu."
+      " #yGrom."
     ]
   },
   "Magnetism": {
-    "NAME": "Magnetism",
+    "NAME": "Magnetyzm",
     "DESCRIPTIONS": [
       "Na początku tury, dodaj #b%s losową bezbarwną kartę do ręki.",
       "Na początku tury, dodaj losowe bezbarwne karty do ręki: #b%s ."
@@ -886,9 +886,11 @@
     ]
   },
   "Lockon": {
-    "NAME": "Lock-On",
+    "NAME": "Namierzenie",
     "DESCRIPTIONS": [
-      "#yLightning and #yDark Orbs target this enemy."
+      "Cel dla Sfer #yGromu i #yCiemności.",
+      " turns.",
+      "#yLightning and #yDark Orbs target this enemy this turn."
     ]
   }
 }

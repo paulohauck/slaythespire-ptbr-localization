@@ -1199,7 +1199,8 @@
     "EXTENDED_DESCRIPTION": [
       " NL Agota.",
       " NL Causa !D! de daño."
-    ]
+    ],
+    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to four times the number of Powers played this combat."
   },
   "Sunder": {
     "NAME": "Asolar",
@@ -1255,5 +1256,9 @@
   "Consume": {
     "NAME": "Consume",
     "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Orb Slot."
+  },
+  "BootSequence": {
+    "NAME": "Boot Sequence",
+    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
   }
 }

@@ -913,8 +913,8 @@
   },
   "Chaos": {
     "NAME": "Хаос",
-    "DESCRIPTION": "Призывает !M! случ. сфер.",
-    "UPGRADE_DESCRIPTION": "Призывает !M! случ. сфер."
+    "DESCRIPTION": "Призывает !M! случайную сферу.",
+    "UPGRADE_DESCRIPTION": "Призывает !M! случайные сферы."
   },
   "Reinforced Body": {
     "NAME": "Укрепить корпус",
@@ -991,13 +991,14 @@
     "DESCRIPTION": "Наносит по !M! урона ВСЕМ врагам за каждый разыгранный в этом бою Талант.",
     "EXTENDED_DESCRIPTION": [
       " NL Сжигается.",
-      " NL Наносит !D! урона."
-    ]
+      " NL (Наносит !D! урона)."
+    ],
+    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to four times the number of Powers played this combat."
   },
   "Static Discharge": {
     "NAME": "Статический разряд",
-    "DESCRIPTION": "Призывает !M! Сфер Молнии, когда вы теряете ОЗ от атак.",
-    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
+    "DESCRIPTION": "Призывает !M! Сферу Молнии, когда вы теряете ОЗ от атак.",
+    "UPGRADE_DESCRIPTION": "Призывает !M! Сферы Молнии, когда вы теряете ОЗ от атак."
   },
   "Overclock": {
     "NAME": "Overclock",
@@ -1027,7 +1028,7 @@
   },
   "Meteor Strike": {
     "NAME": "Метеоритный удар",
-    "DESCRIPTION": "Наносит !D! урона. NL Призывает !M! Сферу Плазмы."
+    "DESCRIPTION": "Наносит !D! урона. NL Призывает !M! Сферы Плазмы."
   },
   "Self Repair": {
     "NAME": "Самопочинка",
@@ -1047,7 +1048,7 @@
   },
   "Gash": {
     "NAME": "Когти",
-    "DESCRIPTION": "Наносит !D! урона. NL Повышает урон всех Рваных ран на !M! в этом бою."
+    "DESCRIPTION": "Наносит !D! урона. NL Повышает урон всех карт Когти на !M! в этом бою."
   },
   "Darkness": {
     "NAME": "Мгла",
@@ -1089,7 +1090,7 @@
   },
   "Genetic Algorithm": {
     "NAME": "Генетический алгоритм",
-    "DESCRIPTION": "Даёт !B! Защиты. Навсегда повышает даваемую Защиту на !M!. NL Сжигается."
+    "DESCRIPTION": "Даёт !B! Защиты. Навсегда повышает даваемую этой картой Защиту на !M!. NL Сжигается."
   },
   "Melter": {
     "NAME": "Расплавить",
@@ -1245,15 +1246,19 @@
     "DESCRIPTION": "Наносит !D! урона. NL Вы берёте !M! карты, сбрасывая те из них, цена которых больше 0."
   },
   "Reprieve": {
-    "NAME": "Reprieve",
-    "DESCRIPTION": "If an enemy does not intend to attack, gain !M! Focus."
+    "NAME": "Передышка",
+    "DESCRIPTION": "Вы получаете !M! Фокуса, если выбранный враг НЕ собирается атаковать."
   },
   "Lockon": {
-    "NAME": "Lock-On",
-    "DESCRIPTION": "Deal !D! damage. NL This turn, Lightning and Dark Orbs target this enemy."
+    "NAME": "Наведение",
+    "DESCRIPTION": "Наносит !D! урона. NL В этом ходу Сферы Тьмы и Сферы Молнии буду атаковать только этого врага."
   },
   "Consume": {
-    "NAME": "Consume",
-    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Orb Slot."
+    "NAME": "Поглощение",
+    "DESCRIPTION": "Даёт !M! Фокуса. NL Отнимает 1 слот для сфер."
+  },
+  "BootSequence": {
+    "NAME": "Boot Sequence",
+    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
   }
 }

@@ -894,12 +894,12 @@
     "UPGRADE_DESCRIPTION": "Angeboren. NL Immer wenn du eine Macht spielst, erschaffe 1 Blitz."
   },
   "Redo": {
-    "NAME": "Erneuerung",
+    "NAME": "Rekursion",
     "DESCRIPTION": "Entlade deinen vordersten Orb. NL Erschaffe den Orb, der gerade Entladen wurde."
   },
   "Self Repair": {
     "NAME": "Reparatur-Routine",
-    "DESCRIPTION": "Heile am Ende des Kampfes !M! LP."
+    "DESCRIPTION": "Heile am Ende des Kampfes !M! TP."
   },
   "Cold Snap": {
     "NAME": "Kälteeinbruch",
@@ -907,15 +907,16 @@
   },
   "Streamline": {
     "NAME": "Stromlinie",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Immer wenn du Stromlinie spielst, senke ihre Kosten für diesem Kampf um !M! ."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Immer wenn du diese Karte spielst, senke ihre Kosten für diesem Kampf um !M! ."
   },
   "Nova": {
     "NAME": "Nova",
     "DESCRIPTION": "Füge ALLEN Gegnern !M! Schaden zu für jede in diesem Kampf gespielte Macht.",
     "EXTENDED_DESCRIPTION": [
       " NL Erschöpft.",
-      " NL Fügt !D! Schaden zu."
-    ]
+      " NL (Fügt !D! Schaden zu.)"
+    ],
+    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to four times the number of Powers played this combat."
   },
   "Creative AI": {
     "NAME": "Kreative KI",
@@ -1040,7 +1041,7 @@
     "DESCRIPTION": "Füge !D! Schaden zu. NL Falls der Gegner dadurch getötet wird, erhalte [B] [B] [B]."
   },
   "Rebound": {
-    "NAME": "Abprallen",
+    "NAME": "Rückstoß",
     "DESCRIPTION": "Füge !D! Schaden zu. NL Lege die nächste in diesem Zug gespielte Karte auf deinen Nachziehstapel."
   },
   "Conserve Battery": {
@@ -1105,7 +1106,7 @@
   },
   "Undo": {
     "NAME": "Zurücksetzen",
-    "DESCRIPTION": "Setzen deine TP auf ihren Wert vom letzten Zug. NL Erschöpft."
+    "DESCRIPTION": "Setze deine TP auf ihren Wert vom letzten Zug. NL Erschöpft."
   },
   "Glacier": {
     "NAME": "Gletscher",
@@ -1133,7 +1134,7 @@
   },
   "Scrape": {
     "NAME": "Ausschlachten",
-    "DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karten. NL Wirf jede Karte ab, die nicht 0 kostet."
+    "DESCRIPTION": "Füge !D! Schaden zu. NL Ziehe !M! Karten. NL Wirf jede so gezogene Karte ab, die nicht 0 kostet."
   },
   "Hello World": {
     "NAME": "Hallo Welt",
@@ -1208,7 +1209,7 @@
     "DESCRIPTION": "Füge ALLEN Gegnern doppelt so viel Schaden zu, wie in diesem Kampf Frost erschaffen wurde.",
     "UPGRADE_DESCRIPTION": "Füge ALLEN Gegnern !M! Schaden zu für jeden in diesem Kampf erschaffenen Frost.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Deals !D! damage.)",
+      " NL (Fügt !D! Schaden zu.)",
       ""
     ]
   },
@@ -1245,15 +1246,19 @@
     "UPGRADE_DESCRIPTION": "Verdopple deine Energie."
   },
   "Reprieve": {
-    "NAME": "Reprieve",
-    "DESCRIPTION": "If an enemy does not intend to attack, gain !M! Focus."
+    "NAME": "Atempause",
+    "DESCRIPTION": "Wenn ein Gegner nicht beabsichtigt anzugreifen, erhalte !M! Fokus."
   },
   "Lockon": {
-    "NAME": "Lock-On",
-    "DESCRIPTION": "Deal !D! damage. NL This turn, Lightning and Dark Orbs target this enemy."
+    "NAME": "Fest im Griff",
+    "DESCRIPTION": "Füge !D! Schaden zu. NL In diesem Zug treffen die Orbs Blitz und Dunkelheit diesen Gegner."
   },
   "Consume": {
-    "NAME": "Consume",
-    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Orb Slot."
+    "NAME": "Verbrauchen",
+    "DESCRIPTION": "Erhalte !M! Fokus. NL Verliere 1 Orb-Slot."
+  },
+  "BootSequence": {
+    "NAME": "Boot Sequence",
+    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
   }
 }

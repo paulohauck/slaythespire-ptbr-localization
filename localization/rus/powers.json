@@ -783,9 +783,9 @@
   "Echo Form": {
     "NAME": "Облик эхо",
     "DESCRIPTIONS": [
-      "В начале каждого хода первая карта разыгрывается ещё #b",
-      " раз.",
-      " раза."
+      "В начале каждого хода первая карта разыгрывается дважды",
+      "В начале каждого хода первые #b",
+      " карт разыгрываются дважды."
     ]
   },
   "Heatsink": {
@@ -888,7 +888,9 @@
   "Lockon": {
     "NAME": "Lock-On",
     "DESCRIPTIONS": [
-      "#yLightning and #yDark Orbs target this enemy."
+      "#yСферы Тьмы и #yСферы Молнии буду атаковать только этого врага.",
+      " turns.",
+      "#yLightning and #yDark Orbs target this enemy this turn."
     ]
   }
 }

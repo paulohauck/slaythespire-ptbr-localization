@@ -1086,18 +1086,23 @@
   },
   "RecycleAction": {
     "TEXT": [
-      "Exhaust"
-    ]
-  },
-  "AnyCardFromDeckToHandAction": {
-    "TEXT": [
-      "Choose a card to Add to Your Hand",
-      "Choose cards to Add to Your Hand"
+      "Épuisement"
     ]
   },
   "ReprieveAction": {
     "TEXT": [
-      "That enemy intends to attack!"
+      "Cet ennemi compte attaquer !"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Choissisez une carte à ajouter dans votre main",
+      "Choisissez les cartes à ajouter dans votre main"
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Select a card to return to your hand."
     ]
   }
 }

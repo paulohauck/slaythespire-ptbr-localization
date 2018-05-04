@@ -783,9 +783,9 @@
   "Echo Form": {
     "NAME": "Modulo Iterativo",
     "DESCRIPTIONS": [
-      "La prima carta che giochi ogni turno è giocata #b",
-      " una volta in più.",
-      " volte in più."
+      "La prima carta che giochi ogni turno viene giocata due volte.",
+      "Le prime #b ",
+      " carte che giochi ogni turno vengono giocate due volte."
     ]
   },
   "Heatsink": {
@@ -888,7 +888,9 @@
   "Lockon": {
     "NAME": "Lock-On",
     "DESCRIPTIONS": [
-      "#yLightning and #yDark Orbs target this enemy."
+      "#yLightning and #yDark Orbs target this enemy.",
+      " turns.",
+      "#yLightning and #yDark Orbs target this enemy this turn."
     ]
   }
 }

@@ -793,11 +793,11 @@
     ]
   },
   "Echo Form": {
-    "NAME": "Echogestalt",
+    "NAME": "Echoform",
     "DESCRIPTIONS": [
-      "Die erste in deinem Zug gespielte Karte wiederholt sich #b",
-      " mal.",
-      " mal."
+      "Die erste in deinem Zug gespielte Karte wird #b",
+      " mal wiederholt.",
+      " mal wiederholt."
     ]
   },
   "Magnetism": {
@@ -816,7 +816,7 @@
     ]
   },
   "Conserve": {
-    "NAME": "Bewahren",
+    "NAME": "Speichern",
     "DESCRIPTIONS": [
       "#yEnergie wird in diesem Zug behalten.",
       "#yEnergie wird für die nächsten #b",
@@ -824,7 +824,7 @@
     ]
   },
   "Amplify": {
-    "NAME": "Verstärker",
+    "NAME": "Verstärken",
     "DESCRIPTIONS": [
       "In diesem Zug spielst du die nächste #yMacht doppelt.",
       "In diesem Zug spielst du die nächsten ",
@@ -856,9 +856,9 @@
   "Buffer": {
     "NAME": "Puffer",
     "DESCRIPTIONS": [
-      "Verhindere den nächsten Verlust von TP.",
+      "Verhindere den nächsten TP-Verlust.",
       "Verhindere die nächsten #b",
-      " Verluste von TP."
+      " TP-Verluste."
     ]
   },
   "Loop": {
@@ -878,7 +878,7 @@
     ]
   },
   "Hello": {
-    "NAME": "Hallo",
+    "NAME": "Hallo Welt",
     "DESCRIPTIONS": [
       "Erhalte zu Beginn deines Zuges #b",
       " zufällige Gewöhnliche Karte auf die Hand.",
@@ -886,9 +886,11 @@
     ]
   },
   "Lockon": {
-    "NAME": "Lock-On",
+    "NAME": "Fest im Griff",
     "DESCRIPTIONS": [
-      "#yLightning and #yDark Orbs target this enemy."
+      "Die Orbs #yBlitz und #yDunkelheit treffen diesen Gegner.",
+      " turns.",
+      "#yLightning and #yDark Orbs target this enemy this turn."
     ]
   }
 }

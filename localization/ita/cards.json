@@ -120,8 +120,8 @@
   },
   "Catalyst": {
     "NAME": "Catalizzatore",
-    "DESCRIPTION": "Raddoppia il Veleno già applicato ad un nemico. NL Esaurisci.",
-    "UPGRADE_DESCRIPTION": "Triplica il Veleno già applicato ad un nemico. NL Esaurisci."
+    "DESCRIPTION": "Raddoppi il Veleno già applicato ad un nemico. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Triplichi il Veleno già applicato ad un nemico. NL Esaurisci."
   },
   "Reaper": {
     "NAME": "Mietitore",
@@ -145,7 +145,7 @@
   },
   "Infernal Blade": {
     "NAME": "Lama Infernale",
-    "DESCRIPTION": "Aggiungi un Attacco casuale alla tua mano, costa 0 per questo turno. NL Esaurisci."
+    "DESCRIPTION": "Aggiungi un Attacco casuale alla tua mano. NL Costa 0 per questo turno. NL Esaurisci."
   },
   "After Image": {
     "NAME": "Immagine Residua",
@@ -382,7 +382,7 @@
   },
   "Warcry": {
     "NAME": "Grido di Battaglia",
-    "DESCRIPTION": "Peschi !M! carte. NL Metti una carta dalla tua mano in cima alla Pila. NL Esaurisci.",
+    "DESCRIPTION": "Peschi !M! carta. NL Metti una carta dalla tua mano in cima alla Pila. NL Esaurisci.",
     "UPGRADE_DESCRIPTION": "Peschi !M! carte. NL Metti una carta dalla tua mano in cima alla Pila. NL Esaurisci."
   },
   "PiercingWail": {
@@ -548,13 +548,13 @@
   },
   "Limit Break": {
     "NAME": "Oltre il Limite",
-    "DESCRIPTION": "Raddoppia la tua Forza. NL Esaurisci.",
-    "UPGRADE_DESCRIPTION": "Raddoppia la tua Forza."
+    "DESCRIPTION": "Raddoppi la tua Forza. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Raddoppi la tua Forza."
   },
   "Entrench": {
     "NAME": "In Trincea!",
-    "DESCRIPTION": "Raddoppia il tuo Blocco.",
-    "UPGRADE_DESCRIPTION": "Raddoppia il tuo Blocco."
+    "DESCRIPTION": "Raddoppi il tuo Blocco.",
+    "UPGRADE_DESCRIPTION": "Raddoppi il tuo Blocco."
   },
   "Noxious Fumes": {
     "NAME": "Miasma",
@@ -878,7 +878,7 @@
   },
   "Rip and Tear": {
     "NAME": "Lacerato",
-    "DESCRIPTION": "Infliggi !D! danni a un nemico casuale !M! volte."
+    "DESCRIPTION": "Infliggi !D! danni ad un nemico casuale !M! volte."
   },
   "Multi-Cast": {
     "NAME": "Lancio Multiplo",
@@ -949,8 +949,8 @@
   },
   "Double Energy": {
     "NAME": "Energia Doppia",
-    "DESCRIPTION": "Raddoppia la tua Energia. NL Esaurisci.",
-    "UPGRADE_DESCRIPTION": "Raddoppia la tua Energia."
+    "DESCRIPTION": "Raddoppi la tua Energia. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Raddoppi la tua Energia."
   },
   "Conserve Battery": {
     "NAME": "Batteria di Riserva",
@@ -975,8 +975,8 @@
   },
   "Hologram": {
     "NAME": "Ologramma",
-    "DESCRIPTION": "Ottieni !B! Blocco. NL Aggiungi una carta casuale dagli Scarti alla tua mano.",
-    "UPGRADE_DESCRIPTION": "Ottieni !B! Blocco. NL Aggiungi una carta dagli Scarti alla tua mano."
+    "DESCRIPTION": "Ottieni !B! Blocco. NL Aggiungi alla tua mano una carta casuale dagli Scarti.",
+    "UPGRADE_DESCRIPTION": "Ottieni !B! Blocco. NL Aggiungi alla tua mano una carta dagli Scarti."
   },
   "Aggregate": {
     "NAME": "Raccolta",
@@ -988,16 +988,17 @@
   },
   "Nova": {
     "NAME": "Nova",
-    "DESCRIPTION": "Infliggi !M! danni a TUTTI i nemici per ciascun potere che hai giocato in questo combattimento.",
+    "DESCRIPTION": "Infliggi !M! danni a TUTTI i nemici per ogni potere che hai giocato in questo combattimento.",
     "EXTENDED_DESCRIPTION": [
       " NL Esaurisci.",
-      " NL Infligge !D! danni."
-    ]
+      " NL (Infligge !D! danni)."
+    ],
+    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to four times the number of Powers played this combat."
   },
   "Static Discharge": {
     "NAME": "Elettrostatica",
-    "DESCRIPTION": "Quando ricevi danno da attacco, Canalizzi !M! Fulmini.",
-    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
+    "DESCRIPTION": "Quando ricevi danno da attacco, Canalizzi !M! Fulmine.",
+    "UPGRADE_DESCRIPTION": "Quando ricevi danno da attacco, Canalizzi !M! Fulmini."
   },
   "Overclock": {
     "NAME": "Overclock",
@@ -1010,8 +1011,8 @@
   },
   "Ice Wall": {
     "NAME": "Muro di Ghiaccio",
-    "DESCRIPTION": "Ottieni !B! Blocco. Ne ottieni 3 in più per ogni Ghiaccio Canalizzato.",
-    "UPGRADE_DESCRIPTION": "Ottieni !B! Blocco. Ne ottieni 5 in più per ogni Ghiaccio Canalizzato."
+    "DESCRIPTION": "Deprecated",
+    "UPGRADE_DESCRIPTION": "Deprecated"
   },
   "Cold Snap": {
     "NAME": "Onda Gelida",
@@ -1061,8 +1062,8 @@
   },
   "Impulse": {
     "NAME": "Impulso",
-    "DESCRIPTION": "Attiva l'abilità passiva di tutti i Globi Canalizzati. NL Esaurisci.",
-    "UPGRADE_DESCRIPTION": "Attiva l'abilità passiva di tutti i Globi Canalizzati."
+    "DESCRIPTION": "Attivi l'abilità passiva di tutti i Globi Canalizzati. NL Esaurisci.",
+    "UPGRADE_DESCRIPTION": "Attivi l'abilità passiva di tutti i Globi Canalizzati."
   },
   "Skim": {
     "NAME": "Scorri",
@@ -1089,7 +1090,7 @@
   },
   "Genetic Algorithm": {
     "NAME": "Algoritmo Genetico",
-    "DESCRIPTION": "Ottieni !B! Blocco. Questo valore aumenta permanentemente di !M! quando giochi questa carta. NL Esaurisci"
+    "DESCRIPTION": "Ottieni !B! Blocco. Questo valore aumenta di !M! per il resto della partita. NL Esaurisci"
   },
   "Melter": {
     "NAME": "Scioglimento",
@@ -1174,7 +1175,7 @@
   },
   "Streamline": {
     "NAME": "Miglioramento",
-    "DESCRIPTION": "Infliggi !D! danni. NL Ogni volta che giochi questa carta, il suo costo viene ridotto di !M! in questo combattimento."
+    "DESCRIPTION": "Infliggi !D! danni. NL Il costo di questa carta viene ridotto di !M! per questo combattimento."
   },
   "Channel": {
     "NAME": "Canalizzare",
@@ -1242,18 +1243,22 @@
   },
   "Scrape": {
     "NAME": "Graffio",
-    "DESCRIPTION": "Infliggi !D! Danni. NL Peschi !M! carte. NL Scarti ogni carta che non costa 0 pescata in questo modo."
+    "DESCRIPTION": "Infliggi !D! Danni. NL Peschi !M! carte. NL Scarti ogni carta con costo diverso da 0 pescata così."
   },
   "Reprieve": {
-    "NAME": "Reprieve",
-    "DESCRIPTION": "If an enemy does not intend to attack, gain !M! Focus."
+    "NAME": "Sollievo",
+    "DESCRIPTION": "Se il nemico scelto non intende attaccare, ottieni !M! Focus."
   },
   "Lockon": {
-    "NAME": "Lock-On",
-    "DESCRIPTION": "Deal !D! damage. NL This turn, Lightning and Dark Orbs target this enemy."
+    "NAME": "Centro Perfetto",
+    "DESCRIPTION": "Infliggi !D! danni. NL In questo turno il danno di Fulmini ed Oscurità colpirà questo nemico."
   },
   "Consume": {
-    "NAME": "Consume",
-    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Orb Slot."
+    "NAME": "Assimilazione",
+    "DESCRIPTION": "Ottieni !M! Focus. NL Perdi 1 spazio per Globi."
+  },
+  "BootSequence": {
+    "NAME": "Boot Sequence",
+    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
   }
 }

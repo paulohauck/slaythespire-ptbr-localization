@@ -406,7 +406,7 @@
   },
   "ReprogramAction": {
     "TEXT": [
-      "abwirfst"
+      "Wähle Karten, die du abwirfst"
     ]
   },
   "GamblingChipAction": {
@@ -417,6 +417,22 @@
   "RetainCardsAction": {
     "TEXT": [
       "behältst"
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "erschöpfst"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Wähle eine Karte, die du auf die Hand nimmst",
+      "Wähle Karten, die du auf die Hand nimmst"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "Dieser Gegner beabsichtigt anzugreifen!"
     ]
   },
   "AbandonRunButton": {
@@ -1084,20 +1100,9 @@
       ""
     ]
   },
-  "RecycleAction": {
+  "DiscardPileToHandAction": {
     "TEXT": [
-      "Exhaust"
-    ]
-  },
-  "AnyCardFromDeckToHandAction": {
-    "TEXT": [
-      "Choose a card to Add to Your Hand",
-      "Choose cards to Add to Your Hand"
-    ]
-  },
-  "ReprieveAction": {
-    "TEXT": [
-      "That enemy intends to attack!"
+      "Wähle eine Karte, die du zurück auf deine Hand nimmst."
     ]
   }
 }
