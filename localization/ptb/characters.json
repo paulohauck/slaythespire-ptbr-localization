@@ -23,14 +23,6 @@
       "Uma caçadora mortal das terras nebulosas. NL Elimina adversários com adagas e venenos."
     ]
   },
-  "Defect": {
-    "NAMES": [
-      "O Defeituoso"
-    ],
-    "TEXT": [
-      "Uma automação de combate que se tornou consciênte. NL Tecnologia ancestral permite a manipulação de Orbes."
-    ]
-  },
   "Neow Event": {
     "NAMES": [
       "Neow"
@@ -151,6 +143,14 @@
       "~*BOCEJO*~",
       "Eu gosto de ouro.",
       "Minha cor favorita é azul. NL Qual é a sua?"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "The Defect"
+    ],
+    "TEXT": [
+      "A combat automaton which became self-aware. NL Ancient technology allows the manipulation of Orbs."
     ]
   }
 }

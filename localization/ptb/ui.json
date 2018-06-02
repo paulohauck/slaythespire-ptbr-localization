@@ -28,7 +28,7 @@
     "TEXT": [
       "O Rígido",
       "A Sorrateira",
-      "O Defeituoso",
+      "",
       "Retornar",
       "Histórias de jornada não encontradas. NL Vá Matar o Pináculo!",
       "Nível de Ascensão: ",
@@ -84,7 +84,18 @@
       "#y%s #yde #yOuro",
       "Pegou %s",
       "Pulou:",
-      "Informação Faltante"
+      "Informação Faltante",
+      "+2 Max HP",
+      "#bC ",
+      "#bR ",
+      "#bP ",
+      "#bS ",
+      "#bRested",
+      "#bUpgraded %s",
+      "#bRemoved %s",
+      "#bDug",
+      "#bLifted %s/%s",
+      "#yPurchased:"
     ]
   },
   "LeaderboardsScreen": {
@@ -108,7 +119,7 @@
     "TEXT": [
       "O Rígido",
       "A Sorrateira",
-      "Defeituoso",
+      "3rd Char. DO NOT TRANSLATE",
       "Média de Andares Alcançados (Últimas 20 Tentativas)",
       "Pontuação Média (Últimas 20 Tentativas)",
       "Melhor Série de Vitórias",
@@ -142,7 +153,8 @@
       "Ucraniano",
       "Vietnamita",
       "Húngaro",
-      "Sérvio (Latim)"
+      "Serbian (Latin)",
+      "Catalan"
     ]
   },
   "Proceed Button": {
@@ -152,12 +164,8 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Substituir (Ficha de Apostas)"
-    ]
-  },
-  "ReprogramAction": {
-    "TEXT": [
-      "Discartar"
+      "Substituir (Ficha de Apostas)",
+      "Replace"
     ]
   },
   "RetainCardsAction": {
@@ -200,21 +208,9 @@
       "Escolha uma Técnica para ser Adicionada à Sua Mão"
     ]
   },
-  "AnyCardFromDeckToHandAction": {
-    "TEXT": [
-      "Escolha uma Carta para Adiciona a Sua Mão",
-	  "Escolha Cartas para Adiciona a Sua Mão"
-    ]
-  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Escolha um Ataque para ser Adicionado à Sua Mão"
-    ]
-  },
-  "CacheAction": {
-    "TEXT": [
-      "Escolha uma Carta para Colocar no Topo de sua Pilha de Saques.",
-      "Escolha Cartas para Coloca-las no Topo de sua Pilha de Saques."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -339,7 +335,8 @@
       "Protegido",
       "PV Máximo +",
       "Atordoado!",
-      "Interrompido!"
+      "Interrompido!",
+      "Relics"
     ]
   },
   "TopPanel": {
@@ -375,7 +372,8 @@
   },
   "AbstractRoom": {
     "TEXT": [
-      "Roubado..."
+      "Roubado...",
+      "Fled..."
     ]
   },
   "SingleViewRelicPopup": {
@@ -476,12 +474,12 @@
       "Aprimorar"
     ]
   },
-  "RecycleAction": {
+  "DualWieldAction": {
     "TEXT": [
-      "Exhaust"
+      "Duplicar"
     ]
   },
-  "DualWieldAction": {
+  "HiddenChamberAction": {
     "TEXT": [
       "Duplicar"
     ]
@@ -599,7 +597,8 @@
       "Escolha uma Carta",
       "+2 PV Máximo",
       "VOTE AGORA: ",
-      "s restante."
+      "s restante.",
+      "View Upgrade"
     ]
   },
   "BossRelicSelectScreen": {
@@ -669,7 +668,8 @@
       "Salvar & Sair",
       "NL NL VSync",
       "Modo de Arte para Playtester",
-      "Mostrar Teclas de Seleção Rápida de Carta"
+      "Mostrar Teclas de Seleção Rápida de Carta",
+      "Input Settings"
     ]
   },
   "DailyScreen": {
@@ -702,44 +702,6 @@
       "O Progresso NÃO é salvo para jornadas diárias."
     ]
   },
-  "InputSettingsScreen": {
-    "TEXT": [
-      "Configurações de Entrada",
-      "Configurações do Jogo",
-      "Voltar",
-      "Comandos",
-      "Teclado",
-      "Controle (Indisponível)",
-      "Reconfigurar para o Padrão",
-      "Confirmar",
-      "Cancelar / Sair",
-      "Mapa",
-      "Deck Principal",
-      "Pilha de Saques",
-      "Pilha de Descartes",
-      "Pilha de Exaustão",
-      "Finalizar Turno",
-      "Esquerda",
-      "Direita",
-      "Selecionar Carta #1",
-      "Selecionar Carta #2",
-      "Selecionar Carta #3",
-      "Selecionar Carta #4",
-      "Selecionar Carta #5",
-      "Selecionar Carta #6",
-      "Selecionar Carta #7",
-      "Selecionar Carta #8",
-      "Selecionar Carta #9",
-      "Selecionar Carta #10"
-    ]
-  },
-  "InputKeyNames": {
-    "TEXT_DICT": {
-      "Escape": "ESC",
-      "Forward Delete": "Delete",
-      "Delete": "Backspace"
-    }
-  },
   "CardLibraryScreen": {
     "TEXT": [
       "Retornar",
@@ -757,7 +719,7 @@
       "Raridade",
       "Tipo",
       "A-Z",
-      "Custo", 
+      "Custo",
       "Saltar para:"
     ]
   },
@@ -767,7 +729,8 @@
       "O que é Beta Aberto?",
       "Slay the Spire ainda está em desenvolvimento ativo! NL Muitas funcionalidades, cartas, e inimigos ainda estão passando por mudanças. NL NL Se você se deparar com algum problema ou tem algum feedback, por favor nos informe na nossa página de #bDiscussões #bda #bSteam. NL NL Chega de ler, você tem um pináculo para escalar!",
       "Slay the Spire ainda está em desenvolvimento ativo! NL Além disso, você está jogando a versão Beta do jogo. NL NL Por favor nos informe se você encontrar algum problema no jogo, mas não se espante com arte provisória para próximos conteúdos. NL NL Chega de ler, você tem um pináculo para escalar!",
-      "Clique em qualquer lugar para Começar"
+      "Clique em qualquer lugar para Começar",
+      "Continue"
     ]
   },
   "MainMenuScreen": {
@@ -775,7 +738,8 @@
       "#yBuild: ",
       "Embarcar",
       "Retornar",
-      "clique para editar"
+      "clique para editar",
+      "to edit"
     ]
   },
   "MenuButton": {
@@ -799,7 +763,8 @@
   },
   "CreditsScreen": {
     "TEXT": [
-      "clique novamente para sair"
+      "clique novamente para sair",
+      "to exit"
     ]
   },
   "PatchNotesScreen": {
@@ -1023,11 +988,6 @@
       "Este inimigo não tem intenção de atacar!"
     ]
   },
-  "ReprieveAction": {
-    "TEXT": [
-      "Este inimigo pretende atacar!"
-    ]
-  },
   "ApplyPowerAction": {
     "TEXT": [
       "Negado",
@@ -1044,11 +1004,6 @@
   "ImmolateAction": {
     "TEXT": [
       "Exaurir"
-    ]
-  },
-  "HiddenChamberAction": {
-    "TEXT": [
-      ""
     ]
   },
   "TheBeyond": {
@@ -1097,6 +1052,83 @@
       "Desconhecido",
       "",
       "Essa funcionalidade ainda não está disponível."
+    ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Input Settings",
+      "Game Settings",
+      "Return",
+      "Commands",
+      "Keyboard",
+      "Controller (Not Yet Available)",
+      "Reset to Default",
+      "Confirm",
+      "Cancel / Exit",
+      "Map",
+      "Master Deck",
+      "Draw Pile",
+      "Discard Pile",
+      "Exhaust Pile",
+      "End Turn",
+      "Left",
+      "Right",
+      "Select Card #1",
+      "Select Card #2",
+      "Select Card #3",
+      "Select Card #4",
+      "Select Card #5",
+      "Select Card #6",
+      "Select Card #7",
+      "Select Card #8",
+      "Select Card #9",
+      "Select Card #10",
+      "Drop Card",
+      "Up",
+      "Down",
+      "Select",
+      "End Turn / Info",
+      "Tab Left",
+      "Tab Right"
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "ESC",
+      "Forward Delete": "Delete",
+      "Delete": "Backspace"
+    }
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Discard"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Choose a Card to Put on Top of Your Draw Pile.",
+      "Choose Cards to Put on Top of Your Draw Pile."
+    ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Exhaust"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Choose a card to Add to Your Hand",
+      "Choose cards to Add to Your Hand"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "That enemy intends to attack!"
+    ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Select a card to return to your hand."
     ]
   }
 }

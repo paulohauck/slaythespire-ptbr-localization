@@ -13,14 +13,6 @@
       ],
       "DESCRIPTION": "Até o próximo turno, previne dano."
     },
-    "EVOKE": {
-      "NAMES": [
-        "evoque",
-        "evocar",
-        "evocada"
-      ],
-      "DESCRIPTION": "Consome sua Orbe mais a direitae sua seu efeito de evocação."
-    },
     "CURSE": {
       "NAMES": [
         "maldição"
@@ -53,23 +45,11 @@
       ],
       "DESCRIPTION": "Comece cada combate com esta carta em sua mão."
     },
-    "FOCUS": {
-      "NAMES": [
-        "foco"
-      ],
-      "DESCRIPTION": "Foco aumenta a efetividadede suas Orbes #yCanalizadas."
-    },
     "LOCKED": {
       "NAMES": [
         "bloqueada"
       ],
       "DESCRIPTION": "Esta carta ainda deve ser desbloqueada."
-    },
-    "OPENER": {
-      "NAMES": [
-        "opener"
-      ],
-      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
     },
     "POISON": {
       "NAMES": [
@@ -130,13 +110,6 @@
       ],
       "DESCRIPTION": "Aprimorar cartas as fazem mais poderosas. Cartas só podem ser aprimoradas uma vez."
     },
-    "VOID": {
-      "NAMES": [
-        "vazio",
-        "vazios"
-      ],
-      "DESCRIPTION": "Vazios são cartas de condições não-jogáveis que consomem energia quando sacadas."
-    },
     "VULNERABLE": {
       "NAMES": [
         "vulnerável",
@@ -161,13 +134,13 @@
       "DESCRIPTION": "Feridas são cartas de condição injogáveis."
     },
     "DAZED": {
-      "NAMES":[
+      "NAMES": [
         "atordoado"
       ],
       "DESCRIPTION": "Atordoato são cartas de condição não-jogáveis."
     },
     "BURN": {
-      "NAMES":[
+      "NAMES": [
         "queimadura",
         "queima",
         "queimaduras"
@@ -191,47 +164,12 @@
         "confuso"
       ],
       "DESCRIPTION": "Sempre que você comprar uma carta, aleatorize seu custo."
-    },    
+    },
     "INTANGIBLE": {
       "NAMES": [
         "intangível"
       ],
       "DESCRIPTION": "Reduza TODO dano recebido e perda de PV para #b1."
-    },
-    "LIGHTNING": {
-      "NAMES": [
-        "relâmpago",
-        "relâmpago+"
-      ],
-      "DESCRIPTION": "Orbe: Causa dano a inimigos aleatórios."
-    },
-    "FROST": {
-      "NAMES": [
-        "geada",
-        "geada+"
-      ],
-      "DESCRIPTION": "Orbe: Ganha #yProteção."
-    },
-    "DARK": {
-      "NAMES": [
-        "escuridão",
-        "escuridão+"
-      ],
-      "DESCRIPTION": "Orbe: Aumenta o dano a cada turno. Quando #yEvocada, causa dano ao inimigo com menos PV."
-    },
-    "PLASMA": {
-      "NAMES": [
-        "plasma",
-        "plasma+"
-      ],
-      "DESCRIPTION": "Orbe: Ganha Energia."
-    },
-    "CHANNEL": {
-      "NAMES": [
-        "canalizar",
-        "canalizada"
-      ],
-      "DESCRIPTION": "Canalizar um Orbe a coloca no seu primeiro espaço vazio. Se você não tiver espaços vazios, seu primeiro orbe é automaticamente #yEvocado para abrir espaço."
     },
     "TODO": {
       "NAMES": [
@@ -245,6 +183,73 @@
     },
     "TEXT": [
       "Energia é utilizada para jogar cartas da sua mão."
-    ]
+    ],
+    "VOID": {
+      "NAMES": [
+        "void",
+        "voids"
+      ],
+      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "focus"
+      ],
+      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "evoke",
+        "evoked"
+      ],
+      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orb: Gains Energy."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "channel",
+        "channeled"
+      ],
+      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+    },
+    "DARK": {
+      "NAMES": [
+        "dark",
+        "dark+"
+      ],
+      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "lightning",
+        "lightning+"
+      ],
+      "DESCRIPTION": "Orb: Deals damage to random enemies."
+    },
+    "FROST": {
+      "NAMES": [
+        "frost",
+        "frost+"
+      ],
+      "DESCRIPTION": "Orb: Gains #yBlock."
+    },
+    "THORNS": {
+      "NAMES": [
+        "thorns"
+      ],
+      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
+    }
   }
 }
