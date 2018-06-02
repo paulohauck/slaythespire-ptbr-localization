@@ -22,7 +22,8 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Remplacer (jeton)"
+      "Remplacer (jeton)",
+      "Remplacer"
     ]
   },
   "RetainCardsAction": {
@@ -186,7 +187,8 @@
   },
   "AbstractRoom": {
     "TEXT": [
-      "Pillé..."
+      "Pillé...",
+      "Fuite..."
     ]
   },
   "SingleViewRelicPopup": {
@@ -383,7 +385,8 @@
       "Choisissez une carte",
       "+2 PV Max",
       "VOTEZ : ",
-      "s restantes."
+      "s restantes.",
+      "Voir l'Amélioration"
     ]
   },
   "BossRelicSelectScreen": {
@@ -438,7 +441,7 @@
       "Options de jeu",
       "Graphismes",
       "Résolution : NL Fréquence d'images max :",
-      "Plein écran NL Plein écran fenêtré (recommandé) NL Tremblement de l'écran",
+      "Plein écran NL Plein écran fenêtré (recommandé) NL Secousses de l'écran",
       "Son",
       "Volume principal NL Volume musique NL Volume effets",
       "Sons d'Ambiance NL Désactiver lorsque le jeu est en arrière-plan",
@@ -454,7 +457,7 @@
       "NL NL Synchronisation verticale",
       "Mode artistique du testeur",
       "Montrer les raccourcis de sélection de cartes",
-      "Input Settings"
+      "Contrôles"
     ]
   },
   "SettingsScreen": {
@@ -494,7 +497,8 @@
       "Qu'est-ce qu'une bêta ouverte ?",
       "Slay the Spire est toujours en cours de développement ! NL Un grand nombre de fonctionnalités, cartes et ennemis sont amenés à changer. NL NL Si vous rencontrez des problèmes ou souhaitez nous faire part de votre avis, n'hésitez pas à nous laisser un message sur la #bpage de discussion #bSteam. NL NL Assez de lecture, une tour vous attend !",
       "Slay the Spire est toujours en cours de développement ! NL De plus, vous êtes sur la version bêta du jeu. NL NL Veuillez nous faire part des problèmes que vous rencontrez en jouant, mais ne soyez pas trop surpris par l'intrusion de quelques variables dans le contenu à venir. NL NL Assez de lecture, une tour vous attend !",
-      "Cliquez n'importe où pour Commencer"
+      "Cliquez n'importe où pour Commencer",
+      "Continuer"
     ]
   },
   "MainMenuScreen": {
@@ -502,7 +506,8 @@
       "#yVersion : ",
       "Commencer",
       "Retour",
-      "cliquer pour modifier"
+      "cliquer pour modifier",
+      "pour éditer"
     ]
   },
   "MenuButton": {
@@ -703,7 +708,8 @@
       "Ukrainien",
       "Vietnamien",
       "Hongrois",
-      "Serbe (Latin)"
+      "Serbe (Latin)",
+      "Catalan"
     ]
   },
   "UnlockTextEffect": {
@@ -789,7 +795,8 @@
       "Bloqué",
       "PV Max +",
       "Étourdi !",
-      "Interruption !"
+      "Interruption !",
+      "Reliques"
     ]
   },
   "LeaderboardsScreen": {
@@ -920,7 +927,8 @@
   },
   "CreditsScreen": {
     "TEXT": [
-      "Cliquez à nouveau pour revenir à l'écran titre"
+      "Cliquez à nouveau pour revenir à l'écran titre",
+      "pour quitter"
     ]
   },
   "TwitchVoter": {
@@ -1016,9 +1024,20 @@
       "#r%s Tours",
       "#r%s #r/ #r%s #rPV",
       "#y%s #yOr",
-      "Choisi %s",
-      "Passé :",
-      "Information manquante"
+      "#yObtenu :",
+      "#yPassé :",
+      "Information manquante",
+      "+2 PV Max",
+      "#bC ",
+      "#bR ",
+      "#bP ",
+      "#bS ",
+      "#bS'est #breposé",
+      "#bA #bamélioré %s",
+      "#bA #bretiré %s",
+      "#bA #bcreusé",
+      "#bS'est #entraîné %s/%s",
+      "#yAcheté :"
     ]
   },
   "SeedPanel": {
@@ -1070,7 +1089,14 @@
       "Sélectionner la carte n°7",
       "Sélectionner la carte n°8",
       "Sélectionner la carte n°9",
-      "Sélectionner la carte n°10"
+      "Sélectionner la carte n°10",
+      "Lâcher la carte",
+      "Haut",
+      "Bas",
+      "Sélectionner",
+      "Fin du tour / Info",
+      "Page suivante",
+      "Page précédente"
     ]
   },
   "CacheAction": {
@@ -1102,7 +1128,7 @@
   },
   "DiscardPileToHandAction": {
     "TEXT": [
-      "Select a card to return to your hand."
+      "Choisissez une carte à renvoyer dans votre main."
     ]
   }
 }

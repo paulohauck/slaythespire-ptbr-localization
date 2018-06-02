@@ -770,7 +770,7 @@
       "Vous le touchez. NL NL Une #r@douleur@ #r@vive@ vous parcourt, suivie par des visions vives d'une mémoire lointaine. NL ...À qui appartiennent ces souvenirs?",
       "#r~PEUR.~ NL NL Une créature démoniaque s'élève au dessus de vous, les ailes déployées, hurlant de rire. Les cadavres d'une tribu vous entourent alors que le village est englouti de #p~flammes~ #p~sombres.~ NL NL Le démon vous appelle, narquois. NL NL \" #r@TU@ #r@ES@ #r@VRAIMENT@ #r@LE@ #r@PLUS@ #r@FORT@ #r@MAINTENANT!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Ce rire résonne pour toujours...",
       "#g~TRIOMPHE.~ NL NL Les restes d'une #p~créature~ #p~fantômatique~ s'enfoncent lentement dans la boue devant vous, à peine visibles au clair de lune. Vous avez fait vos preuves parmi vos soeurs. NL NL Victorieuse, vous attendez en silence pendant que les autres placent cérémonialement le #ycrâne #yde #yla #ycréature sur votre tête. Le rituel est terminé. Vous vous dirigez vers la Tour...",
-      "#b~INCONNU.~ NL NL Pas encore implémenté."
+      "#b~CONFUSION.~ NL NL #y[OBJECTIF] #gÉQUILIBRE #gdoit #gêtre #gRESPECTÉ NL #y[DÉFINIR] #gÉQUILIBRE NL #y[ERREUR] #gÉQUILIBRE #gNON #gTROUVÉ NL #y[DÉFINIR] #gÉQUILIBRE NL #y[ERREUR] #gÉQUILIBRE #gNON #gTROUVÉ NL #y[ALERTE] #rGrand #robjet #ren #rapproche NL NL ~\"Je...~ ~..suis~ ~....Neow..\"~"
     ],
     "OPTIONS": [
       "[Se souvenir] #gAjoutez #g1 #gcarte #gincolore #gà #gvotre #gdeck.",

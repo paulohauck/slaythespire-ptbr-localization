@@ -1,4 +1,62 @@
 {
+  "Discard Tip": {
+    "TEXT": [
+      "Jeśli twój stos rozgrywający jest pusty, stos kart odrzuconych zostanie przetasowany NL i przeniesiony do kart rozgrywających. NL NL Kliknij, aby zobaczyć karty NL ze stosu odrzuconych."
+    ],
+    "LABEL": [
+      "Stos kart odrzuconych"
+    ]
+  },
+  "Draw Tip": {
+    "TEXT": [
+      "Na początku każdej tury NL dobierasz #b",
+      " kart(y). NL NL Kliknij, aby zobaczyć karty ze stosu rozgrywającego NL (po przetasowaniu).",
+      " kart(y). NL NL Kliknij, aby zobaczyć karty ze stosu rozgrywającego."
+    ],
+    "LABEL": [
+      "Stos rozgrywający"
+    ]
+  },
+  "End Turn Tip": {
+    "TEXT": [
+      "Wciśnięcie tego przycisku zakończy turę. NL NL Karty zostaną odrzucone, przeciwnik wykona swój ruch, dobierzesz ",
+      " kart(y) i znów możesz wykonać ruch."
+    ],
+    "LABEL": [
+      "Koniec tury"
+    ]
+  },
+  "Energy Panel Tip": {
+    "TEXT": [
+      "Ilość obecnie posiadanej energii. Karty wymagają jej do działania."
+    ],
+    "LABEL": [
+      "Energia"
+    ]
+  },
+  "Energy Tip": {
+    "TEXT": [
+      "Karty potrzebują energii do zagrania! NL Ta kula w lewym dolnym rogu pokazuje ile punktów energii masz jeszcze do wykorzystania w tej turze."
+    ],
+    "LABEL": [
+      "Koszt Energii"
+    ]
+  },
+  "Exhaust Tip": {
+    "TEXT": [
+      "Kliknij, aby zobaczyć karty #ywykluczone z walki."
+    ],
+    "LABEL": [
+      "Wykluczone karty"
+    ]
+  },
+  "FTUE Tips": {
+    "TEXT": [],
+    "LABEL": [
+      "Porada: ",
+      "Jasne"
+    ]
+  },
   "Main Tutorial": {
     "TEXT": [
       "Pokonuj przeciwników grając kartami NL z dostępnej ręki! NL NL Karty wymagają #yEnergii do zagrania. NL Kiedy wykonasz wszystkie ruchy, zakończ turę. NL NL Na początku każdej tury nowe karty pobierane są ze stosu rozgrywającego, a twoja #yEnergia jest odnawiana.",
@@ -13,35 +71,19 @@
       " z 3)"
     ]
   },
-  "FTUE Tips": {
-    "TEXT": [],
-    "LABEL": [
-      "Porada: ",
-      "Jasne"
-    ]
-  },
-  "Potion Tip": {
+  "Options Tip": {
     "TEXT": [
-      "Pij lub rzucaj mikstury w trakcie walki! NL Mikstury możesz przenosić pomiędzy pomieszczeniami."
+      "Informacje o rozgrywce oraz logi błędów są wysyłane do NL Mega Crit, aby wspomóc proces balansowania mechanik gry. NL NL Dane osobowe NIE są zbierane.",
+      "Slay the Spire działa najlepiej w trybie pełnoekranowym. Jest on zalecany dla OSX, gdyż Dock oraz pasek menu są wtedy ukryte. NL Uwaga – Na komputerach osobistych (PC) w trybie pełnoekranowym może nie działać kombinacja Alt+Tab.",
+      "Jako że Slay the Spire to gra o niewielkich wymaganiach sprzętowych, zalecamy korzystanie z bezramkowego trybu pełnoekranowego dla sprawnego alt-tabowania.",
+      "Uwaga – Włączenie synchronizacji pionowej ograniczy liczbę klatek na sekundę do maksymalnej wartości odświeżania monitora.",
+      "Controller support incomplete for this screen."
     ],
     "LABEL": [
-      "Mikstury"
-    ]
-  },
-  "Energy Tip": {
-    "TEXT": [
-      "Karty potrzebują energii do zagrania! NL Ta kula w lewym dolnym rogu pokazuje ile punktów energii masz jeszcze do wykorzystania w tej turze."
-    ],
-    "LABEL": [
-      "Koszt Energii"
-    ]
-  },
-  "Shuffle Tip": {
-    "TEXT": [
-      "NL Jeśli karty stosu rozgrywającego się skończą, NL karty ze stosu odrzuconych zostaną do niego przetasowane."
-    ],
-    "LABEL": [
-      "Gdzie są moje karty?"
+      "Telemetria",
+      "Pełny ekran",
+      "Bezramkowy pełny ekran",
+      "Maksymalne FPS-y"
     ]
   },
   "Player Tips": {
@@ -57,93 +99,6 @@
       "Koszt Energii"
     ]
   },
-  "Relic Tip": {
-    "TEXT": [
-      "Rozsiane po całej Iglicy artefakty gwarantują unikalne bonusy, pozostając w ekwipunku NL przez całą wyprawę. NL Zdobyć je można po pokonaniu potężnych przeciwników lub z rozproszonych po Iglicy skrzyń.",
-      "Ten artefakt należy najpierw odnaleźć.",
-      "Przedmiot stracił swoją mocy."
-    ],
-    "LABEL": [
-      "Artefakty",
-      "Nieznany",
-      "Ten artefakt należy odblokować.",
-      "Zablokowane"
-    ]
-  },
-  "Rewards Tip": {
-    "TEXT": [
-      "Nie zapomnij o łupach! NL Kliknij na nie, aby je zebrać."
-    ],
-    "LABEL": [
-      "Łupy"
-    ]
-  },
-  "Draw Tip": {
-    "TEXT": [
-      "Na początku każdej tury NL dobierasz #b",
-      " kart(y). NL NL Kliknij, aby zobaczyć karty ze stosu rozgrywającego NL (po przetasowaniu).",
-      " kart(y). NL NL Kliknij, aby zobaczyć karty ze stosu rozgrywającego."
-    ],
-    "LABEL": [
-      "Stos rozgrywający"
-    ]
-  },
-  "Exhaust Tip": {
-    "TEXT": [
-      "Kliknij, aby zobaczyć karty #ywykluczone z walki."
-    ],
-    "LABEL": [
-      "Wykluczone karty"
-    ]
-  },
-  "Options Tip": {
-    "TEXT": [
-      "Informacje o rozgrywce oraz logi błędów są wysyłane do NL Mega Crit, aby wspomóc proces balansowania mechanik gry. NL NL Dane osobowe NIE są zbierane.",
-      "Slay the Spire działa najlepiej w trybie pełnoekranowym. Jest on zalecany dla OSX, gdyż Dock oraz pasek menu są wtedy ukryte. NL Uwaga – Na komputerach osobistych (PC) w trybie pełnoekranowym może nie działać kombinacja Alt+Tab.",
-      "Jako że Slay the Spire to gra o niewielkich wymaganiach sprzętowych, zalecamy korzystanie z bezramkowego trybu pełnoekranowego dla sprawnego alt-tabowania.",
-      "Uwaga – Włączenie synchronizacji pionowej ograniczy liczbę klatek na sekundę do maksymalnej wartości odświeżania monitora."
-    ],
-    "LABEL": [
-      "Telemetria",
-      "Pełny ekran",
-      "Bezramkowy pełny ekran",
-      "Maksymalne FPS-y"
-    ]
-  },
-  "Shop Tip": {
-    "TEXT": [
-      "Usuń kartę z talii. Koszt usługi zostanie zwiększony o #b",
-      " na czas trwania tej wyprawy."
-    ],
-    "LABEL": [
-      "Usługa usuwania kart"
-    ]
-  },
-  "End Turn Tip": {
-    "TEXT": [
-      "Wciśnięcie tego przycisku zakończy turę. NL NL Karty zostaną odrzucone, przeciwnik wykona swój ruch, dobierzesz ",
-      " kart(y) i znów możesz wykonać ruch."
-    ],
-    "LABEL": [
-      "Koniec tury"
-    ]
-  },
-  "Discard Tip": {
-    "TEXT": [
-      "Jeśli twój stos rozgrywający jest pusty, stos kart odrzuconych zostanie przetasowany NL i przeniesiony do kart rozgrywających. NL NL Kliknij, aby zobaczyć karty NL ze stosu odrzuconych."
-    ],
-    "LABEL": [
-      "Stos kart odrzuconych"
-    ]
-  },
-  "Energy Panel Tip": {
-    "TEXT": [
-      "Ilość obecnie posiadanej energii. Karty wymagają jej do działania."
-    ],
-    "LABEL": [
-      "Energia"
-    ]
-  },
   "Potion Panel Tip": {
     "TEXT": [
       "Rzuć tę miksturę w przeciwnika.",
@@ -156,24 +111,12 @@
       "Wyrzuć"
     ]
   },
-  "Top Panel Tips": {
+  "Potion Tip": {
     "TEXT": [
-      "Otwierają menu gry. NL NL Zmień opcje graficzne, dźwiękowe oraz preferencje rozgrywki.",
-      "Przeglądaj wszystkie karty NL w twojej talii.",
-      "Obejrzyj mapę NL obecnego poziomu.",
-      "Kiedy skończą ci się PŻ, umierasz.",
-      "Pokazuje ilość posiadanego złota. Jest ono główną walutą NL w Iglicy.",
-      "",
-      "",
-      "Odmierza czas rozgrywki."
+      "Pij lub rzucaj mikstury w trakcie walki! NL Mikstury możesz przenosić pomiędzy pomieszczeniami."
     ],
     "LABEL": [
-      "Ustawienia",
-      "Talia",
-      "Mapa",
-      "Punkty Życia (PŻ)",
-      "Sakiewka",
-      "Stoper"
+      "Mikstury"
     ]
   },
   "Random Tips": {
@@ -216,6 +159,64 @@
     ],
     "LABEL": [
       "Możesz wyrzucać mikstury, aby zwolnić miejsce dla innych."
+    ]
+  },
+  "Relic Tip": {
+    "TEXT": [
+      "Rozsiane po całej Iglicy artefakty gwarantują unikalne bonusy, pozostając w ekwipunku NL przez całą wyprawę. NL Zdobyć je można po pokonaniu potężnych przeciwników lub z rozproszonych po Iglicy skrzyń.",
+      "Ten artefakt należy najpierw odnaleźć.",
+      "Przedmiot stracił swoją mocy."
+    ],
+    "LABEL": [
+      "Artefakty",
+      "Nieznany",
+      "Ten artefakt należy odblokować.",
+      "Zablokowane"
+    ]
+  },
+  "Rewards Tip": {
+    "TEXT": [
+      "Nie zapomnij o łupach! NL Kliknij na nie, aby je zebrać."
+    ],
+    "LABEL": [
+      "Łupy"
+    ]
+  },
+  "Shop Tip": {
+    "TEXT": [
+      "Usuń kartę z talii. Koszt usługi zostanie zwiększony o #b",
+      " na czas trwania tej wyprawy."
+    ],
+    "LABEL": [
+      "Usługa usuwania kart"
+    ]
+  },
+  "Shuffle Tip": {
+    "TEXT": [
+      "NL Jeśli karty stosu rozgrywającego się skończą, NL karty ze stosu odrzuconych zostaną do niego przetasowane."
+    ],
+    "LABEL": [
+      "Gdzie są moje karty?"
+    ]
+  },
+  "Top Panel Tips": {
+    "TEXT": [
+      "Otwierają menu gry. NL NL Zmień opcje graficzne, dźwiękowe oraz preferencje rozgrywki.",
+      "Przeglądaj wszystkie karty NL w twojej talii.",
+      "Obejrzyj mapę NL obecnego poziomu.",
+      "Kiedy skończą ci się PŻ, umierasz.",
+      "Pokazuje ilość posiadanego złota. Jest ono główną walutą NL w Iglicy.",
+      "",
+      "",
+      "Odmierza czas rozgrywki."
+    ],
+    "LABEL": [
+      "Ustawienia",
+      "Talia",
+      "Mapa",
+      "Punkty Życia (PŻ)",
+      "Sakiewka",
+      "Stoper"
     ]
   }
 }

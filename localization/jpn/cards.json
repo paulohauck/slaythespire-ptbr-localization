@@ -10,7 +10,7 @@
   },
   "Regret": {
     "NAME": "後悔",
-    "DESCRIPTION": "使用不可 。 NL ターン終了時に、手札のカード 1 枚につき HP を1失う。"
+    "DESCRIPTION": "使用不可 。 NL ターン終了時、手札のカード 1 枚につき HP を1失う。"
   },
   "Crippling Poison": {
     "NAME": "劇毒",
@@ -38,7 +38,7 @@
   },
   "Glass Knife": {
     "NAME": "ガラスのナイフ",
-    "DESCRIPTION": "!D! ダメージを 2 回与える。この戦闘中は「ガラスのナイフ」のダメージが -2。"
+    "DESCRIPTION": "!D! ダメージを 2 回与える。この戦闘中、このカードのダメージが2低下する。"
   },
   "Cloak And Dagger": {
     "NAME": "外套と短剣",
@@ -71,7 +71,7 @@
   },
   "Wraith Form v2": {
     "NAME": "死霊化",
-    "DESCRIPTION": "無形 !M! を得る。 NL ターン終了時に、敏捷性 1を失う。"
+    "DESCRIPTION": "無形 !M! を得る。 NL ターン終了時、敏捷性 1を失う。"
   },
   "Sadistic Nature": {
     "NAME": "加虐性",
@@ -175,8 +175,8 @@
   },
   "Brutality": {
     "NAME": "残虐",
-    "DESCRIPTION": "ターン開始時に、HPを 1 失いカードを 1 枚引く。",
-    "UPGRADE_DESCRIPTION": "天賦 。 NL ターン開始時に、HPを 1 失いカードを 1 枚引く。"
+    "DESCRIPTION": "ターン開始時、HPを 1 失いカードを 1 枚引く。",
+    "UPGRADE_DESCRIPTION": "天賦 。 NL ターン開始時、HPを 1 失いカードを 1 枚引く。"
   },
   "Iron Wave": {
     "NAME": "アイアンウェーブ",
@@ -192,7 +192,7 @@
   },
   "Tools of the Trade": {
     "NAME": "商売道具",
-    "DESCRIPTION": "ターン開始時に、カードを 1 枚引き、 1 枚捨てる。"
+    "DESCRIPTION": "ターン開始時、カードを 1 枚引き、 1 枚捨てる。"
   },
   "Dramatic Entrance": {
     "NAME": "劇的な入場",
@@ -277,7 +277,7 @@
   },
   "Berserk": {
     "NAME": "狂暴化",
-    "DESCRIPTION": "HPが 50 ％以下になるとターン開始時に、 [R] を得る。"
+    "DESCRIPTION": "HPが 50 ％以下になるとターン開始時、 [R] を得る。"
   },
   "Pummel": {
     "NAME": "猛撃",
@@ -427,9 +427,9 @@
     "NAME": "とどめの一撃",
     "DESCRIPTION": "このターンプレイした「アタック」の枚数ｘ!D! ダメージを与える。",
     "EXTENDED_DESCRIPTION": [
-      " NL （プレイした ",
-      " 「アタック」）。",
-      " 「アタック」）。"
+      " NL (",
+      " 枚のアタックをプレイ済。)",
+      " 枚のアタックをプレイ済。)"
     ]
   },
   "Dark Embrace": {
@@ -442,8 +442,8 @@
   },
   "Well Laid Plans": {
     "NAME": "用意周到",
-    "DESCRIPTION": "ターン終了時に、カードを !M! 枚 保留 する。",
-    "UPGRADE_DESCRIPTION": "ターン終了時に、カードを !M! 枚 保留 する。"
+    "DESCRIPTION": "ターン終了時、カードを !M! 枚 保留 する。",
+    "UPGRADE_DESCRIPTION": "ターン終了時、カードを !M! 枚 保留 する。"
   },
   "Defend_R": {
     "NAME": "防御",
@@ -558,12 +558,12 @@
   },
   "Noxious Fumes": {
     "NAME": "有毒ガス",
-    "DESCRIPTION": "ターン開始時に、敵全体に 毒 !M! を与える。"
+    "DESCRIPTION": "ターン開始時、敵全体に 毒 !M! を与える。"
   },
   "Infinite Blades": {
     "NAME": "無限の刃",
-    "DESCRIPTION": "ターン開始時に、 ナイフ を1枚手札に加える。",
-    "UPGRADE_DESCRIPTION": "天賦 。 NL ターン開始時に、 ナイフ を1枚手札に加える。"
+    "DESCRIPTION": "ターン開始時、 ナイフ を1枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "天賦 。 NL ターン開始時、 ナイフ を1枚手札に加える。"
   },
   "Phantasmal Killer": {
     "NAME": "幻影の暗殺者",
@@ -781,11 +781,11 @@
   },
   "Demon Form": {
     "NAME": "悪魔化",
-    "DESCRIPTION": "ターン開始時に、筋力!M! を得る。"
+    "DESCRIPTION": "ターン開始時、筋力!M! を得る。"
   },
   "Fire Breathing": {
     "NAME": "炎の息",
-    "DESCRIPTION": "ターン終了時に、そのターンでプレイした「アタック」の枚数分だけ敵全体に 1 ダメージを与える。"
+    "DESCRIPTION": "ターン終了時、そのターンでプレイした「アタック」の枚数分だけ敵全体に 1 ダメージを与える。"
   },
   "Ghostly Armor": {
     "NAME": "ゴーストアーマー",
@@ -894,7 +894,7 @@
   },
   "Fission": {
     "NAME": "核分裂",
-    "DESCRIPTION": "すべてのオーブを 喚起 する。 喚起 したオーブ1つにつき、 オーブスロット を1つ得る。"
+    "DESCRIPTION": "すべてのオーブを 喚起 する。 喚起 したオーブ1つにつき、 オーブスロット を1つ得る。 NL 廃棄 。"
   },
   "Storm": {
     "NAME": "ストーム",
@@ -970,7 +970,7 @@
   },
   "Magnetism": {
     "NAME": "磁性",
-    "DESCRIPTION": "ターン開始時に、ランダムな無色のカードを1枚手札に加える。"
+    "DESCRIPTION": "ターン開始時、ランダムな無色のカードを1枚手札に加える。"
   },
   "Recycle": {
     "NAME": "リサイクル",
@@ -982,7 +982,12 @@
   },
   "FTL": {
     "NAME": "FTL",
-    "DESCRIPTION": "!D! ダメージを与える。 このターンにプレイしたカードが !M! 枚未満の場合、カードを1枚引く。"
+    "DESCRIPTION": "!D! ダメージを与える。 このターンにプレイしたカードが !M! 枚未満の場合、カードを1枚引く。",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " 枚のカードをプレイ済。)",
+      " 枚のカードをプレイ済。)"
+    ]
   },
   "Barrage": {
     "NAME": "集中砲火",
@@ -994,7 +999,7 @@
   },
   "Creative AI": {
     "NAME": "クリエイティブAI",
-    "DESCRIPTION": "ターン開始時に、ランダムな「パワー」を手札に加える。"
+    "DESCRIPTION": "ターン開始時、ランダムな「パワー」を手札に加える。"
   },
   "Ball Lightning": {
     "NAME": "ボールライトニング",
@@ -1032,7 +1037,7 @@
     "DESCRIPTION": "Deprecated."
   },
   "Steam Power": {
-    "NAME": "蒸気機関",
+    "NAME": "オーバークロック",
     "DESCRIPTION": "カードを !M! 枚引く。 NL 火傷 を1枚捨て札に加える。"
   },
   "Reprogram": {
@@ -1041,7 +1046,7 @@
   },
   "Cache": {
     "NAME": "キャッシュ",
-    "DESCRIPTION": "ターン終了時に、 山札から !M! 枚のカードを選び、一番上に置く。"
+    "DESCRIPTION": "ターン終了時、 山札から !M! 枚のカードを選び、一番上に置く。"
   },
   "Rebound": {
     "NAME": "リバウンド",
@@ -1074,8 +1079,8 @@
     "DESCRIPTION": "すべての敵に !D! ダメージを与える。 NL カードを !M! 枚引く。"
   },
   "Undo": {
-    "NAME": "元に戻す",
-    "DESCRIPTION": "HPを前のターン時の値に戻す。 NL 廃棄 。"
+    "NAME": "均衡",
+    "DESCRIPTION": "!B! ブロックを得る。 NL このターンあなたの手札を 保留 する。"
   },
   "Doom and Gloom": {
     "NAME": "自暴自棄",
@@ -1124,7 +1129,7 @@
   },
   "Hologram": {
     "NAME": "ホログラム",
-    "DESCRIPTION": "!B! ブロック を得る。 NL 捨て札のランダムなカード1枚を手札に戻す。",
+    "DESCRIPTION": "!B! ブロック を得る。 NL 捨て札のカード1枚を手札に戻す。 NL 廃棄 。",
     "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 捨て札のカード1枚を手札に戻す。"
   },
   "Blaster": {
@@ -1133,7 +1138,7 @@
   },
   "Biased Cognition": {
     "NAME": "認知偏向",
-    "DESCRIPTION": "集中力 !M! を得る。 NL ターン開始時に、 集中力 １を失う。"
+    "DESCRIPTION": "集中力 !M! を得る。 NL ターン開始時、 集中力 １を失う。"
   },
   "Beam Cell": {
     "NAME": "ビームセル",
@@ -1142,7 +1147,7 @@
   "Static Discharge": {
     "NAME": "静電放電",
     "DESCRIPTION": "攻撃によってダメージを受けるたび、 ライトニング !M! を 生成 する。",
-    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
+    "UPGRADE_DESCRIPTION": "攻撃によってダメージを受けるたび、 ライトニング !M! を 生成 する。"
   },
   "Ice Wall": {
     "NAME": "Ice Wall",
@@ -1155,8 +1160,8 @@
   },
   "Blizzard": {
     "NAME": "ブリザード",
-    "DESCRIPTION": "すべての敵に、この戦闘で生成した フロスト の2倍に等しいダメージを与える。",
-    "UPGRADE_DESCRIPTION": "すべての敵に、この戦闘で生成した フロスト の !M! 倍に等しいダメージを与える。",
+    "DESCRIPTION": "すべての敵に、この戦闘で生成した フロスト の !M! 倍に等しいダメージを与える。",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (!D! ダメージを与える。)",
       ""
@@ -1195,12 +1200,12 @@
   },
   "Nova": {
     "NAME": "ノヴァ",
-    "DESCRIPTION": "この戦闘でプレイした「パワー」1枚につき、 すべての敵に !M! ダメージを与える。",
+    "DESCRIPTION": "すべての敵に、この戦闘でプレイした「パワー」の枚数の !M! 倍に等しいダメージを与える。",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL 廃棄 。",
       " NL (!D! ダメージを与える。)"
-    ],
-    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to four times the number of Powers played this combat."
+    ]
   },
   "Sunder": {
     "NAME": "切断",
@@ -1213,12 +1218,13 @@
   },
   "Seek": {
     "NAME": "検索",
-    "DESCRIPTION": "山札から !M! 枚のカードを選び、手札に加える。 NL 廃棄 。"
+    "DESCRIPTION": "山札から !M! 枚のカードを選び、手札に加える。 NL 廃棄 。",
+    "UPGRADE_DESCRIPTION": "山札から !M! 枚のカードを選び、手札に加える。 NL 廃棄 。"
   },
   "Echo Form": {
     "NAME": "反響化",
-    "DESCRIPTION": "ターンの最初にプレイするカードを、2度プレイする。 NL エセリアル 。",
-    "UPGRADE_DESCRIPTION": "ターンの最初にプレイするカードを、2度プレイする。"
+    "DESCRIPTION": "ターンの最初にプレイするカードを、2回プレイする。 NL エセリアル 。",
+    "UPGRADE_DESCRIPTION": "ターンの最初にプレイするカードを、2回プレイする。"
   },
   "Force Field": {
     "NAME": "フォースフィールド",
@@ -1230,12 +1236,13 @@
   },
   "Loop": {
     "NAME": "ループ",
-    "DESCRIPTION": "ターン開始時に、 次のオーブの自動効果を使用する。"
+    "DESCRIPTION": "ターン開始時、 次のオーブの自動効果を使用する。",
+    "UPGRADE_DESCRIPTION": "ターン開始時、 次のオーブの自動効果を !M! 回使用する。"
   },
   "Hello World": {
     "NAME": "ハロー・ワールド",
-    "DESCRIPTION": "ターン開始時に、 ランダムなコモンのカードを1枚手札に加える。",
-    "UPGRADE_DESCRIPTION": "天賦 。 NL ターン開始時に、 ランダムなコモンのカードを1枚手札に加える。"
+    "DESCRIPTION": "ターン開始時、 ランダムなコモンのカードを1枚手札に加える。",
+    "UPGRADE_DESCRIPTION": "天賦 。 NL ターン開始時、 ランダムなコモンのカードを1枚手札に加える。"
   },
   "Primitive Tech": {
     "NAME": "Primitive Tech",
@@ -1251,14 +1258,31 @@
   },
   "Lockon": {
     "NAME": "ロックオン",
-    "DESCRIPTION": "!D! ダメージを与える。 NL このターン、ライトニング と ダーク オーブはこの敵を狙う。"
+    "DESCRIPTION": "!D! ダメージを与える。 NL 次の !M! ターンの間、 ライトニング と ダーク オーブはこの敵を狙う。"
   },
   "Consume": {
     "NAME": "消尽",
     "DESCRIPTION": "集中力 !M! を得る。 NL オーブスロットを1つ失う。"
   },
   "BootSequence": {
-    "NAME": "Boot Sequence",
-    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
+    "NAME": "起動シーケンス",
+    "DESCRIPTION": "!B! ブロック を得る。 NL 天賦 。 NL 廃棄 。"
+  },
+  "Steam": {
+    "NAME": "スチームバリア",
+    "DESCRIPTION": "!B! ブロックを得る。 この戦闘中、このカードの ブロック 値が1低下する。"
+  },
+  "Electrodynamics": {
+    "NAME": "電気力学",
+    "DESCRIPTION": "喚起 した ライトニング が2回攻撃するようになる。",
+    "UPGRADE_DESCRIPTION": "喚起 した ライトニング が追加で !M! 回攻撃するようになる。"
+  },
+  "Core Surge": {
+    "NAME": "コアサージ",
+    "DESCRIPTION": "!D! ダメージを与える。 NL アーティファクト !M! を得る。 NL 廃棄 。"
+  },
+  "Compile Driver": {
+    "NAME": "コンパイル・ドライバ",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 生成しているオーブ1種につき、 !M! 枚のカードを引く。"
   }
 }

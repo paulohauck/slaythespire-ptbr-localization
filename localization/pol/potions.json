@@ -6,11 +6,24 @@
       " #yrelikt."
     ]
   },
+  "AttackPotion": {
+    "NAME": "Mikstura ataku",
+    "DESCRIPTIONS": [
+      "Dodaj losową kartę ataku do ręki, w tej turze kosztuje ona #b0."
+    ]
+  },
   "Block Potion": {
     "NAME": "Mikstura bloku",
     "DESCRIPTIONS": [
       "Dodaje #b",
       " pkt. #yBloku."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Mikstura krwi",
+    "DESCRIPTIONS": [
+      "Przywróć #b",
+      "% twoich Maksymalnych PŻ."
     ]
   },
   "Dexterity Potion": {
@@ -37,11 +50,37 @@
       " pkt. #yEnergii."
     ]
   },
+  "EntropicBrew": {
+    "NAME": "Entropiczna mikstura",
+    "DESCRIPTIONS": [
+      "Wypełnia wszystkie miejsca na mikstury losowymy miksturami."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Esencja stali",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #yPancerza."
+    ]
+  },
   "Explosive Potion": {
     "NAME": "Mieszanka wybuchowa",
     "DESCRIPTIONS": [
       "Zadaje #b",
       " pkt. obrażeń WSZYSTKIM przeciwnikom."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "Wróżka w butelce",
+    "DESCRIPTIONS": [
+      "Po otrzymaniu śmiertelnych obrażeń, przywróć #b10% twoich Maksymalnych PŻ."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Płynny strach",
+    "DESCRIPTIONS": [
+      "Nakłada #b",
+      " pkt. #yWrażliwości."
     ]
   },
   "Fire Potion": {
@@ -51,11 +90,45 @@
       " pkt. obrażeń."
     ]
   },
+  "FocusPotion": {
+    "NAME": "Roztwór NZT-48",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #ySkupienia."
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "Multiwitamina",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " Maksymalnych PŻ."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "Wywar hazardzisty",
+    "DESCRIPTIONS": [
+      "Odrzuć wybraną ilość kart i dobierz tyle samo."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Duszek w słoiku",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #yNieuchwytności."
+    ]
+  },
   "Health Potion": {
     "NAME": "Mikstura lecząca",
     "DESCRIPTIONS": [
       "Przywraca #b",
       " PŻ."
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Płynny Bronz",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #yCierni."
     ]
   },
   "Poison Potion": {
@@ -66,10 +139,16 @@
     ]
   },
   "Potion Slot": {
-    "NAME": "Slot mikstury",
+    "NAME": "Miejsce na miksturę",
     "DESCRIPTIONS": [
       "Korzystaj z mikstur podczas walki, aby zyskiwać #gbonusy NL lub #rranić przeciwników.",
-      "Slot mikstury"
+      "Miejsce na miksturę"
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "Mikstura mocy",
+    "DESCRIPTIONS": [
+      "Dodaj losową kartę mocy do ręki, w tej turze kosztuje ona #b0."
     ]
   },
   "Regen Potion": {
@@ -78,6 +157,42 @@
       "Przywraca #b",
       " #yPŻ pod koniec tury przez #b",
       " tur."
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Mikstura umiejętności",
+    "DESCRIPTIONS": [
+      "Dodaj losową kartę umiejętności do ręki, w tej turze kosztuje ona #b0."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "Bomba dymna",
+    "DESCRIPTIONS": [
+      "Ucieknij z walki (nie działa na bossów). Nie zyskujesz łupów."
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Olej Wonsza",
+    "DESCRIPTIONS": [
+      "#yDezorientacja. Dobierz #b",
+      " karty.",
+      "card."
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "Speed",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #yZwinności. Na końcu tury, utrać #b",
+      " pkt. #yZwinności."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "Sterydy",
+    "DESCRIPTIONS": [
+      "Zyskaj #b",
+      " pkt. #ySiły. Na końcu tury, utrać #b",
+      " pkt. #ySiły."
     ]
   },
   "Strength Potion": {

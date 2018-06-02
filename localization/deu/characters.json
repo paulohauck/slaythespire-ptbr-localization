@@ -1,12 +1,4 @@
 {
-  "Ironclad": {
-    "NAMES": [
-      "Der Eiserne"
-    ],
-    "TEXT": [
-      "Der verbliebene Soldat der Eisernen. NL Verkaufte seine Seele, um dämonische Energien nutzen zu können."
-    ]
-  },
   "Crowbot": {
     "NAMES": [
       "Krähbot"
@@ -15,74 +7,20 @@
       "BIEP BUUP"
     ]
   },
-  "Silent": {
+  "Defect": {
     "NAMES": [
-      "Die Stille"
+      "Das Defekte"
     ],
     "TEXT": [
-      "Eine tödliche Jägerin aus den Nebelländern. NL Beseitigt Gegner mit Dolchen und Giften."
+      "Ein Kampf-Automaton, das Selbstbewusstsein erlangte. NL Manipuliert Orbs mithilfe vorzeitlicher Technologie."
     ]
   },
-  "Neow Event": {
+  "Ironclad": {
     "NAMES": [
-      "Niau"
+      "Der Eiserne"
     ],
     "TEXT": [
-      "~Sei~ ~gegrüßt~ NL ~Ich~ ~bin~ ~Niau~ ~...~",
-      "~Hallo~ ~...~ NL ~Noch~ ~mal~ ~...~",
-      "~Sei~ ~gegrüßt~ ~...~",
-      "~Noch~ ~ein~ NL ~Versuch~ ~...?~",
-      "~Erreiche~ ~den~ ~Boss~ ~...~ NL ~um~ ~meinen~ ~...~ ~Segen~ ~zu~ ~erhalten~ ~...~",
-      "~Stelle~ ~dich~ ~zumindest~ ~...~ NL ~dem~ ~ersten~ ~Boss~ ~...~",
-      "~Ich~ ~habe~ ~dich~ ~zurückgeholt~ ~...~",
-      "~Wähle...~",
-      "~Gewährt...~",
-      "~Risiko...~ NL ~...Belohnung...~",
-      "~Zeit~ ~für~ ~eine~ NL ~HERAUSFORDERUNG...~",
-      "Belohnungen"
-    ],
-    "OPTIONS": [
-      "[Fortsetzen]",
-      "[Reden]",
-      "[Überspringen]",
-      "[Verlassen]"
-    ]
-  },
-  "Neow Reward": {
-    "NAMES": [],
-    "TEXT": [
-      "[ #gWähle #geine #gKarte #gfür #gdein #gDeck ]",
-      "[ #gErhalte #geine #gzufällige #gseltene #gKarte ]",
-      "[ #gEntferne #geine #gKarte #gaus #gdeinem #gDeck ]",
-      "[ #gVerbessere #geine #gKarte ]",
-      "[ #gTransformiere #geine #gKarte ]",
-      "[ #gErhalte #g3 #gzufällige #gTränke ]",
-      "[ #gErhalte #gein #gzufälliges #ggewöhnliches #gRelikt ]",
-      "[ #gMax. #gTP #g+",
-      "[ #gErhalte #g",
-      " #gGold ]",
-      "#gentferne #g2 #gKarten ]",
-      "#gerhalte #gein #gzufälliges #gseltenes #gRelikt ]",
-      "#gwähle #geine #gseltene #gKarte #gfür #gdein #gDeck ]",
-      "#gerhalte #g",
-      " #gGold ]",
-      "#gtransformiere #g2 #gKarten ]",
-      "#gmax. #gTP #g+",
-      "[ #rVerliere #r",
-      " #rmax. #rTP und ",
-      "[ #rVerliere #rdein #rgesamtes #rGold und ",
-      "[ #rErhalte #reinen #rFluch und ",
-      "[ #rVerliere #r50% #rdeiner #raktuellen #rTP und ",
-      "Wähle eine Karte",
-      "Wähle eine Karte zum Entfernen",
-      "Wähle 2 Karten zum Entfernen",
-      "Wähle eine Karte zum Transformieren",
-      "Wähle 2 Karten zum Transformieren",
-      "Wähle eine Karte zum Verbessern",
-      "[ #gIn #gden #gnächsten #g3 #gKämpfen #ghaben #gGegner #g1 #gTP ]"
-    ],
-    "UNIQUE_REWARDS": [
-      "[ #rVerliere #rdein #rStartrelikt und #gerhalte #gein #gzufälliges #gBossrelikt ]"
+      "Der verbliebene Soldat der Eisernen. NL Verkaufte seine Seele, um dämonische Energien nutzen zu können."
     ]
   },
   "Merchant": {
@@ -107,6 +45,68 @@
       "~*GÄHN*~",
       "Ich mag Gold.",
       "Meine Lieblingsfarbe ist Blau. NL Und deine?"
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Niau"
+    ],
+    "TEXT": [
+      "~Sei~ ~gegrüßt~ NL ~Ich~ ~bin~ ~Niau~ ~...~",
+      "~Hallo~ ~...~ NL ~Noch~ ~mal~ ~...~",
+      "~Sei~ ~gegrüßt~ ~...~",
+      "~Noch~ ~ein~ NL ~Versuch~ ~...?~",
+      "~Erreiche~ ~den~ ~Boss~ ~...~ NL ~um~ ~meinen~ ~...~ ~Segen~ ~zu~ ~erhalten~ ~...~",
+      "~Stelle~ ~dich~ ~zumindest~ ~...~ NL ~dem~ ~ersten~ ~Boss~ ~...~",
+      "~Ich~ ~habe~ ~dich~ ~zurückgeholt~ ~...~",
+      "~Wähle...~",
+      "~Gewährt...~",
+      "~Wer~ ~nicht~ ~wagt,~ NL ~der~ ~nicht~ ~gewinnt...~",
+      "~Zeit~ ~für~ ~eine~ NL ~HERAUSFORDERUNG...~",
+      "Belohnungen"
+    ],
+    "OPTIONS": [
+      "[Fortsetzen]",
+      "[Reden]",
+      "[Überspringen]",
+      "[Verlassen]"
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gWähle #gund #gerhalte #geine #gKarte ]",
+      "[ #gErhalte #geine #gzufällige #gseltene #gKarte ]",
+      "[ #gEntferne #geine #gKarte #gaus #gdeinem #gDeck ]",
+      "[ #gVerbessere #geine #gKarte ]",
+      "[ #gTransformiere #geine #gKarte ]",
+      "[ #gErhalte #g3 #gzufällige #gTränke ]",
+      "[ #gErhalte #gein #gzufälliges #ggewöhnliches #gRelikt ]",
+      "[ #gMax. #gTP #g+",
+      "[ #gErhalte #g",
+      " #gGold ]",
+      "#gentferne #g2 #gKarten ]",
+      "#gerhalte #gein #gzufälliges #gseltenes #gRelikt ]",
+      "#gwähle #geine #gseltene #gKarte #gfür #gdein #gDeck ]",
+      "#gerhalte #g",
+      " #gGold ]",
+      "#gtransformiere #g2 #gKarten ]",
+      "#gmax. #gTP #g+",
+      "[ #rVerliere #r",
+      " #rmax. #rTP und ",
+      "[ #rVerliere #rdein #rgesamtes #rGold und ",
+      "[ #rErhalte #reinen #rFluch und ",
+      "[ #rVerliere #r50% #rdeiner #raktuellen #rTP und ",
+      "Wähle eine Karte",
+      "Wähle eine Karte, die du entfernst",
+      "Wähle 2 Karten, die du entfernst",
+      "Wähle eine Karte, die du transformierst",
+      "Wähle 2 Karten, die du transformierst",
+      "Wähle eine Karte, die du verbesserst",
+      "[ #gIn #gden #gnächsten #g3 #gKämpfen #ghaben #gGegner #g1 #gTP ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rVerliere #rdein #rStartrelikt und #gerhalte #gein #gzufälliges #gBossrelikt ]"
     ]
   },
   "Shop Screen": {
@@ -145,12 +145,12 @@
       "Meine Lieblingsfarbe ist Blau. NL Und deine?"
     ]
   },
-  "Defect": {
+  "Silent": {
     "NAMES": [
-      "Das Defekte"
+      "Die Stille"
     ],
     "TEXT": [
-      "Ein Kampf-Automaton, das Selbstbewusstsein erlangte. NL Manipuliert Orbs mithilfe vorzeitlicher Technologie."
+      "Eine tödliche Jägerin aus den Nebelländern. NL Beseitigt Gegner mit Dolchen und Giften."
     ]
   }
 }

@@ -1,42 +1,16 @@
 {
-  "DEV": {
-    "HEADER": "Entwicklung & Design",
-    "NAMES": [
-      "Anthony Giovannetti",
-      "Casey Yano"
-    ]
-  },
-  "OPS": {
-    "HEADER": "Betrieb & Metriken",
-    "NAMES": [
-      "Danielle Jenkins",
-      "Jake Rabinowitz"
-    ]
-  },
-  "SOUND": {
-    "HEADER": "Musik & Sound",
-    "NAMES": [
-      "Clark Aboud"
-    ]
-  },
-  "VOICE": {
-    "HEADER": "Stimmentalente",
-    "NAMES": [
-      "Tamara Ryan",
-      "Michael Schwalbe"
-    ]
-  },
-  "PORTRAITS": {
-    "HEADER": "Kartenportraits & Ereignisbilder",
-    "NAMES": [
-      "Anailis Dorta"
-    ]
-  },
   "ANIMATION": {
     "HEADER": "Charakter-Animation",
     "NAMES": [
       "Julio Duque Montero",
       "Jon Sandler"
+    ]
+  },
+  "DEV": {
+    "HEADER": "Entwicklung & Design",
+    "NAMES": [
+      "Anthony Giovannetti",
+      "Casey Yano"
     ]
   },
   "ILLUSTRATION": {
@@ -45,18 +19,28 @@
       "Bruce Brenneise"
     ]
   },
-  "LOC_ZHS": {
-    "HEADER": "Chinese (Simplified) Localization",
+  "LOC_ADDITIONAL": {
+    "HEADER": "Zusätzliche Übersetzungen",
     "NAMES": [
-      "Sound of Mystery"
+      "MoGi Group"
     ]
   },
-  "LOC_ZHT": {
-    "HEADER": "Chinese (Traditional) Localization",
+  "LOC_CAT": {
+    "HEADER": "Katalanische Lokalisierung",
     "NAMES": []
   },
+  "LOC_DEU": {
+    "HEADER": "Deutsche Lokalisierung",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand ",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly"
+    ]
+  },
   "LOC_FRA": {
-    "HEADER": "French Localization",
+    "HEADER": "Französische Lokalisierung",
     "NAMES": [
       "Xavier \"Blagatt\" Dupont",
       "Malik \"Devexia\" Leonarski",
@@ -71,17 +55,8 @@
       "Zachary \"WyvernZed\" Janisse"
     ]
   },
-  "LOC_DEU": {
-    "HEADER": "Deutsche Lokalisierung",
-    "NAMES": [
-      "Joshua \"Joshipon\" Wiegand ",
-      "Jonas Trodler",
-      "Hongkong Koma",
-      "Moly"
-    ]
-  },
   "LOC_ITA": {
-    "HEADER": "Italian Localization",
+    "HEADER": "Italienische Lokalisierung",
     "NAMES": [
       "Hob",
       "Mero Marco",
@@ -89,13 +64,13 @@
     ]
   },
   "LOC_JPN": {
-    "HEADER": "Japanese Localization",
+    "HEADER": "Japanische Lokalisierung",
     "NAMES": [
       "Grezzz"
     ]
   },
   "LOC_KOR": {
-    "HEADER": "Korean Localization",
+    "HEADER": "Koreanische Lokalisierung",
     "NAMES": [
       "Translation Manager:",
       "Eteriny",
@@ -109,8 +84,14 @@
       "GyeRyak"
     ]
   },
+  "LOC_NOR": {
+    "HEADER": "Norwegische Lokalisierung",
+    "NAMES": [
+      "Eystein Jarp"
+    ]
+  },
   "LOC_POL": {
-    "HEADER": "Polish Localization",
+    "HEADER": "Polnische Lokalisierung",
     "NAMES": [
       "Translation and Coordination:",
       "Stanis³aw \"ST4H\" Borkowski",
@@ -128,8 +109,19 @@
       "Rafa³ \"SponTon83\" Szyszko"
     ]
   },
+  "LOC_PTB": {
+    "HEADER": "Brasilianisch-Portugiesische Lokalisierung",
+    "NAMES": [
+      "Guilherme \"GPerego\" Perego",
+      "Gustavo \"KomKlave\" Duarte",
+      "José \"Maneimax\" Vasconcelos",
+      "Leonardo \"Iikat\" Takii",
+      "Nathan \"NoxShadow\" Cervieri",
+      "Paulo \"SilverTape\" Hauck"
+    ]
+  },
   "LOC_RUS": {
-    "HEADER": "Russian Localization",
+    "HEADER": "Russische Lokalisierung",
     "NAMES": [
       "Translation and coordination:",
       "Ivan \"Ingrett\" Khoroshunenko",
@@ -142,19 +134,71 @@
       "Ascimator",
       "Kateryna \"Meds\" Belimenko-Bolger",
       "Alexey \"Surrealistic Ganerson\" Popov",
-      "Alexandr \"LiaNdrY\" Mazistov"
+      "Alexandr \"LiaNdrY\" Mazistov",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "Shop Asset Translation:",
+      "Urist McFerrum"
+    ]
+  },
+  "LOC_SRB": {
+    "HEADER": "Serbische Lokalisierung",
+    "NAMES": [
+      "Nikola \"hauzer\" Vukosavljević"
     ]
   },
   "LOC_TUR": {
-    "HEADER": "Turkish Localization",
+    "HEADER": "Türkische Lokalisierung",
     "NAMES": [
       "Erdem Gürbüz"
     ]
   },
-  "LOC_ADDITIONAL": {
-    "HEADER": "Additional Translations",
+  "LOC_UKR": {
+    "HEADER": "Ukrainische Lokalisierung",
     "NAMES": [
-      "MoGi Group"
+      "Vladyslav \"DarkXylese\" Kashtelyanov"
+    ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "Vereinfachte Chinesische Lokalisierung",
+    "NAMES": [
+      "Sound of Mystery"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "Traditionelle Chinesische Lokalisierung",
+    "NAMES": []
+  },
+  "OPS": {
+    "HEADER": "Betrieb & Metriken",
+    "NAMES": [
+      "Danielle Jenkins",
+      "Jake Rabinowitz"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "Kartenportraits & Ereignisbilder",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "Musik & Sound",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "Besonderen Dank an:",
+    "NAMES": [
+      "Harry Rabinowitz",
+      "Kevin \"Billy\" Matheson",
+      "Anthony Roybal",
+      "Lee Beckman",
+      "Sam Welch",
+      "feedbackbot",
+      "Evan Howell",
+      "Justin Myhres",
+      "robojumper"
     ]
   },
   "TEST": {
@@ -186,48 +230,19 @@
       "Alexander Toy",
       "Merijn van der Vliet",
       "David Von Derau",
-      "Conor Watson"
-    ]
-  },
-  "SPECIAL": {
-    "HEADER": "Besonderen Dank an:",
-    "NAMES": [
-      "Harry Rabinowitz",
-      "Kevin \"Billy\" Matheson",
-      "Anthony Roybal",
-      "Lee Beckman",
-      "Sam Welch",
-      "feedbackbot",
-      "Evan Howell",
-      "Justin Myhres",
-      "robojumper"
+      "Conor Watson",
+      "David \"divadus\" Withington"
     ]
   },
   "THANKS_MSG": {
     "HEADER": "...und danke DIR fürs Spielen!",
     "NAMES": []
   },
-  "LOC_PTB": {
-    "HEADER": "Localização - Português do Brasil",
+  "VOICE": {
+    "HEADER": "Stimmentalente",
     "NAMES": [
-      "Guilherme \"GPerego\" Perego",
-      "Gustavo \"KomKlave\" Duarte",
-      "José \"Maneimax\" Vasconcelos",
-      "Leonardo \"Iikat\" Takii",
-      "Nathan \"NoxShadow\" Cervieri",
-      "Paulo \"SilverTape\" Hauck"
-    ]
-  },
-  "LOC_NOR": {
-    "HEADER": "Norsk Oversettelse",
-    "NAMES": [
-      "Eystein Jarp"
-    ]
-  },
-  "LOC_SRB": {
-    "HEADER": "Serbian Localization",
-    "NAMES": [
-      "Nikola \"hauzer\" Vukosavljević"
+      "Tamara Ryan",
+      "Michael Schwalbe"
     ]
   }
 }

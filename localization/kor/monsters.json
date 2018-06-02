@@ -70,11 +70,11 @@
   },
   "BanditChild": {
     "MOVES": [
-      ""
+      "촉새"
     ],
-    "NAME": "Spicker",
+    "NAME": "",
     "DIALOG": [
-      "Beeeaaar!!!!"
+      "고오오옴!!!!"
     ]
   },
   "Orb Walker": {
@@ -646,6 +646,15 @@
     "NAME": "귀족 그렘린",
     "DIALOG": [
       "@우어어어어어어어어!!@"
+    ]
+  },
+  "Transient": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "과도자",
+    "DIALOG": [
+      ""
     ]
   }
 }

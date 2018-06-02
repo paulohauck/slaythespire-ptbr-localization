@@ -982,7 +982,12 @@
   },
   "FTL": {
     "NAME": "FTL",
-    "DESCRIPTION": "Causa !D! de daño. Si has jugado menos de !M! cartas este turno, roba 1 carta."
+    "DESCRIPTION": "Causa !D! de daño. Si has jugado menos de !M! cartas este turno, roba 1 carta.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " card played.)",
+      " cards played.)"
+    ]
   },
   "Barrage": {
     "NAME": "Bombardeo",
@@ -1213,7 +1218,8 @@
   },
   "Seek": {
     "NAME": "Buscar",
-    "DESCRIPTION": "Escoge !M! cartas de tu pila de robado y ponlas en tu mano. NL Agota."
+    "DESCRIPTION": "Escoge !M! cartas de tu pila de robado y ponlas en tu mano. NL Agota.",
+    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
   },
   "Echo Form": {
     "NAME": "Forma de Eco",
@@ -1230,7 +1236,8 @@
   },
   "Loop": {
     "NAME": "Bucle",
-    "DESCRIPTION": "Al comienzo de tu turno, usa la habilidad pasiva de tu siguiente Orbe."
+    "DESCRIPTION": "Al comienzo de tu turno, usa la habilidad pasiva de tu siguiente Orbe.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
   },
   "Hello World": {
     "NAME": "Hola Mundo",
@@ -1260,5 +1267,22 @@
   "BootSequence": {
     "NAME": "Boot Sequence",
     "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
+  },
+  "Steam": {
+    "NAME": "Steam",
+    "DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat."
+  },
+  "Electrodynamics": {
+    "NAME": "Electrodynamics",
+    "DESCRIPTION": "Lightning now hits ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Lightning now hits ALL enemies. NL If there is only 1 enemy, Lightning strikes twice."
+  },
+  "Core Surge": {
+    "NAME": "Core Surge",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
+  },
+  "Compile Driver": {
+    "NAME": "Compile Driver",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card for each unique Orb you have."
   }
 }

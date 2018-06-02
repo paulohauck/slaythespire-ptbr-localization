@@ -74,7 +74,11 @@
   "LOC_DEU": {
     "HEADER": "독일어 번역",
     "NAMES": [
-      "Joshua \"Joshipon\" Wiegand "
+      "Joshua \"Joshipon\" Wiegand ",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly"
     ]
   },
   "LOC_ITA": {
@@ -139,7 +143,10 @@
       "Ascimator",
       "Kateryna \"Meds\" Belimenko-Bolger",
       "Alexey \"Surrealistic Ganerson\" Popov",
-      "Alexandr \"LiaNdrY\" Mazistov"
+      "Alexandr \"LiaNdrY\" Mazistov",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "Shop Asset Translation:",
+      "Urist McFerrum"
     ]
   },
   "LOC_TUR": {
@@ -183,7 +190,8 @@
       "Alexander Toy",
       "Merijn van der Vliet",
       "David Von Derau",
-      "Conor Watson"
+      "Conor Watson",
+      "David \"divadus\" Withington"
     ]
   },
   "SPECIAL": {
@@ -226,5 +234,15 @@
     "NAMES": [
       "Nikola \"hauzer\" Vukosavljević"
     ]
+  },
+  "LOC_UKR": {
+    "HEADER": "우크라이나어 번역",
+    "NAMES": [
+      "Vladyslav \"DarkXylese\" Kashtelyanov"
+    ]
+  },
+  "LOC_CAT": {
+    "HEADER": "카탈로니아어 번역",
+    "NAMES": []
   }
 }

@@ -82,9 +82,20 @@
       "#r%s ターン",
       "#r%s #r/ #r%s #rHP",
       "#y%s #yゴールド",
-      "%s を選択",
+      "選択：",
       "スキップ:",
-      "Missing Info"
+      "Missing Info",
+      "+2 最大HP",
+      "#bC ",
+      "#bR ",
+      "#bP ",
+      "#bS ",
+      "#b休息",
+      "#bアップグレード %s",
+      "#b削除 %s",
+      "#b発掘",
+      "#bリフト %s/%s",
+      "#y購入:"
     ]
   },
   "LeaderboardsScreen": {
@@ -142,7 +153,8 @@
       "Ukrainian",
       "Vietnamese",
       "Hungarian",
-      "Serbian (Latin)"
+      "Serbian (Latin)",
+      "Catalan"
     ]
   },
   "Proceed Button": {
@@ -152,7 +164,8 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "交換（キャンブルチップ）"
+      "交換（ギャンブルチップ）",
+      "交換"
     ]
   },
   "RetainCardsAction": {
@@ -322,7 +335,8 @@
       "Blocked",
       "Max HP +",
       "スタン！",
-      "中断！"
+      "中断！",
+      "Relics"
     ]
   },
   "TopPanel": {
@@ -358,7 +372,8 @@
   },
   "AbstractRoom": {
     "TEXT": [
-      "奪取された..."
+      "奪取された…",
+      "逃げ出した…"
     ]
   },
   "SingleViewRelicPopup": {
@@ -582,7 +597,8 @@
       "カードを選択",
       "+2 Max HP",
       "VOTE NOW: ",
-      "s left."
+      "s left.",
+      "アップグレードを確認"
     ]
   },
   "BossRelicSelectScreen": {
@@ -713,7 +729,8 @@
       "オープンベータとは？",
       "Slay the Spireは依然鋭意開発中です！機能、カード、敵などにも修正が加えられています。 NL もし何か問題が発生したり、フィードバックをいただける場合は#bSteam #bDiscussions のページからご連絡ください。 NL 連絡事項はこのくらいにしましょう、塔があなたを待っています！",
       "Slay the Spireは依然鋭意開発中です！端的に言えば、あなたはこのゲームのベータ版をプレイしています。 NL プレイ中に問題が発生した場合はお知らせください。また、今後のコンテンツ用のプレースホルダーアートにご期待ください。 NL 連絡事項はこのくらいにしましょう、塔があなたを待っています！",
-      "クリックして開始。"
+      "クリックして開始。",
+      "続ける"
     ]
   },
   "MainMenuScreen": {
@@ -721,7 +738,8 @@
       "#yビルド： ",
       "攻略開始",
       "戻る",
-      "クリックして編集"
+      "クリックして編集",
+      "変更"
     ]
   },
   "MenuButton": {
@@ -745,7 +763,8 @@
   },
   "CreditsScreen": {
     "TEXT": [
-      "クリックして戻る"
+      "クリックして戻る",
+      "戻る"
     ]
   },
   "PatchNotesScreen": {
@@ -1063,7 +1082,14 @@
       "カード選択 #7",
       "カード選択 #8",
       "カード選択 #9",
-      "カード選択 #10"
+      "カード選択 #10",
+      "Drop Card",
+      "Up",
+      "Down",
+      "Select",
+      "End Turn / Info",
+      "Tab Left",
+      "Tab Right"
     ]
   },
   "InputKeyNames": {

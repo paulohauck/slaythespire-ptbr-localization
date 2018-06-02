@@ -66,5 +66,13 @@
   "Draft": {
     "NAME": "ドラフト",
     "DESCRIPTION": "カードをドラフトして初期デッキを作る。"
+  },
+  "Brewmaster": {
+    "NAME": "醸造マスター",
+    "DESCRIPTION": "5枚の錬金術と白き獣の像を所持してスタートする。"
+  },
+  "Specialized": {
+    "NAME": "特化",
+    "DESCRIPTION": "同じレアカード5枚を所持してスタートする。"
   }
 }

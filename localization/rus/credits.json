@@ -1,42 +1,16 @@
 {
-  "DEV": {
-    "HEADER": "Разработка и дизайн",
-    "NAMES": [
-      "Энтони Джованнетти (Anthony Giovannetti)",
-      "Кейси Яно (Casey Yano)"
-    ]
-  },
-  "OPS": {
-    "HEADER": "Операции и метрики",
-    "NAMES": [
-      "Даниэлла Дженкинс (Danielle Jenkins)",
-      "Джейк Рабиновиц (Jake Rabinowitz)"
-    ]
-  },
-  "SOUND": {
-    "HEADER": "Звуковое сопровождение",
-    "NAMES": [
-      "Кларк Эбауд (Clark Aboud)"
-    ]
-  },
-  "VOICE": {
-    "HEADER": "Озвучивание",
-    "NAMES": [
-      "Тамара Райан (Tamara Ryan)",
-      "Майкл Швальбе (Michael Schwalbe)"
-    ]
-  },
-  "PORTRAITS": {
-    "HEADER": "Графика карт и событий",
-    "NAMES": [
-      "Анаилис Дорта (Anailis Dorta)"
-    ]
-  },
   "ANIMATION": {
     "HEADER": "Анимация персонажей",
     "NAMES": [
       "Хулио Дуке Монтеро (Julio Duque Montero)",
       "Джон Сэндлер (Jon Sandler)"
+    ]
+  },
+  "DEV": {
+    "HEADER": "Разработка и дизайн",
+    "NAMES": [
+      "Энтони Джованнетти (Anthony Giovannetti)",
+      "Кейси Яно (Casey Yano)"
     ]
   },
   "ILLUSTRATION": {
@@ -45,15 +19,25 @@
       "Брюс Бреннейс (Bruce Brenneise)"
     ]
   },
-  "LOC_ZHS": {
-    "HEADER": "Перевод на китайский (упрощённый)",
+  "LOC_ADDITIONAL": {
+    "HEADER": "Дополнительный перевод",
     "NAMES": [
-      "Sound of Mystery"
+      "MoGi Group"
     ]
   },
-  "LOC_ZHT": {
-    "HEADER": "Перевод на китайский (традиционный)",
+  "LOC_CAT": {
+    "HEADER": "Перевод на каталанский",
     "NAMES": []
+  },
+  "LOC_DEU": {
+    "HEADER": "Перевод на немецкий",
+    "NAMES": [
+      "Джошуа «Joshipon» Виганд (Joshua «Joshipon» Wiegand)",
+      "Дастин «Skrelpoid» Кристен (Dustin «Skrelpoid» Kristen)",
+      "Джонас Тродлер (Jonas Trodler)",
+      "Hongkong Koma",
+      "Moly"
+    ]
   },
   "LOC_FRA": {
     "HEADER": "Перевод на французский",
@@ -69,12 +53,6 @@
       "Хьюго «Tagadda» Вурпилло (Hugo «Tagadda» Vurpillot)",
       "Корентен «Tchus» Монфор (Corentin «Tchus» Monfort)",
       "Закари «WyvernZed» Джанис (Zachary «WyvernZed» Janisse)"
-    ]
-  },
-  "LOC_DEU": {
-    "HEADER": "Перевод на немецкий",
-    "NAMES": [
-      "Джошуа «Joshipon» Виганд (Joshua «Joshipon» Wiegand)"
     ]
   },
   "LOC_ITA": {
@@ -156,7 +134,16 @@
       "Ascimator",
       "Екатерина «Meds» Белименко-Болджер (Kateryna «Meds» Belimenko-Bolger)",
       "Алексей «Surrealistic Ganerson» Попов (Alexey «Surrealistic Ganerson» Popov)",
-      "Александр «LiaNdrY» Мазистов (Alexandr «LiaNdrY» Mazistov)"
+      "Александр «LiaNdrY» Мазистов (Alexandr «LiaNdrY» Mazistov)",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "Shop Asset Translation:",
+      "Urist McFerrum"
+    ]
+  },
+  "LOC_SRB": {
+    "HEADER": "Перевод на сербский",
+    "NAMES": [
+      "Никола «hauzer» Вукославлевич (Nikola «hauzer» Vukosavljević)"
     ]
   },
   "LOC_TUR": {
@@ -165,10 +152,53 @@
       "Эрдем Гюрбюз (Erdem Gürbüz)"
     ]
   },
-  "LOC_ADDITIONAL": {
-    "HEADER": "Дополнительный перевод",
+  "LOC_UKR": {
+    "HEADER": "Перевод на украинский",
     "NAMES": [
-      "MoGi Group"
+      "Владислав «DarkXylese» Каштелянов (Vladyslav «DarkXylese» Kashtelyanov)"
+    ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "Перевод на китайский (упрощённый)",
+    "NAMES": [
+      "Sound of Mystery"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "Перевод на китайский (традиционный)",
+    "NAMES": []
+  },
+  "OPS": {
+    "HEADER": "Операции и метрики",
+    "NAMES": [
+      "Даниэлла Дженкинс (Danielle Jenkins)",
+      "Джейк Рабиновиц (Jake Rabinowitz)"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "Графика карт и событий",
+    "NAMES": [
+      "Анаилис Дорта (Anailis Dorta)"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "Звуковое сопровождение",
+    "NAMES": [
+      "Кларк Эбауд (Clark Aboud)"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "Особая благодарность",
+    "NAMES": [
+      "Гарри Рабиновиц (Harry Rabinowitz)",
+      "Кевин «Billy» Мэтисон (Kevin «Billy» Matheson)",
+      "Энтони Ройбал (Anthony Roybal)",
+      "Ли Бекман (Lee Beckman)",
+      "Сэм Уэлч (Sam Welch)",
+      "feedbackbot",
+      "Эван Хауэлл (Evan Howell)",
+      "Джастин Мюрес (Justin Myhres)",
+      "robojumper"
     ]
   },
   "TEST": {
@@ -200,31 +230,19 @@
       "Александр Той (Alexander Toy)",
       "Мерийн ван дер Влиет (Merijn van der Vliet)",
       "Дэвид Фон Дерау (David Von Derau)",
-      "Конор Уотсон (Conor Watson)"
-    ]
-  },
-  "SPECIAL": {
-    "HEADER": "Особая благодарность",
-    "NAMES": [
-      "Гарри Рабиновиц (Harry Rabinowitz)",
-      "Кевин «Billy» Мэтисон (Kevin «Billy» Matheson)",
-      "Энтони Ройбал (Anthony Roybal)",
-      "Ли Бекман (Lee Beckman)",
-      "Сэм Уэлч (Sam Welch)",
-      "feedbackbot",
-      "Эван Хауэлл (Evan Howell)",
-      "Джастин Мюрес (Justin Myhres)",
-      "robojumper"
+      "Конор Уотсон (Conor Watson)",
+      "Дэвид «divadus» Уиттингтон (David «divadus» Withington)"
     ]
   },
   "THANKS_MSG": {
     "HEADER": "...и спасибо ВАМ за игру!",
     "NAMES": []
   },
-  "LOC_SRB": {
-    "HEADER": "Serbian Localization",
+  "VOICE": {
+    "HEADER": "Озвучивание",
     "NAMES": [
-      "Nikola \"hauzer\" Vukosavljević"
+      "Тамара Райан (Tamara Ryan)",
+      "Майкл Швальбе (Michael Schwalbe)"
     ]
   }
 }

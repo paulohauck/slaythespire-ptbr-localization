@@ -34,7 +34,13 @@
       "Oppstigning 10",
       "Minimalist",
       "Åh Smultring!",
-      "Sapphire"
+      "Sapphire",
+      "Common Sense",
+      "Focused",
+      "Neon",
+      "Energy is Overrated",
+      "My Lucky Day",
+      "The Transient"
     ],
     "TEXT": [
       "Vinne en kamp med 1 HP igjen.",
@@ -70,7 +76,13 @@
       "Fullføre Oppstigningsmodus nivå 10.",
       "Gjennomføre spillet med en kortstokk på max 5 kort.",
       "Drepe Donu med et Mattidkort.",
-      "Beat the game with the Defect."
+      "Beat the game with the Defect.",
+      "Beat the game with a deck of only common cards.",
+      "Have 25 or more Focus during combat.",
+      "Channel 9 Plasma in a single turn.",
+      "Play 10 or more cost 0 cards in a single turn.",
+      "Win a Daily Climb.",
+      "Defeat the Transient before it fades away."
     ]
   },
   "CharStat": {

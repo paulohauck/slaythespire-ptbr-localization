@@ -1,55 +1,63 @@
 {
-  "Cursed Run": {
-    "NAME": "Verfluchter Run",
-    "DESCRIPTION": "Erhalte einen Fluch, wenn du einen Boss besiegst. Dein Startrelikt ist ersetzt durch Verfluchter Schlüssel, Nullstein-Amulett und die Du-Vu-Puppe."
-  },
-  "Heirloom": {
-    "NAME": "Erbstück",
-    "DESCRIPTION": "Beginne mit 1 seltenen Relikt."
-  },
-  "Night Terrors": {
-    "NAME": "Nachtangst",
-    "DESCRIPTION": "Ausruhen an einem Lagerfeuer heilt dich komplett, aber kostet dich 5 max. TP."
-  },
-  "Vintage": {
-    "NAME": "Antiquitäten",
-    "DESCRIPTION": "Normale Gegner hinterlassen Relikte statt Karten."
-  },
-  "Shiny": {
-    "NAME": "Glänzend",
-    "DESCRIPTION": "Das Startdeck wird ersetzt durch 1 von jeder seltenen Karte."
-  },
-  "Elite Swarm": {
-    "NAME": "Eliten-Schwarm",
-    "DESCRIPTION": "Elite schwärmen den Spire und lassen besseren Loot fallen."
-  },
   "Allstar": {
     "NAME": "Alleskönner",
     "DESCRIPTION": "Beginne mit 5 farblosen Karten."
-  },
-  "Diverse": {
-    "NAME": "Vielfalt",
-    "DESCRIPTION": "Karten sind nicht durch deinen Charakter eingeschränkt."
   },
   "Binary": {
     "NAME": "Binär",
     "DESCRIPTION": "Kartenbelohnungen enthalten nur 2 Karten."
   },
-  "Uncertain Future": {
-    "NAME": "Zukunftsgewissheit",
-    "DESCRIPTION": "Die Karte zeigt nur einen Pfad."
+  "Brewmaster": {
+    "NAME": "Braumeister",
+    "DESCRIPTION": "Beginne mit 5 Kopien von Alchemisieren und der Weißen Bestienstatue."
+  },
+  "Cursed Run": {
+    "NAME": "Verfluchter Run",
+    "DESCRIPTION": "Erhalte einen Fluch, wenn du einen Boss besiegst. Dein Startrelikt ist ersetzt durch Verfluchter Schlüssel, Nullstein-Amulett und die Du-Vu-Puppe."
+  },
+  "Diverse": {
+    "NAME": "Vielfalt",
+    "DESCRIPTION": "Karten sind nicht durch deinen Charakter eingeschränkt."
+  },
+  "Draft": {
+    "NAME": "Draft",
+    "DESCRIPTION": "Drafte die Karten für dein Startdeck."
+  },
+  "Elite Swarm": {
+    "NAME": "Eliten-Schwarm",
+    "DESCRIPTION": "Elite schwärmen den Spire und lassen besseren Loot fallen."
+  },
+  "Heirloom": {
+    "NAME": "Erbstück",
+    "DESCRIPTION": "Beginne mit 1 seltenen Relikt."
+  },
+  "Hoarder": {
+    "NAME": "Sammler",
+    "DESCRIPTION": "Immer wenn du deinem Deck eine Karte hinzufügst, erhalte 2 weitere Exemplare. Du kannst beim Händler keine Karten entfernen."
+  },
+  "Insanity": {
+    "NAME": "Wahnsinn",
+    "DESCRIPTION": "Beginne mit einem zufälligen Deck aus 50 Karten."
+  },
+  "Lethality": {
+    "NAME": "Tödlichkeit",
+    "DESCRIPTION": "Du beginnst jeden Kampf mit +3 Stärke. Alle Gegner beginnen den Kampf mit +3 Stärke."
   },
   "Midas": {
     "NAME": "Midas",
     "DESCRIPTION": "Gegner lassen 200% mehr Gold fallen, aber du kannst keine Karten am Lagerfeuer verbessern."
   },
-  "Insanity": {
-    "NAME": "Wahnsinn",
-    "DESCRIPTION": "Starte mit einem zufälligen Deck aus 50 Karten."
+  "Night Terrors": {
+    "NAME": "Nachtangst",
+    "DESCRIPTION": "Ausruhen an einem Lagerfeuer heilt dich komplett, aber kostet dich 5 max. TP."
   },
-  "Lethality": {
-    "NAME": "Tödlichkeit",
-    "DESCRIPTION": "Du beginnst jeden Kampf mit +3 Stärke. Alle Gegner beginnen den Kampf mit +3 Stärke."
+  "Shiny": {
+    "NAME": "Glänzend",
+    "DESCRIPTION": "Das Startdeck wird ersetzt durch 1 von jeder seltenen Karte."
+  },
+  "Specialized": {
+    "NAME": "Spezialisiert",
+    "DESCRIPTION": "Beginne mit 5 Kopien einer seltenen Karte."
   },
   "Terminal": {
     "NAME": "Terminiert",
@@ -59,12 +67,12 @@
     "NAME": "Zeitverzögerung",
     "DESCRIPTION": "Alle Gegner beginnen mit dem Debuff Langsam."
   },
-  "Hoarder": {
-    "NAME": "Sammler",
-    "DESCRIPTION": "Immer wenn du deinem Deck eine Karte hinzufügst, fügst du 2 weitere Kopien hinzu. Du kannst beim Händler keine Karten entfernen."
+  "Uncertain Future": {
+    "NAME": "Zukunftsgewissheit",
+    "DESCRIPTION": "Die Karte zeigt nur einen Pfad."
   },
-  "Draft": {
-    "NAME": "Draft",
-    "DESCRIPTION": "Drafte die Karten für dein Startdeck."
+  "Vintage": {
+    "NAME": "Antiquitäten",
+    "DESCRIPTION": "Normale Gegner hinterlassen Relikte statt Karten."
   }
 }

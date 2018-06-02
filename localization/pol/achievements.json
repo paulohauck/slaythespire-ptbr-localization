@@ -34,7 +34,13 @@
       "Wyniesienie, poziom 10",
       "Minimalizm",
       "Słodka ironia!",
-      "Szafir"
+      "Szafir",
+      "Common Sense",
+      "Focused",
+      "Neon",
+      "Energy is Overrated",
+      "My Lucky Day",
+      "The Transient"
     ],
     "TEXT": [
       "Wygraj walkę posiadając 1 PŻ.",
@@ -70,7 +76,13 @@
       "Ukończ grę na 10. poziomie Wyniesienia.",
       "Ukończ grę mając 5 lub mniej kart w talii.",
       "Pokonaj Donu kartą Pożarcia.",
-      "Ukończ grę jako Defekt"
+      "Ukończ grę jako Defekt",
+      "Beat the game with a deck of only common cards.",
+      "Have 25 or more Focus during combat.",
+      "Channel 9 Plasma in a single turn.",
+      "Play 10 or more cost 0 cards in a single turn.",
+      "Win a Daily Climb.",
+      "Defeat the Transient before it fades away."
     ]
   },
   "CharStat": {

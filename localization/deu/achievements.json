@@ -34,7 +34,13 @@
       "Aufstieg 10",
       "Minimalist",
       "Ooh Donut!",
-      "Saphir"
+      "Saphir",
+      "Gewohnheitstier",
+      "Fokussiert",
+      "Neon",
+      "Energie wird überbewertet",
+      "Mein Glückstag",
+      "The Transient"
     ],
     "TEXT": [
       "Gewinne einen Kampf, in dem dir nur noch 1 TP bleibt.",
@@ -70,7 +76,13 @@
       "Gewinne Aufstiegsmodus 10.",
       "Gewinne das Spiel mit einem Deck von 5 oder weniger Karten.",
       "Besiege Donu mit Verschlingen.",
-      "Schließe das Spiel mit dem Defekten ab."
+      "Schließe das Spiel mit dem Defekten ab.",
+      "Gewinne das Spiel mit einem Deck nur aus gewöhnlichen Karten.",
+      "Habe 25 oder mehr Fokus während eines Kampfes.",
+      "Erschaffe 9 Plasma in einem einzigen Zug.",
+      "Spiele 10 oder mehr Karten, die 0 kosten, in einem einzigen Zug.",
+      "Gewinne einen täglichen Aufstieg.",
+      "Defeat the Transient before it fades away."
     ]
   },
   "CharStat": {
@@ -108,7 +120,7 @@
       "#yErrungenschaften",
       "#rDer #rEiserne",
       "#gDie #gStille",
-      "#bKrähbot"
+      "#bDas #bDefekte"
     ],
     "TEXT": [
       "Zurück"

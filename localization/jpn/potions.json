@@ -75,9 +75,9 @@
   "Regen Potion": {
     "NAME": "再生ポーション",
     "DESCRIPTIONS": [
-      "ターン終了時、 #yHP #b",
-      " 回復。 #b",
-      " ターン有効）。"
+      "#y再生 #b",
+      " を得る。",
+      ""
     ]
   },
   "Strength Potion": {
@@ -100,6 +100,121 @@
     "DESCRIPTIONS": [
       "#y脱力 #b",
       " を与える。"
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "フルーツジュース",
+    "DESCRIPTIONS": [
+      "最大HP+ #b",
+      " 。"
+    ]
+  },
+  "FearPotion": {
+    "NAME": "恐怖ポーション",
+    "DESCRIPTIONS": [
+      "#y弱体 #b",
+      " を与える。"
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "スキルポーション",
+    "DESCRIPTIONS": [
+      "ランダムな「スキル」を手札に加える。このターンそのコストは #b0 。"
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "アタックポーション",
+    "DESCRIPTIONS": [
+      "ランダムな「アタック」を手札に加える。このターンそのコストは #b0 。"
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "パワーポーション",
+    "DESCRIPTIONS": [
+      "ランダムな「パワー」を手札に加える。このターンそのコストは #b0 。"
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "ステロイドポーション",
+    "DESCRIPTIONS": [
+      "#y筋力 #b",
+      " を得る。ターン終了時に #y筋力 #b",
+      " を失う。"
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "スピードポーション",
+    "DESCRIPTIONS": [
+      "#y敏捷性 #b",
+      " を得る。ターン終了時に #y敏捷性 #b",
+      " を失う。"
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "幽霊瓶",
+    "DESCRIPTIONS": [
+      "#y無形 #b",
+      " を得る。"
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "集中ポーション",
+    "DESCRIPTIONS": [
+      "#y集中力 #b",
+      " を得る。"
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "スネッコオイル",
+    "DESCRIPTIONS": [
+      "#y混乱 する。 カードを #b",
+      " 枚引く。",
+      " 枚引く。"
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "液体ブロンズ",
+    "DESCRIPTIONS": [
+      "#yトゲ #b",
+      " を得る。"
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "賭博師の醸造酒",
+    "DESCRIPTIONS": [
+      "好きな枚数のカードを捨て、同じ枚数のカードを引く。"
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "鉄のエッセンス",
+    "DESCRIPTIONS": [
+      "#yプレートアーマー #b",
+      " を得る。"
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "ブラッドポーション",
+    "DESCRIPTIONS": [
+      "最大HPの #b",
+      "% を回復する。"
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "瓶詰の妖精",
+    "DESCRIPTIONS": [
+      "戦闘不能時、 最大HPの #b10% で復活し、このポーションを失う。"
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "煙玉",
+    "DESCRIPTIONS": [
+      "ボス以外の戦闘から逃走する。報酬は得られない。"
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "エントロピー醸造",
+    "DESCRIPTIONS": [
+      "すべての空きポーションスロットをランダムなポーションで満たす"
     ]
   }
 }

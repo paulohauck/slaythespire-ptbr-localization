@@ -797,7 +797,8 @@
     "NAME": "IA Creativa",
     "DESCRIPTIONS": [
       "Al comienzo de tu turno, añade #b",
-      " cartas de Poder aleatorias a tu mano."
+      " cartas de Poder aleatorias a tu mano.",
+      " random Power cards into your hand."
     ]
   },
   "No Attack": {
@@ -891,6 +892,44 @@
       "#yLightning and #yDark Orbs target this enemy.",
       " turns.",
       "#yLightning and #yDark Orbs target this enemy this turn."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Dexterity Down",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yDexterity."
+    ]
+  },
+  "Electro": {
+    "NAME": "Electro",
+    "DESCRIPTIONS": [
+      "#yLightning hits ALL enemies.",
+      " NL If there is only #b1 enemy, #yLightning hits #b",
+      " times."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "Retain your hand this turn.",
+      "Retain your hand for #b",
+      " turns."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Shifting",
+    "DESCRIPTIONS": [
+      "Whenever ",
+      " takes damage, it loses that much #yStrength until the end of the turn."
+    ]
+  },
+  "Fading": {
+    "NAME": "Fading",
+    "DESCRIPTIONS": [
+      "Dies in #b",
+      " turns.",
+      "Dies this turn."
     ]
   }
 }

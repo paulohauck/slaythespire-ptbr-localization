@@ -362,7 +362,7 @@
     ]
   },
   "Flex": {
-    "NAME": "Vantardise",
+    "NAME": "Perte de Force",
     "DESCRIPTIONS": [
       "À la fin de votre tour, vous perdez #b",
       " de #yForce."
@@ -476,9 +476,9 @@
   "Regeneration": {
     "NAME": "Régénération",
     "DESCRIPTIONS": [
-      "Vous récupérez #b",
-      " #yPV à la fin de votre tour pendant #b",
-      " tours."
+      "À la fin du tour, récupérez #b",
+      " #yPV et perdez 1 de Régénération.",
+      ""
     ]
   },
   "Life Link": {
@@ -503,7 +503,7 @@
     ]
   },
   "Retain Hand": {
-    "NAME": "Conserver la main",
+    "NAME": "Conserver votre main",
     "DESCRIPTIONS": [
       "À la fin de votre tour, vous ne défaussez pas votre main pendant #b",
       " tours.",
@@ -651,7 +651,7 @@
     "NAME": "Distorsion temporelle",
     "DESCRIPTIONS": [
       "Lorsque vous jouez #b",
-      " cartes, votre tour prend fin et le Mange-époque gagne #b",
+      " cartes, votre tour prend fin et le Dévor'Heures gagne #b",
       " de #yForce."
     ]
   },
@@ -760,7 +760,8 @@
     "NAME": "IA créative",
     "DESCRIPTIONS": [
       "Au début de votre tour, ajoutez #b",
-      " Pouvoir(s) aléatoire(s) à votre main."
+      " Pouvoir aléatoire à votre main.",
+      " Pouvoirs aléatoires à votre main."
     ]
   },
   "Prime": {
@@ -888,9 +889,47 @@
   "Lockon": {
     "NAME": "Verrouiller",
     "DESCRIPTIONS": [
-      "Les Orbes #yKérauniques et #yObscurs ciblent cet ennemi.",
-      " turns.",
-      "#yLightning and #yDark Orbs target this enemy this turn."
+      "Les Orbes #yKérauniques et #yObscurs ciblent cet ennemi pendant les #b",
+      " prochains tours.",
+      "Les Orbes #yKérauniques et #yObscurs ciblent cet ennemi ce tour."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Perte de Dextérité",
+    "DESCRIPTIONS": [
+      "A la fin de votre tour, perdez #b",
+      " de #yDextérité."
+    ]
+  },
+  "Electro": {
+    "NAME": "Électro",
+    "DESCRIPTIONS": [
+      "Les Orbes #yKérauniques frappent TOUS les ennemis.",
+      "",
+      ""
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "Concervez votre main ce tour.",
+      "Concervez votre main pendant #b",
+      " tours."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Instable",
+    "DESCRIPTIONS": [
+      "Quand ",
+      " subit des dégâts, il perd autant de #yForce jusqu'à la fin de son tour."
+    ]
+  },
+  "Fading": {
+    "NAME": "Éphémère",
+    "DESCRIPTIONS": [
+      "Meurt dans #b",
+      " tours.",
+      "Meurt ce tour."
     ]
   }
 }

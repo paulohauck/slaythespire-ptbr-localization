@@ -1,5 +1,370 @@
 Updates for Translators!
 
+05/31/2018
+credits.json
+	"LOC_RUS"
+		"Shop Asset Translation:",
+achievements.json
+	"The Transient"
+	"Defeat the Transient before it fades away."
+relics.json
+	"Runic Pyramid"
+		"At the end of your turn, you no longer discard your hand. NL Draw #b",
+		" less card each turn."
+		->
+		"At the end of your turn, you no longer discard your hand.",
+		""
+		
+----------------------------------
+
+05/30/2018 #2:
+ui.json
+	"InputSettingsScreen"
+		"Confirm" -> "Confirm Card"
+		"Master Deck" -> "View Deck"
+		"Up",
+		"Tab Right"
+		"Down",
+		"Select",
+		"End Turn / Info",
+		"Tab Left",
+
+----------------------------------
+
+05/30/2018:
+cards.json
+	"Electrodynamics" (Reworked again!)
+ 		"DESCRIPTION": "Lightning now hits ALL enemies. NL Channel !M! Lightning.",
+		"UPGRADE_DESCRIPTION": ""
+powers.json
+	"Electro" (Reworked again!)
+		"#yLightning hits ALL enemies.",
+		"",
+		""
+
+----------------------------------
+
+05/29/2018:
+cards.json
+	"Electrodynamics"
+		"DESCRIPTION": "Evoked Lightning strikes twice.",
+		"UPGRADE_DESCRIPTION": "Evoked Lightning strikes !M! additional times."
+powers.json
+	  "Evoked #yLightning strikes twice.",
+      "Evoked #yLightning strikes #b",
+      " additional times."
+achievements.json
+	"My Lucky Day"
+	"Win a Daily Climb."
+ui.json
+	"CardRewardScreen"
+		"View Upgrade"
+
+----------------------------------
+
+05/28/2018:
+	achievements.json (no change, just issue reported)
+    	VERIFY: "Complete Ascension Level 10.", <- In case it is translated to something like reach Ascension level 10.
+    powers.json
+    	"Creative AI"
+    		"random Power cards into your hand."
+    events.json
+    	"Sensory Stone"
+    		"#b~UNKNOWN.~ NL NL Not yet implemented." ->
+			"#b~CONFUSION.~ NL NL #y[OBJECTIVE] #gBALANCE #gmust #gbe #gENFORCED NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[WARNING] #rLarge #robject #rapproaching NL NL ~\"I...~ ~..am~ ~....Neow..\"~"
+    relics.json
+		"Bronze Scales"
+			"Whenever you take damage, deal #b", ->
+			"At the start of each combat, gain #b",
+			" damage back." ->
+			" #yThorns."
+
+----------------------------------
+
+05/24/2018v2:
+ui.json
+	"InputSettingsScreen"
+		"Drop Card" -> "Release Card"
+
+----------------------------------
+
+05/24/2018:
+tutorials.json
+	"Option Tip" (OSX -> macOS)
+		"Controller support incomplete for this screen." (This is used when a screen doesn't have controller support yet)
+		"Slay the Spire runs the fastest when running in true fullscreen. Recommended for OSX as the Dock and Menubar are hidden. NL NOTE: On PC, alt-tabbing back to Slay the Spire may not work with fullscreen.", ->
+		"Slay the Spire runs the fastest when running in true fullscreen. Recommended for macOS as the Dock and Menubar are hidden. NL NOTE: On PC, alt-tabbing back to Slay the Spire may not work with fullscreen.",
+ui.json
+	"AbstractCreature"
+		"Relics" (This is seen under relics in the top bar to let players know they can view relics via LB)
+achievements.json (These aren't in-game yet)
+	"AchievementGrid"
+		"Focused"
+		"Neon"
+		"Energy is Overrated"
+	"TEXT"
+		"Have 25 or more Focus during combat.",
+		"Channel 9 Plasma in a single turn.",
+		"Play 10 or more cost 0 cards in a single turn."
+ui.json
+	"CreditsScreen"
+		"to exit" (NOTE: There will be a button image on the left of this text)
+	"EarlyAccessPopup"
+		"Continue" (NOTE: There will be a button image on the left of this text)
+	"MainMenuScreen"
+		"to edit" (NOTE: There will be a button image on the left of this text)
+
+----------------------------------
+
+05/23/2018:
+cards.json
+	"Capacitor"
+		"DESCRIPTION": "Gain !M! Orb slot.", ->
+		"DESCRIPTION": "Gain !M! Orb slots.",
+
+----------------------------------
+
+05/22/2018:
+cards.json
+	"Compile Driver"
+	"Fission"
+credits.json
+	"LOC_UKR"
+
+----------------------------------
+
+05/21/2018:
+monsters.json
+	"Transient"
+powers.json
+	"Fading"
+	"Shifting"
+credits.json
+	"TEST"
+cards.json
+	"Core Surge"
+
+----------------------------------
+
+05/18/2018:
+ui.json
+	"RunHistoryPathNodes"
+		"#yPuchased:"
+
+----------------------------------
+
+05/17/2018:
+relics.json
+	"Lee's Waffle"
+		"Raise your Max HP by #b", ->
+		"Upon pick up, raise your Max HP by #b",
+	"Mango"
+		"Raise your Max HP by #b"
+		"Upon pick up, raise your Max HP by #b"
+	"Pear"
+		"Raise your Max HP by #b"
+		"Upon pick up, raise your Max HP by #b"
+	"Straberry"
+		"Raise your Max HP by #b"
+		"Upon pick up, raise your Max HP by #b"
+	"Boot"
+		An improvement was made but there is no change in relics.json
+		"Whenever you would deal 5 or less unblocked..." ->
+		"Whenever you would deal 4 or less unblocked..."
+
+----------------------------------
+
+05/16/2018:
+potions.json
+    "SneckoOil"
+        "card." (For Ascension)
+relics.json
+    "Potion Belt"
+        "Upon pick up, gain #b1 Potion slot." ->
+        "Upon pick up, gain #b2 Potion slots."
+    "Cauldron"
+        "When obtained, brews #b5 random potions.", ->
+        "Upon pick up, brews #b5 random potions.",
+    "Old Coin"
+        "Gain #b300 #yGold." ->
+        "Upon pick up, gain #b300 #yGold."
+    "Black Star"
+        "#yElites now drop #b2 #yRelics when defeated." ->
+        "#yElites drop an additional relic when defeated."
+ui.json
+    "RunHistoryPathNodes"
+        "#bRested",
+        "#bUpgraded %s",
+        "#bRemoved %s",
+        "#bDug",
+        "#bLifted %s/%s"
+
+----------------------------------
+
+05/15/2018:
+relics.json
+	"Boot"
+	"Prayer Wheel"
+achievements.json
+	"Common Sense"
+
+----------------------------------
+
+05/14/2018:
+potions.json
+	"Regen Potion"
+powers.json
+	"Regeneration"
+		NAME and DESCRIPTION
+	"Equilibrium"
+ui.json
+	"RunHistoryPathNodes"
+cards.json
+	"Undo"
+		Is now a card called Equilibrium
+	"Hologram"
+		Minor rework
+
+----------------------------------
+
+05/11/2018:
+ui.json
+	"RunHistoryPathNodes"
+		"Picked %s" -> "Picked:
+cards.json
+	"Electrodynamics"
+	"Steam"
+		"DESCRIPTION": "Gain !B! Block. This card's Block is lowered by 2 this combat." ->
+		"DESCRIPTION": "Gain !B! Block. This card's Block is lowered by 1 this combat."
+		"Steam" ->
+		"Steam Barrier"
+	"Loop"
+		"DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb." ->
+		"DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb.",
+		"UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
+powers.json
+	"Electro"
+	"Loop"
+		"At the start of your turn, use the passive ability of your next #b",
+		" Orbs." ->
+		"At the start of your turn, use the passive ability of your next Orb #b",
+		" times."
+relics.json
+	"Potion Belt"
+
+----------------------------------
+
+05/10/2018:
+ui.json
+	"LanguageDropdown"
+		"Catalan"
+credits.json
+	"LOC_CAT"
+	"LOC_UKR"
+	"LOC_DEU"
+
+----------------------------------
+
+05/09/2018:
+cards.json
+	"Glass Knife"
+		"DESCRIPTION": "Deal !D! damage twice. Glass Knife's damage is lowered by 2 this combat." ->
+		"DESCRIPTION": "Deal !D! damage twice. This card's damage is lowered by 2 this combat."
+	"Steam"
+		"DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat." ->
+		"DESCRIPTION": "Gain !B! Block. This card's Block is lowered by 2 this combat."
+	"Steam Power"
+		"Quick Search" -> "Overclock"
+	"Seek" (Now has plurality!)
+		"DESCRIPTION": "Choose !M! card from your draw pile and place it into your hand. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+	"FTL" (Updated to help with context)
+		"EXTENDED_DESCRIPTION"
+	"Finisher" (Updated to reduce wordiness)
+		"EXTENDED_DESCRIPTION"
+
+----------------------------------
+
+05/08/2018:
+run_mods.json
+"Brewmaster"
+    "DESCRIPTION": "Start with 5 copies of Alchemize, Toy Ornithopter and White Beast Statue."
+    "DESCRIPTION": "Start with 5 copies of Alchemize and the White Beast Statue."
+potions.json
+	"Fairy Potion" -> "Fairy in a Bottle"
+	"AttackPotion"
+		"Add a random Attack card to your hand, it costs #b0."
+		"Add a random Attack card to your hand, it costs #b0 this turn."
+	"SkillPotion"
+		"Add a random Skill card to your hand, it costs #b0."
+		"Add a random Skill card to your hand, it costs #b0 this turn."
+	"PowerPotion"
+		"Add a random Power card to your hand, it costs #b0."
+		"Add a random Power card to your hand, it costs #b0 this turn."
+	"SneckoOil"
+		BEFORE:
+		"Draw #b",
+		" cards. Become #yConfused."
+		AFTER:
+		" Become #yConfused. Draw #b",
+		" cards."
+cards.json
+	"Chill"
+		"UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost per enemy. NL Exhaust."
+		"UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost for each enemy in combat. NL Exhaust."
+	"Wraith Form v2"
+		"DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity." ->
+		"DESCRIPTION": "Gain !M! Intangible. NL At the end of each turn, lose 1 Dexterity."
+	"Steam"
+	"Steam Power"
+		"Steam Power" ->
+		"Quick Search"
+
+----------------------------------
+
+05/07/2018v2:
+potions.json
+	"EntropicBrew"
+	"SneckoOil"
+		(fixed typo in description)
+		"cards. Become #yConfused." ->
+		" cards. Become #yConfused."
+
+----------------------------------
+
+05/07/2018:
+run_mods.json
+	"Brewmaster"
+	"Specialized"
+potions.json
+	"AttackPotion"
+	"BloodPotion"
+	"EssenceOfSteel"
+	"FairyPotion"
+	"FearPotion"
+	"FocusPotion"
+	"Fruit Juice"
+	"GamblersBrew"
+	"GhostInAJar"
+	"LiquidBronze"
+	"PowerPotion"
+	"SkillPotion"
+	"SmokeBomb"
+	"SneckoOil"
+	"SpeedPotion"
+	"SteroidPotion"
+powers.json
+	"DexLoss"
+keywords.json
+	"Thorns"
+ui.json
+	"AbstractRoom"
+		"Fled..."
+	"GamblingChipAction"
+		"Replace"
+
+----------------------------------
+
 05/02/2018:
 cards.json
 	"Lockon"

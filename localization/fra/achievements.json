@@ -24,7 +24,7 @@
       "Le Champion",
       "Le Corbeau",
       "Les Formes",
-      "Le Mange-époque",
+      "Le Dévor'Heures",
       "Rubis",
       "Émeraude",
       "Caché",
@@ -34,7 +34,13 @@
       "Ascension 10",
       "Minimaliste",
       "Miam, un Donut !",
-      "Sapphire"
+      "Saphir",
+      "Sens commun",
+      "Concentré",
+      "Néon",
+      "L'Énergie est surcotée",
+      "Jour de chance",
+      "The Transient"
     ],
     "TEXT": [
       "Gagnez un combat avec 1 PV restant.",
@@ -60,7 +66,7 @@
       "Vous avez vaincu le Champion.",
       "Vous avez vaincu l'Éveillé.",
       "Vous avez vaincu Donu & Déca.",
-      "Vous avez vaincu le Mange-époque.",
+      "Vous avez vaincu le Dévor'Heures.",
       "Finissez le jeu avec le Soldat de fer.",
       "Finissez le jeu avec la Silencieuse.",
       "Les détails concernant ce succès seront révélés une fois celui-ci débloqué.",
@@ -70,7 +76,13 @@
       "Finissez l'Ascension de niveau 10.",
       "Finissez le jeu avec un deck contenant 5 cartes ou moins.",
       "Finissez Donu avec la carte Appétit.",
-      "Finissez le jeu avec le Défectueux."
+      "Finissez le jeu avec le Défectueux.",
+      "Finissez le jeu avec un deck constitué uniquement de cartes Communes.",
+      "Ayez 25 de Concentration ou plus pendant un combat.",
+      "Canalisez 9 Orbes Plasmiques en un seul tour.",
+      "Jouez au moins 10 cartes coûtant 0 en un seul tour.",
+      "Gagnez un Défi Quotidien.",
+      "Defeat the Transient before it fades away."
     ]
   },
   "CharStat": {

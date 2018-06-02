@@ -74,7 +74,11 @@
   "LOC_DEU": {
     "HEADER": "Traducción Alemán",
     "NAMES": [
-      "Joshua \"Joshipon\" Wiegand "
+      "Joshua \"Joshipon\" Wiegand ",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly"
     ]
   },
   "LOC_ITA": {
@@ -156,7 +160,10 @@
       "Ascimator",
       "Kateryna \"Meds\" Belimenko-Bolger",
       "Alexey \"Surrealistic Ganerson\" Popov",
-      "Alexandr \"LiaNdrY\" Mazistov"
+      "Alexandr \"LiaNdrY\" Mazistov",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "Shop Asset Translation:",
+      "Urist McFerrum"
     ]
   },
   "LOC_TUR": {
@@ -200,7 +207,8 @@
       "Alexander Toy",
       "Merijn van der Vliet",
       "David Von Derau",
-      "Conor Watson"
+      "Conor Watson",
+      "David \"divadus\" Withington"
     ]
   },
   "SPECIAL": {
@@ -226,5 +234,15 @@
     "NAMES": [
       "Nikola \"hauzer\" Vukosavljević"
     ]
+  },
+  "LOC_UKR": {
+    "HEADER": "Ukrainian Localization",
+    "NAMES": [
+      "Vladyslav \"DarkXylese\" Kashtelyanov"
+    ]
+  },
+  "LOC_CAT": {
+    "HEADER": "Catalan Localization",
+    "NAMES": []
   }
 }

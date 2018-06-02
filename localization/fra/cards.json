@@ -38,7 +38,7 @@
   },
   "Glass Knife": {
     "NAME": "Couteau de verre",
-    "DESCRIPTION": "Infligez !D! dégât(s) 2 fois. La carte inflige -2 dégâts pour ce combat."
+    "DESCRIPTION": "Infligez !D! dégât(s) 2 fois. Couteau de verre inflige 2 dégâts de moins pour ce combat."
   },
   "Cloak And Dagger": {
     "NAME": "Cape et épée",
@@ -129,8 +129,8 @@
   },
   "Tactician": {
     "NAME": "Stratège",
-    "DESCRIPTION": "Injouable. NL Si la carte est défaussée, gagnez [G] .",
-    "UPGRADE_DESCRIPTION": "Injouable. NL Si la carte est défaussée, gagnez [G] [G] .",
+    "DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, gagnez [G] .",
+    "UPGRADE_DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, gagnez [G] [G] .",
     "EXTENDED_DESCRIPTION": [
       "Je ne peux pas jouer cette carte."
     ]
@@ -423,9 +423,9 @@
     "NAME": "Coup de grâce",
     "DESCRIPTION": "Infligez !D! dégât(s) par carte Attaque jouée ce tour.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Vous avez joué ",
-      " carte Attaque.)",
-      " cartes Attaque.)"
+      " NL (",
+      " carte Attaque jouée.)",
+      " cartes Attaque jouées.)"
     ]
   },
   "Dark Embrace": {
@@ -560,8 +560,8 @@
   },
   "Reflex": {
     "NAME": "Réflexe",
-    "DESCRIPTION": "Injouable. NL Si la carte est défaussée, piochez !M! carte.",
-    "UPGRADE_DESCRIPTION": "Injouable. NL Si la carte est défaussée, piochez !M! cartes.",
+    "DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, piochez !M! carte.",
+    "UPGRADE_DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, piochez !M! cartes.",
     "EXTENDED_DESCRIPTION": [
       "Je ne peux pas jouer cette carte."
     ]
@@ -606,7 +606,7 @@
   "Corpse Explosion": {
     "NAME": "Explosion morbide",
     "DESCRIPTION": "L'ennemi perd tout le Poison. Infligez le double de ce total à TOUS les ennemis.",
-    "UPGRADE_DESCRIPTION": "L'ennemi perd tout le Poison. Infligez le triple de ce total à TOUS les ennemis.",
+    "UPGRADE_DESCRIPTION": "L'ennemi perd tout le Poison. Infligez le NL triple de ce total à TOUS les ennemis.",
     "EXTENDED_DESCRIPTION": [
       "Cet ennemi n'est pas Empoisonné."
     ]
@@ -870,7 +870,7 @@
   },
   "Void": {
     "NAME": "Néant",
-    "DESCRIPTION": "Injouable. NL Lorsce que vous piochez cette carte, perdez 1 Énergie. NL Éthérée."
+    "DESCRIPTION": "Injouable. NL Lorsque vous piochez cette carte, perdez 1 Énergie. NL Éthérée."
   },
   "AscendersBane": {
     "NAME": "Fléau du grimpeur",
@@ -878,7 +878,7 @@
   },
   "Wraith Form v2": {
     "NAME": "Forme spectrale",
-    "DESCRIPTION": "Gagnez !M! Intangible. NL À la fin de votre tour, perdez 1 de Dextérité."
+    "DESCRIPTION": "Gagnez !M! Intangible. NL À la fin de chaque tour, perdez 1 de Dextérité."
   },
   "Genetic Algorithm": {
     "NAME": "Algorithme génétique",
@@ -912,8 +912,8 @@
   },
   "Hologram": {
     "NAME": "Hologramme",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Retournez une carte aléatoire de votre défausse à votre main.",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Retournez une carte de votre défausse à votre main."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une carte de votre défausse à votre main.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une carte de votre défausse à votre main."
   },
   "Conserve Battery": {
     "NAME": "Économie d'énergie",
@@ -921,11 +921,17 @@
   },
   "FTL": {
     "NAME": "FTL",
-    "DESCRIPTION": "Infligez !D! dégât(s). Si vous avez joué moins de !M! cartes ce tour, piochez 1 carte."
+    "DESCRIPTION": "Infligez !D! dégât(s). Si vous avez joué moins de !M! cartes ce tour, piochez 1 carte.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (",
+      " carte jouée.)",
+      " cartes jouées.)"
+    ]
   },
   "Seek": {
     "NAME": "Recherche",
-    "DESCRIPTION": "Choisissez !M! cartes de votre pioche et ajoutez-les à votre main. NL Épuisement."
+    "DESCRIPTION": "Choisissez !M! carte de votre pioche et ajoutez-la à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Choisissez !M! cartes de votre pioche et ajoutez-les à votre main. NL Épuisement."
   },
   "Chaos": {
     "NAME": "Chaos",
@@ -936,15 +942,15 @@
     "NAME": "Coup de tonnerre",
     "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire pour chaque Orbe Kéraunique Canalisé ce combat.",
     "EXTENDED_DESCRIPTION": [
-      " (!M! Orbes Kérauniques Canalisés.)"
+      " ( !M! Orbes Kérauniques Canalisés.)"
     ]
   },
   "Undo": {
-    "NAME": "Annuler",
-    "DESCRIPTION": "Rétablissez vos PV à ce qu'ils étaient au tour précédent. NL Épuisement."
+    "NAME": "Equilibrium",
+    "DESCRIPTION": "Ganez !B! d'Armure. NL Conservez toute votre main ce tour."
   },
   "Beam Cell": {
-    "NAME": "Faisceau Cellulaire",
+    "NAME": "Pile à rayon",
     "DESCRIPTION": "Infligez !D! dégât(s) et appliquez !M! de Vulnérabilité."
   },
   "Impulse": {
@@ -970,7 +976,7 @@
     "DESCRIPTION": "Infligez !D! dégât(s). Si l'ennemi compte attaquer, appliquez !M! de Faiblesse."
   },
   "Steam Power": {
-    "NAME": "Machine à vapeur",
+    "NAME": "Overclock",
     "DESCRIPTION": "Piochez !M! cartes. NL Ajoutez une Brûlure à votre défausse."
   },
   "Creative AI": {
@@ -979,8 +985,8 @@
   },
   "Stack": {
     "NAME": "Pile",
-    "DESCRIPTION": "Gagnez autant d'Armure qu'il y a de cartes de votre défausse.",
-    "UPGRADE_DESCRIPTION": "Gagnez autant d'Armure qu'il y de cartes de votre défausse + 3.",
+    "DESCRIPTION": "Gagnez autant d'Armure qu'il y a de cartes dans votre défausse.",
+    "UPGRADE_DESCRIPTION": "Gagnez autant d'Armure qu'il y a de cartes dans votre défausse + 3.",
     "EXTENDED_DESCRIPTION": [
       " NL (Gagnez !B! d'Armure.)"
     ]
@@ -995,7 +1001,7 @@
     "DESCRIPTION": "Mélangez toutes vos cartes dans votre pioche, puis piochez !M! cartes. NL Épuisement."
   },
   "Redo": {
-    "NAME": "Rétablir",
+    "NAME": "Récursivité",
     "DESCRIPTION": "Activez votre prochain Orbe. NL Canalisez l'Orbe que vous venez d'Activer."
   },
   "Prime": {
@@ -1012,7 +1018,8 @@
   },
   "Loop": {
     "NAME": "Boucle",
-    "DESCRIPTION": "Au début de chaque tour, utilisez la capacité passive de votre prochain Orbe."
+    "DESCRIPTION": "Au début de chaque tour, utilisez la capacité passive de votre prochain Orbe.",
+    "UPGRADE_DESCRIPTION": "Au début de chaque tour, utilisez la capacité passive de votre prochain Orbe !M! fois."
   },
   "Glacier": {
     "NAME": "Glacier",
@@ -1029,12 +1036,12 @@
   },
   "Nova": {
     "NAME": "Nova",
-    "DESCRIPTION": "Infligez !M! dégât(s) à TOUS les ennemis pour chaque Pouvoir joué ce combat.",
+    "DESCRIPTION": "Infligez autant de dégâts à TOUS les ennemis que !M! fois le nombre de Pouvoirs joués ce combat.",
     "EXTENDED_DESCRIPTION": [
       " NL Épuisement.",
       " NL (Infligez !D! dégât(s).)"
     ],
-    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to four times the number of Powers played this combat."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Turbo": {
     "NAME": "TURBO",
@@ -1153,8 +1160,8 @@
   },
   "Blizzard": {
     "NAME": "Blizzard",
-    "DESCRIPTION": "Infligez autant de dégâts que 2 fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
-    "UPGRADE_DESCRIPTION": "Infligez autant de dégâts que !M! fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
+    "DESCRIPTION": "Infligez autant de dégâts que !M! fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " ( !M! Orbes Canalisés.)",
       "."
@@ -1251,14 +1258,31 @@
   },
   "Lockon": {
     "NAME": "Verrouiller",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Pendant le tour, les Orbes Kérauniques et Obscurs ciblent cet ennemi."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Pendant les !M! prochains tours, les Orbes Kérauniques et Obscurs ciblent cet ennemi."
   },
   "Reprieve": {
     "NAME": "Répit",
     "DESCRIPTION": "Si un ennemi ne compte pas attaquer, gagnez !M! de Concentration."
   },
   "BootSequence": {
-    "NAME": "Boot Sequence",
-    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
+    "NAME": "Démarrage",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Inné. NL Épuisement."
+  },
+  "Steam": {
+    "NAME": "Barrière de vapeur",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL L'Armure de cette carte est diminuée de 1 pour le combat."
+  },
+  "Electrodynamics": {
+    "NAME": "Électrodynamique",
+    "DESCRIPTION": "Les Orbes Kérauniques frappent TOUS les ennemis. Canalisez !M! Orbes Kérauniques.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Compile Driver": {
+    "NAME": "Compilateur de pilote",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! cartes pour chaque Orbe différent que vous avez."
+  },
+  "Core Surge": {
+    "NAME": "Surcharge du noyau",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! d'Artefact. NL Épuisement."
   }
 }
